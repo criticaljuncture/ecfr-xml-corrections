@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/29/2017/01/2017-01-27.xml	2017-09-21 16:24:18.000000000 -0400
++++ tmp/title_version_348_preprocessed.xml	2017-09-21 16:25:39.000000000 -0400
+@@ -32434,7 +32434,7 @@
+
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>November 21, 2017
++<AMDDATE>November 21, 2016
+ </AMDDATE>
+
+ <DIV1 N="2" TYPE="TITLE">
