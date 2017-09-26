@@ -1,0 +1,6 @@
+description: Part 80 was split into a new volume around 2016-07-01 but Subchapter C that it is a part of was not carried over in the XML. This adds Subchapter C back.
+
+patches:
+  '001':
+    start_date: '2016-07-01'
+    end_date: '2017-09-22'
