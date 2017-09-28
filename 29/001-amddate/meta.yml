@@ -1,4 +1,6 @@
 description: Amendment date was accidentally changed to a future year
+tags: 'structural, transcription-error'
+status: 'approved'
 
 patches:
   '001':
