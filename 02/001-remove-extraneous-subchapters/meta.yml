@@ -1,0 +1,8 @@
+description: XML contains SUBCHAP tags that have no identifier and wrap no content.
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2100-01-01'
