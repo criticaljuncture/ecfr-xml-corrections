@@ -1,0 +1,8 @@
+description: Part 62, Subpart BBB, Section 62.13110 has a duplicate section tag with no content
+tags: 'structural, transcription-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2100-01-01'

@@ -1,0 +1,15 @@
+--- data/titles/source/xml/40/2017/01/2017-01-09.xml	2017-10-04 13:27:46.000000000 -0700
++++ tmp/title_version_258.xml	2017-10-04 16:04:25.000000000 -0700
+@@ -305304,12 +305304,6 @@
+ <DIV7 N="912" TYPE="SUBJGRP">
+ <HEAD>Air Emissions From Other Solid Waste Incineration (OSWI) Units Constructed on or Before December 16, 2005</HEAD>
+
+-
+-<DIV8 N="§ 62.13110" TYPE="SECTION">
+-<HEAD>§ 62.13110   Identifcation of plan-negative declaration.</HEAD>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 62.13110" TYPE="SECTION">
+ <HEAD>§ 62.13110   Identifcation of plan-negative declaration.</HEAD>
+ <P>Letter from Commonwealth of Puerto Rico, Office of Environmental Quality Board, September 25, 2006 to Alan Steinberg Regional Administrator EPA Region 2 certifying that there are no existing OSWI units in the Commonwealth of Puerto Rico subject to 40 CFR part 60, subpart FFFF.
