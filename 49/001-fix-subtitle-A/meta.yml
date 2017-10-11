@@ -1,0 +1,8 @@
+description: Subtitle A was errantly exported as a DIV3 CHAPTER
+tags: ['structural']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2100-01-01'
