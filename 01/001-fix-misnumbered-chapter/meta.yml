@@ -1,0 +1,8 @@
+description: XML contains two chapter IV nodes, the second should be VI.
+tags: 'structural'
+status: 'approved'
+
+patches:
+  '001':
+    start_date: '2017-09-22'
+    end_date: '2017-10-19'
