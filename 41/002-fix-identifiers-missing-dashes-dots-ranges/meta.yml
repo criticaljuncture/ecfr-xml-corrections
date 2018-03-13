@@ -1,4 +1,4 @@
-description: Title 41 has a number of identifiers that are incomplete. This patch updates the identifiers to match the head identifier (often including a dash or dot)
+description: Title 41 has a number of identifiers that are incomplete. This patch updates the identifiers to match the head identifier (often including a dash or dot) as well as correct reserved section ranges.
 tags: 'content-error'
 status: 'needs-review'
 
@@ -8,4 +8,16 @@ patches:
     end_date: '2017-10-30'
   '002':
     start_date: '2017-10-31'
+    end_date: '2017-10-31'
+  '003':
+    start_date: '2017-11-01'
+    end_date: '2017-11-01'
+  '004':
+    start_date: '2017-11-02'
+    end_date: '2018-01-06'
+  '005':
+    start_date: '2018-01-07'
+    end_date: '2018-01-12'
+  '006':
+    start_date: '2018-01-13'
     end_date: '2100-01-01'
