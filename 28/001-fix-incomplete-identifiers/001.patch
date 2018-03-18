@@ -1,0 +1,20 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/28/2017/01/2017-01-03.xml	2018-03-18 02:31:02.000000000 -0700
++++ tmp/title_version_28_preprocessed.xml	2018-03-18 02:32:08.000000000 -0700
+@@ -475,7 +475,7 @@
+ </DIV6>
+ 
+ 
+-<DIV6 N="D" TYPE="SUBPART">
++<DIV6 N="D-1" TYPE="SUBPART">
+ <HEAD>Subpart D-1 - Executive Office for U.S. Attorneys</HEAD>
+ 
+ 
+@@ -653,7 +653,7 @@
+ </DIV6>
+ 
+ 
+-<DIV6 N="E" TYPE="SUBPART">
++<DIV6 N="E-1" TYPE="SUBPART">
+ <HEAD>Subpart E-1 - Office of International Programs</HEAD>
+ 
+ 
