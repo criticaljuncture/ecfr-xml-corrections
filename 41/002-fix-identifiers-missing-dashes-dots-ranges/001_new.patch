@@ -1,14 +1,5 @@
---- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/41/2018/01/2018-01-13.xml	2018-03-13 15:25:40.000000000 -0700
-+++ tmp/title_version_506_preprocessed.xml	2018-03-13 15:44:31.000000000 -0700
-@@ -89,7 +89,7 @@
- 
- <HEAD> CHAPTER 50 - PUBLIC CONTRACTS, DEPARTMENT OF LABOR</HEAD>
- 
--<DIV5 N="50-1" TYPE="PART">
-+<DIV5 N="50-1-50-200" TYPE="PART">
- <HEAD>PARTS 50-1 - 50-200 [RESERVED]
- 
- 
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/41/2017/01/2017-01-03.xml	2018-03-17 13:38:47.000000000 -0700
++++ tmp/title_version_498_preprocessed.xml	2018-03-17 13:48:28.000000000 -0700
 @@ -97,7 +97,7 @@
  </DIV5>
  
@@ -63,15 +54,6 @@
  <HEAD>PART 50-210 - STATEMENTS OF GENERAL POLICY AND INTERPRETATION NOT DIRECTLY RELATED TO REGULATIONS
  </HEAD>
  <AUTH>
-@@ -1916,7 +1916,7 @@
- </DIV5>
- 
- 
--<DIV5 N="50-211" TYPE="PART">
-+<DIV5 N="50-211-50-999" TYPE="PART">
- <HEAD>PARTS 50-211 - 50-999 [RESERVED]
- 
- 
 @@ -1930,7 +1930,7 @@
  
  <HEAD> CHAPTER 51 - COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED</HEAD>
@@ -198,14 +180,7 @@
  <HEAD>Subpart 51-9.5 - Report on New Systems and Alteration of Existing Systems</HEAD>
  
  
-@@ -3743,13 +3743,13 @@
- </DIV6>
- 
- 
--<DIV6 N="51" TYPE="SUBPART">
-+<DIV6 N="51-9.6" TYPE="SUBPART">
- <HEAD>Subpart 51-9.6 - Exemptions [Reserved]</HEAD>
- 
+@@ -3749,7 +3749,7 @@
  </DIV6>
  
  
@@ -223,25 +198,7 @@
  <HEAD>PART 51-10 - ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED
  </HEAD>
  <AUTH>
-@@ -4119,7 +4119,7 @@
- </DIV5>
- 
- 
--<DIV5 N="51" TYPE="PART">
-+<DIV5 N="51-11" TYPE="PART">
- <HEAD>PART 51-11 - PRODUCTION OR DISCLOSURE IN FEDERAL AND STATE PROCEEDINGS
- </HEAD>
- <AUTH>
-@@ -4460,7 +4460,7 @@
- </DIV5>
- 
- 
--<DIV5 N="51-12" TYPE="PART">
-+<DIV5 N="51-12-51-99" TYPE="PART">
- <HEAD>PARTS 51-12 - 51-99 [RESERVED]
- 
- 
-@@ -4474,7 +4474,7 @@
+@@ -4133,7 +4133,7 @@
  
  <HEAD> CHAPTER 60 - OFFICE OF FEDERAL CONTRACT COMPLIANCE PROGRAMS, EQUAL EMPLOYMENT OPPORTUNITY, DEPARTMENT OF LABOR</HEAD>
  
@@ -250,7 +207,7 @@
  <HEAD>PART 60-1 - OBLIGATIONS OF CONTRACTORS AND SUBCONTRACTORS
  </HEAD>
  <AUTH>
-@@ -5326,7 +5326,7 @@
+@@ -4985,7 +4985,7 @@
  </DIV5>
  
  
@@ -259,7 +216,7 @@
  <HEAD>PART 60-2 - AFFIRMATIVE ACTION PROGRAMS
  </HEAD>
  <AUTH>
-@@ -5691,7 +5691,7 @@
+@@ -5350,7 +5350,7 @@
  </DIV5>
  
  
@@ -268,7 +225,7 @@
  <HEAD>PART 60-3 - UNIFORM GUIDELINES ON EMPLOYEE SELECTION PROCEDURES (1978) 
  </HEAD>
  <AUTH>
-@@ -6308,7 +6308,7 @@
+@@ -5967,7 +5967,7 @@
  </DIV5>
  
  
@@ -277,7 +234,7 @@
  <HEAD>PART 60-4 - CONSTRUCTION CONTRACTORS - AFFIRMATIVE ACTION REQUIREMENTS
  </HEAD>
  <AUTH>
-@@ -6543,7 +6543,7 @@
+@@ -6202,7 +6202,7 @@
  </DIV5>
  
  
@@ -286,7 +243,7 @@
  <HEAD>PART 60-20 - DISCRIMINATION ON THE BASIS OF SEX
  </HEAD>
  <AUTH>
-@@ -6796,7 +6796,7 @@
+@@ -6455,7 +6455,7 @@
  </DIV5>
  
  
@@ -295,7 +252,7 @@
  <HEAD>PART 60-30 - RULES OF PRACTICE FOR ADMINISTRATIVE PROCEEDINGS TO ENFORCE EQUAL OPPORTUNITY UNDER EXECUTIVE ORDER 11246
  </HEAD>
  <AUTH>
-@@ -7369,7 +7369,7 @@
+@@ -7028,7 +7028,7 @@
  </DIV5>
  
  
@@ -304,7 +261,7 @@
  <HEAD>PART 60-40 - EXAMINATION AND COPYING OF OFCCP DOCUMENTS
  </HEAD>
  <AUTH>
-@@ -7499,7 +7499,7 @@
+@@ -7158,7 +7158,7 @@
  </DIV5>
  
  
@@ -313,7 +270,7 @@
  <HEAD>PART 60-50 - GUIDELINES ON DISCRIMINATION BECAUSE OF RELIGION OR NATIONAL ORIGIN
  </HEAD>
  <AUTH>
-@@ -7588,7 +7588,7 @@
+@@ -7247,7 +7247,7 @@
  </DIV5>
  
  
@@ -322,7 +279,7 @@
  <HEAD>PART 60-300 - AFFIRMATIVE ACTION AND NONDISCRIMINATION OBLIGATIONS OF FEDERAL CONTRACTORS AND SUBCONTRACTORS REGARDING DISABLED VETERANS, RECENTLY SEPARATED VETERANS, ACTIVE DUTY WARTIME OR CAMPAIGN BADGE VETERANS, AND ARMED FORCES SERVICE MEDAL VETERANS
  </HEAD>
  <AUTH>
-@@ -8598,7 +8598,7 @@
+@@ -8233,7 +8233,7 @@
  </DIV5>
  
  
@@ -331,7 +288,7 @@
  <HEAD>PART 60-741 - AFFIRMATIVE ACTION AND NONDISCRIMINATION OBLIGATIONS OF FEDERAL CONTRACTORS AND SUBCONTRACTORS REGARDING INDIVIDUALS WITH DISABILITIES
  </HEAD>
  <AUTH>
-@@ -9709,7 +9709,7 @@
+@@ -9338,7 +9338,7 @@
  </DIV5>
  
  
@@ -340,7 +297,7 @@
  <HEAD>PART 60-742 - PROCEDURES FOR COMPLAINTS/CHARGES OF EMPLOYMENT DISCRIMINATION BASED ON DISABILITY FILED AGAINST EMPLOYERS HOLDING GOVERNMENT CONTRACTS OR SUBCONTRACTS
  </HEAD>
  <AUTH>
-@@ -9849,7 +9849,7 @@
+@@ -9478,7 +9478,7 @@
  </DIV5>
  
  
@@ -349,16 +306,7 @@
  <HEAD>PART 60-999 - OMB CONTROL NUMBERS FOR OFCCP INFORMATION COLLECTION REQUIREMENTS
  </HEAD>
  <AUTH>
-@@ -9899,7 +9899,7 @@
- 
- <HEAD> CHAPTER 61 - OFFICE OF THE ASSISTANT SECRETARY FOR VETERANS' EMPLOYMENT AND TRAINING SERVICE, DEPARTMENT OF LABOR</HEAD>
- 
--<DIV5 N="61-1" TYPE="PART">
-+<DIV5 N="61-1-61-249" TYPE="PART">
- <HEAD>PARTS 61-1 - 61-249 [RESERVED]
- 
- 
-@@ -9907,7 +9907,7 @@
+@@ -9542,7 +9542,7 @@
  </DIV5>
  
  
@@ -367,16 +315,7 @@
  <HEAD>PART 61-300 - ANNUAL REPORT FROM FEDERAL CONTRACTORS
  </HEAD>
  <AUTH>
-@@ -10087,7 +10087,7 @@
- </DIV5>
- 
- 
--<DIV5 N="61-301" TYPE="PART">
-+<DIV5 N="61-301-61-999" TYPE="PART">
- <HEAD>PARTS 61-301 - 61-999 [RESERVED]
- 
- 
-@@ -10145,7 +10145,7 @@
+@@ -9784,7 +9784,7 @@
  
  </HEAD>
  
@@ -385,7 +324,7 @@
  <HEAD>PART 101-1 - INTRODUCTION
  </HEAD>
  <AUTH>
-@@ -10157,7 +10157,7 @@
+@@ -9796,7 +9796,7 @@
  
  </PSPACE></SOURCE>
  
@@ -394,14 +333,7 @@
  <HEAD>Subpart 101-1.1 - Regulation System</HEAD>
  
  
-@@ -10337,13 +10337,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-1.2-101-1.48" TYPE="SUBPART">
- <HEAD>Subparts 101-1.2 - 101-1.48 [Reserved]</HEAD>
- 
+@@ -9982,7 +9982,7 @@
  </DIV6>
  
  
@@ -410,7 +342,7 @@
  <HEAD>Subpart 101-1.49 - Illustrations of Forms</HEAD>
  
  
-@@ -10392,7 +10392,7 @@
+@@ -10031,7 +10031,7 @@
  </DIV5>
  
  
@@ -419,7 +351,7 @@
  <HEAD>PART 101-3 - ANNUAL REAL PROPERTY INVENTORIES 
  </HEAD>
  <AUTH>
-@@ -10415,7 +10415,7 @@
+@@ -10054,7 +10054,7 @@
  </DIV5>
  
  
@@ -428,7 +360,7 @@
  <HEAD>PART 101-4 - NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS OR ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE 
  </HEAD>
  <AUTH>
-@@ -11262,7 +11262,7 @@
+@@ -10901,7 +10901,7 @@
  </DIV5>
  
  
@@ -437,7 +369,7 @@
  <HEAD>PART 101-5 - CENTRALIZED SERVICES IN FEDERAL BUILDINGS AND COMPLEXES
  </HEAD>
  <AUTH>
-@@ -11282,7 +11282,7 @@
+@@ -10921,7 +10921,7 @@
  </DIV8>
  
  
@@ -446,39 +378,7 @@
  <HEAD>Subpart 101-5.1 - General</HEAD>
  
  <SOURCE>
-@@ -11457,13 +11457,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-5.2" TYPE="SUBPART">
- <HEAD>Subpart 101-5.2 [Reserved]</HEAD>
- 
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-5.3" TYPE="SUBPART">
- <HEAD>Subpart 101-5.3 - Federal Employee Health Services</HEAD>
- 
- <AUTH>
-@@ -11587,13 +11587,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-5.4-101-5.48" TYPE="SUBPART">
- <HEAD>Subparts 101-5.4 - 101-5.48 [Reserved]</HEAD>
- 
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-5.49" TYPE="SUBPART">
- <HEAD>Subpart 101-5.49 - Forms, Reports, and Instructions</HEAD>
- 
- 
-@@ -11612,7 +11612,7 @@
+@@ -11251,7 +11251,7 @@
  </DIV5>
  
  
@@ -487,23 +387,7 @@
  <HEAD>PART 101-6 - MISCELLANEOUS REGULATIONS
  </HEAD>
  <AUTH>
-@@ -11634,13 +11634,13 @@
- </DIV8>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-6.1" TYPE="SUBPART">
- <HEAD>Subpart 101-6.1 [Reserved]</HEAD>
- 
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-6.2" TYPE="SUBPART">
- <HEAD>Subpart 101-6.2 - Nondiscrimination in Programs Receiving Federal Financial Assistance</HEAD>
- 
- <AUTH>
-@@ -12273,7 +12273,7 @@
+@@ -11912,7 +11912,7 @@
  </DIV6>
  
  
@@ -512,7 +396,7 @@
  <HEAD>Subpart 101-6.3 - Ridesharing</HEAD>
  
  <AUTH>
-@@ -12296,7 +12296,7 @@
+@@ -11935,7 +11935,7 @@
  </DIV6>
  
  
@@ -521,7 +405,7 @@
  <HEAD>Subpart 101-6.4 - Official Use of Government Passenger Carriers Between Residence and Place of Employment</HEAD>
  
  <SOURCE>
-@@ -12316,7 +12316,7 @@
+@@ -11955,7 +11955,7 @@
  </DIV6>
  
  
@@ -530,7 +414,7 @@
  <HEAD>Subpart 101-6.5 - Code of Ethics for Government Service</HEAD>
  
  
-@@ -12341,7 +12341,7 @@
+@@ -11980,7 +11980,7 @@
  </DIV6>
  
  
@@ -539,14 +423,7 @@
  <HEAD>Subpart 101-6.6 - Fire Protection (Firesafety) Engineering</HEAD>
  
  <AUTH>
-@@ -12364,13 +12364,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-6.7-101-6.9" TYPE="SUBPART">
- <HEAD>Subparts 101-6.7 - 101-6.9 [Reserved]</HEAD>
- 
+@@ -12009,7 +12009,7 @@
  </DIV6>
  
  
@@ -555,14 +432,7 @@
  <HEAD>Subpart 101-6.10 - Federal Advisory Committee Management</HEAD>
  
  <AUTH>
-@@ -12393,13 +12393,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-6.11-101-6.20" TYPE="SUBPART">
- <HEAD>Subparts 101-6.11 - 101-6.20 [Reserved]</HEAD>
- 
+@@ -12038,7 +12038,7 @@
  </DIV6>
  
  
@@ -571,14 +441,7 @@
  <HEAD>Subpart 101-6.21 - Intergovernmental Review of General Services Administration Programs and Activities</HEAD>
  
  <AUTH>
-@@ -12632,13 +12632,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-6.22-101-6.48" TYPE="SUBPART">
- <HEAD>Subparts 101-6.22 - 101-6.48 [Reserved]</HEAD>
- 
+@@ -12277,7 +12277,7 @@
  </DIV6>
  
  
@@ -587,7 +450,7 @@
  <HEAD>Subpart 101-6.49 - Illustrations</HEAD>
  
  <AUTH>
-@@ -12679,7 +12679,7 @@
+@@ -12318,7 +12318,7 @@
  </DIV5>
  
  
@@ -596,30 +459,7 @@
  <HEAD>PART 101-8 - NONDISCRIMINATION IN PROGRAMS RECEIVING FEDERAL FINANCIAL ASSISTANCE 
  </HEAD>
  <AUTH>
-@@ -12691,13 +12691,13 @@
- <EDNOTE>
- <HED>Editorial Note:</HED><PSPACE>Nomenclature changes to part 101-8 appear at 68 FR 51374, Aug. 26, 2003.</PSPACE></EDNOTE>
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-8.1-101-8.2" TYPE="SUBPART">
- <HEAD>Subparts 101-8.1 - 101-8.2 [Reserved]</HEAD>
- 
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-8.3" TYPE="SUBPART">
- <HEAD>Subpart 101-8.3 - Discrimination Prohibited on the Basis of Handicap</HEAD>
- 
- 
-@@ -13067,13 +13067,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-8.4-101-8.6" TYPE="SUBPART">
- <HEAD>Subparts 101-8.4 - 101-8.6 [Reserved]</HEAD>
- 
+@@ -12712,7 +12712,7 @@
  </DIV6>
  
  
@@ -628,7 +468,7 @@
  <HEAD>Subpart 101-8.7 - Discrimination Prohibited on the Basis of Age</HEAD>
  
  <AUTH>
-@@ -13554,7 +13554,7 @@
+@@ -13193,7 +13193,7 @@
  </DIV5>
  
  
@@ -637,7 +477,7 @@
  <HEAD>PART 101-9 - FEDERAL MAIL MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -13585,7 +13585,7 @@
+@@ -13224,7 +13224,7 @@
  
  </HEAD>
  
@@ -646,16 +486,7 @@
  <HEAD>PART 101-11 - FEDERAL RECORDS AND STANDARD AND OPTIONAL FORMS 
  </HEAD>
  <AUTH>
-@@ -13618,7 +13618,7 @@
- 
- </HEAD>
- 
--<DIV5 N="101-14" TYPE="PART">
-+<DIV5 N="101-14-101-15" TYPE="PART">
- <HEAD>PARTS 101-14 - 101-15 [RESERVED]
- 
- 
-@@ -13630,7 +13630,7 @@
+@@ -13269,7 +13269,7 @@
  
  <DIV4 N="D" TYPE="SUBCHAP">
  <HEAD>SUBCHAPTER D - PUBLIC BUILDINGS AND SPACE
@@ -664,7 +495,7 @@
  
  </HEAD>
  
-@@ -13642,7 +13642,7 @@
+@@ -13281,7 +13281,7 @@
  </DIV5>
  
  
@@ -673,7 +504,7 @@
  <HEAD>PART 101-17 - ASSIGNMENT AND UTILIZATION OF SPACE 
  </HEAD>
  <AUTH>
-@@ -13665,7 +13665,7 @@
+@@ -13304,7 +13304,7 @@
  </DIV5>
  
  
@@ -682,7 +513,7 @@
  <HEAD>PART 101-18 - ACQUISITION OF REAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -13688,7 +13688,7 @@
+@@ -13327,7 +13327,7 @@
  </DIV5>
  
  
@@ -691,7 +522,7 @@
  <HEAD>PART 101-19 - CONSTRUCTION AND ALTERATION OF PUBLIC BUILDINGS
  </HEAD>
  <AUTH>
-@@ -13711,7 +13711,7 @@
+@@ -13350,7 +13350,7 @@
  </DIV5>
  
  
@@ -700,7 +531,7 @@
  <HEAD>PART 101-20 - MANAGEMENT OF BUILDINGS AND GROUNDS
  </HEAD>
  <AUTH>
-@@ -13734,7 +13734,7 @@
+@@ -13373,7 +13373,7 @@
  </DIV5>
  
  
@@ -709,16 +540,7 @@
  <HEAD>PART 101-21 - FEDERAL BUILDINGS FUND
  </HEAD>
  <AUTH>
-@@ -13781,7 +13781,7 @@
- 
- </HEAD>
- 
--<DIV5 N="101-22" TYPE="PART">
-+<DIV5 N="101-22-101-24" TYPE="PART">
- <HEAD>PARTS 101-22 - 101-24 [RESERVED]
- 
- 
-@@ -13789,7 +13789,7 @@
+@@ -13428,7 +13428,7 @@
  </DIV5>
  
  
@@ -727,7 +549,7 @@
  <HEAD>PART 101-25 - GENERAL
  </HEAD>
  <AUTH>
-@@ -13820,7 +13820,7 @@
+@@ -13459,7 +13459,7 @@
  </DIV8>
  
  
@@ -736,7 +558,7 @@
  <HEAD>Subpart 101-25.1 - General Policies</HEAD>
  
  <SOURCE>
-@@ -14272,7 +14272,7 @@
+@@ -13911,7 +13911,7 @@
  </DIV6>
  
  
@@ -745,7 +567,7 @@
  <HEAD>Subpart 101-25.2 - Interagency Purchase Assignments</HEAD>
  
  <SOURCE>
-@@ -14397,7 +14397,7 @@
+@@ -14036,7 +14036,7 @@
  </DIV6>
  
  
@@ -754,7 +576,7 @@
  <HEAD>Subpart 101-25.3 - Use Standards</HEAD>
  
  
-@@ -14497,7 +14497,7 @@
+@@ -14136,7 +14136,7 @@
  </DIV6>
  
  
@@ -763,7 +585,7 @@
  <HEAD>Subpart 101-25.4 - Replacement Standards</HEAD>
  
  
-@@ -14605,7 +14605,7 @@
+@@ -14244,7 +14244,7 @@
  </DIV6>
  
  
@@ -772,17 +594,7 @@
  <HEAD>Subpart 101-25.5 - Purchase or Lease Determinations</HEAD>
  
  
-@@ -14622,15 +14622,15 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
--<HEAD>Subparts 101-25.6 - 101-25.49 [Reserved]</HEAD>
-+<DIV6 N="101-25.6-101-25.49" TYPE="SUBPART">
-+<HEAD>Subparts 101-25.6 - 101-25.49 [Reserved]</HEAD> TODO here!
- 
- </DIV6>
- 
+@@ -14269,7 +14269,7 @@
  </DIV5>
  
  
@@ -791,7 +603,7 @@
  <HEAD>PART 101-26 - PROCUREMENT SOURCES AND PROGRAM
  </HEAD>
  <AUTH>
-@@ -14650,7 +14650,7 @@
+@@ -14289,7 +14289,7 @@
  </DIV8>
  
  
@@ -800,7 +612,7 @@
  <HEAD>Subpart 101-26.1 - General</HEAD>
  
  
-@@ -14890,7 +14890,7 @@
+@@ -14529,7 +14529,7 @@
  </DIV6>
  
  
@@ -809,7 +621,7 @@
  <HEAD>Subpart 101-26.2 - Federal Requisitioning System</HEAD>
  
  
-@@ -14956,7 +14956,7 @@
+@@ -14595,7 +14595,7 @@
  </DIV6>
  
  
@@ -818,14 +630,7 @@
  <HEAD>Subpart 101-26.3 - Procurement of GSA Stock Items</HEAD>
  
  
-@@ -15192,13 +15192,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-26.4" TYPE="SUBPART">
- <HEAD>Subpart 101-26.4 - Federal Supply Schedules [Reserved]</HEAD>
- 
+@@ -14837,7 +14837,7 @@
  </DIV6>
  
  
@@ -834,7 +639,7 @@
  <HEAD>Subpart 101-26.5 - GSA Procurement Programs</HEAD>
  
  
-@@ -15741,7 +15741,7 @@
+@@ -15380,7 +15380,7 @@
  </DIV6>
  
  
@@ -843,7 +648,7 @@
  <HEAD>Subpart 101-26.6 - Procurement Sources Other Than GSA</HEAD>
  
  
-@@ -16071,7 +16071,7 @@
+@@ -15710,7 +15710,7 @@
  </DIV6>
  
  
@@ -852,7 +657,7 @@
  <HEAD>Subpart 101-26.7 - Procurement Sources Other Than GSA and the Department of Defense</HEAD>
  
  
-@@ -16146,7 +16146,7 @@
+@@ -15785,7 +15785,7 @@
  </DIV6>
  
  
@@ -861,14 +666,7 @@
  <HEAD>Subpart 101-26.8 - Discrepancies or Deficiencies in GSA or DOD Shipments, Material, or Billings</HEAD>
  
  <SOURCE>
-@@ -16262,13 +16262,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-26.9-101-26.48" TYPE="SUBPART">
- <HEAD>Subparts 101-26.9 - 101-26.48 [Reserved]</HEAD>
- 
+@@ -15907,7 +15907,7 @@
  </DIV6>
  
  
@@ -877,7 +675,7 @@
  <HEAD>Subpart 101-26.49 - Illustrations of Forms</HEAD>
  
  
-@@ -16408,7 +16408,7 @@
+@@ -16047,7 +16047,7 @@
  </DIV5>
  
  
@@ -886,7 +684,7 @@
  <HEAD>PART 101-27 - INVENTORY MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -16428,7 +16428,7 @@
+@@ -16067,7 +16067,7 @@
  </DIV8>
  
  
@@ -895,7 +693,7 @@
  <HEAD>Subpart 101-27.1 - Stock Replenishment</HEAD>
  
  
-@@ -16520,7 +16520,7 @@
+@@ -16159,7 +16159,7 @@
  </DIV6>
  
  
@@ -904,7 +702,7 @@
  <HEAD>Subpart 101-27.2 - Management of Shelf-Life Materials</HEAD>
  
  
-@@ -16769,7 +16769,7 @@
+@@ -16408,7 +16408,7 @@
  </DIV6>
  
  
@@ -913,7 +711,7 @@
  <HEAD>Subpart 101-27.3 - Maximizing Use of Inventories</HEAD>
  
  <SOURCE>
-@@ -16945,7 +16945,7 @@
+@@ -16584,7 +16584,7 @@
  </DIV6>
  
  
@@ -922,7 +720,7 @@
  <HEAD>Subpart 101-27.4 - Elimination of Items From Inventory</HEAD>
  
  <SOURCE>
-@@ -17043,7 +17043,7 @@
+@@ -16682,7 +16682,7 @@
  </DIV6>
  
  
@@ -931,7 +729,7 @@
  <HEAD>Subpart 101-27.5 - Return of GSA Stock Items</HEAD>
  
  <SOURCE>
-@@ -17164,7 +17164,7 @@
+@@ -16803,7 +16803,7 @@
  </DIV5>
  
  
@@ -940,14 +738,7 @@
  <HEAD>PART 101-28 - STORAGE AND DISTRIBUTION
  </HEAD>
  <AUTH>
-@@ -17184,13 +17184,13 @@
- </DIV8>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-28.1" TYPE="SUBPART">
- <HEAD>Subpart 101-28.1 [Reserved]</HEAD>
- 
+@@ -16829,7 +16829,7 @@
  </DIV6>
  
  
@@ -956,7 +747,7 @@
  <HEAD>Subpart 101-28.2 - Interagency Cross-Servicing in Storage Activities</HEAD>
  
  
-@@ -17317,7 +17317,7 @@
+@@ -16956,7 +16956,7 @@
  </DIV6>
  
  
@@ -965,7 +756,7 @@
  <HEAD>Subpart 101-28.3 - Customer Supply Centers</HEAD>
  
  <SOURCE>
-@@ -17502,7 +17502,7 @@
+@@ -17141,7 +17141,7 @@
  </DIV5>
  
  
@@ -974,7 +765,7 @@
  <HEAD>PART 101-29 - FEDERAL PRODUCT DESCRIPTIONS
  </HEAD>
  <AUTH>
-@@ -17523,7 +17523,7 @@
+@@ -17162,7 +17162,7 @@
  </DIV8>
  
  
@@ -983,7 +774,7 @@
  <HEAD>Subpart 101-29.1 - General</HEAD>
  
  
-@@ -17553,7 +17553,7 @@
+@@ -17192,7 +17192,7 @@
  </DIV6>
  
  
@@ -992,7 +783,7 @@
  <HEAD>Subpart 101-29.2 - Definitions</HEAD>
  
  
-@@ -17754,7 +17754,7 @@
+@@ -17393,7 +17393,7 @@
  </DIV6>
  
  
@@ -1001,7 +792,7 @@
  <HEAD>Subpart 101-29.3 - Responsibilities</HEAD>
  
  
-@@ -17847,7 +17847,7 @@
+@@ -17486,7 +17486,7 @@
  </DIV6>
  
  
@@ -1010,7 +801,7 @@
  <HEAD>Subpart 101-29.4 - Mandatory Use of Federal Product Descriptions</HEAD>
  
  
-@@ -17947,7 +17947,7 @@
+@@ -17586,7 +17586,7 @@
  </DIV6>
  
  
@@ -1019,7 +810,7 @@
  <HEAD>Subpart 101-29.5 - Use of and Optional Use of Federal Product Descriptions and Agency Product Descriptions</HEAD>
  
  
-@@ -17982,7 +17982,7 @@
+@@ -17621,7 +17621,7 @@
  </DIV5>
  
  
@@ -1028,7 +819,7 @@
  <HEAD>PART 101-30 - FEDERAL CATALOG SYSTEM
  </HEAD>
  <AUTH>
-@@ -18013,7 +18013,7 @@
+@@ -17652,7 +17652,7 @@
  </DIV8>
  
  
@@ -1037,7 +828,7 @@
  <HEAD>Subpart 101-30.1 - General</HEAD>
  
  <SOURCE>
-@@ -18333,7 +18333,7 @@
+@@ -17972,7 +17972,7 @@
  </DIV6>
  
  
@@ -1046,7 +837,7 @@
  <HEAD>Subpart 101-30.2 - Cataloging Handbooks and Manuals</HEAD>
  
  
-@@ -18385,7 +18385,7 @@
+@@ -18024,7 +18024,7 @@
  </DIV6>
  
  
@@ -1055,7 +846,7 @@
  <HEAD>Subpart 101-30.3 - Cataloging Items of Supply</HEAD>
  
  
-@@ -18487,7 +18487,7 @@
+@@ -18126,7 +18126,7 @@
  </DIV6>
  
  
@@ -1064,7 +855,7 @@
  <HEAD>Subpart 101-30.4 - Use of the Federal Catalog System</HEAD>
  
  
-@@ -18624,7 +18624,7 @@
+@@ -18263,7 +18263,7 @@
  </DIV6>
  
  
@@ -1073,7 +864,7 @@
  <HEAD>Subpart 101-30.5 - Maintenance of the Federal Catalog System</HEAD>
  
  
-@@ -18702,7 +18702,7 @@
+@@ -18341,7 +18341,7 @@
  </DIV6>
  
  
@@ -1082,7 +873,7 @@
  <HEAD>Subpart 101-30.6 - GSA Section of the Federal Supply Catalog</HEAD>
  
  
-@@ -18828,7 +18828,7 @@
+@@ -18467,7 +18467,7 @@
  </DIV6>
  
  
@@ -1091,14 +882,7 @@
  <HEAD>Subpart 101-30.7 - Item Reduction Program</HEAD>
  
  <SOURCE>
-@@ -18999,13 +18999,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-30.8-101-30.48" TYPE="SUBPART">
- <HEAD>Subparts 101-30.8 - 101-30.48 [Reserved]</HEAD>
- 
+@@ -18644,7 +18644,7 @@
  </DIV6>
  
  
@@ -1107,7 +891,7 @@
  <HEAD>Subpart 101-30.49 - Illustrations of Forms</HEAD>
  
  
-@@ -19049,7 +19049,7 @@
+@@ -18688,7 +18688,7 @@
  </DIV5>
  
  
@@ -1116,14 +900,7 @@
  <HEAD>PART 101-31 - INSPECTION AND QUALITY CONTROL
  </HEAD>
  <AUTH>
-@@ -19070,13 +19070,13 @@
- </DIV8>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-31.1" TYPE="SUBPART">
- <HEAD>Subpart 101-31.1 [Reserved]</HEAD>
- 
+@@ -18715,7 +18715,7 @@
  </DIV6>
  
  
@@ -1132,7 +909,7 @@
  <HEAD>Subpart 101-31.2 - Private Inspection, Testing, and Grading Services</HEAD>
  
  
-@@ -19103,7 +19103,7 @@
+@@ -18742,7 +18742,7 @@
  </DIV5>
  
  
@@ -1141,7 +918,7 @@
  <HEAD>PART 101-33 - PUBLIC UTILITIES
  </HEAD>
  <AUTH>
-@@ -19158,7 +19158,7 @@
+@@ -18797,7 +18797,7 @@
  
  </HEAD>
  
@@ -1150,7 +927,7 @@
  <HEAD>PART 101-37 - GOVERNMENT AVIATION ADMINISTRATION AND COORDINATION
  </HEAD>
  <AUTH>
-@@ -19183,7 +19183,7 @@
+@@ -18822,7 +18822,7 @@
  </DIV5>
  
  
@@ -1159,7 +936,7 @@
  <HEAD>PART 101-38 - MOTOR VEHICLE MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -19206,7 +19206,7 @@
+@@ -18845,7 +18845,7 @@
  </DIV5>
  
  
@@ -1168,7 +945,7 @@
  <HEAD>PART 101-39 - INTERAGENCY FLEET MANAGEMENT SYSTEMS
  </HEAD>
  <AUTH>
-@@ -19229,7 +19229,7 @@
+@@ -18868,7 +18868,7 @@
  </DIV8>
  
  
@@ -1177,7 +954,7 @@
  <HEAD>Subpart 101-39.0 - General Provisions</HEAD>
  
  
-@@ -19277,7 +19277,7 @@
+@@ -18916,7 +18916,7 @@
  </DIV6>
  
  
@@ -1186,7 +963,7 @@
  <HEAD>Subpart 101-39.1 - Establishment, Modification, and Discontinuance of Interagency Fleet Management Systems</HEAD>
  
  
-@@ -19510,7 +19510,7 @@
+@@ -19149,7 +19149,7 @@
  </DIV6>
  
  
@@ -1195,7 +972,7 @@
  <HEAD>Subpart 101-39.2 - GSA Interagency Fleet Management System Services</HEAD>
  
  
-@@ -19702,7 +19702,7 @@
+@@ -19341,7 +19341,7 @@
  </DIV6>
  
  
@@ -1204,7 +981,7 @@
  <HEAD>Subpart 101-39.3 - Use and Care of GSA Interagency Fleet Management System Vehicles</HEAD>
  
  
-@@ -19849,7 +19849,7 @@
+@@ -19488,7 +19488,7 @@
  </DIV6>
  
  
@@ -1213,23 +990,7 @@
  <HEAD>Subpart 101-39.4 - Accidents and Claims</HEAD>
  
  
-@@ -19973,13 +19973,13 @@
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-39.5-101-39.48" TYPE="SUBPART">
- <HEAD>Subparts 101-39.5 - 101-39.48 [Reserved]</HEAD>
- 
- </DIV6>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-39.49" TYPE="SUBPART">
- <HEAD>Subpart 101-39.49 - Forms</HEAD>
- 
- 
-@@ -20009,7 +20009,7 @@
+@@ -19648,7 +19648,7 @@
  </DIV5>
  
  
@@ -1238,7 +999,7 @@
  <HEAD>PART 101-40 - TRANSPORTATION AND TRAFFIC MANAGEMENT 
  </HEAD>
  <AUTH>
-@@ -20032,7 +20032,7 @@
+@@ -19671,7 +19671,7 @@
  </DIV5>
  
  
@@ -1247,7 +1008,7 @@
  <HEAD>PART 101-41 - TRANSPORTATION DOCUMENTATION AND AUDIT
  </HEAD>
  <AUTH>
-@@ -20071,7 +20071,7 @@
+@@ -19710,7 +19710,7 @@
  
  </HEAD>
  
@@ -1256,16 +1017,7 @@
  <HEAD>PART 101-42 - DISPOSITION OF PERSONAL PROPERTY WITH SPECIAL HANDLING REQUIREMENTS
  </HEAD>
  <AUTH>
-@@ -20100,7 +20100,7 @@
- </DIV8>
- 
- 
--<DIV6 N="101" TYPE="SUBPART">
-+<DIV6 N="101-42.1-101-42.10" TYPE="SUBPART">
- <HEAD>Subparts 101-42.1 - 101-42.10 [Reserved]</HEAD>
- 
- </DIV6>
-@@ -20108,7 +20108,7 @@
+@@ -19747,7 +19747,7 @@
  </DIV5>
  
  
@@ -1274,7 +1026,7 @@
  <HEAD>PART 101-43 - UTILIZATION OF PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -20131,7 +20131,7 @@
+@@ -19770,7 +19770,7 @@
  </DIV5>
  
  
@@ -1283,7 +1035,7 @@
  <HEAD>PART 101-44 - DONATION OF SURPLUS PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -20154,7 +20154,7 @@
+@@ -19793,7 +19793,7 @@
  </DIV5>
  
  
@@ -1292,7 +1044,7 @@
  <HEAD>PART 101-45 - SALE, ABANDONMENT, OR DESTRUCTION OF PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -20183,7 +20183,7 @@
+@@ -19822,7 +19822,7 @@
  </DIV5>
  
  
@@ -1301,7 +1053,7 @@
  <HEAD>PART 101-46 - REPLACEMENT OF PERSONAL PROPERTY PURSUANT TO THE EXCHANGE/SALE AUTHORITY
  </HEAD>
  <AUTH>
-@@ -20206,7 +20206,7 @@
+@@ -19845,7 +19845,7 @@
  </DIV5>
  
  
@@ -1310,7 +1062,7 @@
  <HEAD>PART 101-47 - UTILIZATION AND DISPOSAL OF REAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -20229,7 +20229,7 @@
+@@ -19868,7 +19868,7 @@
  </DIV5>
  
  
@@ -1319,7 +1071,7 @@
  <HEAD>PART 101-48 - UTILIZATION, DONATION, OR DISPOSAL OF ABANDONED AND FORFEITED PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -20251,7 +20251,7 @@
+@@ -19890,7 +19890,7 @@
  </DIV5>
  
  
@@ -1328,16 +1080,7 @@
  <HEAD>PART 101-49 - UTILIZATION, DONATION, AND DISPOSAL OF FOREIGN GIFTS AND DECORATIONS 
  </HEAD>
  <AUTH>
-@@ -20274,7 +20274,7 @@
- </DIV5>
- 
- 
--<DIV5 N="101-50" TYPE="PART">
-+<DIV5 N="101-50-101-99" TYPE="PART">
- <HEAD>PARTS 101-50 - 101-99 [RESERVED]
- 
- 
-@@ -20384,7 +20384,7 @@
+@@ -20023,7 +20023,7 @@
  </DIV5>
  
  
@@ -1346,7 +1089,7 @@
  <HEAD>PART 102-2 - FEDERAL MANAGEMENT REGULATION SYSTEM
  </HEAD>
  <AUTH>
-@@ -20750,7 +20750,7 @@
+@@ -20389,7 +20389,7 @@
  </DIV5>
  
  
@@ -1355,7 +1098,7 @@
  <HEAD>PART 102-3 - FEDERAL ADVISORY COMMITTEE MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -21528,7 +21528,7 @@
+@@ -21167,7 +21167,7 @@
  </DIV6>
  
  
@@ -1364,7 +1107,7 @@
  <HEAD>Subpart E - How Does This Subpart Apply to Advice or Recommendations Provided to Agencies by the National Academy of Sciences or the National Academy of Public Administration?</HEAD>
  
  
-@@ -21592,7 +21592,7 @@
+@@ -21231,7 +21231,7 @@
  </DIV5>
  
  
@@ -1373,16 +1116,7 @@
  <HEAD>PART 102-5 - HOME-TO-WORK TRANSPORTATION 
  </HEAD>
  <AUTH>
-@@ -21964,7 +21964,7 @@
- </DIV5>
- 
- 
--<DIV5 N="102-6" TYPE="PART">
-+<DIV5 N="102-6-102-30" TYPE="PART">
- <HEAD>PARTS 102-6 - 102-30 [RESERVED]
- 
- 
-@@ -21996,7 +21996,7 @@
+@@ -21635,7 +21635,7 @@
  </DIV5>
  
  
@@ -1391,7 +1125,7 @@
  <HEAD>PART 102-33 - MANAGEMENT OF GOVERNMENT AIRCRAFT
  </HEAD>
  <AUTH>
-@@ -23930,7 +23930,7 @@
+@@ -23569,7 +23569,7 @@
  </DIV5>
  
  
@@ -1400,7 +1134,7 @@
  <HEAD>PART 102-34 - MOTOR VEHICLE MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -24930,7 +24930,7 @@
+@@ -24569,7 +24569,7 @@
  </DIV5>
  
  
@@ -1409,7 +1143,7 @@
  <HEAD>PART 102-35 - DISPOSITION OF PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -25073,7 +25073,7 @@
+@@ -24712,7 +24712,7 @@
  </DIV5>
  
  
@@ -1418,7 +1152,7 @@
  <HEAD>PART 102-36 - DISPOSITION OF EXCESS PERSONAL PROPERTY 
  </HEAD>
  <AUTH>
-@@ -26655,7 +26655,7 @@
+@@ -26294,7 +26294,7 @@
  </DIV5>
  
  
@@ -1427,7 +1161,7 @@
  <HEAD>PART 102-37 - DONATION OF SURPLUS PERSONAL PROPERTY 
  </HEAD>
  <AUTH>
-@@ -28775,7 +28775,7 @@
+@@ -28408,7 +28408,7 @@
  </DIV5>
  
  
@@ -1436,7 +1170,7 @@
  <HEAD>PART 102-38 - SALE OF PERSONAL PROPERTY 
  </HEAD>
  <AUTH>
-@@ -29899,7 +29899,7 @@
+@@ -29532,7 +29532,7 @@
  </DIV5>
  
  
@@ -1445,7 +1179,7 @@
  <HEAD>PART 102-39 - REPLACEMENT OF PERSONAL PROPERTY PURSUANT TO THE EXCHANGE/SALE AUTHORITY
  </HEAD>
  <AUTH>
-@@ -30278,7 +30278,7 @@
+@@ -29911,7 +29911,7 @@
  </DIV5>
  
  
@@ -1454,7 +1188,7 @@
  <HEAD>PART 102-40 - UTILIZATION AND DISPOSITION OF PERSONAL PROPERTY WITH SPECIAL HANDLING REQUIREMENTS
  </HEAD>
  <AUTH>
-@@ -31354,7 +31354,7 @@
+@@ -30981,7 +30981,7 @@
  </DIV5>
  
  
@@ -1463,7 +1197,7 @@
  <HEAD>PART 102-41 - DISPOSITION OF SEIZED, FORFEITED, VOLUNTARILY ABANDONED, AND UNCLAIMED PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -31991,7 +31991,7 @@
+@@ -31618,7 +31618,7 @@
  </DIV5>
  
  
@@ -1472,7 +1206,7 @@
  <HEAD>PART 102-42 - UTILIZATION, DONATION, AND DISPOSAL OF FOREIGN GIFTS AND DECORATIONS 
  </HEAD>
  <AUTH>
-@@ -32518,7 +32518,7 @@
+@@ -32145,7 +32145,7 @@
  
  </HEAD>
  
@@ -1481,7 +1215,7 @@
  <HEAD>PART 102-71 - GENERAL
  </HEAD>
  <AUTH>
-@@ -32769,7 +32769,7 @@
+@@ -32396,7 +32396,7 @@
  </DIV5>
  
  
@@ -1490,7 +1224,7 @@
  <HEAD>PART 102-72 - DELEGATION OF AUTHORITY
  </HEAD>
  <AUTH>
-@@ -33108,7 +33108,7 @@
+@@ -32735,7 +32735,7 @@
  </DIV5>
  
  
@@ -1499,7 +1233,7 @@
  <HEAD>PART 102-73 - REAL ESTATE ACQUISITION
  </HEAD>
  <AUTH>
-@@ -34052,7 +34052,7 @@
+@@ -33679,7 +33679,7 @@
  </DIV5>
  
  
@@ -1508,7 +1242,7 @@
  <HEAD>PART 102-74 - FACILITY MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -35915,7 +35915,7 @@
+@@ -35542,7 +35542,7 @@
  </DIV5>
  
  
@@ -1517,7 +1251,7 @@
  <HEAD>PART 102-75 - REAL PROPERTY DISPOSAL
  </HEAD>
  <AUTH>
-@@ -39526,7 +39526,7 @@
+@@ -39153,7 +39153,7 @@
  </DIV5>
  
  
@@ -1526,7 +1260,7 @@
  <HEAD>PART 102-76 - DESIGN AND CONSTRUCTION
  </HEAD>
  <AUTH>
-@@ -39863,7 +39863,7 @@
+@@ -39490,7 +39490,7 @@
  </DIV5>
  
  
@@ -1535,7 +1269,7 @@
  <HEAD>PART 102-77 - ART-IN-ARCHITECTURE
  </HEAD>
  <AUTH>
-@@ -39934,7 +39934,7 @@
+@@ -39561,7 +39561,7 @@
  </DIV5>
  
  
@@ -1544,7 +1278,7 @@
  <HEAD>PART 102-78 - HISTORIC PRESERVATION
  </HEAD>
  <AUTH>
-@@ -40100,7 +40100,7 @@
+@@ -39727,7 +39727,7 @@
  </DIV5>
  
  
@@ -1553,7 +1287,7 @@
  <HEAD>PART 102-79 - ASSIGNMENT AND UTILIZATION OF SPACE
  </HEAD>
  <AUTH>
-@@ -40478,7 +40478,7 @@
+@@ -40105,7 +40105,7 @@
  </DIV5>
  
  
@@ -1562,7 +1296,7 @@
  <HEAD>PART 102-80 - SAFETY AND ENVIRONMENTAL MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -40970,7 +40970,7 @@
+@@ -40597,7 +40597,7 @@
  </DIV5>
  
  
@@ -1571,7 +1305,7 @@
  <HEAD>PART 102-81 - SECURITY
  </HEAD>
  <AUTH>
-@@ -41054,7 +41054,7 @@
+@@ -40681,7 +40681,7 @@
  </DIV5>
  
  
@@ -1580,7 +1314,7 @@
  <HEAD>PART 102-82 - UTILITY SERVICES
  </HEAD>
  <AUTH>
-@@ -41125,7 +41125,7 @@
+@@ -40752,7 +40752,7 @@
  </DIV5>
  
  
@@ -1589,7 +1323,7 @@
  <HEAD>PART 102-83 - LOCATION OF SPACE
  </HEAD>
  <AUTH>
-@@ -41490,7 +41490,7 @@
+@@ -41117,7 +41117,7 @@
  </DIV5>
  
  
@@ -1598,7 +1332,7 @@
  <HEAD>PART 102-84 - ANNUAL REAL PROPERTY INVENTORIES
  </HEAD>
  <AUTH>
-@@ -41643,7 +41643,7 @@
+@@ -41270,7 +41270,7 @@
  </DIV5>
  
  
@@ -1607,16 +1341,7 @@
  <HEAD>PART 102-85 - PRICING POLICY FOR OCCUPANCY IN GSA SPACE 
  </HEAD>
  <AUTH>
-@@ -42479,7 +42479,7 @@
- </DIV5>
- 
- 
--<DIV5 N="102-86" TYPE="PART">
-+<DIV5 N="102-86-102-92" TYPE="PART">
- <HEAD>PARTS 102-86 - 102-92 [RESERVED]
- 
- 
-@@ -42503,7 +42503,7 @@
+@@ -42130,7 +42130,7 @@
  </DIV5>
  
  
@@ -1625,7 +1350,7 @@
  <HEAD>PART 102-117 - TRANSPORTATION MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -43950,7 +43950,7 @@
+@@ -43627,7 +43627,7 @@
  </DIV5>
  
  
@@ -1634,16 +1359,7 @@
  <HEAD>PART 102-118 - TRANSPORTATION PAYMENT AND AUDIT
  </HEAD>
  <AUTH>
-@@ -46021,7 +46021,7 @@
- </DIV5>
- 
- 
--<DIV5 N="102-119" TYPE="PART">
-+<DIV5 N="102-119-102-140" TYPE="PART">
- <HEAD>PARTS 102-119 - 102-140 [RESERVED]
- 
- 
-@@ -46077,7 +46077,7 @@
+@@ -45912,7 +45912,7 @@
  </DIV5>
  
  
@@ -1652,16 +1368,7 @@
  <HEAD>PART 102-173 - INTERNET GOV DOMAIN
  </HEAD>
  <AUTH>
-@@ -46324,7 +46324,7 @@
- </DIV5>
- 
- 
--<DIV5 N="102-174" TYPE="PART">
-+<DIV5 N="102-174-102-190" TYPE="PART">
- <HEAD>PARTS 102-174 - 102-190 [RESERVED]
- 
- 
-@@ -46348,7 +46348,7 @@
+@@ -46183,7 +46183,7 @@
  </DIV5>
  
  
@@ -1670,7 +1377,7 @@
  <HEAD>PART 102-192 - MAIL MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -46880,7 +46880,7 @@
+@@ -46715,7 +46715,7 @@
  </DIV5>
  
  
@@ -1679,7 +1386,7 @@
  <HEAD>PART 102-193 - CREATION, MAINTENANCE, AND USE OF RECORDS 
  </HEAD>
  <AUTH>
-@@ -46993,7 +46993,7 @@
+@@ -46828,7 +46828,7 @@
  </DIV5>
  
  
@@ -1688,16 +1395,7 @@
  <HEAD>PART 102-194 - STANDARD AND OPTIONAL FORMS MANAGEMENT PROGRAM
  </HEAD>
  <AUTH>
-@@ -47134,7 +47134,7 @@
- </DIV5>
- 
- 
--<DIV5 N="102-197" TYPE="PART">
-+<DIV5 N="102-197-102-199" TYPE="PART">
- <HEAD>PARTS 102-197 - 102-199 [RESERVED]
- 
- 
-@@ -47166,7 +47166,7 @@
+@@ -47001,7 +47001,7 @@
  
  <HEAD> CHAPTER 105 - GENERAL SERVICES ADMINISTRATION</HEAD>
  
@@ -1706,7 +1404,7 @@
  <HEAD>PART 105-1 - INTRODUCTION
  </HEAD>
  <AUTH>
-@@ -47187,7 +47187,7 @@
+@@ -47022,7 +47022,7 @@
  </DIV8>
  
  
@@ -1715,7 +1413,7 @@
  <HEAD>Subpart 105-1.1 - Regulations System</HEAD>
  
  
-@@ -47337,7 +47337,7 @@
+@@ -47172,7 +47172,7 @@
  </DIV5>
  
  
@@ -1724,7 +1422,7 @@
  <HEAD>PART 105-8 - ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY GENERAL SERVICES ADMINISTRATION
  </HEAD>
  <AUTH>
-@@ -47937,7 +47937,7 @@
+@@ -47772,7 +47772,7 @@
  </DIV5>
  
  
@@ -1733,7 +1431,7 @@
  <HEAD>PART 105-50 - PROVISION OF SPECIAL OR TECHNICAL SERVICES TO STATE AND LOCAL UNITS OF GOVERNMENT
  </HEAD>
  <AUTH>
-@@ -48021,7 +48021,7 @@
+@@ -47856,7 +47856,7 @@
  </DIV8>
  
  
@@ -1742,7 +1440,7 @@
  <HEAD>Subpart 105-50.1 - General Provisions</HEAD>
  
  
-@@ -48101,7 +48101,7 @@
+@@ -47936,7 +47936,7 @@
  </DIV6>
  
  
@@ -1751,7 +1449,7 @@
  <HEAD>Subpart 105-50.2 - Services Available From General Services Administration</HEAD>
  
  
-@@ -48206,7 +48206,7 @@
+@@ -48041,7 +48041,7 @@
  </DIV6>
  
  
@@ -1760,7 +1458,7 @@
  <HEAD>Subpart 105-50.3 - Principles Governing Reimbursements to GSA</HEAD>
  
  
-@@ -48268,7 +48268,7 @@
+@@ -48103,7 +48103,7 @@
  </DIV6>
  
  
@@ -1769,7 +1467,7 @@
  <HEAD>Subpart 105-50.4 - Reports</HEAD>
  
  
-@@ -48304,7 +48304,7 @@
+@@ -48139,7 +48139,7 @@
  </DIV5>
  
  
@@ -1778,7 +1476,7 @@
  <HEAD>PART 105-51 - UNIFORM RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION FOR FEDERAL AND FEDERALLY ASSISTED PROGRAMS
  </HEAD>
  <AUTH>
-@@ -48326,7 +48326,7 @@
+@@ -48161,7 +48161,7 @@
  </DIV5>
  
  
@@ -1787,7 +1485,7 @@
  <HEAD>PART 105-53 - STATEMENT OF ORGANIZATION AND FUNCTIONS
  </HEAD>
  <AUTH>
-@@ -48751,7 +48751,7 @@
+@@ -48586,7 +48586,7 @@
  </DIV5>
  
  
@@ -1796,7 +1494,7 @@
  <HEAD>PART 105-54 - ADVISORY COMMITTEE MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -48772,7 +48772,7 @@
+@@ -48607,7 +48607,7 @@
  </DIV8>
  
  
@@ -1805,7 +1503,7 @@
  <HEAD>Subpart 105-54.1 - General Provisions</HEAD>
  
  
-@@ -48870,7 +48870,7 @@
+@@ -48705,7 +48705,7 @@
  </DIV6>
  
  
@@ -1814,7 +1512,7 @@
  <HEAD>Subpart 105-54.2 - Establishment of Advisory Committees</HEAD>
  
  
-@@ -48988,7 +48988,7 @@
+@@ -48823,7 +48823,7 @@
  </DIV6>
  
  
@@ -1823,7 +1521,7 @@
  <HEAD>Subpart 105-54.3 - Advisory Committee Procedures</HEAD>
  
  
-@@ -49282,7 +49282,7 @@
+@@ -49117,7 +49117,7 @@
  </DIV6>
  
  
@@ -1832,7 +1530,7 @@
  <HEAD>Subpart 105-54.4 - Reports</HEAD>
  
  
-@@ -49310,7 +49310,7 @@
+@@ -49145,7 +49145,7 @@
  </DIV5>
  
  
@@ -1841,7 +1539,7 @@
  <HEAD>PART 105-55 - COLLECTION OF CLAIMS OWED THE UNITED STATES
  </HEAD>
  <AUTH>
-@@ -49998,7 +49998,7 @@
+@@ -49833,7 +49833,7 @@
  </DIV5>
  
  
@@ -1850,7 +1548,7 @@
  <HEAD>PART 105-56 - SALARY OFFSET FOR INDEBTEDNESS OF FEDERAL EMPLOYEES TO THE UNITED STATES 
  </HEAD>
  <AUTH>
-@@ -50689,7 +50689,7 @@
+@@ -50524,7 +50524,7 @@
  </DIV5>
  
  
@@ -1859,7 +1557,7 @@
  <HEAD>PART 105-57 - ADMINISTRATION WAGE GARNISHMENT
  </HEAD>
  <AUTH>
-@@ -51001,7 +51001,7 @@
+@@ -50836,7 +50836,7 @@
  </DIV5>
  
  
@@ -1868,7 +1566,7 @@
  <HEAD>PART 105-60 - PUBLIC AVAILABILITY OF AGENCY RECORDS AND INFORMATIONAL MATERIALS
  </HEAD>
  <AUTH>
-@@ -51034,7 +51034,7 @@
+@@ -50869,7 +50869,7 @@
  </DIV8>
  
  
@@ -1877,7 +1575,7 @@
  <HEAD>Subpart 105-60.1 - General Provisions</HEAD>
  
  
-@@ -51104,7 +51104,7 @@
+@@ -50939,7 +50939,7 @@
  </DIV6>
  
  
@@ -1886,7 +1584,7 @@
  <HEAD>Subpart 105-60.2 - Publication of General Agency Information and Rules in the Federal Register</HEAD>
  
  
-@@ -51142,7 +51142,7 @@
+@@ -50977,7 +50977,7 @@
  </DIV6>
  
  
@@ -1895,7 +1593,7 @@
  <HEAD>Subpart 105-60.3 - Availability of Opinions, Orders, Policies, Interpretations, Manuals, and Instructions</HEAD>
  
  
-@@ -51568,7 +51568,7 @@
+@@ -51403,7 +51403,7 @@
  </DIV6>
  
  
@@ -1904,7 +1602,7 @@
  <HEAD>Subpart 105-60.4 - Described Records</HEAD>
  
  
-@@ -51725,7 +51725,7 @@
+@@ -51560,7 +51560,7 @@
  </DIV6>
  
  
@@ -1913,7 +1611,7 @@
  <HEAD>Subpart 105-60.5 - Exemptions</HEAD>
  
  
-@@ -51786,7 +51786,7 @@
+@@ -51621,7 +51621,7 @@
  </DIV6>
  
  
@@ -1922,7 +1620,7 @@
  <HEAD>Subpart 105-60.6 - Production or Disclosure by Present or Former General Services Administration Employees in Response to Subpoenas or Similar Demands in Judicial or Administrative Proceedings</HEAD>
  
  
-@@ -51942,7 +51942,7 @@
+@@ -51777,7 +51777,7 @@
  </DIV5>
  
  
@@ -1931,7 +1629,7 @@
  <HEAD>PART 105-62 - DOCUMENT SECURITY AND DECLASSIFICATION
  </HEAD>
  <AUTH>
-@@ -51963,7 +51963,7 @@
+@@ -51798,7 +51798,7 @@
  </DIV8>
  
  
@@ -1940,7 +1638,7 @@
  <HEAD>Subpart 105-62.1 - Classified Materials</HEAD>
  
  
-@@ -52032,7 +52032,7 @@
+@@ -51867,7 +51867,7 @@
  </DIV6>
  
  
@@ -1949,7 +1647,7 @@
  <HEAD>Subpart 105-62.2 - Declassification and Downgrading</HEAD>
  
  
-@@ -52118,7 +52118,7 @@
+@@ -51953,7 +51953,7 @@
  </DIV5>
  
  
@@ -1958,7 +1656,7 @@
  <HEAD>PART 105-64 - GSA PRIVACY ACT RULES
  </HEAD>
  <AUTH>
-@@ -52172,7 +52172,7 @@
+@@ -52007,7 +52007,7 @@
  </DIV8>
  
  
@@ -1967,7 +1665,7 @@
  <HEAD>Subpart 105-64.1 - Policies and Responsibilities</HEAD>
  
  
-@@ -52288,7 +52288,7 @@
+@@ -52123,7 +52123,7 @@
  </DIV6>
  
  
@@ -1976,7 +1674,7 @@
  <HEAD>Subpart 105-64.2 - Access to Records</HEAD>
  
  
-@@ -52375,7 +52375,7 @@
+@@ -52210,7 +52210,7 @@
  </DIV6>
  
  
@@ -1985,7 +1683,7 @@
  <HEAD>Subpart 105-64.3 - Denial of Access to Records</HEAD>
  
  
-@@ -52426,7 +52426,7 @@
+@@ -52261,7 +52261,7 @@
  </DIV6>
  
  
@@ -1994,7 +1692,7 @@
  <HEAD>Subpart 105-64.4 - Amending Records</HEAD>
  
  
-@@ -52512,7 +52512,7 @@
+@@ -52347,7 +52347,7 @@
  </DIV6>
  
  
@@ -2003,7 +1701,7 @@
  <HEAD>Subpart 105-64.5 - Disclosure of Records</HEAD>
  
  
-@@ -52554,7 +52554,7 @@
+@@ -52389,7 +52389,7 @@
  </DIV6>
  
  
@@ -2012,7 +1710,7 @@
  <HEAD>Subpart 105-64.6 - Establishing or Revising Systems of Records in GSA</HEAD>
  
  
-@@ -52583,7 +52583,7 @@
+@@ -52418,7 +52418,7 @@
  </DIV6>
  
  
@@ -2021,7 +1719,7 @@
  <HEAD>Subpart 105-64.7 - Assistance and Referrals</HEAD>
  
  
-@@ -52598,7 +52598,7 @@
+@@ -52433,7 +52433,7 @@
  </DIV6>
  
  
@@ -2030,7 +1728,7 @@
  <HEAD>Subpart 105-64.8 - Privacy Complaints</HEAD>
  
  
-@@ -52671,7 +52671,7 @@
+@@ -52500,7 +52500,7 @@
  </DIV5>
  
  
@@ -2039,7 +1737,7 @@
  <HEAD>PART 105-67 - SALE OF PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -52704,8 +52704,8 @@
+@@ -52533,8 +52533,8 @@
  </DIV5>
  
  
@@ -2050,7 +1748,7 @@
  </HEAD>
  <AUTH>
  <HED>Authority:</HED><PSPACE>Sec. 2455, Pub. L. 103-355, 108 Stat. 3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 Comp., p. 235. 
-@@ -54460,7 +54460,7 @@
+@@ -54289,7 +54289,7 @@
  </DIV5>
  
  
@@ -2059,7 +1757,7 @@
  <HEAD>PART 105-69 - NEW RESTRICTIONS ON LOBBYING
  </HEAD>
  <AUTH>
-@@ -54841,7 +54841,7 @@
+@@ -54664,7 +54664,7 @@
  </DIV5>
  
  
@@ -2068,7 +1766,7 @@
  <HEAD>PART 105-70 - IMPLEMENTATION OF THE PROGRAM FRAUD CIVIL REMEDIES ACT OF 1986 
  </HEAD>
  <AUTH>
-@@ -55855,7 +55855,7 @@
+@@ -55672,7 +55672,7 @@
  </DIV5>
  
  
@@ -2077,7 +1775,7 @@
  <HEAD>PART 105-71 - UNIFORM ADMINISTRATIVE REQUIREMENTS FOR GRANTS AND COOPERATIVE AGREEMENTS WITH STATE AND LOCAL GOVERNMENTS
  </HEAD>
  <AUTH>
-@@ -55867,7 +55867,7 @@
+@@ -55684,7 +55684,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2086,7 +1784,7 @@
  <HEAD>Subpart 105-71.1 - General</HEAD>
  
  
-@@ -56045,7 +56045,7 @@
+@@ -55862,7 +55862,7 @@
  </DIV6>
  
  
@@ -2095,7 +1793,7 @@
  <HEAD>Subpart 105-71.11 - Pre-Award Requirements</HEAD>
  
  
-@@ -56140,7 +56140,7 @@
+@@ -55957,7 +55957,7 @@
  </DIV6>
  
  
@@ -2104,7 +1802,7 @@
  <HEAD>Subpart 105-71.12 - Post-Award Requirements/Financial Administration</HEAD>
  
  
-@@ -56357,7 +56357,7 @@
+@@ -56174,7 +56174,7 @@
  </DIV6>
  
  
@@ -2113,7 +1811,7 @@
  <HEAD>Subpart 105-71.13 - Post-Award Requirements/Changes, Property, and Subawards</HEAD>
  
  
-@@ -56755,7 +56755,7 @@
+@@ -56572,7 +56572,7 @@
  </DIV6>
  
  
@@ -2122,7 +1820,7 @@
  <HEAD>Subpart 105-71.14 - Post-Award Requirements/Reports, Records, Retention, and Enforcement</HEAD>
  
  
-@@ -56948,7 +56948,7 @@
+@@ -56765,7 +56765,7 @@
  </DIV6>
  
  
@@ -2131,16 +1829,7 @@
  <HEAD>Subpart 105-71.15 - After-the-Grant Requirements</HEAD>
  
  
-@@ -57017,7 +57017,7 @@
- </DIV6>
- 
- 
--<DIV6 N="105" TYPE="SUBPART">
-+<DIV6 N="105-71.16" TYPE="SUBPART">
- <HEAD>Subpart 105-71.16 - Entitlements [Reserved]</HEAD>
- 
- </DIV6>
-@@ -57025,7 +57025,7 @@
+@@ -56842,7 +56842,7 @@
  </DIV5>
  
  
@@ -2149,7 +1838,7 @@
  <HEAD>PART 105-72 - UNIFORM ADMINISTRATIVE REQUIREMENTS FOR GRANTS AND AGREEMENTS WITH INSTITUTIONS OF HIGHER EDUCATION, HOSPITALS, AND OTHER NON-PROFIT ORGANIZATIONS 
  </HEAD>
  <AUTH>
-@@ -57037,7 +57037,7 @@
+@@ -56854,7 +56854,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2158,7 +1847,7 @@
  <HEAD>Subpart 105-72.1 - General</HEAD>
  
  
-@@ -57182,7 +57182,7 @@
+@@ -56999,7 +56999,7 @@
  </DIV6>
  
  
@@ -2167,7 +1856,7 @@
  <HEAD>Subpart 105-72.2 - Pre-Award Requirements</HEAD>
  
  
-@@ -57280,7 +57280,7 @@
+@@ -57097,7 +57097,7 @@
  </DIV6>
  
  
@@ -2176,7 +1865,7 @@
  <HEAD>Subpart 105-72.30 - Post-Award Requirements/Financial and Program Management</HEAD>
  
  
-@@ -57585,7 +57585,7 @@
+@@ -57402,7 +57402,7 @@
  </DIV6>
  
  
@@ -2185,7 +1874,7 @@
  <HEAD>Subpart 105-72.40 - Post-Award Requirements/Property Standards</HEAD>
  
  
-@@ -57751,7 +57751,7 @@
+@@ -57568,7 +57568,7 @@
  </DIV6>
  
  
@@ -2194,7 +1883,7 @@
  <HEAD>Subpart 105-72.50 - Post-Award Requirements/Procurement Standards</HEAD>
  
  
-@@ -57908,7 +57908,7 @@
+@@ -57725,7 +57725,7 @@
  </DIV6>
  
  
@@ -2203,7 +1892,7 @@
  <HEAD>Subpart 105-72.60 - Post-Award Requirements/Reports and Records</HEAD>
  
  
-@@ -58030,7 +58030,7 @@
+@@ -57847,7 +57847,7 @@
  </DIV6>
  
  
@@ -2212,7 +1901,7 @@
  <HEAD>Subpart 105-72.70 - Post-Award Requirements/Termination and Enforcement</HEAD>
  
  
-@@ -58091,7 +58091,7 @@
+@@ -57908,7 +57908,7 @@
  </DIV6>
  
  
@@ -2221,7 +1910,7 @@
  <HEAD>Subpart 105-72.80 - After-the-Award Requirements</HEAD>
  
  
-@@ -58200,7 +58200,7 @@
+@@ -58011,7 +58011,7 @@
  </DIV5>
  
  
@@ -2230,7 +1919,7 @@
  <HEAD>PART 105-74 - GOVERNMENTWIDE REQUIREMENTS FOR DRUG-FREE WORKPLACE (FINANCIAL ASSISTANCE) 
  </HEAD>
  <AUTH>
-@@ -58674,7 +58674,7 @@
+@@ -58485,7 +58485,7 @@
  <HEAD>SUBCHAPTER A - GENERAL
  </HEAD>
  
@@ -2239,7 +1928,7 @@
  <HEAD>PART 109-1 - INTRODUCTION
  </HEAD>
  <SOURCE>
-@@ -58683,7 +58683,7 @@
+@@ -58494,7 +58494,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2248,7 +1937,7 @@
  <HEAD>Subpart 109-1.1 - Regulation System</HEAD>
  
  
-@@ -58998,7 +58998,7 @@
+@@ -58809,7 +58809,7 @@
  </DIV6>
  
  
@@ -2257,7 +1946,7 @@
  <HEAD>Subpart 109-1.50 - Personal Property Management Program</HEAD>
  
  
-@@ -59035,7 +59035,7 @@
+@@ -58846,7 +58846,7 @@
  </DIV6>
  
  
@@ -2266,7 +1955,7 @@
  <HEAD>Subpart 109-1.51 - Personal Property Management Standards and Practices</HEAD>
  
  
-@@ -59300,7 +59300,7 @@
+@@ -59111,7 +59111,7 @@
  </DIV6>
  
  
@@ -2275,7 +1964,7 @@
  <HEAD>Subpart 109-1.52 - Personal Property Management Program for Designated Contractors</HEAD>
  
  
-@@ -59408,7 +59408,7 @@
+@@ -59223,7 +59223,7 @@
  </DIV6>
  
  
@@ -2284,7 +1973,7 @@
  <HEAD>Subpart 109-1.53 - Management of High Risk Personal Property</HEAD>
  
  
-@@ -59504,7 +59504,7 @@
+@@ -59323,7 +59323,7 @@
  </DIV5>
  
  
@@ -2293,7 +1982,7 @@
  <HEAD>PART 109-6 - MISCELLANEOUS REGULATIONS
  </HEAD>
  <AUTH>
-@@ -59518,7 +59518,7 @@
+@@ -59339,7 +59339,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2302,7 +1991,7 @@
  <HEAD>Subpart 109-6.4 - Official Use of Government Passenger Carriers Between Residence and Place of Employment</HEAD>
  
  
-@@ -59594,7 +59594,7 @@
+@@ -59419,7 +59419,7 @@
  </DIV5>
  
  
@@ -2311,7 +2000,7 @@
  <HEAD>PART 109-25 - GENERAL
  </HEAD>
  <AUTH>
-@@ -59608,7 +59608,7 @@
+@@ -59435,7 +59435,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2320,34 +2009,7 @@
  <HEAD>Subpart 109-25.1 - General Policies</HEAD>
  
  
-@@ -59662,7 +59662,7 @@
- </DIV5>
- 
- 
--<DIV5 N="109" TYPE="PART">
-+<DIV5 N="109-26" TYPE="PART">
- <HEAD>PART 109-26 - PROCUREMENT SOURCES AND PROGRAM
- </HEAD>
- <AUTH>
-@@ -59676,7 +59676,7 @@
- 
- </PSPACE></SOURCE>
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-26.2" TYPE="SUBPART">
- <HEAD>Subpart 109-26.2 - Federal Requisitioning System</HEAD>
- 
- 
-@@ -59701,7 +59701,7 @@
- </DIV6>
- 
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-26.5" TYPE="SUBPART">
- <HEAD>Subpart 109-26.5 - GSA Procurement Programs</HEAD>
- 
- 
-@@ -59807,7 +59807,7 @@
+@@ -59495,7 +59495,7 @@
  </DIV5>
  
  
@@ -2356,7 +2018,7 @@
  <HEAD>PART 109-27 - INVENTORY MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -59821,7 +59821,7 @@
+@@ -59511,7 +59511,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2365,7 +2027,7 @@
  <HEAD>Subpart 109-27.50 - Inventory Management Policies, Procedures, and Guidelines</HEAD>
  
  
-@@ -59836,7 +59836,7 @@
+@@ -59524,7 +59524,7 @@
  </DIV6>
  
  
@@ -2374,7 +2036,7 @@
  <HEAD>Subpart 109-27.51 - Management of Precious Metals</HEAD>
  
  
-@@ -60047,7 +60047,7 @@
+@@ -59739,7 +59739,7 @@
  </DIV5>
  
  
@@ -2383,7 +2045,7 @@
  <HEAD>PART 109-28 - STORAGE AND DISTRIBUTION
  </HEAD>
  <AUTH>
-@@ -60095,7 +60095,7 @@
+@@ -59787,7 +59787,7 @@
  </DIV8>
  
  
@@ -2392,7 +2054,7 @@
  <HEAD>Subpart 109-28.3 - Customer Supply Centers</HEAD>
  
  
-@@ -60124,7 +60124,7 @@
+@@ -59814,7 +59814,7 @@
  </DIV6>
  
  
@@ -2401,7 +2063,7 @@
  <HEAD>Subpart 109-28.50 - Management of Equipment Held for Future Projects</HEAD>
  
  
-@@ -60201,7 +60201,7 @@
+@@ -59889,7 +59889,7 @@
  </DIV6>
  
  
@@ -2410,7 +2072,7 @@
  <HEAD>Subpart 109-28.51 - Management of Spare Equipment/Property</HEAD>
  
  
-@@ -60253,7 +60253,7 @@
+@@ -59945,7 +59945,7 @@
  </DIV5>
  
  
@@ -2419,7 +2081,7 @@
  <HEAD>PART 109-30 - FEDERAL CATALOG SYSTEM
  </HEAD>
  <AUTH>
-@@ -60278,7 +60278,7 @@
+@@ -59982,7 +59982,7 @@
  </DIV5>
  
  
@@ -2428,7 +2090,7 @@
  <HEAD>PART 109-38 - MOTOR EQUIPMENT MANAGEMENT
  </HEAD>
  <AUTH>
-@@ -60306,7 +60306,7 @@
+@@ -60010,7 +60010,7 @@
  </DIV8>
  
  
@@ -2437,7 +2099,7 @@
  <HEAD>Subpart 109-38.0 - Definition of Terms</HEAD>
  
  
-@@ -60327,7 +60327,7 @@
+@@ -60029,7 +60029,7 @@
  </DIV6>
  
  
@@ -2446,7 +2108,7 @@
  <HEAD>Subpart 109-38.1 - Fuel Efficient Motor Vehicles</HEAD>
  
  
-@@ -60361,7 +60361,7 @@
+@@ -60061,7 +60061,7 @@
  </DIV6>
  
  
@@ -2455,7 +2117,7 @@
  <HEAD>Subpart 109-38.2 - Registration, Identification, and Exemptions</HEAD>
  
  
-@@ -60490,7 +60490,7 @@
+@@ -60188,7 +60188,7 @@
  </DIV6>
  
  
@@ -2464,7 +2126,7 @@
  <HEAD>Subpart 109-38.3 - Official Use of Government Motor Vehicles</HEAD>
  
  
-@@ -60563,7 +60563,7 @@
+@@ -60259,7 +60259,7 @@
  </DIV6>
  
  
@@ -2473,7 +2135,7 @@
  <HEAD>Subpart 109-38.4 - Use and Replacement Standards</HEAD>
  
  
-@@ -60647,7 +60647,7 @@
+@@ -60341,7 +60341,7 @@
  </DIV6>
  
  
@@ -2482,7 +2144,7 @@
  <HEAD>Subpart 109-38.5 - Scheduled Maintenance</HEAD>
  
  
-@@ -60675,7 +60675,7 @@
+@@ -60367,7 +60367,7 @@
  </DIV6>
  
  
@@ -2491,7 +2153,7 @@
  <HEAD>Subpart 109-38.7 - Transfer, Storage, and Disposal of Motor Vehicles</HEAD>
  
  
-@@ -60695,7 +60695,7 @@
+@@ -60385,7 +60385,7 @@
  </DIV6>
  
  
@@ -2500,7 +2162,7 @@
  <HEAD>Subpart 109-38.8 - Fleet Credit Card</HEAD>
  
  
-@@ -60729,7 +60729,7 @@
+@@ -60417,7 +60417,7 @@
  </DIV6>
  
  
@@ -2509,7 +2171,7 @@
  <HEAD>Subpart 109-38.9 - Federal Motor Vehicle Fleet Report</HEAD>
  
  
-@@ -60758,7 +60758,7 @@
+@@ -60444,7 +60444,7 @@
  </DIV6>
  
  
@@ -2518,7 +2180,7 @@
  <HEAD>Subpart 109-38.51 - Utilization of Motor Equipment</HEAD>
  
  
-@@ -60873,7 +60873,7 @@
+@@ -60557,7 +60557,7 @@
  </DIV6>
  
  
@@ -2527,7 +2189,7 @@
  <HEAD>Subpart 109-38.52 - Watercraft</HEAD>
  
  
-@@ -60925,7 +60925,7 @@
+@@ -60615,7 +60615,7 @@
  </DIV5>
  
  
@@ -2536,7 +2198,7 @@
  <HEAD>PART 109-39 - INTERAGENCY FLEET MANAGEMENT SYSTEMS
  </HEAD>
  <AUTH>
-@@ -60939,7 +60939,7 @@
+@@ -60631,7 +60631,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2545,7 +2207,7 @@
  <HEAD>Subpart 109-39.1 - Establishment, Modification, and Discontinuance of Interagency Fleet Management Systems</HEAD>
  
  
-@@ -61000,7 +61000,7 @@
+@@ -60690,7 +60690,7 @@
  </DIV6>
  
  
@@ -2554,52 +2216,7 @@
  <HEAD>Subpart 109-39.3 - Use and Care of GSA Interagency Fleet Management System Vehicles</HEAD>
  
  
-@@ -61028,7 +61028,7 @@
- </DIV5>
- 
- 
--<DIV5 N="109" TYPE="PART">
-+<DIV5 N="109-40" TYPE="PART">
- <HEAD>PART 109-40 - TRANSPORTATION AND TRAFFIC MANAGEMENT
- 
- 
-@@ -61044,7 +61044,7 @@
- 
- </PSPACE></SOURCE>
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-40.1" TYPE="SUBPART">
- <HEAD>Subpart 109-40.1 - General Provisions</HEAD>
- 
- 
-@@ -61192,7 +61192,7 @@
- </DIV6>
- 
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-40.3" TYPE="SUBPART">
- <HEAD>Subpart 109-40.3 - Traffic Management</HEAD>
- 
- 
-@@ -61285,7 +61285,7 @@
- </DIV6>
- 
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-40.50" TYPE="SUBPART">
- <HEAD>Subpart 109-40.50 - Bills of Lading</HEAD>
- 
- 
-@@ -61356,7 +61356,7 @@
- </DIV6>
- 
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-40.51" TYPE="SUBPART">
- <HEAD>Subpart 109-40.51 - Price-Anderson Coverage Certifications for Nuclear Shipments</HEAD>
- 
- 
-@@ -61396,7 +61396,7 @@
+@@ -60736,7 +60736,7 @@
  
  </HEAD>
  
@@ -2608,7 +2225,7 @@
  <HEAD>PART 109-42 - UTILIZATION AND DISPOSAL OF HAZARDOUS MATERIALS AND CERTAIN CATEGORIES OF PROPERTY
  </HEAD>
  <AUTH>
-@@ -61410,7 +61410,7 @@
+@@ -60752,7 +60752,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2617,7 +2234,7 @@
  <HEAD>Subpart 109-42.11 - Special Types of Hazardous Material and Certain Categories of Property</HEAD>
  
  
-@@ -61467,7 +61467,7 @@
+@@ -60811,7 +60811,7 @@
  </DIV5>
  
  
@@ -2626,7 +2243,7 @@
  <HEAD>PART 109-43 - UTILIZATION OF PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -61490,7 +61490,7 @@
+@@ -60834,7 +60834,7 @@
  </DIV8>
  
  
@@ -2635,16 +2252,7 @@
  <HEAD>Subpart 109-43.1 - General Provisions</HEAD>
  
  
-@@ -61514,7 +61514,7 @@
- </DIV6>
- 
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-43.3" TYPE="SUBPART">
- <HEAD>Subpart 109-43.3 - Utilization of Excess</HEAD>
- 
- 
-@@ -61706,7 +61706,7 @@
+@@ -61042,7 +61042,7 @@
  </DIV6>
  
  
@@ -2653,7 +2261,7 @@
  <HEAD>Subpart 109-43.5 - Utilization of Foreign Excess Personal Property</HEAD>
  
  
-@@ -61723,7 +61723,7 @@
+@@ -61057,7 +61057,7 @@
  </DIV6>
  
  
@@ -2662,7 +2270,7 @@
  <HEAD>Subpart 109-43.47 - Reports</HEAD>
  
  
-@@ -61740,7 +61740,7 @@
+@@ -61072,7 +61072,7 @@
  </DIV6>
  
  
@@ -2671,7 +2279,7 @@
  <HEAD>Subpart 109-43.50 - Utilization of Personal Property Held for Facilities in Standby</HEAD>
  
  
-@@ -61781,7 +61781,7 @@
+@@ -61117,7 +61117,7 @@
  </DIV5>
  
  
@@ -2680,7 +2288,7 @@
  <HEAD>PART 109-44 - DONATION OF PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -61795,7 +61795,7 @@
+@@ -61133,7 +61133,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2689,7 +2297,7 @@
  <HEAD>Subpart 109-44.7 - Donations of Property to Public Bodies</HEAD>
  
  
-@@ -61826,7 +61826,7 @@
+@@ -61172,7 +61172,7 @@
  </DIV5>
  
  
@@ -2698,7 +2306,7 @@
  <HEAD>PART 109-45 - SALE, ABANDONMENT, OR DESTRUCTION OF PERSONAL PROPERTY
  </HEAD>
  <SOURCE>
-@@ -61835,7 +61835,7 @@
+@@ -61181,7 +61181,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2707,7 +2315,7 @@
  <HEAD>Subpart 109-45.1 - General</HEAD>
  
  
-@@ -61855,7 +61855,7 @@
+@@ -61199,7 +61199,7 @@
  </DIV6>
  
  
@@ -2716,7 +2324,7 @@
  <HEAD>Subpart 109-45.3 - Sale of Personal Property</HEAD>
  
  
-@@ -62101,7 +62101,7 @@
+@@ -61445,7 +61445,7 @@
  </DIV6>
  
  
@@ -2725,7 +2333,7 @@
  <HEAD>Subpart 109-45.9 - Abandonment or Destruction of Personal Property</HEAD>
  
  
-@@ -62130,7 +62130,7 @@
+@@ -61472,7 +61472,7 @@
  </DIV6>
  
  
@@ -2734,7 +2342,7 @@
  <HEAD>Subpart 109-45.10 - Recovery of Precious Metals</HEAD>
  
  
-@@ -62172,7 +62172,7 @@
+@@ -61512,7 +61512,7 @@
  </DIV6>
  
  
@@ -2743,7 +2351,7 @@
  <HEAD>Subpart 109-45.47 - Reports</HEAD>
  
  
-@@ -62187,7 +62187,7 @@
+@@ -61525,7 +61525,7 @@
  </DIV6>
  
  
@@ -2752,7 +2360,7 @@
  <HEAD>Subpart 109-45.50 - Excess and Surplus Radioactively and Chemically Contaminated Personal Property</HEAD>
  
  
-@@ -62209,7 +62209,7 @@
+@@ -61545,7 +61545,7 @@
  </DIV6>
  
  
@@ -2761,7 +2369,7 @@
  <HEAD>Subpart 109-45.51 - Disposal of Excess and Surplus Personal Property in Foreign Areas</HEAD>
  
  
-@@ -62337,7 +62337,7 @@
+@@ -61675,7 +61675,7 @@
  </DIV5>
  
  
@@ -2770,7 +2378,7 @@
  <HEAD>PART 109-46 - UTILIZATION AND DISPOSAL OF PERSONAL PROPERTY PURSUANT TO EXCHANGE/SALE AUTHORITY
  </HEAD>
  <AUTH>
-@@ -62395,7 +62395,7 @@
+@@ -61735,7 +61735,7 @@
  </DIV8>
  
  
@@ -2779,7 +2387,7 @@
  <HEAD>Subpart 109-46.2 - Authorization</HEAD>
  
  
-@@ -62431,7 +62431,7 @@
+@@ -61773,7 +61773,7 @@
  </DIV5>
  
  
@@ -2788,7 +2396,7 @@
  <HEAD>PART 109-48 - UTILIZATION, DONATION, OR DISPOSAL OF ABANDONED AND FORFEITED PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -62459,7 +62459,7 @@
+@@ -61801,7 +61801,7 @@
  </DIV8>
  
  
@@ -2797,7 +2405,7 @@
  <HEAD>Subpart 109-48.1 - Utilization of Abandoned and Forfeited Personal Property</HEAD>
  
  
-@@ -62487,7 +62487,7 @@
+@@ -61829,7 +61829,7 @@
  </DIV5>
  
  
@@ -2806,7 +2414,7 @@
  <HEAD>PART 109-50 - SPECIAL DOE DISPOSAL AUTHORITIES
  </HEAD>
  <AUTH>
-@@ -62517,7 +62517,7 @@
+@@ -61859,7 +61859,7 @@
  </DIV8>
  
  
@@ -2815,7 +2423,7 @@
  <HEAD>Subpart 109-50.1 - Laboratory Equipment Donation Program Grant Program</HEAD>
  
  
-@@ -62621,7 +62621,7 @@
+@@ -61961,7 +61961,7 @@
  </DIV6>
  
  
@@ -2824,23 +2432,7 @@
  <HEAD>Subpart 109-50.2 - Math and Science Equipment Gift Program</HEAD>
  
  
-@@ -62752,13 +62752,13 @@
- </DIV6>
- 
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-50.3" TYPE="SUBPART">
- <HEAD>Subpart 109-50.3 [Reserved]</HEAD>
- 
- </DIV6>
- 
- 
--<DIV6 N="109" TYPE="SUBPART">
-+<DIV6 N="109-50.4" TYPE="SUBPART">
- <HEAD>Subpart 109-50.4 - Programmatic Disposal to Contractors of DOE Property in a Mixed Facility</HEAD>
- 
- 
-@@ -62828,7 +62828,7 @@
+@@ -62166,7 +62166,7 @@
  </DIV6>
  
  
@@ -2849,7 +2441,7 @@
  <HEAD>Subpart 109-50.48 - Exhibits</HEAD>
  
  
-@@ -62914,7 +62914,7 @@
+@@ -62254,7 +62254,7 @@
  
  <HEAD> CHAPTER 114 - DEPARTMENT OF THE INTERIOR</HEAD>
  
@@ -2858,7 +2450,7 @@
  <HEAD>PART 114-51 - GOVERNMENT FURNISHED QUARTERS
  </HEAD>
  <AUTH>
-@@ -62923,7 +62923,7 @@
+@@ -62263,7 +62263,7 @@
  
  </PSPACE></AUTH>
  
@@ -2867,7 +2459,7 @@
  <HEAD>Subpart 114-51.1 - General</HEAD>
  
  
-@@ -62948,7 +62948,7 @@
+@@ -62288,7 +62288,7 @@
  
  <HEAD> CHAPTER 115 - ENVIRONMENTAL PROTECTION AGENCY</HEAD>
  
@@ -2876,7 +2468,7 @@
  <HEAD>PART 115-1 - INTRODUCTION 
  </HEAD>
  <AUTH>
-@@ -62960,7 +62960,7 @@
+@@ -62300,7 +62300,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2885,7 +2477,7 @@
  <HEAD>Subpart 115-1.1 - Regulation System</HEAD>
  
  
-@@ -63055,7 +63055,7 @@
+@@ -62395,7 +62395,7 @@
  
  <HEAD> CHAPTER 128 - DEPARTMENT OF JUSTICE</HEAD>
  
@@ -2894,7 +2486,7 @@
  <HEAD>PART 128-1 - INTRODUCTION 
  </HEAD>
  <AUTH>
-@@ -63067,7 +63067,7 @@
+@@ -62407,7 +62407,7 @@
  
  </PSPACE></SOURCE>
  
@@ -2903,7 +2495,7 @@
  <HEAD>Subpart 128-1.1 - Regulation System</HEAD>
  
  
-@@ -63109,7 +63109,7 @@
+@@ -62449,7 +62449,7 @@
  </DIV6>
  
  
@@ -2912,7 +2504,7 @@
  <HEAD>Subpart 128-1.50 - Authorities and Responsibilities for Personal Property Management</HEAD>
  
  
-@@ -63431,7 +63431,7 @@
+@@ -62771,7 +62771,7 @@
  </DIV6>
  
  
@@ -2921,7 +2513,7 @@
  <HEAD>Subpart 128-1.80 - Seismic Safety Program</HEAD>
  
  <AUTH>
-@@ -63606,13 +63606,13 @@
+@@ -62946,13 +62946,13 @@
  </DIV5>
  
  
@@ -2937,7 +2529,7 @@
  <HEAD>Subpart 128-18.50 - Uniform Relocation Assistance and Real Property Acquisition for Federal and Federally Assisted Programs</HEAD>
  
  <AUTH>
-@@ -63636,7 +63636,7 @@
+@@ -62976,7 +62976,7 @@
  </DIV5>
  
  
@@ -2946,7 +2538,7 @@
  <HEAD>PART 128-48 - UTILIZATION, DONATION, OR DISPOSAL OF ABANDONED AND FORFEITED PERSONAL PROPERTY
  </HEAD>
  <AUTH>
-@@ -63671,7 +63671,7 @@
+@@ -63011,7 +63011,7 @@
  </DIV8>
  
  
@@ -2955,7 +2547,7 @@
  <HEAD>Subpart 128-48.1 - Utilization of Abandoned and Forfeited Personal Property</HEAD>
  
  
-@@ -63724,7 +63724,7 @@
+@@ -63064,7 +63064,7 @@
  </DIV6>
  
  
@@ -2964,7 +2556,7 @@
  <HEAD>Subpart 128-48.3 - Disposal of Abandoned and Forfeited Personal Property</HEAD>
  
  
-@@ -63739,7 +63739,7 @@
+@@ -63079,7 +63079,7 @@
  </DIV6>
  
  
@@ -2973,7 +2565,7 @@
  <HEAD>Subpart 128-48.50 - Proper Claims for Abandoned or Other Unclaimed Personal Property</HEAD>
  
  
-@@ -63837,7 +63837,7 @@
+@@ -63177,7 +63177,7 @@
  </DIV5>
  
  
@@ -2982,7 +2574,7 @@
  <HEAD>PART 128-50 - SEIZED PERSONAL PROPERTY 
  </HEAD>
  <AUTH>
-@@ -63872,7 +63872,7 @@
+@@ -63212,7 +63212,7 @@
  </DIV8>
  
  
@@ -2991,7 +2583,7 @@
  <HEAD>Subpart 128-50.1 - Storage and Care of Seized Personal Property</HEAD>
  
  
-@@ -64032,7 +64032,7 @@
+@@ -63372,7 +63372,7 @@
  
  </HEAD>
  
@@ -3000,7 +2592,7 @@
  <HEAD>PART 300-1 - THE FEDERAL TRAVEL REGULATION (FTR)
  </HEAD>
  <AUTH>
-@@ -64068,7 +64068,7 @@
+@@ -63408,7 +63408,7 @@
  </DIV5>
  
  
@@ -3009,7 +2601,7 @@
  <HEAD>PART 300-2 - HOW TO USE THE FTR
  </HEAD>
  <AUTH>
-@@ -64173,7 +64173,7 @@
+@@ -63513,7 +63513,7 @@
  </DIV5>
  
  
@@ -3018,7 +2610,7 @@
  <HEAD>PART 300-3 - GLOSSARY OF TERMS
  </HEAD>
  <AUTH>
-@@ -64541,7 +64541,7 @@
+@@ -63880,7 +63880,7 @@
  
  </HEAD>
  
@@ -3027,7 +2619,7 @@
  <HEAD>PART 300-70 - AGENCY REPORTING REQUIREMENTS
  </HEAD>
  <AUTH>
-@@ -64681,7 +64681,7 @@
+@@ -64015,7 +64015,7 @@
  </DIV5>
  
  
@@ -3036,7 +2628,7 @@
  <HEAD>PART 300-80 - RELOCATION EXPENSES TEST PROGRAMS
  </HEAD>
  <AUTH>
-@@ -64822,7 +64822,7 @@
+@@ -64156,7 +64156,7 @@
  </DIV5>
  
  
@@ -3045,16 +2637,7 @@
  <HEAD>PART 300-90 - TELEWORK TRAVEL EXPENSES TEST PROGRAMS
  </HEAD>
  <AUTH>
-@@ -64969,7 +64969,7 @@
- </DIV5>
- 
- 
--<DIV5 N="300-91" TYPE="PART">
-+<DIV5 N="300-91-300-99" TYPE="PART">
- <HEAD>PARTS 300-91 - 300-99 [RESERVED]
- 
- 
-@@ -64991,7 +64991,7 @@
+@@ -64325,7 +64325,7 @@
  
  </HEAD>
  
@@ -3063,7 +2646,7 @@
  <HEAD>PART 301-1 - APPLICABILITY
  </HEAD>
  <AUTH>
-@@ -65056,7 +65056,7 @@
+@@ -64390,7 +64390,7 @@
  </DIV5>
  
  
@@ -3072,7 +2655,7 @@
  <HEAD>PART 301-2 - GENERAL RULES
  </HEAD>
  <AUTH>
-@@ -65168,7 +65168,7 @@
+@@ -64502,7 +64502,7 @@
  
  </HEAD>
  
@@ -3081,7 +2664,7 @@
  <HEAD>PART 301-10 - TRANSPORTATION EXPENSES
  </HEAD>
  <AUTH>
-@@ -66560,7 +66560,7 @@
+@@ -65885,7 +65885,7 @@
  </DIV5>
  
  
@@ -3090,7 +2673,7 @@
  <HEAD>PART 301-11 - PER DIEM EXPENSES
  </HEAD>
  <AUTH>
-@@ -67277,7 +67277,7 @@
+@@ -66599,7 +66599,7 @@
  </DIV5>
  
  
@@ -3099,7 +2682,7 @@
  <HEAD>PART 301-12 - MISCELLANEOUS EXPENSES
  </HEAD>
  <AUTH>
-@@ -67342,7 +67342,7 @@
+@@ -66664,7 +66664,7 @@
  </DIV5>
  
  
@@ -3108,7 +2691,7 @@
  <HEAD>PART 301-13 - TRAVEL OF AN EMPLOYEE WITH SPECIAL NEEDS
  </HEAD>
  <AUTH>
-@@ -67406,7 +67406,7 @@
+@@ -66728,7 +66728,7 @@
  </DIV5>
  
  
@@ -3117,7 +2700,7 @@
  <HEAD>PART 301-30 - EMERGENCY TRAVEL
  </HEAD>
  <AUTH>
-@@ -67493,7 +67493,7 @@
+@@ -66815,7 +66815,7 @@
  </DIV5>
  
  
@@ -3126,7 +2709,7 @@
  <HEAD>PART 301-31 - THREATENED LAW ENFORCEMENT/INVESTIGATIVE EMPLOYEES
  </HEAD>
  <AUTH>
-@@ -67670,7 +67670,7 @@
+@@ -66992,7 +66992,7 @@
  
  </HEAD>
  
@@ -3135,7 +2718,7 @@
  <HEAD>PART 301-50 - ARRANGING FOR TRAVEL SERVICES
  </HEAD>
  <AUTH>
-@@ -67766,7 +67766,7 @@
+@@ -67088,7 +67088,7 @@
  </DIV5>
  
  
@@ -3144,7 +2727,7 @@
  <HEAD>PART 301-51 - PAYING TRAVEL EXPENSES
  </HEAD>
  <AUTH>
-@@ -68045,7 +68045,7 @@
+@@ -67367,7 +67367,7 @@
  </DIV5>
  
  
@@ -3153,7 +2736,7 @@
  <HEAD>PART 301-52 - CLAIMING REIMBURSEMENT
  </HEAD>
  <AUTH>
-@@ -68383,7 +68383,7 @@
+@@ -67705,7 +67705,7 @@
  </DIV5>
  
  
@@ -3162,7 +2745,7 @@
  <HEAD>PART 301-53 - USING PROMOTIONAL MATERIALS AND FREQUENT TRAVELER PROGRAMS 
  </HEAD>
  <AUTH>
-@@ -68466,7 +68466,7 @@
+@@ -67788,7 +67788,7 @@
  </DIV5>
  
  
@@ -3171,7 +2754,7 @@
  <HEAD>PART 301-54 - COLLECTION OF UNDISPUTED DELINQUENT AMOUNTS OWED TO THE CONTRACTOR ISSUING THE INDIVIDUALLY BILLED TRAVEL CHARGE CARD
  </HEAD>
  <AUTH>
-@@ -68561,7 +68561,7 @@
+@@ -67883,7 +67883,7 @@
  
  </HEAD>
  
@@ -3180,7 +2763,7 @@
  <HEAD>PART 301-70 - INTERNAL POLICY AND PROCEDURE REQUIREMENTS
  </HEAD>
  <AUTH>
-@@ -69550,7 +69550,7 @@
+@@ -68868,7 +68868,7 @@
  </DIV5>
  
  
@@ -3189,7 +2772,7 @@
  <HEAD>PART 301-71 - AGENCY TRAVEL ACCOUNTABILITY REQUIREMENTS
  </HEAD>
  <AUTH>
-@@ -70141,7 +70141,7 @@
+@@ -69459,7 +69459,7 @@
  </DIV5>
  
  
@@ -3198,7 +2781,7 @@
  <HEAD>PART 301-72 - AGENCY RESPONSIBILITIES RELATED TO COMMON CARRIER TRANSPORTATION
  </HEAD>
  <AUTH>
-@@ -70341,7 +70341,7 @@
+@@ -69659,7 +69659,7 @@
  </DIV5>
  
  
@@ -3207,7 +2790,7 @@
  <HEAD>PART 301-73 - TRAVEL PROGRAMS
  </HEAD>
  <AUTH>
-@@ -70633,7 +70633,7 @@
+@@ -69951,7 +69951,7 @@
  </DIV5>
  
  
@@ -3216,7 +2799,7 @@
  <HEAD>PART 301-74 - CONFERENCE PLANNING
  </HEAD>
  <AUTH>
-@@ -70908,7 +70908,7 @@
+@@ -70226,7 +70226,7 @@
  </DIV5>
  
  
@@ -3225,7 +2808,7 @@
  <HEAD>PART 301-75 - PRE-EMPLOYMENT INTERVIEW TRAVEL
  </HEAD>
  <AUTH>
-@@ -71122,7 +71122,7 @@
+@@ -70440,7 +70440,7 @@
  </DIV5>
  
  
@@ -3234,16 +2817,7 @@
  <HEAD>PART 301-76 - COLLECTION OF UNDISPUTED DELINQUENT AMOUNTS OWED TO THE CONTRACTOR ISSUING THE INDIVIDUALLY BILLED TRAVEL CHARGE CARD
  </HEAD>
  <AUTH>
-@@ -71218,7 +71218,7 @@
- </DIV5>
- 
- 
--<DIV5 N="301-77" TYPE="PART">
-+<DIV5 N="301-77-301-99" TYPE="PART">
- <HEAD>PARTS 301-77 - 301-99 [RESERVED]
- 
- 
-@@ -72243,7 +72243,7 @@
+@@ -71559,7 +71559,7 @@
  
  </HEAD>
  
@@ -3252,7 +2826,7 @@
  <HEAD>PART 302-1 - GENERAL RULES 
  </HEAD>
  <AUTH>
-@@ -72383,7 +72383,7 @@
+@@ -71698,7 +71698,7 @@
  </DIV5>
  
  
@@ -3261,7 +2835,7 @@
  <HEAD>PART 302-2 - EMPLOYEES ELIGIBILITY REQUIREMENTS 
  </HEAD>
  <AUTH>
-@@ -72858,7 +72858,7 @@
+@@ -72173,7 +72173,7 @@
  
  </HEAD>
  
@@ -3270,7 +2844,7 @@
  <HEAD>PART 302-3 - RELOCATION ALLOWANCE BY SPECIFIC TYPE
  </HEAD>
  <AUTH>
-@@ -74333,7 +74333,7 @@
+@@ -73648,7 +73648,7 @@
  
  </HEAD>
  
@@ -3279,7 +2853,7 @@
  <HEAD>PART 302-4 - ALLOWANCES FOR SUBSISTENCE AND TRANSPORTATION 
  </HEAD>
  <AUTH>
-@@ -74724,7 +74724,7 @@
+@@ -74038,7 +74038,7 @@
  </DIV5>
  
  
@@ -3288,7 +2862,7 @@
  <HEAD>PART 302-5 - ALLOWANCE FOR HOUSEHUNTING TRIP EXPENSES 
  </HEAD>
  <AUTH>
-@@ -75025,7 +75025,7 @@
+@@ -74339,7 +74339,7 @@
  </DIV5>
  
  
@@ -3297,7 +2871,7 @@
  <HEAD>PART 302-6 - ALLOWANCE FOR TEMPORARY QUARTERS SUBSISTENCE EXPENSES 
  </HEAD>
  <AUTH>
-@@ -75563,7 +75563,7 @@
+@@ -74877,7 +74877,7 @@
  
  </HEAD>
  
@@ -3306,7 +2880,7 @@
  <HEAD>PART 302-7 - TRANSPORTATION AND TEMPORARY STORAGE OF HOUSEHOLD GOODS, PROFESSIONAL BOOKS, PAPERS, AND EQUIPMENT, (PBP&amp;E) AND BAGGAGE ALLOWANCE
  </HEAD>
  <AUTH>
-@@ -76238,7 +76238,7 @@
+@@ -75552,7 +75552,7 @@
  </DIV5>
  
  
@@ -3315,7 +2889,7 @@
  <HEAD>PART 302-8 - ALLOWANCES FOR EXTENDED STORAGE OF HOUSEHOLD GOODS (HHG) 
  </HEAD>
  <AUTH>
-@@ -76581,7 +76581,7 @@
+@@ -75895,7 +75895,7 @@
  </DIV5>
  
  
@@ -3324,7 +2898,7 @@
  <HEAD>PART 302-9 - ALLOWANCES FOR TRANSPORTATION AND EMERGENCY OR TEMPORARY STORAGE OF A PRIVATELY OWNED VEHICLE
  </HEAD>
  <AUTH>
-@@ -77360,7 +77360,7 @@
+@@ -76674,7 +76674,7 @@
  </DIV5>
  
  
@@ -3333,7 +2907,7 @@
  <HEAD>PART 302-10 - ALLOWANCES FOR TRANSPORTATION OF MOBILE HOMES AND BOATS USED AS A PRIMARY RESIDENCE 
  </HEAD>
  <AUTH>
-@@ -77684,7 +77684,7 @@
+@@ -76998,7 +76998,7 @@
  
  </HEAD>
  
@@ -3342,7 +2916,7 @@
  <HEAD>PART 302-11 - ALLOWANCES FOR EXPENSES INCURRED IN CONNECTION WITH RESIDENCE TRANSACTIONS
  </HEAD>
  <AUTH>
-@@ -78516,7 +78516,7 @@
+@@ -77830,7 +77830,7 @@
  </DIV5>
  
  
@@ -3351,7 +2925,7 @@
  <HEAD>PART 302-12 - USE OF A RELOCATION SERVICES COMPANY 
  </HEAD>
  <AUTH>
-@@ -78907,7 +78907,7 @@
+@@ -78221,7 +78221,7 @@
  </DIV5>
  
  
@@ -3360,7 +2934,7 @@
  <HEAD>PART 302-14 - HOME MARKETING INCENTIVE PAYMENTS 
  </HEAD>
  <AUTH>
-@@ -79070,7 +79070,7 @@
+@@ -78384,7 +78384,7 @@
  </DIV5>
  
  
@@ -3369,7 +2943,7 @@
  <HEAD>PART 302-15 - ALLOWANCE FOR PROPERTY MANAGEMENT SERVICES 
  </HEAD>
  <AUTH>
-@@ -79293,7 +79293,7 @@
+@@ -78607,7 +78607,7 @@
  
  </HEAD>
  
@@ -3378,7 +2952,7 @@
  <HEAD>PART 302-16 - ALLOWANCE FOR MISCELLANEOUS EXPENSES 
  </HEAD>
  <AUTH>
-@@ -79543,7 +79543,7 @@
+@@ -78857,7 +78857,7 @@
  </DIV5>
  
  
@@ -3387,25 +2961,7 @@
  <HEAD>PART 302-17 - TAXES ON RELOCATION EXPENSES
  </HEAD>
  <AUTH>
-@@ -80487,7 +80487,7 @@
- </DIV5>
- 
- 
--<DIV5 N="302-18" TYPE="PART">
-+<DIV5 N="302-18-302-99" TYPE="PART">
- <HEAD>PARTS 302-18 - 302-99 [RESERVED]
- 
- 
-@@ -80503,7 +80503,7 @@
- 
- <HEAD> CHAPTER 303 - PAYMENT OF EXPENSES CONNECTED WITH THE DEATH OF CERTAIN EMPLOYEES</HEAD>
- 
--<DIV5 N="303-1" TYPE="PART">
-+<DIV5 N="303-1-303-69" TYPE="PART">
- <HEAD>PARTS 303-1-303-69 [RESERVED]
- 
- 
-@@ -80511,7 +80511,7 @@
+@@ -79825,7 +79825,7 @@
  </DIV5>
  
  
@@ -3414,7 +2970,7 @@
  <HEAD>PART 303-70 - AGENCY REQUIREMENTS FOR PAYMENT OF EXPENSES CONNECTED WITH THE DEATH OF CERTAIN EMPLOYEES AND FAMILY MEMBERS
  </HEAD>
  <AUTH>
-@@ -80973,7 +80973,7 @@
+@@ -80287,7 +80287,7 @@
  
  </HEAD>
  
@@ -3423,7 +2979,7 @@
  <HEAD>PART 304-1 - AUTHORITY
  </HEAD>
  <AUTH>
-@@ -81005,7 +81005,7 @@
+@@ -80319,7 +80319,7 @@
  </DIV5>
  
  
@@ -3432,7 +2988,7 @@
  <HEAD>PART 304-2 - DEFINITIONS 
  </HEAD>
  <AUTH>
-@@ -81046,7 +81046,7 @@
+@@ -80359,7 +80359,7 @@
  </DIV5>
  
  
@@ -3441,7 +2997,7 @@
  <HEAD>PART 304-3 - EMPLOYEE RESPONSIBILITY 
  </HEAD>
  <AUTH>
-@@ -81319,7 +81319,7 @@
+@@ -80632,7 +80632,7 @@
  
  </HEAD>
  
@@ -3450,7 +3006,7 @@
  <HEAD>PART 304-4 - AUTHORITY 
  </HEAD>
  <AUTH>
-@@ -81361,7 +81361,7 @@
+@@ -80674,7 +80674,7 @@
  </DIV5>
  
  
@@ -3459,7 +3015,7 @@
  <HEAD>PART 304-5 - AGENCY RESPONSIBILITIES
  </HEAD>
  <AUTH>
-@@ -81469,7 +81469,7 @@
+@@ -80782,7 +80782,7 @@
  </DIV5>
  
  
@@ -3468,7 +3024,7 @@
  <HEAD>PART 304-6 - PAYMENT GUIDELINES 
  </HEAD>
  <AUTH>
-@@ -81622,7 +81622,7 @@
+@@ -80935,7 +80935,7 @@
  
  </HEAD>
  
@@ -3477,7 +3033,7 @@
  <HEAD>PART 304-7 - AUTHORITY/APPLICABILITY
  </HEAD>
  <AUTH>
-@@ -81687,7 +81687,7 @@
+@@ -81000,7 +81000,7 @@
  </DIV5>
  
  
@@ -3486,7 +3042,7 @@
  <HEAD>PART 304-8 - DEFINITIONS 
  </HEAD>
  <AUTH>
-@@ -81709,7 +81709,7 @@
+@@ -81022,7 +81022,7 @@
  </DIV5>
  
  
@@ -3495,12 +3051,3 @@
  <HEAD>PART 304-9 - CONTRIBUTIONS AND AWARDS 
  </HEAD>
  <AUTH>
-@@ -81786,7 +81786,7 @@
- </DIV5>
- 
- 
--<DIV5 N="304-10" TYPE="PART">
-+<DIV5 N="304-10-304-99" TYPE="PART">
- <HEAD>PARTS 304-10 - 304-99 [RESERVED]
- 
- 

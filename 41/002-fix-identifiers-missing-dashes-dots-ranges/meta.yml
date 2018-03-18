@@ -5,19 +5,13 @@ status: 'needs-review'
 patches:
   '001':
     start_date: '2015-01-01'
-    end_date: '2017-10-30'
+    end_date: '2017-04-12'
   '002':
-    start_date: '2017-10-31'
-    end_date: '2017-10-31'
+    start_date: '2017-04-13'
+    end_date: '2017-06-26'
   '003':
-    start_date: '2017-11-01'
-    end_date: '2017-11-01'
+    start_date: '2017-06-27'
+    end_date: '2017-11-28'
   '004':
-    start_date: '2017-11-02'
-    end_date: '2018-01-06'
-  '005':
-    start_date: '2018-01-07'
-    end_date: '2018-01-12'
-  '006':
-    start_date: '2018-01-13'
+    start_date: '2017-11-29'
     end_date: '2100-01-01'
