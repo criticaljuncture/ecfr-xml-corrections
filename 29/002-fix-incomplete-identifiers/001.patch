@@ -1,0 +1,11 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/29/2017/01/2017-01-03.xml	2018-03-18 02:39:52.000000000 -0700
++++ tmp/title_version_29_preprocessed.xml	2018-03-18 02:42:39.000000000 -0700
+@@ -57404,7 +57404,7 @@
+ </DIV6>
+ 
+ 
+-<DIV6 N="E" TYPE="SUBPART">
++<DIV6 N="E-1" TYPE="SUBPART">
+ <HEAD>Subpart E-1 - Occupations in Agriculture Particularly Hazardous for the Employment of Children Below the Age of 16</HEAD>
+ 
+ <AUTH>

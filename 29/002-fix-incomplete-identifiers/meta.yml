@@ -1,0 +1,8 @@
+description: This fixes incomplete identifiers that are missing dashes as ranges for reserved sections or parts/subparts with dashes in them.
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2100-01-01'
