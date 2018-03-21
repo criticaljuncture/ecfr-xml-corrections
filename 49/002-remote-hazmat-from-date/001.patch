@@ -1,0 +1,11 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/49/2017/04/2017-04-05.xml	2018-03-21 14:52:28.000000000 -0700
++++ tmp/title_version_570_preprocessed.xml	2018-03-21 14:54:49.000000000 -0700
+@@ -30369,7 +30369,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Mar. 30, 2016 (Hazmat)
++<AMDDATE>Mar. 30, 2016
+ </AMDDATE>
+ 
+ <DIV1 N="2" TYPE="TITLE">

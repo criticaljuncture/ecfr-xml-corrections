@@ -1,0 +1,11 @@
+description: One of the AMDDATES has "hazmat" at the end and is causing its date to be incorrectly parsed as 2018 instead of 2016.
+tags: ['structural']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-04-05'
+    end_date: '2017-04-17'
+  '002':
+    start_date: '2017-04-18'
+    end_date: '2017-04-18'
