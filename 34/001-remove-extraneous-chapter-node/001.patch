@@ -1,0 +1,18 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/34/2017/04/2017-04-22.xml	2018-03-28 12:02:58.000000000 -0700
++++ tmp/title_version_2888_preprocessed.xml	2018-03-28 12:03:54.000000000 -0700
+@@ -67,7 +67,6 @@
+ <HEAD>Subtitle A - Office of the Secretary, Department of Education
+ </HEAD>
+ 
+-<DIV3 N="I" TYPE="CHAPTER">
+ 
+ <DIV5 N="1-2" TYPE="PART">
+ <HEAD>PARTS 1-2 [RESERVED]
+@@ -17524,7 +17523,6 @@
+ 
+ </DIV5>
+ 
+-</DIV3>
+ 
+ </DIV2>
+ 

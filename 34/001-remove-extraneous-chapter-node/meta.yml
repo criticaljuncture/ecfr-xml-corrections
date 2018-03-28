@@ -1,0 +1,8 @@
+description: Title 34 has an extraneous chapter I nested inside a Subtitle A adjacent to reserved parts 1-2. This removes this chapter.
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2018-02-20'
