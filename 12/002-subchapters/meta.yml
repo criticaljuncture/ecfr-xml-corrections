@@ -1,0 +1,8 @@
+description: Title 12 has two subchapters where identifiers are missing and their head tags are malformed
+tags: ['content-error', transcription-error']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-02-15'
+    end_date: '2100-01-01'
