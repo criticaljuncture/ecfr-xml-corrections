@@ -1,0 +1,8 @@
+description: Title 12 contains three section characters before a range that should only be two.
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2017-03-27'
