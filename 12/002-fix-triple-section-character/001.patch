@@ -1,0 +1,13 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/12/2017/01/2017-01-03.xml	2018-04-13 17:10:41.000000000 -0700
++++ tmp/title_version_13_preprocessed.xml	2018-04-13 17:11:09.000000000 -0700
+@@ -312565,8 +312565,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§§§ 1207.4-1207.9" TYPE="SECTION">
+-<HEAD>§§§ 1207.4-1207.9   [Reserved]</HEAD>
++<DIV8 N="§§ 1207.4-1207.9" TYPE="SECTION">
++<HEAD>§§ 1207.4-1207.9   [Reserved]</HEAD>
+ </DIV8>
+ 
+ </DIV6>
