@@ -1,0 +1,13 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/14/2018/02/2018-02-20.xml	2018-03-26 16:03:50.000000000 -0700
++++ tmp/title_version_2867_preprocessed.xml	2018-03-26 16:14:27.000000000 -0700
+@@ -83141,8 +83141,8 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="" TYPE="APPENDIX">
+-<HEAD>[Reserved] 
++<DIV9 N="Appendix C" TYPE="APPENDIX">
++<HEAD>Appendix C to Part 91 [Reserved]
+ 
+ 
+ </HEAD>
