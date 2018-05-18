@@ -1,0 +1,28 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/37/2018/04/2018-04-17.xml	2018-05-18 16:25:18.000000000 -0700
++++ tmp/title_version_63_preprocessed.xml	2018-05-18 16:33:33.000000000 -0700
+@@ -14532,12 +14532,8 @@
+ 
+ 
+ </PT></SUBCHIND>
+-</DIV4>
+ 
+ 
+-<DIV4 N="" TYPE="SUBCHAP">
+-<HEAD> 
+-</HEAD>
+ <TEXT>
+ <HED1>PART 1 - RULES OF PRACTICE IN PATENT CASES
+ </HED1>
+@@ -22579,12 +22575,8 @@
+ 
+ 
+ </PT></SUBCHIND>
+-</DIV4>
+ 
+ 
+-<DIV4 N="" TYPE="SUBCHAP">
+-<HEAD> 
+-</HEAD>
+ <TEXT>
+ <HED1><I>PRACTICE BEFORE THE PATENT AND TRADEMARK OFFICE</I>
+ 
