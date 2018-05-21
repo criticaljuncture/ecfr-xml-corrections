@@ -1,0 +1,11 @@
+description: Title 49 has a number of Part nodes that are actually more like subject groups or labels. This patch changes these nodes to be TEXT and HED1 nodes instead of DIV5s.
+tags: ['structural']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2018-04-20'
+  '002':
+    start_date: '2018-04-21'
+    end_date: '2100-01-01'

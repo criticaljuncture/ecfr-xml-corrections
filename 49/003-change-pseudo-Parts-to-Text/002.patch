@@ -1,0 +1,254 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/49/2018/04/2018-04-23.xml	2018-05-21 15:39:44.000000000 -0700
++++ title_49_preprocedded_2018-04-23_already_patched.xml	2018-05-21 15:33:39.000000000 -0700
+@@ -285435,12 +285435,11 @@
+ 
+ </HEAD>
+ 
+-<DIV5 N="1000-1019" TYPE="PART">
+-<HEAD>Parts 1000-1019 - General Provisions 
+-
+-
+-</HEAD>
+-</DIV5>
++<TEXT>
++  <HED1>
++    Parts 1000-1019 - General Provisions 
++  </HED1>
++</TEXT>
+ 
+ 
+ <DIV5 N="1000" TYPE="PART">
+@@ -288833,13 +288832,11 @@
+ 
+ </DIV5>
+ 
+-
+-<DIV5 N="1021-1029" TYPE="PART">
+-<HEAD>Parts 1021-1029 - Enforcement 
+-
+-
+-</HEAD>
+-</DIV5>
++<TEXT>
++  <HED1>
++    Parts 1021-1029 - Enforcement 
++  </HED1>
++</TEXT>
+ 
+ 
+ <DIV5 N="1021" TYPE="PART">
+@@ -289048,12 +289045,11 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="1030-1039" TYPE="PART">
+-<HEAD>Parts 1030-1039 - Carriers Subject to Part I, Interstate Commerce Act 
+-
+-
+-</HEAD>
+-</DIV5>
++<TEXT>
++  <HED1>
++    Parts 1030-1039 - Carriers Subject to Part I, Interstate Commerce Act 
++  </HED1>
++</TEXT>
+ 
+ 
+ <DIV5 N="1033" TYPE="PART">
+@@ -289827,13 +289823,11 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="1090-1099" TYPE="PART">
+-<HEAD>Parts 1090-1099 - Intermodal Transportation 
+-
+-
+-</HEAD>
+-</DIV5>
+-
++<TEXT>
++  <HED1>
++    Parts 1090-1099 - Intermodal Transportation 
++  </HED1>
++</TEXT>
+ 
+ <DIV5 N="1090" TYPE="PART">
+ <HEAD>PART 1090 - PRACTICES OF CARRIERS INVOLVED IN THE INTERMODAL MOVEMENT OF CONTAINERIZED FREIGHT
+@@ -289904,12 +289898,13 @@
+ 
+ </HEAD>
+ 
+-<DIV5 N="1100-1129" TYPE="PART">
+-<HEAD>Parts 1100-1129 - Rules of General Applicability
+ 
+ 
+-</HEAD>
+-</DIV5>
++<TEXT>
++  <HED1>
++    Parts 1100-1129 - Rules of General Applicability
++  </HED1>
++</TEXT>
+ 
+ 
+ <DIV5 N="1100" TYPE="PART">
+@@ -293754,13 +293749,11 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="1130-1149" TYPE="PART">
+-<HEAD>Parts 1130-1149 - Rate Procedures
+-
+-
+-</HEAD>
+-</DIV5>
+-
++<TEXT>
++  <HED1>
++    Parts 1130-1149 - Rate Procedures
++  </HED1>
++</TEXT>
+ 
+ <DIV5 N="1130" TYPE="PART">
+ <HEAD>PART 1130 - INFORMAL COMPLAINTS
+@@ -294242,21 +294235,18 @@
+ </HEAD>
+ </DIV5>
+ 
+-
+-<DIV5 N="1150-1176" TYPE="PART">
+-<HEAD>Parts 1150-1176 - Licensing Procedures
+-
+-
+-</HEAD>
+-</DIV5>
+-
+-
+-<DIV5 N="1150-1159" TYPE="PART">
+-<HEAD>Parts 1150-1159 - Rail Licensing Procedures
++<TEXT>
++  <HED1>
++    Parts 1150-1176 - Licensing Procedures
++  </HED1>
++</TEXT>
+ 
+ 
+-</HEAD>
+-</DIV5>
++<TEXT>
++  <HED1>
++    Parts 1150-1159 - Rail Licensing Procedures
++  </HED1>
++</TEXT>
+ 
+ 
+ <DIV5 N="1150" TYPE="PART">
+@@ -298085,20 +298075,21 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="1177-1199" TYPE="PART">
+-<HEAD>Parts 1177-1199 - Finance Procedures
+-
+ 
+-</HEAD>
+-</DIV5>
++<TEXT>
++  <HED1>
++    Parts 1177-1199 - Finance Procedures
++  </HED1>
++</TEXT>
+ 
+ 
+-<DIV5 N="1177-1179" TYPE="PART">
+-<HEAD>Parts 1177-1179 - Securities, Security Interests and Financial Structures
+ 
++<TEXT>
++  <HED1>
++    Parts 1177-1179 - Securities, Security Interests and Financial Structures
++  </HED1>
++</TEXT>
+ 
+-</HEAD>
+-</DIV5>
+ 
+ 
+ <DIV5 N="1177" TYPE="PART">
+@@ -298330,12 +298321,12 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="1180-1189" TYPE="PART">
+-<HEAD>Parts 1180-1189 - Combinations and Ownership
+-
++<TEXT>
++  <HED1>
++    Parts 1180-1189 - Combinations and Ownership
++  </HED1>
++</TEXT>
+ 
+-</HEAD>
+-</DIV5>
+ 
+ 
+ <DIV5 N="1180" TYPE="PART">
+@@ -299620,13 +299611,12 @@
+ 
+ </HEAD>
+ 
+-<DIV5 N="1200-1219" TYPE="PART">
+-<HEAD>PARTS 1200-1219 - UNIFORM SYSTEMS OF ACCOUNTS
+-
+-
+-</HEAD>
+-</DIV5>
+ 
++<TEXT>
++  <HED1>
++    PARTS 1200-1219 - UNIFORM SYSTEMS OF ACCOUNTS
++  </HED1>
++</TEXT>
+ 
+ <DIV5 N="1200" TYPE="PART">
+ <HEAD>PART 1200 - GENERAL ACCOUNTING REGULATIONS UNDER THE INTERSTATE COMMERCE ACT
+@@ -308984,16 +308974,15 @@
+ 
+ </DIV5>
+ 
+-
+-<DIV5 N="1240" TYPE="PART">
+-<HEAD>PARTS 1240-1259 - REPORTS
+-
+-
+-</HEAD>
++<TEXT>
++  <HED1>
++    PARTS 1240-1259 - REPORTS
++  </HED1>
++</TEXT>
+ <NOTE>
+ <HED>Note:</HED>
+ <P>The report forms prescribed by parts 1240-1259 are available upon request from the Office of Economics, Surface Transportation Board, Washington, DC.</P></NOTE>
+-</DIV5>
++
+ 
+ 
+ <DIV5 N="1241" TYPE="PART">
+@@ -312378,12 +312367,11 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="1280-1299" TYPE="PART">
+-<HEAD>PARTS 1280-1299 - CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
+-
+-
+-</HEAD>
+-</DIV5>
++<TEXT>
++  <HED1>
++    PARTS 1280-1299 - CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
++  </HED1>
++</TEXT>
+ 
+ 
+ <DIV5 N="1280" TYPE="PART">
