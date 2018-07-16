@@ -1,0 +1,11 @@
+--- /Users/bobburbach/code/critical_juncture/ecfr-versioner/data/titles/preprocessed/xml/40/2018/07/2018-07-05.xml	2018-07-16 16:04:23.000000000 -0700
++++ tmp/title_version_2510_preprocessed.xml	2018-07-16 16:09:41.000000000 -0700
+@@ -759081,7 +759081,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>, 2018
++<AMDDATE>Feb. 7, 2018
+ </AMDDATE>
+ 
+ <DIV1 N="24" TYPE="TITLE">

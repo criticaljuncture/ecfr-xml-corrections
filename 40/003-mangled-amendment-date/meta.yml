@@ -1,0 +1,8 @@
+description: Amendment date was mangled
+tags: 'structural, transcription-error'
+status: 'approved'
+
+patches:
+  '001':
+    start_date: '2018-07-05'
+    end_date: '2018-07-16'
