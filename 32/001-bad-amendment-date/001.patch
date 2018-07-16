@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/32/2017/01/2017-01-03.xml	2018-07-16 17:56:39.000000000 -0400
++++ tmp/title_version_32_preprocessed.xml	2018-07-16 18:11:57.000000000 -0400
+@@ -100853,7 +100853,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>October 36, 2016
++<AMDDATE>October 26, 2016
+ </AMDDATE>
+ 
+ <DIV1 N="3" TYPE="TITLE">
