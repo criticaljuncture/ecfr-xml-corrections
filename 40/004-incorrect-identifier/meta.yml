@@ -1,0 +1,8 @@
+description: Identifier had spaces in it when it shouldn't have (only dashed identifier ranges should have spaces)
+tags: 'structural, transcription-error'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2017-09-29'
