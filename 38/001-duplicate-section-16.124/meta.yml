@@ -1,0 +1,8 @@
+description: An editors future work leaked into the ecfr resulting in a duplicate section, see https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/105708606/comments#comments
+tags: 'structural, transcription-error'
+status: 'approved'
+
+patches:
+  '001':
+    start_date: '2017-06-17'
+    end_date: '2018-06-07'
