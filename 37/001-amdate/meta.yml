@@ -1,8 +1,8 @@
-description: Amendment date was missing a year of 2017
+description: Amendment date was incorrectly entered as January 1 with no year
 tags: 'structural, transcription-error'
-status: 'needs-review'
+status: 'approved'
 
 patches:
   '001':
     start_date: '2017-01-07'
-    end_date: '2017-01-07'
+    end_date: '2017-01-23'
