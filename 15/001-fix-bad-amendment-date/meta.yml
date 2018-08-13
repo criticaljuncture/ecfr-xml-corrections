@@ -1,0 +1,8 @@
+description: Amendment date change was fat fingered to be 'Sept. 255' instead of 'Sept. 25'.
+tags: 'structural'
+status: 'needs-approved'
+
+patches:
+  '001':
+    start_date: '2017-09-27'
+    end_date: '2017-10-07'
