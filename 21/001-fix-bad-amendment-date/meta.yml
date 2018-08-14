@@ -1,0 +1,8 @@
+description: Amendment date change was misentered as 'Nov. 73' instead of 'Nov. 7'.
+tags: 'structural'
+status: 'needs-approved'
+
+patches:
+  '001':
+    start_date: '2017-11-09'
+    end_date: '2017-11-20'
