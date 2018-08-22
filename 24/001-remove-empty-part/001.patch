@@ -1,0 +1,22 @@
+--- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/24/2017/01/2017-01-03.xml	2018-08-22 09:49:49.000000000 -0700
++++ tmp/title_version_1_preprocessed.xml	2018-08-22 09:50:17.000000000 -0700
+@@ -27469,11 +27469,8 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="" TYPE="PART">
+-<HEAD> 
+ 
+ 
+-</HEAD>
+ 
+ <DIV9 N="" TYPE="APPENDIX">
+ <HEAD>Appendixes A-C to Subtitle A [Reserved]
+@@ -27482,7 +27479,6 @@
+ </HEAD>
+ </DIV9>
+ 
+-</DIV5>
+ 
+ </DIV2>
+ 

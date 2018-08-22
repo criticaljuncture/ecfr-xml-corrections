@@ -1,0 +1,8 @@
+description: Title 24 contains an appendix that is beneath an empty part. We're removing the empty part and setting the appendix to be a descendant of a Subtitle A.
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2100-01-01'
