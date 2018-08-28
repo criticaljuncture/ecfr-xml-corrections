@@ -1,0 +1,8 @@
+description: An editor looks to have been cleaning up formatting and accidentally replaced the amendment date month/day with the letter 'z'
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-09-28'
+    end_date: '2017-09-30'
