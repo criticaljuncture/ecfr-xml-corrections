@@ -1,0 +1,15 @@
+--- /home/app/data/titles/preprocessed/xml/05/2018/11/2018-11-03.xml	2018-11-15 15:48:00.940229863 -0500
++++ tmp/title_version_7192_preprocessed.xml	2018-11-15 15:49:54.256268999 -0500
+@@ -139852,12 +139852,6 @@
+ 
+ 
+ <DIV3 N="CI" TYPE="CHAPTER">
+-
+-<HEAD> CHAPTER CI - NATIONAL MEDIATION BOARD</HEAD>
+-</DIV3>
+-
+-
+-<DIV3 N="" TYPE="CHAPTER">
+ <HED>CHAPTER CI - NATIONAL MEDIATION BOARD
+ </HED>
+ 
