@@ -1,0 +1,8 @@
+description: Subpart C to Part 5 was not closed at the correct place in the XML resulting in it wrapping Appendices to the Part that it shouldn't have
+tags: 'structural'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2018-08-06'
