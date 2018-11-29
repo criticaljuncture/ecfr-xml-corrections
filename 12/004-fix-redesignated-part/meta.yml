@@ -1,0 +1,8 @@
+description: Part 1207 was redesignated as Part 1223, however the editor did not fully complete the changes neccessary and we have two Part 1207, one with 1223.x sections
+tags: ['content-error', transcription-error']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-03-28'
+    end_date: '2017-04-04'
