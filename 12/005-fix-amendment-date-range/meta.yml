@@ -1,0 +1,8 @@
+description: The amendment date for Volume 9 was entered as a date range, 'Jan 15-16, 2018' that isn't parsable
+tags: ['content-error', transcription-error']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-01-18'
+    end_date: '2018-02-14'
