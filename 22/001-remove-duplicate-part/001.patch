@@ -1,0 +1,18 @@
+--- /home/app/data/titles/preprocessed/xml/22/2017/03/2017-03-15.xml	2018-11-30 12:46:14.493398034 -0500
++++ tmp/title_version_418_preprocessed.xml	2018-11-30 12:48:11.727967336 -0500
+@@ -73971,15 +73971,6 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="1506" TYPE="PART">
+-<HEAD>PART 1506 - COLLECTION OF CLAIMS
+-
+-
+-
+-
+-</HEAD>
+-</DIV5>
+-
+ 
+ <DIV5 N="1506" TYPE="PART">
+ <HEAD>PART 1506 - COLLECTION OF CLAIMS

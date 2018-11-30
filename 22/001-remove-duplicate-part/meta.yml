@@ -1,0 +1,8 @@
+description: Part 1506 appears twice, once with no content.
+tags: 'structural'
+status: 'needs-approved'
+
+patches:
+  '001':
+    start_date: '2017-03-15'
+    end_date: '2017-09-07'
