@@ -1,0 +1,25 @@
+--- /home/app/data/titles/preprocessed/xml/24/2017/01/2017-01-03.xml	2018-11-30 13:41:51.633631573 -0500
++++ tmp/title_version_24_preprocessed.xml	2018-11-30 13:48:58.041856121 -0500
+@@ -27469,21 +27469,13 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="" TYPE="PART">
+-<HEAD> 
+-
+-
+-</HEAD>
+-
+-<DIV9 N="" TYPE="APPENDIX">
++<DIV9 N="Appendixes A-C" TYPE="APPENDIX">
+ <HEAD>Appendixes A-C to Subtitle A [Reserved]
+ 
+ 
+ </HEAD>
+ </DIV9>
+ 
+-</DIV5>
+-
+ </DIV2>
+ 
+ <DIV2 N="Subtitle B" TYPE="SUBTITLE">
