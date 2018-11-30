@@ -1,0 +1,8 @@
+description: Chapter V was removed (leaving all of Volume 6 empty) but there are a number of invalid nodes left behind in the XML
+tags: ['content-error', transcription-error']
+status: 'internal-structure-need'
+
+patches:
+  '001':
+    start_date: '2018-10-16'
+    end_date: '2100-01-01'
