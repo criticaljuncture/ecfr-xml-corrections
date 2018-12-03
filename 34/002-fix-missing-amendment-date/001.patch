@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/34/2018/10/2018-10-19.xml	2018-12-03 13:22:16.884798782 -0500
++++ tmp/title_version_7195_preprocessed.xml	2018-12-03 13:29:11.123924009 -0500
+@@ -104340,7 +104340,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>, 2018
++<AMDDATE>October 16, 2018
+ </AMDDATE>
+ <RESERVED>[Reserved]
+ </RESERVED>

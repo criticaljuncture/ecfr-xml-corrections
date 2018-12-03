@@ -1,0 +1,8 @@
+description: Sections in Title 34 Vols 3 and 4 were updated but the amendment date for Vol 4 was left blank
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-10-19'
+    end_date: '2100-01-01'
