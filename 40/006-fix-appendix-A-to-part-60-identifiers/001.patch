@@ -1,0 +1,74 @@
+--- /home/app/data/titles/preprocessed/xml/40/2017/01/2017-01-03.xml	2018-12-06 15:56:40.797856571 -0500
++++ tmp/title_version_39_preprocessed.xml	2018-12-06 15:53:14.008802776 -0500
+@@ -248165,7 +248165,7 @@
+ 
+ </PSPACE></SOURCE>
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-1" TYPE="APPENDIX">
+ <HEAD>Appendix A-1 to Part 60 - Test Methods 1 through 2F
+ 
+ 
+@@ -250669,7 +250669,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-2" TYPE="APPENDIX">
+ <HEAD>Appendix A-2 to Part 60 - Test Methods 2G through 3C
+ 
+ 
+@@ -252644,7 +252644,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-3" TYPE="APPENDIX">
+ <HEAD>Appendix A-3 to Part 60 - Test Methods 4 through 5I
+ 
+ 
+@@ -256182,7 +256182,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-4" TYPE="APPENDIX">
+ <HEAD>Appendix A-4 to Part 60 - Test Methods 6 through 10B
+ 
+ 
+@@ -260363,7 +260363,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-5" TYPE="APPENDIX">
+ <HEAD>Appendix A-5 to Part 60 - Test Methods 11 through 15A
+ 
+ 
+@@ -262724,7 +262724,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-6" TYPE="APPENDIX">
+ <HEAD>Appendix A-6 to Part 60 - Test Methods 16 through 18
+ 
+ 
+@@ -264992,7 +264992,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-7" TYPE="APPENDIX">
+ <HEAD>Appendix A-7 to Part 60 - Test Methods 19 through 25E
+ 
+ 
+@@ -268378,7 +268378,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-8" TYPE="APPENDIX">
+ <HEAD>Appendix A-8 to Part 60 - Test Methods 26 through 30B
+ 
+ 

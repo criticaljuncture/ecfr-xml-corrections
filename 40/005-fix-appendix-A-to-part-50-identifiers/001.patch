@@ -1,0 +1,20 @@
+--- /home/app/data/titles/preprocessed/xml/40/2017/01/2017-01-03.xml	2018-12-06 15:46:31.709041062 -0500
++++ tmp/title_version_39_preprocessed.xml	2018-12-06 15:43:16.673480506 -0500
+@@ -42477,7 +42477,7 @@
+ </DIV8>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-1" TYPE="APPENDIX">
+ <HEAD>Appendix A-1 to Part 50 - Reference Measurement Principle and Calibration Procedure for the Measurement of Sulfur Dioxide in the Atmosphere (Ultraviolet Fluorescence Method)
+ </HEAD>
+ <HD1>1.0 Applicability
+@@ -42588,7 +42588,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
++<DIV9 N="Appendix A-2" TYPE="APPENDIX">
+ <HEAD>Appendix A-2 to Part 50 - Reference Method for the Determination of Sulfur Dioxide in the Atmosphere (Pararosaniline Method)
+ </HEAD>
+ <P>1.0 <I>Applicability.</I>
