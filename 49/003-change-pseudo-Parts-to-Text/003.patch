@@ -1,6 +1,6 @@
---- /home/app/data/titles/preprocessed/xml/49/2018/04/2018-04-23.xml	2018-12-10 18:17:18.459593757 -0500
-+++ tmp/title_version_6437_preprocessed.xml	2018-12-10 18:25:04.516253432 -0500
-@@ -285435,12 +285435,10 @@
+--- /home/app/data/titles/preprocessed/xml/49/2018/05/2018-05-23.xml	2018-12-10 19:14:09.832267746 -0500
++++ tmp/title_version_6609_preprocessed.xml	2018-12-10 19:15:35.438825149 -0500
+@@ -285508,12 +285508,10 @@
  
  </HEAD>
  
@@ -17,7 +17,7 @@
  
  
  <DIV5 N="1000" TYPE="PART">
-@@ -288834,12 +288832,10 @@
+@@ -288893,12 +288891,10 @@
  </DIV5>
  
  
@@ -34,7 +34,7 @@
  
  
  <DIV5 N="1021" TYPE="PART">
-@@ -289048,12 +289044,10 @@
+@@ -289107,12 +289103,10 @@
  </DIV5>
  
  
@@ -51,7 +51,7 @@
  
  
  <DIV5 N="1033" TYPE="PART">
-@@ -289827,12 +289821,10 @@
+@@ -289843,12 +289837,10 @@
  </DIV5>
  
  
@@ -68,7 +68,7 @@
  
  
  <DIV5 N="1090" TYPE="PART">
-@@ -289904,12 +289896,10 @@
+@@ -289921,12 +289913,10 @@
  
  </HEAD>
  
@@ -85,7 +85,7 @@
  
  
  <DIV5 N="1100" TYPE="PART">
-@@ -293754,12 +293744,10 @@
+@@ -293727,12 +293717,10 @@
  </DIV5>
  
  
@@ -102,7 +102,7 @@
  
  
  <DIV5 N="1130" TYPE="PART">
-@@ -294243,12 +294231,10 @@
+@@ -294223,12 +294211,10 @@
  </DIV5>
  
  
@@ -119,7 +119,7 @@
  
  
  <DIV5 N="1150-1159" TYPE="PART">
-@@ -298085,12 +298071,10 @@
+@@ -298058,12 +298044,10 @@
  </DIV5>
  
  
@@ -136,7 +136,7 @@
  
  
  <DIV5 N="1177-1179" TYPE="PART">
-@@ -298330,12 +298314,10 @@
+@@ -298302,12 +298286,10 @@
  </DIV5>
  
  
@@ -153,7 +153,7 @@
  
  
  <DIV5 N="1180" TYPE="PART">
-@@ -299620,12 +299602,10 @@
+@@ -299594,12 +299576,10 @@
  
  </HEAD>
  
@@ -170,7 +170,7 @@
  
  
  <DIV5 N="1200" TYPE="PART">
-@@ -308985,15 +308965,13 @@
+@@ -308961,15 +308941,13 @@
  </DIV5>
  
  
@@ -190,37 +190,3 @@
  
  
  <DIV5 N="1241" TYPE="PART">
-@@ -312361,25 +312339,23 @@
- </DIV5>
- 
- 
--<DIV5 N="1260-1269" TYPE="PART">
--<HEAD>PARTS 1260-1269 - VALUATION
--</HEAD>
-+<TEXT>
-+<HED1>PARTS 1260-1269 - VALUATION
-+</HED1>
- <XREF ID="20180419">Link to an amendment published at 83 FR 17300, Apr. 19, 2018.</XREF>
- <NOTE>
- <HED>Note:</HED>
- <P>The report forms prescribed by parts 1260-1269 are available upon request from the Office of Economics, Environmental Analysis, and Administration, Surface Transportation Board, Washington, DC 20423-0001.</P></NOTE>
--</DIV5>
--
--
-+</TEXT>
- 
- 
- 
--<DIV5 N="1280-1299" TYPE="PART">
--<HEAD>PARTS 1280-1299 - CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
- 
- 
--</HEAD>
--</DIV5>
-+<TEXT>
-+<HED1>PARTS 1280-1299 - CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
-+</HED1>
-+</TEXT>
- 
- 
- <DIV5 N="1280" TYPE="PART">

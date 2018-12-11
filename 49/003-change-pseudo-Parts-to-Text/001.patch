@@ -1,6 +1,6 @@
---- /Users/Andrew/Dropbox/code/ecfr-versioner/data/titles/preprocessed/xml/49/2017/01/2017-01-03.xml	2018-05-18 16:49:22.000000000 -0700
-+++ tmp/title_version_84_preprocessed.xml	2018-05-21 12:19:25.000000000 -0700
-@@ -275525,12 +275525,11 @@
+--- /home/app/data/titles/preprocessed/xml/49/2017/01/2017-01-03.xml	2018-12-10 17:29:31.463558367 -0500
++++ tmp/title_version_48_preprocessed.xml	2018-12-10 17:46:37.545308490 -0500
+@@ -275487,12 +275487,10 @@
  
  </HEAD>
  
@@ -11,18 +11,16 @@
 -</HEAD>
 -</DIV5>
 +<TEXT>
-+  <HED1>
-+    Parts 1000-1019 - General Provisions 
-+  </HED1>
++<HED1>Parts 1000-1019 - General Provisions 
++</HED1>
 +</TEXT>
  
  
  <DIV5 N="1000" TYPE="PART">
-@@ -278908,13 +278907,11 @@
- 
+@@ -278871,12 +278869,10 @@
  </DIV5>
  
--
+ 
 -<DIV5 N="1021-1029" TYPE="PART">
 -<HEAD>Parts 1021-1029 - Enforcement 
 -
@@ -30,14 +28,13 @@
 -</HEAD>
 -</DIV5>
 +<TEXT>
-+  <HED1>
-+    Parts 1021-1029 - Enforcement 
-+  </HED1>
++<HED1>Parts 1021-1029 - Enforcement 
++</HED1>
 +</TEXT>
  
  
  <DIV5 N="1021" TYPE="PART">
-@@ -279137,12 +279134,11 @@
+@@ -279099,12 +279095,10 @@
  </DIV5>
  
  
@@ -48,14 +45,13 @@
 -</HEAD>
 -</DIV5>
 +<TEXT>
-+  <HED1>
-+    Parts 1030-1039 - Carriers Subject to Part I, Interstate Commerce Act 
-+  </HED1>
++<HED1>Parts 1030-1039 - Carriers Subject to Part I, Interstate Commerce Act 
++</HED1>
 +</TEXT>
  
  
  <DIV5 N="1033" TYPE="PART">
-@@ -279928,13 +279924,11 @@
+@@ -279890,12 +279884,10 @@
  </DIV5>
  
  
@@ -65,34 +61,31 @@
 -
 -</HEAD>
 -</DIV5>
--
 +<TEXT>
-+  <HED1>
-+    Parts 1090-1099 - Intermodal Transportation 
-+  </HED1>
++<HED1>Parts 1090-1099 - Intermodal Transportation 
++</HED1>
 +</TEXT>
  
+ 
  <DIV5 N="1090" TYPE="PART">
- <HEAD>PART 1090 - PRACTICES OF CARRIERS INVOLVED IN THE INTERMODAL MOVEMENT OF CONTAINERIZED FREIGHT
-@@ -280006,12 +280000,13 @@
+@@ -279968,12 +279960,10 @@
  
  </HEAD>
  
 -<DIV5 N="1100-1129" TYPE="PART">
 -<HEAD>Parts 1100-1129 - Rules of General Applicability
- 
- 
+-
+-
 -</HEAD>
 -</DIV5>
 +<TEXT>
-+  <HED1>
-+    Parts 1100-1129 - Rules of General Applicability
-+  </HED1>
++<HED1>Parts 1100-1129 - Rules of General Applicability
++</HED1>
 +</TEXT>
  
  
  <DIV5 N="1100" TYPE="PART">
-@@ -283621,13 +283616,11 @@
+@@ -283583,12 +283573,10 @@
  </DIV5>
  
  
@@ -102,99 +95,65 @@
 -
 -</HEAD>
 -</DIV5>
--
 +<TEXT>
-+  <HED1>
-+    Parts 1130-1149 - Rate Procedures
-+  </HED1>
++<HED1>Parts 1130-1149 - Rate Procedures
++</HED1>
 +</TEXT>
  
+ 
  <DIV5 N="1130" TYPE="PART">
- <HEAD>PART 1130 - INFORMAL COMPLAINTS
-@@ -284116,21 +284109,18 @@
- </HEAD>
+@@ -284079,12 +284067,10 @@
  </DIV5>
  
--
+ 
 -<DIV5 N="1150-1176" TYPE="PART">
 -<HEAD>Parts 1150-1176 - Licensing Procedures
 -
 -
 -</HEAD>
 -</DIV5>
--
--
--<DIV5 N="1150-1159" TYPE="PART">
--<HEAD>Parts 1150-1159 - Rail Licensing Procedures
 +<TEXT>
-+  <HED1>
-+    Parts 1150-1176 - Licensing Procedures
-+  </HED1>
++<HED1>Parts 1150-1176 - Licensing Procedures
++</HED1>
 +</TEXT>
  
  
--</HEAD>
--</DIV5>
-+<TEXT>
-+  <HED1>
-+    Parts 1150-1159 - Rail Licensing Procedures
-+  </HED1>
-+</TEXT>
- 
- 
- <DIV5 N="1150" TYPE="PART">
-@@ -287938,21 +287928,22 @@
+ <DIV5 N="1150-1159" TYPE="PART">
+@@ -287900,12 +287886,10 @@
  </DIV5>
  
  
 -<DIV5 N="1177-1199" TYPE="PART">
 -<HEAD>Parts 1177-1199 - Finance Procedures
- 
-+<TEXT>
-+  <HED1>
-+    Parts 1177-1199 - Finance Procedures
-+  </HED1>
-+</TEXT>
- 
--</HEAD>
--</DIV5>
- 
- 
--<DIV5 N="1177-1179" TYPE="PART">
--<HEAD>Parts 1177-1179 - Securities, Security Interests and Financial Structures
-+<TEXT>
-+  <HED1>
-+    Parts 1177-1179 - Securities, Security Interests and Financial Structures
-+  </HED1>
-+</TEXT>
- 
- 
--</HEAD>
--</DIV5>
 -
+-
+-</HEAD>
+-</DIV5>
++<TEXT>
++<HED1>Parts 1177-1199 - Finance Procedures
++</HED1>
++</TEXT>
  
- <DIV5 N="1177" TYPE="PART">
- <HEAD>PART 1177 - RECORDATION OF DOCUMENTS
-@@ -288180,13 +288171,13 @@
+ 
+ <DIV5 N="1177-1179" TYPE="PART">
+@@ -288142,12 +288126,10 @@
  </DIV5>
  
  
 -<DIV5 N="1180-1189" TYPE="PART">
 -<HEAD>Parts 1180-1189 - Combinations and Ownership
+-
+-
+-</HEAD>
+-</DIV5>
 +<TEXT>
-+  <HED1>
-+    Parts 1180-1189 - Combinations and Ownership
-+  </HED1>
++<HED1>Parts 1180-1189 - Combinations and Ownership
++</HED1>
 +</TEXT>
  
  
--</HEAD>
--</DIV5>
--
- 
  <DIV5 N="1180" TYPE="PART">
- <HEAD>PART 1180 - RAILROAD ACQUISITION, CONTROL, MERGER, CONSOLIDATION PROJECT, TRACKAGE RIGHTS, AND LEASE PROCEDURES
-@@ -289461,13 +289452,12 @@
+@@ -289423,12 +289405,10 @@
  
  </HEAD>
  
@@ -204,62 +163,52 @@
 -
 -</HEAD>
 -</DIV5>
- 
 +<TEXT>
-+  <HED1>
-+    PARTS 1200-1219 - UNIFORM SYSTEMS OF ACCOUNTS
-+  </HED1>
++<HED1>PARTS 1200-1219 - UNIFORM SYSTEMS OF ACCOUNTS
++</HED1>
 +</TEXT>
  
- <DIV5 N="1200" TYPE="PART">
- <HEAD>PART 1200 - GENERAL ACCOUNTING REGULATIONS UNDER THE INTERSTATE COMMERCE ACT
-@@ -298822,16 +298812,15 @@
  
+ <DIV5 N="1200" TYPE="PART">
+@@ -298785,15 +298765,13 @@
  </DIV5>
  
--
--<DIV5 N="1240" TYPE="PART">
+ 
+-<DIV5 N="1240-1259" TYPE="PART">
 -<HEAD>PARTS 1240-1259 - REPORTS
 -
 -
 -</HEAD>
 +<TEXT>
-+  <HED1>
-+    PARTS 1240-1259 - REPORTS
++  <HED1>PARTS 1240-1259 - REPORTS
 +  </HED1>
-+</TEXT>
  <NOTE>
  <HED>Note:</HED>
  <P>The report forms prescribed by parts 1240-1259 are available upon request from the Office of Economics, Surface Transportation Board, Washington, DC.</P></NOTE>
 -</DIV5>
-+
++</TEXT>
  
  
  <DIV5 N="1241" TYPE="PART">
-@@ -301982,14 +301971,15 @@
- 
+@@ -301941,13 +301919,13 @@
  </DIV5>
  
-+<TEXT>
-+  <HED1>
-+    PARTS 1260-1269 - VALUATION
-+  </HED1>
-+	<NOTE>
-+	<HED>Note:</HED>
-+	<P>The report forms prescribed by parts 1260-1269 are available upon request from the Office of Economics, Environmental Analysis, and Administration, Surface Transportation Board, Washington, DC 20423-0001.</P></NOTE>
-+</TEXT>
  
--<DIV5 N="1260" TYPE="PART">
+-<DIV5 N="1260-1269" TYPE="PART">
 -<HEAD>PARTS 1260-1269 - VALUATION
 -</HEAD>
--<NOTE>
--<HED>Note:</HED>
--<P>The report forms prescribed by parts 1260-1269 are available upon request from the Office of Economics, Environmental Analysis, and Administration, Surface Transportation Board, Washington, DC 20423-0001.</P></NOTE>
++<TEXT>
++<HED1>PARTS 1260-1269 - VALUATION
++</HED1>
+ <NOTE>
+ <HED>Note:</HED>
+ <P>The report forms prescribed by parts 1260-1269 are available upon request from the Office of Economics, Environmental Analysis, and Administration, Surface Transportation Board, Washington, DC 20423-0001.</P></NOTE>
 -</DIV5>
++</TEXT>
  
  
  <DIV5 N="1260-1261" TYPE="PART">
-@@ -302000,12 +301990,11 @@
+@@ -301958,12 +301936,10 @@
  </DIV5>
  
  
@@ -270,9 +219,8 @@
 -</HEAD>
 -</DIV5>
 +<TEXT>
-+  <HED1>
-+    PARTS 1280-1299 - CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
-+  </HED1>
++<HED1>PARTS 1280-1299 - CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
++</HED1>
 +</TEXT>
  
  

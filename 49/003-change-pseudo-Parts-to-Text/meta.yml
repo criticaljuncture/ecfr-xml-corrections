@@ -7,5 +7,8 @@ patches:
     start_date: '2017-01-03'
     end_date: '2018-04-20'
   '002':
-    start_date: '2018-04-21'
+    start_date: '2018-04-23'
+    end_date: '2018-05-19'
+  '003':
+    start_date: '2018-05-23'
     end_date: '2100-01-01'
