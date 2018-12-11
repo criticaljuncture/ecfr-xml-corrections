@@ -1,11 +1,11 @@
---- /home/app/data/titles/preprocessed/xml/48/2017/09/2017-09-28.xml	2018-08-28 18:28:16.243233513 -0400
-+++ tmp/title_version_1874_preprocessed.xml	2018-08-28 18:30:49.842330718 -0400
+--- /home/app/data/titles/preprocessed/xml/48/2017/11/2017-11-08.xml	2018-08-29 19:11:57.191101105 -0400
++++ tmp/title_version_1_preprocessed.xml	2018-08-29 19:14:59.267172691 -0400
 @@ -34,7 +34,7 @@
  <TEXT>
  <BODY>
  <ECFRBRWS>
--<AMDDATE>z, 2017
-+<AMDDATE>January 19, 2017
+-<AMDDATE>Nov. 64, 2017
++<AMDDATE>Nov. 6, 2017
  </AMDDATE>
  
  <DIV1 N="1" TYPE="TITLE">

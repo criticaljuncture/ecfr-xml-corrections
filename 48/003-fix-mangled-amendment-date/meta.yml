@@ -1,8 +1,0 @@
-description: Editor accidentally add a '64' for the date instead of just '6'
-tags: 'content-error'
-status: 'needs-review'
-
-patches:
-  '001':
-    start_date: '2017-11-08'
-    end_date: '2017-11-08'
