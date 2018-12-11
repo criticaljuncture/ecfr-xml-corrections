@@ -1,0 +1,8 @@
+description: Table 1 to Subpart JJJJJ to Part 63 was split into two nodes - this combines them
+tags: 'structural, transcription-error'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2018-10-06'
