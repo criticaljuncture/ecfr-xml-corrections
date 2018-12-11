@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/40/2017/01/2017-01-03.xml	2018-12-11 15:03:04.595390631 -0500
++++ tmp/title_version_39_preprocessed.xml	2018-12-11 15:33:02.451654247 -0500
+@@ -383161,7 +383161,7 @@
+ </DIV9>
+
+
+-<DIV9 N="" TYPE="APPENDIX">
++<DIV9 N="fbf87c18e54c628" TYPE="APPENDIX">
+ <HEAD>Table 3 to Subpart III of Part 63 - Compliance Requirements for Slabstock Foam Production Affected Sources
+
+ </HEAD>

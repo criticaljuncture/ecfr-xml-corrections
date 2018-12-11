@@ -1,0 +1,8 @@
+description: Table 3 to Subpart III to Part 63 occurs twice - the first occurance should have been redesignated as Table 2. This patch adds an internal identifier so that we can track them seperately.
+tags: 'structural, transcription-error'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2100-01-01'
