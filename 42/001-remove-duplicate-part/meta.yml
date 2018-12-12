@@ -1,0 +1,8 @@
+description: Part 10 was duplicated when an editor added an additional xref tag denoting a further delaying of the changes that we're to have taken effect. It was later removed - this fixes the interim
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-10-04'
+    end_date: '2017-10-12'

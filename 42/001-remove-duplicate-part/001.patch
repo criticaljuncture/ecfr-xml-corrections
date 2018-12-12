@@ -1,0 +1,131 @@
+--- /home/app/data/titles/preprocessed/xml/42/2017/10/2017-10-04.xml	2018-12-12 13:19:49.059000000 -0500
++++ tmp/title_version_5098_preprocessed.xml	2018-12-12 13:21:13.864792608 -0500
+@@ -6089,128 +6089,6 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="10" TYPE="PART">
+-<HEAD>PART 10 - 340B DRUG PRICING PROGRAM
+-</HEAD>
+-<AUTH>
+-<HED>Authority:</HED><PSPACE>Sec. 340B of the Public Health Service Act (42 U.S.C. 256b) (PHSA), as amended.
+-
+-
+-</PSPACE></AUTH>
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>82 FR, Jan. 7, 2017,  unless otherwise noted.
+-
+-
+-</PSPACE></SOURCE>
+-
+-<DIV6 N="A" TYPE="SUBPART">
+-<HEAD>Subpart A - General Provisions</HEAD>
+-
+-
+-<DIV8 N="§ 10.1" TYPE="SECTION">
+-<HEAD>§ 10.1   Purpose.</HEAD>
+-<P>This part implements section 340B of the Public Health Service Act (PHSA) “Limitation on Prices of Drugs Purchased by Covered Entities.”
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 10.2" TYPE="SECTION">
+-<HEAD>§ 10.2   Summary of 340B Drug Pricing Program.</HEAD>
+-<P>Section 340B of the PHSA instructs the Secretary of Health and Human Services to enter into agreements with manufacturers of covered outpatient drugs under which the amount to be paid to manufacturers by certain statutorily-defined covered entities does not exceed the 340B ceiling price.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 10.3" TYPE="SECTION">
+-<HEAD>§ 10.3   Definitions.</HEAD>
+-<P>For the purposes of this part, the following definitions apply:
+-</P>
+-<P><I>Average Manufacturer Price (AMP)</I> has the meaning set forth in section 1927(k)(1) of the Social Security Act, as implemented in 42 CFR 447.504.
+-</P>
+-<P><I>Ceiling price</I> means the maximum statutory price established under section 340B(a)(1) of the PHSA and this section.
+-</P>
+-<P><I>CMS</I> is the Centers for Medicare &amp; Medicaid Services.
+-</P>
+-<P><I>Covered entity</I> means an entity that is listed within section 340B(a)(4) of the PHSA, meets the requirements under section 340B(a)(5) of the PHSA, and is registered and listed in the 340B database.
+-</P>
+-<P><I>Covered outpatient drug</I> has the meaning set forth in section 1927(k) of the Social Security Act.
+-</P>
+-<P><I>Manufacturer</I> has the meaning set forth in section 1927(k) of the Social Security Act, as implemented in 42 CFR 447.502.
+-</P>
+-<P><I>National Drug Code (NDC)</I> has the meaning set forth in 42 CFR 447.502.
+-</P>
+-<P><I>Pharmaceutical Pricing Agreement (PPA)</I> means an agreement described in section 340B(a)(1) of the PHSA.
+-</P>
+-<P><I>Quarter</I> refers to a calendar quarter unless otherwise specified.
+-</P>
+-<P><I>Secretary</I> means the Secretary of the Department of Health and Human Services and any other officer of employee of the Department of Health and Human Services to whom the authority involved has been delegated.
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B - 340B Ceiling Price</HEAD>
+-
+-
+-<DIV8 N="§ 10.10" TYPE="SECTION">
+-<HEAD>§ 10.10   Ceiling price for a covered outpatient drug.</HEAD>
+-<P>A manufacturer is required to calculate the 340B ceiling price for each covered outpatient drug, by National Drug Code (NDC) on a quarterly basis.
+-</P>
+-<P>(a) <I>Calculation of 340B ceiling price.</I> The 340B ceiling price for a covered outpatient drug is equal to the Average Manufacturer Price (AMP) from the preceding calendar quarter for the smallest unit of measure minus the Unit Rebate Amount (URA) and will be calculated using six decimal places. HRSA will publish the 340B ceiling price rounded to two decimal places.
+-</P>
+-<P>(b) <I>Exception.</I> When the ceiling price calculation in paragraph (a) of this section results in an amount less than $0.01 the ceiling price will be $0.01.
+-</P>
+-<P>(c) <I>New drug price estimation.</I> A manufacturer must estimate the 340B ceiling price for a new covered outpatient drug as of the date the drug is first available for sale. That estimation should be calculated as wholesale acquisition cost minus the appropriate rebate percentage until an AMP is available, which should occur no later than the 4th quarter that the drug is available for sale. Manufacturers are required to calculate the actual 340B ceiling price as described in paragraph (a) of this section and offer to refund or credit the covered entity the difference between the estimated 340B ceiling price and the actual 340B ceiling price within 120 days of the determination by the manufacturer that an overcharge occurred.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 10.11" TYPE="SECTION">
+-<HEAD>§ 10.11   Manufacturer civil monetary penalties.</HEAD>
+-<P>(a) <I>General.</I> Any manufacturer with a pharmaceutical pricing agreement that knowingly and intentionally charges a covered entity more than the ceiling price, as defined in § 10.10, for a covered outpatient drug, may be subject to a civil monetary penalty not to exceed $5,000 for each instance of overcharging, as defined in paragraph (b) of this section. This penalty will be imposed pursuant to the applicable procedures at 42 CFR part 1003. Any civil monetary penalty assessed will be in addition to repayment for an instance of overcharging as required by section 340B(d)(1)(B)(ii) of the PHSA.
+-</P>
+-<P>(b) <I>Instance of overcharging.</I> An instance of overcharging is any order for a covered outpatient drug, by NDC, which results in a covered entity paying more than the ceiling price, as defined in § 10.10, for that covered outpatient drug.
+-</P>
+-<P>(1) Each order for an NDC will constitute a single instance, regardless of the number of units of each NDC ordered. This includes any order placed directly with a manufacturer or through a wholesaler, authorized distributor, or agent.
+-</P>
+-<P>(2) Manufacturers have an obligation to ensure that the 340B discount is provided through distribution arrangements made by the manufacturer.
+-</P>
+-<P>(3) An instance of overcharging is considered at the NDC level and may not be offset by other discounts provided on any other NDC or discounts provided on the same NDC on other transactions, orders, or purchases.
+-</P>
+-<P>(4) An instance of overcharging may occur at the time of initial purchase or when subsequent ceiling price recalculations due to pricing data submitted to CMS or new drug price estimations as defined in § 10.10(c) result in a covered entity paying more than the ceiling price due to failure or refusal to refund or credit a covered entity.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+-</DIV5>
+-
+ 
+ <DIV5 N="11" TYPE="PART">
+ <HEAD>PART 11 - CLINICAL TRIALS REGISTRATION AND RESULTS INFORMATION SUBMISSION
