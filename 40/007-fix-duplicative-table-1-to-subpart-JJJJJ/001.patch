@@ -1,17 +1,14 @@
---- /home/app/data/titles/preprocessed/xml/40/2017/01/2017-01-03.xml	2018-12-06 15:58:04.124268614 -0500
-+++ tmp/title_version_39_preprocessed.xml	2018-12-06 19:10:10.385978238 -0500
-@@ -457826,17 +457826,6 @@
- </HEAD>
- <P>As stated in § 63.8405, you must meet each emission limit in the following table that applies to you:
+--- /home/app/data/titles/preprocessed/xml/40/2017/01/2017-01-03.xml	2018-12-12 17:19:48.903000000 -0500
++++ tmp/title_version_39_preprocessed.xml	2018-12-12 17:21:56.174686241 -0500
+@@ -457829,14 +457829,8 @@
+ 
+ 
  
 -
--
--
--
--</P>
+ </P>
 -</DIV9>
 -
--
+ 
 -<DIV9 N="" TYPE="APPENDIX">
 -<HEAD>Table 1 to Subpart JJJJJ of Part 63 - Emission Limits
 -</HEAD>
