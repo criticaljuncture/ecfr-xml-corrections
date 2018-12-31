@@ -1,0 +1,8 @@
+description: "The first subtitle in Title 45 is incorrectly structured as a chapter node instead of a subtitle node. In print and in the head tag this displays as a subtitle."
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2099-01-01'
