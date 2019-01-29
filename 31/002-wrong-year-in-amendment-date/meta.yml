@@ -1,0 +1,11 @@
+description: The day and month of the amendment date for volume 3 was updated but not the year - it was left as 2017 when it should be 2018
+tags: 'structural, transcription'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-03-08'
+    end_date: '2018-03-08'
+  '002':
+    start_date: '2018-03-09'
+    end_date: '2018-03-20'
