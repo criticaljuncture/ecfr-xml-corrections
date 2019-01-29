@@ -1,0 +1,8 @@
+description: Amendment date was entered without a year
+tags: 'structural, transcription-error'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2018-06-09'
+    end_date: '2100-01-01'
