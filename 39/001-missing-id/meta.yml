@@ -1,0 +1,8 @@
+description: Part 1 is missing an identifier for two xml titles
+tags: 'transcription-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-08-23'
+    end_date: '2018-09-26'
