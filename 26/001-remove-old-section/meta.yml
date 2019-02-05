@@ -1,0 +1,8 @@
+description: Title 26 Section 1.871-15T was updated on 2017-01-27, however instead of updating or replacing the section a second section 1.871-15T tag was inserted. This patch removes the old section leaving only the new content. 
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-01-27'
+    end_date: '2017-04-04'
