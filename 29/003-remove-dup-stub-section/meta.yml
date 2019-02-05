@@ -1,0 +1,8 @@
+description: This removes a duplicate, stubbed Section 2201.8
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2017-06-20'
