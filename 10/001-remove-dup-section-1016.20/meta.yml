@@ -1,0 +1,8 @@
+description: Title 10 contains two identical 1016.20 sections. The second is in the wrong location. This removes the second section. 
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-10-05'
+    end_date: '2018-02-21'

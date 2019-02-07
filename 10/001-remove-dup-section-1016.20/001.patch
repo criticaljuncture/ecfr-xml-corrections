@@ -1,0 +1,56 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/10/2017/10/2017-10-05.xml	2019-02-06 14:34:18.000000000 -0800
++++ tmp/title_version_21_preprocessed.xml	2019-02-06 15:42:16.000000000 -0800
+@@ -189561,53 +189561,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 1016.20" TYPE="SECTION">
+-<HEAD>§ 1016.20   External transmission of Restricted Data.</HEAD>
+-<P>(a) <I>Restrictions.</I> (1) Restricted Data shall be transmitted only to persons who possess appropriate access authorization, need to know, and are otherwise eligible for access under the requirements of § 1016.18.
+-</P>
+-<P>(2) In addition, such classified matter containing Restricted Data shall be transmitted only to persons who possess approved facilities for their physical security consistent with this part. Any person subject to the regulations in this part who transmits such Restricted Data containing Restricted Data shall be deemed to have fulfilled his obligations under this paragraph (a)(2) by securing a written certification from the prospective recipient that such recipient possesses facilities for its physical security consistent with this part.
+-</P>
+-<P>(3) Restricted Data shall not be exported from the United States without prior authorization from DOE.
+-</P>
+-<P>(b) <I>Preparation of documents.</I> Documents containing Restricted Data shall be prepared for transmission outside an individual installation in accordance with the following:
+-</P>
+-<P>(1) They shall be enclosed in two sealed, opaque envelopes or wrappers.
+-</P>
+-<P>(2) The inner envelope or wrapper shall be addressed in the ordinary manner and sealed with tape, the appropriate classification shall be marked on both sides of the envelope, and any additional marking required by 10 CFR part 1045 shall be applied.
+-</P>
+-<P>(3) The outer envelope or wrapper shall be addressed in the ordinary manner. No classification, additional marking, or other notation shall be affixed which indicates that the document enclosed therein contains classified information or Restricted Data.
+-</P>
+-<P>(4) A receipt which identifies the document, the date of transfer, the recipient, and the person transferring the document shall accompany the document and shall be signed by the recipient and returned to the sender whenever the custody of a document containing Secret Restricted Data is transferred.
+-</P>
+-<P>(c) <I>Preparation of other classified matter.</I> Classified matter, other than documents, containing Restricted Data shall be prepared for shipment outside an individual installation in accordance with the following:
+-</P>
+-<P>(1) The classified matter shall be so packaged that the classified characteristics will not be revealed.
+-</P>
+-<P>(2) A receipt which identifies the classified matter, the date of shipment, the recipient, and the person transferring the classified matter shall accompany the classified matter, and the recipient shall sign such receipt whenever the custody of classified matter containing Secret Restricted Data is transferred.
+-</P>
+-<P>(d) <I>Methods of transportation.</I> (1) Secret classified matter shall be transported only by one of the following methods:
+-</P>
+-<P>(i) By messenger-courier system specifically created for that purpose and approved for use by DOE.
+-</P>
+-<P>(ii) Registered mail.
+-</P>
+-<P>(iii) By protective services provided by United States air or surface commercial carriers under such conditions as may be preserved by the DOE.
+-</P>
+-<P>(iv) Individuals possessing appropriate DOE access authorization who have been given written authority by their employers.
+-</P>
+-<P>(2) Confidential classified matter may be transported by one of the methods set forth in paragraph (d)(1) of this section or by U.S. first class, express, or certified mail.
+-</P>
+-<P>(e) <I>Telecommunication of classified information.</I> There shall be no telecommunication of Restricted Data unless the secure telecommunication system has been approved by the DOE.
+-</P>
+-<CITA TYPE="N">[82 FR 41507, Sept. 1, 2017]
+-
+-
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 1016.21" TYPE="SECTION">
+ <HEAD>§ 1016.21   Accountability for Secret Restricted Data.</HEAD>
+ <P>Each permittee possessing classified matter (including classified matter in electronic format) containing Secret Restricted Data shall establish accountability procedures and shall maintain logs to document access to and record comprehensive disposition information for all such classified matter that has been in his custody at any time.
