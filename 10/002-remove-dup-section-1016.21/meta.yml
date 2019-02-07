@@ -1,0 +1,8 @@
+description: Title 10 contains two identical 1016.21 sections. This removes the second instance. 
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-10-05'
+    end_date: '2018-02-28'

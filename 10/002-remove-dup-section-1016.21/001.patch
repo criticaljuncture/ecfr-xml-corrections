@@ -1,0 +1,22 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/10/2017/10/2017-10-05.xml	2019-02-06 20:35:55.000000000 -0800
++++ tmp/title_version_21_preprocessed.xml	2019-02-06 20:39:07.000000000 -0800
+@@ -189561,19 +189561,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 1016.21" TYPE="SECTION">
+-<HEAD>§ 1016.21   Accountability for Secret Restricted Data.</HEAD>
+-<P>Each permittee possessing classified matter (including classified matter in electronic format) containing Secret Restricted Data shall establish accountability procedures and shall maintain logs to document access to and record comprehensive disposition information for all such classified matter that has been in his custody at any time.
+-</P>
+-<CITA TYPE="N">[82 FR 41507, Sept. 1, 2017]
+-
+-
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 1016.22" TYPE="SECTION">
+ <HEAD>§ 1016.22   Authority to reproduce Restricted Data.</HEAD>
+ <P>Secret Restricted Data will not be reproduced without the written permission of the originator, his successor, or high authority. Confidential Restricted Data may be reproduced to the minimum extent necessary consistent with efficient operation without the necessity for permission.
