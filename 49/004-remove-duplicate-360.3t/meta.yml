@@ -1,0 +1,8 @@
+description: Title 49 has a duplicate Section 360.3T that is located after 360.5 instead of after 360.3. This removes this section.
+tags: ['structural, transcription-error']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-01-24'
+    end_date: '2017-03-15'
