@@ -1,0 +1,8 @@
+description: Title 27 contains two Section 24.245. This removes the second one that should be replaced by the other.
+tags: ['structural, transcription-error']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-01-27'
+    end_date: '2017-02-14'
