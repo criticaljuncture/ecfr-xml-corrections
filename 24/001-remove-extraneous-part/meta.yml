@@ -1,8 +1,0 @@
-description: The GPO DTD does not support appendix tags above the part level so they wrap them in blank parts when they occur. This removes the extraneous part.
-tags: 'structural'
-status: ''
-
-patches:
-  '001':
-    start_date: '2017-01-03'
-    end_date: '2100-01-01'
