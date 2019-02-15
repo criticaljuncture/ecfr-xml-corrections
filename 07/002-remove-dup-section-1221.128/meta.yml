@@ -1,0 +1,8 @@
+description: "7 CFR 1221.128 contains a duplicate section tag. The duplicate tag content is a subset of the original section so this removes the second tag."
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-10-25'
+    end_date: '2100-01-01'
