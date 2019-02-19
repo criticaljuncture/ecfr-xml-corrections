@@ -1,0 +1,13 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/15/2017/04/2017-04-21.xml	2019-02-19 11:26:29.000000000 -0800
++++ tmp/title_version_15_2017-04-21_preprocessed.xml	2019-02-19 11:26:39.000000000 -0800
+@@ -42017,10 +42017,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 748.14" TYPE="SECTION">
+-<HEAD>§ 748.14   [Reserved]</HEAD>
+-</DIV8>
+-
+ 
+ <DIV8 N="§ 748.15" TYPE="SECTION">
+ <HEAD>§ 748.15   Authorization Validated End-User (VEU).</HEAD>

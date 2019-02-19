@@ -1,0 +1,8 @@
+description: A reserved section made active with content. When the content was inserted the old reserved tag was left behind for a single date. This removes this reserved tag.
+tags: ['content-error', 'transcription-error']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2017-04-21'
+    end_date: '2017-04-21'
