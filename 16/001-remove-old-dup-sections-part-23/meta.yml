@@ -1,0 +1,8 @@
+description: 16 CFR 23 was replaced with updated sections, however for a few title versions the old sections remained. This removes these older duplicate sections.
+tags: 'content'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-08-18'
+    end_date: '2018-08-24'
