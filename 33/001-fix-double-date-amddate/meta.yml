@@ -1,6 +1,6 @@
 description: Amendment date was incorrectly entered as Dec 24, 26. It should be Dec 26.
 tags: 'structural, transcription-error'
-status: 'needs-review'
+status: 'approved'
 
 patches:
   '001':
