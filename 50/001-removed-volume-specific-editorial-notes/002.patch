@@ -1,0 +1,64 @@
+--- data/titles/preprocessed/xml/50/2017/01/2017-01-03.xml	2017-09-28 09:43:37.000000000 -0700
++++ tmp/title_version_49_preprocessed.xml	2017-09-28 10:14:30.000000000 -0700
+@@ -20503,8 +20503,8 @@
+
+ </CITA>
+ <EDNOTE>
+-<HED>Editorial Notes:</HED><PSPACE>1. For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I>
+-</PSPACE><P>2. The remainder of § 17.95 appears in 50 Part 17, § 17.95(b), 50 Part 17, § 17.95(c) to § 17.95(e), and 50 Part 17, § 17.95(f) to end of § 17.95.</P></EDNOTE>
++<HED>Editorial Notes:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I>
++</PSPACE></EDNOTE>
+ </DIV8>
+
+ </DIV6>
+@@ -20563,9 +20563,6 @@
+ <DIV6 N="I" TYPE="SUBPART">
+ <HEAD>Subpart I - Interagency Cooperation (Continued)</HEAD>
+
+-<EDNOTE>
+-<HED>Editorial Note:</HED><PSPACE>Paragraph (a) of § 17.95 appears in 50 Part 17, §§ 17.1 to 17.95(a).</PSPACE></EDNOTE>
+-
+ <DIV8 N="§ 17.95" TYPE="SECTION">
+ <HEAD>§ 17.95   Critical habitat - fish and wildlife. (Continued)</HEAD>
+ <P>(b) <I>Birds.</I>
+@@ -43039,8 +43036,7 @@
+ <CITA TYPE="N">[42 FR 47840, Sept. 22, 1977]
+ </CITA>
+ <EDNOTE>
+-<HED>Editorial Notes:</HED><PSPACE>1. The remainder of § 17.95 appears in 50 Part 17, § 17.95(c) to § 17.95(e) and 50 Part 17, § 17.95(f) to end of § 17.95.
+-</PSPACE><P>2. For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></P></EDNOTE>
++<HED>Editorial Notes:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></PSPACE></EDNOTE>
+ </DIV8>
+
+ </DIV6>
+@@ -43097,9 +43093,6 @@
+ <DIV6 N="I" TYPE="SUBPART">
+ <HEAD>Subpart I - Interagency Cooperation (Continued)</HEAD>
+
+-<EDNOTE>
+-<HED>Editorial Note:</HED><PSPACE>Paragraphs (a)-(b) of § 17.95 appear in 50 Part 17, §§ 17.1 to 17.95(a) and 50 Part 17, § 17.95(b).</PSPACE></EDNOTE>
+-
+ <DIV8 N="§ 17.95" TYPE="SECTION">
+ <HEAD>§ 17.95   Critical habitat - fish and wildlife. (Continued)</HEAD>
+ <P>(c) <I>Reptiles.</I>
+@@ -53028,8 +53021,8 @@
+ <CITA TYPE="N">[42 FR 47840, Sept. 22, 1977]
+ </CITA>
+ <EDNOTE>
+-<HED>Editorial Notes:</HED><PSPACE>1. For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I>
+-</PSPACE><P>2. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.</P></EDNOTE>
++<HED>Editorial Notes:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I>
++</PSPACE></EDNOTE>
+ </DIV8>
+
+ </DIV6>
+@@ -53086,9 +53079,6 @@
+ <DIV6 N="I" TYPE="SUBPART">
+ <HEAD>Subpart I - Interagency Cooperation (Continued)</HEAD>
+
+-<EDNOTE>
+-<HED>Editorial Note:</HED><PSPACE>Paragraphs (a)-(e) of § 17.95 appear in 50 Part 17, §§ 17.1 to 17.95(a), 50 Part 17, § 17.95(b), and 50 Part 17, § 17.95(c) to § 17.95(e).</PSPACE></EDNOTE>
+-
+ <DIV8 N="§ 17.95" TYPE="SECTION">
+ <HEAD>§ 17.95   Critical habitat - fish and wildlife. (Continued)</HEAD>
+ <P>(f) <I>Clams and Snails.</I>
