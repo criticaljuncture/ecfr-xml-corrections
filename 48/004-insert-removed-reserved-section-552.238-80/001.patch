@@ -1,0 +1,15 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/48/2019/04/2019-04-30T12:30:07-0400.xml	2019-05-13 12:41:22.000000000 -0700
++++ tmp/title_version_48_2019-04-30T12:30:07-0400_preprocessed.xml	2019-05-13 12:44:56.000000000 -0700
+@@ -153545,8 +153545,10 @@
+ </CITA>
+ </DIV8>
+ 
+-
+-
++<DIV8 N="552.238-80" TYPE="SECTION">
++<HEAD>552.238-80   [Reserved]</HEAD>
++<XREF ID="20190423" REFID="37">Link to an amendment published at 84 FR 17043, Apr. 23, 2019.</XREF>
++</DIV8> 
+ 
+ 
+ <DIV8 N="552.238-81" TYPE="SECTION">

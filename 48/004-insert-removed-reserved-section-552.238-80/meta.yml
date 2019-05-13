@@ -1,0 +1,8 @@
+description: Section 852.238-80 is being removed because the section was modified to include a cross reference node that links a change that will transform the node from reserved to containing content May 23, 2019. While the cross reference node was inserted, a trailing XXX was added, which is making our processing infer that that the node is being removed. The node should stay as a reserved node until the change on May 23.
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2019-04-30'
+    end_date: '2100-01-01'
