@@ -1,0 +1,8 @@
+description: "7 CFR 1773 received several updates. When these updates were inserted older content was accidentally kept in. This removes the older content. There are 2 title_versions for 2019-03-01. The earlier one has the duplicate, the second one has the duplicate removed. So this patch will pass on the first title_version when preprocessing, but fail on the second. Has duplicate (patch applies): 2019-03-01T12:30:06-0500.xml. Duplicates removed (patch fails): 2019-03-01T21:00:06-0500."
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-07-26'
+    end_date: '2019-03-01'

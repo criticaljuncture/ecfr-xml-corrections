@@ -1,0 +1,806 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/07/2018/07/2018-07-26.xml	2019-05-15 11:18:28.000000000 -0700
++++ tmp/title_version_7_2018-07-26T01:00:00-0400_preprocessed.xml	2019-05-15 11:23:53.000000000 -0700
+@@ -401333,803 +401333,6 @@
+ 
+ </DIV6>
+ 
+-
+-<DIV6 N="A" TYPE="SUBPART">
+-<HEAD>Subpart A - General Provisions</HEAD>
+-
+-
+-<DIV8 N="§ 1773.1" TYPE="SECTION">
+-<HEAD>§ 1773.1   General.</HEAD>
+-<P>(a) This part implements those standard provisions of the security instrument utilized by the Rural Utilities Service (RUS) for both electric and telecommunications borrowers and by the Rural Telephone Bank (RTB) for its telecommunications borrowers. The provisions require borrowers to prepare and furnish to RUS, at least once during each 12-month period, a full and complete report of its financial condition, operations, and cash flows, in form and substance satisfactory to RUS, audited and certified by an independent certified public accountant (CPA), satisfactory to RUS, and accompanied by a report of such audit, in form and substance satisfactory to RUS. 
+-</P>
+-<P>(b) This part 1773 applies to both RUS and RTB borrowers. For the purposes of RTB borrowers, as used in this part 1773, <I>RUS</I> means <I>RTB</I> and <I>Administrator</I> means <I>Governor</I> unless the text indicates otherwise. 
+-</P>
+-<P>(c) This complies with the 1994 revision of Government Auditing Standards, issued by the Comptroller General of the United States, United States General Accounting Office, including amendments dated May 13, 1999, and July 30, 1999.
+-</P>
+-<P>(d) An auditor's report, report on compliance and on internal control over financial reporting, and management letter are required to meet the reporting provisions of the RUS security instrument. 
+-</P>
+-<P>(1) The auditor's report must state that the audit was conducted in accordance with generally accepted government auditing standards (GAGAS). 
+-</P>
+-<P>(2) The management letter must state that the audit was conducted in accordance with this part. 
+-</P>
+-<P>(3) A report of the audit, in form and substance satisfactory to RUS, cannot be issued unless and until an audit has been performed in accordance with GAGAS and this part.
+-</P>
+-<P>(4) A borrower is in violation of provisions of its security instrument with RUS if the borrower fails to provide an audit performed in compliance with GAGAS and this part. RUS security instruments normally provide for notice and an opportunity to cure such violations before RUS can exercise certain remedies. 
+-</P>
+-<P>(5) A report prepared in connection with a review or compilation of financial statements, as defined in Statement of Standards for Accounting and Review Services No. 1, Compilation and Review of Financial Statements, does not satisfy the requirements of the RUS security instrument. 
+-</P>
+-<P>(6) A report, as described in Statement on Auditing Standards (SAS) No. 62, entitled “Special Reports”, or in SAS No. 75, entitled “Engagements to Apply Agreed-upon Procedures to Specified Elements, Accounts, or Items of a Financial Statement”, does not satisfy the RUS loan security instrument requirements.
+-</P>
+-<P>(7) An annual report containing audited financial statements does not satisfy the RUS security instrument requirements. 
+-</P>
+-<P>(e) This part further implements those provisions of the standard RUS security instrument by setting forth the criteria for CPAs to be deemed satisfactory to RUS and the audit procedures and documentation standards that must be performed before a report of the audit satisfactory to RUS can be prepared and issued. 
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 61 FR 107, Jan. 3, 1996; 66 FR 27835, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.2" TYPE="SECTION">
+-<HEAD>§ 1773.2   Definitions.</HEAD>
+-<P>As used in this part: 
+-</P>
+-<P><I>AA-PARA</I> means Assistant Administrator, Program Accounting and Regulatory Analysis.
+-</P>
+-<P><I>Administrator</I> means the Administrator of RUS and, as provided in § 1773.2 (b), <I>Governor.</I>
+-</P>
+-<P><I>AICPA</I> means the American Institute of Certified Public Accountants. 
+-</P>
+-<P><I>Audit</I> means an examination of financial statements by an independent CPA for the purpose of expressing an opinion on the fairness with which those statements present financial position, results of operations, and changes in cash flows in conformity with generally accepted accounting principles (GAAP) and for determining whether the borrower has complied with applicable laws, regulations, and contracts for those transactions and events reflected in the financial statements. 
+-</P>
+-<P><I>Borrower</I> means an entity that has an outstanding RUS, RTB, or FFB loan or loan guarantee, or that has received a grant for electric, telecommunications, distance learning, or telemedicine purposes under the act.
+-</P>
+-<P><I>CPA</I> means certified public accountant. The terms <I>CPA</I> and <I>CPA firm</I> are used interchangeably. 
+-</P>
+-<P><I>FFB</I> means the Federal Financing Bank, an instrumentality and wholly owned corporation of the United States. 
+-</P>
+-<P><I>Fraud</I> has the same meaning prescribed in SAS No. 82 entitled “Consideration of Fraud in Financial Statements”.
+-</P>
+-<P><I>GAAP</I> means generally accepted accounting principles. 
+-</P>
+-<P><I>GAGAS</I> means generally accepted government auditing standards as set forth in Government Auditing Standards, Standards for Audit of Governmental Organizations, Programs, Activities, and Functions, issued by the Comptroller General of the United States. 
+-</P>
+-<P><I>GAO</I> means the General Accounting Office. 
+-</P>
+-<P><I>Governor</I> means the Governor of the RTB. 
+-</P>
+-<P><I>Illegal act</I> has the meaning prescribed in SAS No. 54, entitled “Illegal Acts by Clients”.
+-</P>
+-<P><I>OIG</I> means the Office of Inspector General, United States Department of Agriculture. 
+-</P>
+-<P><I>OMB</I> means the Office of Management and Budget. 
+-</P>
+-<P><I>Regulatory asset</I> means an asset resulting from an action of a regulator as prescribed in Statement of Financial Accounting Standards (SFAS) No. 71, entitled “Accounting for the Effects of Certain Types of Regulation”. 
+-</P>
+-<P><I>Regulatory liability</I> means a liability imposed on a regulated enterprise by an action of a regulator as prescribed in SFAS No. 71, entitled “Accounting for the Effects of Certain Types of Regulation”. 
+-</P>
+-<P><I>Related party</I> has the meaning prescribed in SFAS No. 57, entitled “Related Party Disclosures”. 
+-</P>
+-<P><I>Related party transaction</I> has the meaning prescribed in SFAS No. 57, entitled “Related Party Disclosures”. 
+-</P>
+-<P><I>Reportable condition</I> has the meaning prescribed in SAS No. 60, entitled “Communication of Internal Control Structure Related Matters Noted in an Audit”. 
+-</P>
+-<P><I>RTB</I> means the Rural Telephone Bank.
+-</P>
+-<P><I>RUS</I> means the Rural Utilities Service, an agency of the United States Department of Agriculture established pursuant to Section 232 of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 (Pub. L. 103-354, 108 Stat. 3178), successor to REA with respect to administering certain electric and telecommunications programs. See 7 CFR 1700.1.
+-</P>
+-<P><I>RUS Bulletin 1773-1,</I> Policy on Audits of RUS Borrowers, is a publication prepared by RUS that contains the RUS regulation 7 CFR part 1773 and exhibits of sample audit reports, financial statements, and a management letter used in preparing audit of RUS borrowers. This bulletin is available from USDA, Rural Utilities Service, Program Development and Regulatory Analysis, 1400 Independence Ave., SW., Stop 1522, Washington, DC 20250, or available on the internet at <I>http://www.usda.gov/rus/.</I>
+-</P>
+-<P><I>SAS</I> means Statement on Auditing Standards as prescribed by the AICPA. 
+-</P>
+-<P><I>SEC Practice Section</I> means the Securities and Exchange Commission Practice Section of the AICPA. 
+-</P>
+-<P><I>SFAS</I> means Statements of Financial Accounting Standards as prescribed by the Financial Accounting Standards Board. 
+-</P>
+-<P><I>State</I> means any state or territory of the United States, or the District of Columbia. 
+-</P>
+-<P><I>Uniform System of Accounts</I> means, for telecommunications borrowers, the Uniform System of Accounts for Telecommunications Companies, prescribed by the Federal Communications Commission and published at 47 CFR part 32, as supplemented by RUS pursuant to 7 CFR part 1770, Accounting Requirements for RUS Telephone Borrowers, subpart B, Uniform System of Accounts, and for electric borrowers, as contained in 7 CFR part 1767, Accounting Requirements for RUS Electric Borrowers, subpart B, Uniform System of Accounts.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 59 FR 66440, Dec. 27, 1994; 60 FR 2874, Jan. 12, 1995; 63 FR 38722, July 17, 1998; 66 FR 27835, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B - RUS Audit Requirements</HEAD>
+-
+-
+-<DIV8 N="§ 1773.3" TYPE="SECTION">
+-<HEAD>§ 1773.3   Annual audit.</HEAD>
+-<P>(a) Each borrower must have its financial statements audited annually by a CPA selected by the borrower and approved by RUS as set forth in § 1773.4. 
+-</P>
+-<P>(b) Each borrower must establish an annual as of audit date within twelve months of the date of receipt of the first advance of funds from grants and insured and guaranteed loans approved by RUS and RTB and must prepare financial statements as of the date established.
+-</P>
+-<P>(c) Until all loans made or guaranteed by RUS have been repaid, the borrower must furnish three copies of the auditor's report, report on compliance and on internal control over financial reporting, and management letter to RUS within 120 days of the as of audit date. 
+-</P>
+-<P>(d) A borrower that qualifies as a unit of state or local government or Indian tribe as such terms are defined in the Single Audit Act of 1984 (31 U.S.C. 7501 <I>et seq.</I>), the Single Audit Act Amendments of 1996 (31 U.S.C. 7505 <I>et seq.</I>) and OMB Circular A-133, Audits of States and Local Government, and Non Profit Organizations (which applies for audits of fiscal years beginning prior to December 26, 2014) and Subpart F of 2 CFR 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements, as adopted by USDA though 2 CFR 400 (which applies for fiscal years beginning on or after December 26, 2014) must comply with this part as follows:
+-</P>
+-<P>(1) A borrower that expends $500,000 under OMB Circular A-133 (for audits of fiscal years beginning prior to December 26, 2014) and $750,000 under Subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400 (for audits for fiscal years beginning after December 26, 2014) or more in a year in Federal awards must have an audit performed and submit an auditor's report meeting the requirements of the respective Single Audit Act requirements
+-</P>
+-<P>(2) An entity with loans less than $500,000 under OMB Circular A-133 (for audits of fiscal years beginning prior to December 26, 2014) and $750,000 under Subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400 (for audits for fiscal years beginning on or after December 26, 2014) in Federal awards during the year must have an audit performed in accordance with the requirements of this part.
+-</P>
+-<P>(3) A borrower must notify RUS, in writing, within 30 days of the as of audit date, of the total Federal awards expended during the year and must state whether it will have an audit performed in accordance with OMB Circular A-133 (for audits of fiscal years beginning prior to December 26, 2014) or Subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400 (for audits for fiscal years beginning on or after December 26, 2014) or this part.
+-</P>
+-<P>(i) A borrower that elects to comply with this part must select a CPA that meets the qualifications set forth in § 1773.5.
+-</P>
+-<P>(ii) If an audit is performed in accordance with OMB Circular A-133 (for audits of fiscal years beginning prior to December 26, 2014) or Subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400 (for audits for fiscal years beginning after December 26, 2014, an auditor's report that meets the requirements of the respective single Audit Act requirements, will be sufficient to satisfy that borrower's obligations under this part.
+-</P>
+-<P>(e) OMB Circular A-133 and Subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400 do not apply to audits of RUS electric and telecommunications cooperatives and commercial telecommunications borrowers.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 59 FR 659, Jan. 6, 1994; 63 FR 38722, July 17, 1998; 66 FR 27835, May 21, 2001; 79 FR 76004, Dec. 19, 2014]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.4" TYPE="SECTION">
+-<HEAD>§ 1773.4   Borrower responsibilities.</HEAD>
+-<P>(a) <I>Selection of a qualified CPA.</I> The borrower's board of directors is responsible for the selection of a qualified CPA that meets the requirements set forth in § 1773.5. When selecting a CPA, the borrower should consider, among other matters: 
+-</P>
+-<P>(1) The qualifications of CPAs available to do the work; 
+-</P>
+-<P>(2) The CPA's experience in performing audits of utilities; and 
+-</P>
+-<P>(3) The CPA's ability to complete the audit and submit the reports and management letter within 90 days of the as of audit date. 
+-</P>
+-<P>(b) <I>Board approval of selection.</I> The board's approval of a CPA must be recorded by a board resolution that states: 
+-</P>
+-<P>(1) The CPA meets RUS's qualifications to perform an audit; and 
+-</P>
+-<P>(2) The borrower and CPA will enter into an audit agreement in accordance with § 1773.6. 
+-</P>
+-<P>(c) <I>Notification of selection.</I> When the initial selection or subsequent change of a CPA by a borrower has been made, the borrower must notify RUS, in writing, at least 90 days prior to the as of audit date. 
+-</P>
+-<P>(1) RUS will notify the borrower, in writing, within 30 days of the date of receipt of such notice, if the selection or change in CPA is not satisfactory. 
+-</P>
+-<P>(2) Notification to RUS that the same CPA has been selected for succeeding audits of the borrower's financial statements is not required; however, the procedures outlined in this part must be followed for each new CPA selected, even though such CPA may previously have been approved by RUS to audit records of other RUS borrowers. Changes in the name of a CPA firm are considered to be a change in the CPA. 
+-</P>
+-<P>(d) <I>Audit engagement letter.</I> The borrower must enter into an audit engagement letter with the CPA that complies with § 1773.6. 
+-</P>
+-<P>(e) <I>Debarment certification.</I> The borrower is responsible for the receipt, from the selected CPA, of a lower tier covered transaction certification, as required under the provisions of Executive Orders 12549 and 12689, Debarment and Suspension, and any rules or regulations issued thereunder. 
+-</P>
+-<P>(f) <I>Submission of auditor's report.</I> The borrower must submit to RUS the required auditor's report, report on compliance and on internal control over financial reporting, and management letter as set forth in § 1773.21. 
+-</P>
+-<P>(1) An annual auditor's report, report on compliance and on internal control over financial reporting, and management letter that fail to meet the requirements detailed in this part will be returned to the borrower with a written explanation of noncompliance. 
+-</P>
+-<P>(2) The borrower must, within 60 days of the date of the letter detailing the noncompliance, submit corrected reports to RUS. 
+-</P>
+-<P>(3) If corrected reports are not received within 60 days of the date of the letter detailing the noncompliance, RUS may notify the borrower that a default has occurred under its security instrument or take other appropriate action. The default notice will set forth the period of time during which the default will be remedied. 
+-</P>
+-<P>(g) <I>Submission of plan of corrective action.</I> The borrower must submit written comments to RUS on the findings and recommendations in the auditor's report, report on compliance and on internal control over financial reporting, and management letter. The borrower must also submit to RUS: 
+-</P>
+-<P>(1) A written plan for corrective action taken or planned; and 
+-</P>
+-<P>(2) Comments on the status of corrective action taken on previously reported findings and recommendations. 
+-</P>
+-<P>If corrective action is not necessary, a written statement describing the reason it is not should accompany the auditor's report. 
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 66 FR 27835, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.5" TYPE="SECTION">
+-<HEAD>§ 1773.5   Qualifications of CPA.</HEAD>
+-<P>For purposes of the RUS standard security instrument, any CPA that meets the qualifications criteria of this section and enters into an audit agreement with the borrower that complies with § 1773.6, will be considered satisfactory to RUS.
+-</P>
+-<P>(a) <I>Certification.</I> The accountant that audits the financial statements of an RUS borrower must be a CPA in good standing of some state. The CPA does not have to be licensed by the state in which the borrower is located; however, the CPA must abide by the rules and regulations of professional conduct promulgated by the accountancy board of the state in which the borrower is located. 
+-</P>
+-<P>(b) <I>Independence.</I> The CPA must be independent. A CPA will be considered independent if the CPA: 
+-</P>
+-<P>(1) Meets the standards for independence contained in the AICPA Code of Professional Conduct in effect at the time the CPA's independence is under review; 
+-</P>
+-<P>(2) Does not have and has not had any direct financial interest or any material indirect financial interest in the borrower during the period covered by the audit; and 
+-</P>
+-<P>(3) Is not and was not, during the period under audit, connected with the borrower as a promoter, underwriter, trustee, director, officer, or employee. 
+-</P>
+-<P>(c) <I>Peer review requirement.</I> The CPA must belong to and participate in a peer review program, and must have undergone a satisfactory peer review of the accounting and audit practice conducted by an approved peer review program under paragraph (c)(4) of this section, unless a waiver is granted under paragraph (c)(7) of this section. The reviewing organization must not be affiliated with or have had its most recent peer review conducted by the organization currently being reviewed (reciprocal reviews). After the initial peer review has been performed, the CPA must undergo a peer review of the accounting and audit practice within 36 months of the issuance of the previous peer review or at such additional times as designated by the peer review executive committee.
+-</P>
+-<P>(1) A CPA that receives an unqualified peer review report will be satisfactory to RUS provided that the CPA meets the other criteria set forth in this section.
+-</P>
+-<P>(2) If a CPA receives a qualified or adverse peer review report, the CPA must undergo a second peer review within 18 months of the date of the qualified or adverse report. A CPA that receives an unqualified second peer review report will be satisfactory to RUS provided that the CPA meets the other criteria set forth in this section.
+-</P>
+-<P>(3) A CPA that receives a second qualified or adverse peer review report will not be satisfactory to RUS.
+-</P>
+-<P>(4) <I>Approved peer review programs.</I> The following peer review programs are approved by RUS:
+-</P>
+-<P>(i) The peer review programs conducted by the AICPA;
+-</P>
+-<P>(ii) The peer review program conducted by the regulated audit program group of the National Conference of CPA Practitioners; and
+-</P>
+-<P>(iii) An independent peer review program that, in RUS's determination, requires its members to:
+-</P>
+-<P>(A) Ensure that the CPA can legally engage in the practice of certified public accounting;
+-</P>
+-<P>(B) Adhere to the quality control standards established by the AICPA;
+-</P>
+-<P>(C) Submit to peer reviews of the CPA's accounting and audit practice every 36 months or at such additional times as designated by its own executive committee; and
+-</P>
+-<P>(D) Ensure that all professionals in the firm, including CPAs and nonCPAs, take part in the qualifying continuing professional education requirements of GAGAS, as set forth in paragraphs (c)(4)(iii)(D)(<I>1</I>) and (c)(4)(iii)(D)(<I>2</I>). A qualified continuing professional education course is one which meets the standards of the AICPA.
+-</P>
+-<P>(<I>1</I>) An auditor responsible for planning, directing, conducting, or reporting on government audits must complete, every two years, at least eighty hours of continuing education and training which contributes to the auditor's professional proficiency. At least twenty hours must be completed in any one year of the two-year period; and
+-</P>
+-<P>(<I>2</I>) An individual responsible for planning, directing, and conducting substantial portions of the field work, or reporting on the government audit must complete at least 24 of the 80 hours of continuing education and training in subjects directly related to the government environment and to government auditing. If the audited entity operates in a specific or unique environment, auditors must receive training that is related to that environment.
+-</P>
+-<P>(5) <I>Submission of reports.</I> The CPA must submit to the Assistant Administrator, Program Accounting and Regulatory Analysis, a copy of any peer review report and accompanying letter of comment, if any, within 60 days of the date such report and letter of comment are released by the peer review group.
+-</P>
+-<P>(i) If the peer review report indicates that a follow-up review will be made, the CPA must submit subsequent reports to the Assistant Administrator, Program Accounting and Regulatory Analysis, within 60 days of the date such reports are released by the peer review group.
+-</P>
+-<P>(ii) A peer review report must be submitted to the Assistant Administrator, Program Accounting and Regulatory Analysis, at least once every 36 months, or more frequently, if required by the peer review program. 
+-</P>
+-<P>(iii) A copy of the peer review report, accompanying letter of comment, and the partners' inspections must be made available to OIG, upon request.
+-</P>
+-<P>(6) <I>Waiver of the peer review requirement.</I> (i) A CPA may request that the Administrator, RUS, waive the peer review requirement. To be eligible for a waiver, the following criteria must be met: 
+-</P>
+-<P>(A) The firm has been in existence for less than 1 year from the date of the request and has not been previously organized under a different name; 
+-</P>
+-<P>(B) One of the partners organizing the firm has previously, within 18 months preceding the request, worked for a firm that has been peer reviewed and the partner was partner-in-charge of audits of RUS borrowers in the previous firm; 
+-</P>
+-<P>(C) The firm has enrolled in an approved peer review program; and 
+-</P>
+-<P>(D) The firm agrees to have the peer review conducted within 18 months of the date of the RUS waiver. 
+-</P>
+-<P>(ii) Waiver requests must address each of the criteria in paragraph (c)(7)(i) of this section and should be submitted to the Assistant Administrator, Program Accounting and Regulatory Analysis'. 
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 61 FR 107, Jan. 3, 1996; 63 FR 38722, July 17, 1998; 66 FR 27835, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.6" TYPE="SECTION">
+-<HEAD>§ 1773.6   Auditor communication.</HEAD>
+-<P>(a) During the planning stages of a financial statement audit, GAGAS and AICPA standards require the auditor to communicate certain information regarding the nature and extent of testing and reporting on compliance with laws and regulations and internal control over financial reporting. The communication must include the nature of any additional testing of compliance and internal control required by laws and regulations or otherwise requested, and whether the auditors are planning to provide opinions on compliance with laws and regulations and internal control over financial reporting. This communication must take the form of an audit engagement letter prepared by the CPA and formally accepted by the board of directors or an audit committee representing the board of directors. The engagement letter must also encompass those items prescribed in SAS 83, entitled “Establishing an Understanding with the Client”. It must also include the following:
+-</P>
+-<P>(1) The borrower and the CPA acknowledge that the audit is being performed and the auditor's report, report on compliance and on internal control over financial reporting, and management letter is being issued in order to enable the borrower to comply with the provisions of RUS's security instrument; 
+-</P>
+-<P>(2) The borrower and CPA acknowledge that RUS will consider the borrower to be in violation of its security instrument with RUS if the borrower fails to have an audit performed and documented in compliance with GAGAS and this part; 
+-</P>
+-<P>(3) The CPA represents that he/she meets the requirements under this part to be satisfactory to RUS; 
+-</P>
+-<P>(4) The CPA will perform the audit and will prepare the auditor's report, report on compliance and on internal control over financial reporting, and management letter in accordance with the requirements of this part; 
+-</P>
+-<P>(5) The CPA will document the audit work performed in accordance with GAGAS, the professional standards of the AICPA, and the requirements of this part; 
+-</P>
+-<P>(6) The CPA will make all audit-related documents, including auditor's reports, workpapers, and management letters available to RUS or its representatives (OIG and GAO), upon request, and will permit the photocopying of all audit-related documents; and
+-</P>
+-<P>(7) The CPA will follow the requirements of reporting fraud and illegal acts as outlined in § 1773.9. 
+-</P>
+-<P>(b) The audit agreement may include such additional terms and conditions as the CPA and borrower deem appropriate, including, but not limited to: 
+-</P>
+-<P>(1) The CPA will report all audit findings to the board of directors as required in § 1773.20(b); and 
+-</P>
+-<P>(2) The auditor's report, report on compliance, report on compliance and on internal controls over financial reporting, and management letter with copies for transmittal to RUS, and supplemental lenders, if applicable, will be submitted to the borrower's board of directors within 90 days of the as of audit date; 
+-</P>
+-<P>(c) A copy of the audit agreement must be available at the borrower's office for inspection by RUS personnel. One copy of the current audit agreement must be maintained in the CPA's workpapers or permanent file.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 61 FR 108, Jan. 3, 1996; 63 FR 38722, July 17, 1998; 66 FR 27835, 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.7" TYPE="SECTION">
+-<HEAD>§ 1773.7   Audit standards.</HEAD>
+-<P>(a) The audit must be performed in accordance with GAGAS and this part. The audit must be performed in accordance with GAGAS in effect at the audit date unless the borrower is directed otherwise, in writing, by RUS. 
+-</P>
+-<P>(b) The audit must include such tests of the accounting records and such other auditing procedures that are sufficient to enable the CPA to express an opinion on the financial statements and to issue the required report on compliance and on internal control over financial reporting and the management letter.
+-</P>
+-<P>(c) <I>Audit scope limitation.</I> (1) The borrower will not limit the scope of the audit to the extent that the CPA is unable to meet RUS's audit requirements or to provide an unqualified opinion that the financial statements are presented fairly in conformity with GAAP. 
+-</P>
+-<P>(2) The security instrument provision requiring the submission of a report of the audit is not satisfied if the CPA must qualify the opinion in the auditor's report due to limitations placed on the scope of the audit by the borrower. 
+-</P>
+-<P>(3) If the CPA determines during the audit that an unqualified opinion cannot be issued due to a scope limitation imposed by the borrower, the CPA should use professional judgment to determine what levels of the borrower's management should be informed. 
+-</P>
+-<P>(4) After informing the borrower's management, if the scope limitation is not adequately resolved, the CPA should immediately contact the AA-PARA, RUS, U.S. Department of Agriculture, Washington, DC 20250-1523. The AA-PARA will endeavor to resolve the matter with the borrower.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 66 FR 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.8" TYPE="SECTION">
+-<HEAD>§ 1773.8   Audit date.</HEAD>
+-<P>(a) The annual audit must be performed as of the end of the same calendar month each year unless prior approval to change the as of audit date is obtained, in writing, from RUS. 
+-</P>
+-<P>(1) A borrower may request a change in the as of audit date by writing to the AA-PARA at least 60 days prior to the newly requested as of audit date.
+-</P>
+-<P>(2) The time period between the prior as of audit date and the newly requested as of audit date must be no longer than twenty-four months. For example, a borrower that wishes to change its as of audit date from December 31, 20X1, to June 30, must make the change effective no later than June 30, 20X3. 
+-</P>
+-<P>(b) Comparative financial statements must be prepared and audited for the twelve months ending as of the new audit date and for the twelve months immediately preceding that period. 
+-</P>
+-<P>(c) A borrower that changes its as of audit date from December 31, 20X1, to June 30, 20X3, must have the CPA report on statements in the following manner: 
+-</P>
+-<DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Previously issued statements 
+-</TH><TH class="gpotbl_colhed" scope="col">Statements prepared as of new audit date 
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">12/31/20X1; 12/31/20X0 (Statement need not be reissued)</TD><TD align="left" class="gpotbl_cell">6/30/20X3; 6/30/20X2.</TD></TR></TABLE></DIV></DIV>
+-<CITA TYPE="N">[ 56 FR 63360, Dec. 3, 1991, as amended at 66 FR 27835, 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.9" TYPE="SECTION">
+-<HEAD>§ 1773.9   Disclosure of fraud, illegal acts, and other noncompliance.</HEAD>
+-<P>(a) In accordance with GAGAS, the auditor must design the audit to provide reasonable assurance of detecting fraud that is material to the financial statements and material misstatements resulting from direct and material illegal acts, and noncompliance with the provisions of contracts or grant agreements that could have a direct and material effect on financial statements amounts. 
+-</P>
+-<P>(b) If specific information comes to the auditor's attention that provides evidence concerning the existence of possible illegal acts that could have a material indirect effect on the financial statements or material noncompliance with the provisions of contracts or grant agreements that could have a material indirect effect on the financial statements, auditors should apply audit procedures specifically directed to ascertaining whether an illegal act or noncompliance with provisions of contract or grant agreements has occurred. 
+-</P>
+-<P>(c) Pursuant to the terms of its audit engagement letter with the borrower, the CPA must immediately report, in writing, all instances of fraud and all indications or instances of illegal acts, whether material or not, to:
+-</P>
+-<P>(1) The president of the borrower's board of directors; 
+-</P>
+-<P>(2) The Assistant Administrator, Program Accounting and Regulatory Analysis; and 
+-</P>
+-<P>(3) OIG, as follows: 
+-</P>
+-<P>(i) For the States of Delaware, District of Columbia, Maryland, Pennsylvania, Virginia, West Virginia, Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Puerto Rico, Rhode Island, Vermont and the Virgin Islands, report to USDA-OIG-Audit, Northeast Region, Regional Inspector General, 6505 Belcrest Road, room 428-A, Hyattsville, Maryland 20782; 
+-</P>
+-<P>(ii) For the States of Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, and Tennessee, report to USDA-OIG-Audit, Southeast Region, Regional Inspector General, 401 W. Peachtree Street, NW., room 2328, Atlanta, Georgia 30365-3520; 
+-</P>
+-<P>(iii) For the States of Illinois, Indiana, Michigan, Minnesota, Ohio, and Wisconsin, report to USDA-OIG-Audit, Midwest Region, Regional Inspector General, 111 N. Canal Street, Suite 1130, Chicago, Illinois 60606; 
+-</P>
+-<P>(iv) For the States of Arkansas, Louisiana, New Mexico, Oklahoma, and Texas, report to USDA-OIG-Audit, Southwest Region, Regional Inspector General, 101 South Main, room 324, Temple, Texas 76501; 
+-</P>
+-<P>(v) For the States of Colorado, Iowa, Kansas, Missouri, Montana, Nebraska, North Dakota, South Dakota, Wyoming, and Utah, report to USDA-OIG-Audit, Great Plains Region, Regional Inspector General, P.O. Box 293, Kansas City, Missouri 64141; and 
+-</P>
+-<P>(vi) For the States of Alaska, Arizona, California, Hawaii, Idaho, Nevada, Oregon, Territory of Guam, Trust Territories of Pacific, and Washington, report to USDA-OIG-Audit, Western Region, Regional Inspector General, 555 Battery Street, room 511, San Francisco, California 94111.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 61 FR 108, Jan. 3, 1996; 66 FR 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.10" TYPE="SECTION">
+-<HEAD>§ 1773.10   Access to audit-related documents.</HEAD>
+-<P>Pursuant to the terms of the audit agreement, the CPA must make all audit-related documents, including auditors' reports, workpapers, and management letters available to RUS, or its designated representative, upon request and must permit RUS, or its designated representative, to photocopy all audit-related documents. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§§ 1773.11-1773.19" TYPE="SECTION">
+-<HEAD>§§ 1773.11-1773.19   [Reserved]</HEAD>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="C" TYPE="SUBPART">
+-<HEAD>Subpart C - RUS Requirements for the Submission and Review of the Auditor's Report, Report on Compliance and on Internal Control Over Financial Reporting, and Management Letter</HEAD>
+-
+-
+-<DIV8 N="§ 1773.20" TYPE="SECTION">
+-<HEAD>§ 1773.20   CPA's submission of the auditor's report, report on compliance, report on compliance and on internal controls over financial reporting, and management letter.</HEAD>
+-<P>(a) <I>Time limit.</I> As soon as possible after completion of the audit, but within 90 days of the as of audit date, the CPA should deliver the auditor's report, report on compliance and on internal control over financial reporting, and management letter to the president of the borrower's board of directors. As a minimum, copies should be provided for each member of the board of directors and the manager. Further, three copies must be provided to the borrower for transmittal to RUS. 
+-</P>
+-<P>(b) <I>Communication with the board of directors.</I> In addition to providing sufficient copies of the auditor's report, report on compliance and on internal control over financial reporting, and management letter for each member of the borrower's board of directors, RUS requires that the CPA report all audit findings to the borrower's board of directors. RUS recommends that audit findings be communicated orally; however, the communication may be oral or written, at the borrower's discretion. If the information is communicated orally, the CPA must document the communication by appropriate memoranda or notations in the workpapers. If the CPA communicates in writing, a copy of the written communication must be included in the CPA's audit workpapers or permanent file. 
+-</P>
+-<P>(c) <I>Matters to be communicated.</I> Matters communicated to the board of directors must include, but are not limited to the matters to be communicated to the audit committee as prescribed in SAS No. 61, entitled “Communication with Audit Committee”,:
+-</P>
+-<P>(1) The initial selection of and changes in significant accounting policies; 
+-</P>
+-<P>(2) The methods used to account for significant or unusual transactions and the effects of significant accounting policies in controversial or emerging areas; 
+-</P>
+-<P>(3) The process utilized by management to formulate significant accounting estimates and the basis for the CPA's conclusions regarding the reasonableness of these estimates; 
+-</P>
+-<P>(4) Audit findings and recommendations, including audit adjustments that either individually or in the aggregate have a significant effect on the borrower's financial statements; 
+-</P>
+-<P>(5) The CPA's responsibility for other information presented with the audited financial statements, any audit procedures performed, and the results thereof; 
+-</P>
+-<P>(6) Any disagreements with management, whether or not satisfactorily resolved, concerning matters that individually or in the aggregate may be significant to the borrower's financial statements or the auditor's report, report on compliance and on internal control over financial reporting, or management letter; 
+-</P>
+-<P>(7) Significant matters that were the subject of consultations with other accountants; 
+-</P>
+-<P>(8) Significant issues discussed with management with regard to the initial or recurring retention of the CPA; and 
+-</P>
+-<P>(9) Any serious difficulties encountered in dealing with management during the performance of the audit.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 59 FR 659, Jan. 6, 1994; 66 FR 27835, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.21" TYPE="SECTION">
+-<HEAD>§ 1773.21   Borrower's review and submission of the auditor's report, report on compliance and on internal control over financial reporting, and management letter.</HEAD>
+-<P>(a) The borrower's board of directors should note and record receipt of the auditor's report, report on compliance and on internal control over financial reporting, and management letter and any action taken in response to the reports or management letter in the minutes of the board meeting at which such reports and management letter are presented. 
+-</P>
+-<P>(b) The borrower must furnish RUS with three copies of the auditor's report, report on compliance and on internal control over financial reporting, and management letter within 120 days of the as of audit date. Any provision in RUS's security instrument that requires such documents to be furnished to RUS in a shorter period of time may be disregarded.
+-</P>
+-<P>(c) The borrower must furnish RUS with three copies of its plan for corrective action, if any, within 180 days of the as of audit date. 
+-</P>
+-<P>(d) The borrower must furnish RUS, within 120 days of the as of audit date, with a copy of each special report, summary of recommendations or similar communications, if any, received from the CPA as a result of the audit. 
+-</P>
+-<P>(e) All required submissions to RUS described in paragraphs (a) through (d) of this section should be sent to: Assistant Administrator, Program Accounting and Regulatory Analysis, Stop 1523, 1400 Independence Ave., SW, Washington, DC 20250-1523.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 59 FR 659, Jan. 6, 1994; 66 FR 27835, 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§§ 1773.22-1773.29" TYPE="SECTION">
+-<HEAD>§§ 1773.22-1773.29   [Reserved]</HEAD>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="D" TYPE="SUBPART">
+-<HEAD>Subpart D - RUS Reporting Requirements</HEAD>
+-
+-
+-<DIV8 N="§ 1773.30" TYPE="SECTION">
+-<HEAD>§ 1773.30   General.</HEAD>
+-<P>(a) The CPA must prepare the following (examples of which are set forth in RUS Bulletin 1773-1): 
+-</P>
+-<P>(1) An auditor's report; 
+-</P>
+-<P>(2) A report on compliance and on internal control over financial reporting; and 
+-</P>
+-<P>(3) A management letter.
+-</P>
+-<P>(b) The CPA should deliver the auditor's report, report on compliance and on internal control over financial reporting, and management letter (with copies as required in § 1773.20) to the borrower as soon as possible after completion of the audit but not more than 90 days after the as of audit date. 
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 63 FR 38723, July 17, 1998; 66 FR 27835, 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.31" TYPE="SECTION">
+-<HEAD>§ 1773.31   Auditor's report.</HEAD>
+-<P>The CPA must prepare a written report on comparative balance sheets, statements of revenue and patronage capital (or income and retained earnings, depending upon the structure of the borrower) and statements of cash flows. This report must be signed by the CPA, cover all statements presented, and refer to the separate report on compliance and on internal control over financial reporting issued in conjunction with the auditor's report. The auditor's report should also state that the report on compliance and on internal control over financial reporting is an integral part of a GAGAS audit, and in considering the results of the audit, this report should be read along with the auditor's report on the financial statements.
+-</P>
+-<CITA TYPE="N">[66 FR 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.32" TYPE="SECTION">
+-<HEAD>§ 1773.32   Report on compliance and on internal control over financial reporting.</HEAD>
+-<P>As required by GAGAS, the CPA must prepare a written report describing the auditors testing of compliance with applicable laws, regulations, contracts, and grants, and on internal control over financial reporting and present the results of those tests. This report must be signed by the CPA and must include, as a minimum: 
+-</P>
+-<P>(a) The scope of the CPA's testing of compliance with laws and regulations and internal control over financial reporting including whether or not the tests performed provided sufficient evidence to support an opinion on compliance or internal control over financial reporting and whether the CPA is providing such opinions; 
+-</P>
+-<P>(b) If conditions believed to be material weaknesses considered to be reportable conditions are disclosed, the report should identify the material weaknesses that have come to the CPA's attention; 
+-</P>
+-<P>(c) If no reportable instances of non-compliance and no reportable conditions were found, the CPA must issue a report as illustrated in RUS Bulletin 1773-1. 
+-</P>
+-<P>(d) If material instances of non-compliance and reportable conditions are identified, the CPA must issue a report as illustrated in RUS Bulletin 1773-1. 
+-</P>
+-<P>(e) Other nonmaterial instances of noncompliance should not be disclosed in the report on compliance and on internal control over financial reporting, but should be reported in a separate communication to the board of directors, preferably in writing. All such communications must be documented in the workpapers and submitted to RUS in compliance with § 1773.21.
+-</P>
+-<P>(f) If the CPA has issued a separate letter detailing immaterial instances of noncompliance, the report on compliance and on internal control over financial reporting must be modified to include a statement such as:
+-</P>
+-<EXTRACT>
+-<P>We noted certain immaterial instances of noncompliance, which we have reported to the management of (borrower's name) in a separate letter dated (month, day, year).</P></EXTRACT>
+-<P>(g) If the CPA has issued a separate letter to management to communicate other matters involving the design and operation of the internal control over financial reporting, the report on compliance and on internal control over financial reporting must be modified to include a statement such as:
+-</P>
+-<EXTRACT>
+-<P>However, we noted other matters involving the internal control over financial reporting that we have reported to the management of (borrower's name) in a separate letter dated (month, day, year).</P></EXTRACT>
+-<P>(h) The report must contain the status of known but uncorrected significant or material findings and recommendations from prior audits that affect the current audit objective.
+-</P>
+-<CITA TYPE="N">[63 FR 38723, July 17, 1998, as amended at 66 FR 27836, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.33" TYPE="SECTION">
+-<HEAD>§ 1773.33   Management letter.</HEAD>
+-<P>The CPA must prepare a management letter that includes, at a minimum, comments on:
+-</P>
+-<P>(a) <I>Audit procedures.</I> State whether the audit has been performed in accordance with this part; 
+-</P>
+-<P>(b) <I>Special reports.</I> State whether any special reports, summaries of recommendations, or similar communications were furnished to the borrower's management during the course of the audit or during interim audit work, and provide a description of the information furnished; 
+-</P>
+-<P>(c) <I>Accounting and records.</I> Comment on the adequacy and effectiveness of the borrower's accounting procedures, discuss the general condition of the records, and outline any recommendations for improvement. Comment on the adequacy and fairness of the methods used in accumulating and recording labor, material, and overhead costs, and the distribution of these costs to construction, retirement, and maintenance or other expense accounts, and where appropriate, include: 
+-</P>
+-<P>(1) Whether continuing property records (CPRs) have been established, are updated on a current basis, at least annually, and are reconciled with the controlling general ledger plant accounts;
+-</P>
+-<P>(2) Whether construction clearing accounts are cleared promptly of costs of completed construction to the proper classified plant accounts and whether depreciation was accrued on such completed construction from the date the plant was placed in service; 
+-</P>
+-<P>(3) Whether retirements of plant are currently and systematically recorded and properly priced; 
+-</P>
+-<P>(4) Whether all costs associated with retirements of plant are properly accounted for in the accumulated provision for depreciation accounts and comment on any unusual charges or credits to such accounts; and 
+-</P>
+-<P>(5) Whether RUS approval was obtained for the sale, lease or transfer of capital assets secured under the mortgage when approval is required, and whether proceeds from the sale or lease of plant, material or scrap were handled in conformance with RUS requirements.
+-</P>
+-<P>(d) <I>Materials control.</I> Comment on the adequacy of the control over materials and supplies. 
+-</P>
+-<P>(e) <I>Compliance with RUS loan and security instrument provisions.</I> State whether the following provisions of RUS' loan and security instruments have been complied with: 
+-</P>
+-<P>(1) For electric borrowers, provisions related to: 
+-</P>
+-<P>(i) The requirements for a borrower to obtain written approval of mortgagees to enter into any contract for the management, operation, or maintenance of the borrower's system if the contract covers all or substantially all (90 percent) of the electric system. For purposes of this part, the following contracts shall be deemed as requiring RUS approval: 
+-</P>
+-<P>(A) Management contracts in which the borrower has contracted to have another borrower or other entity manage its affairs; 
+-</P>
+-<P>(B) Management contracts in which the borrower has contracted to manage another borrower or other utility system; 
+-</P>
+-<P>(C) Operations and maintenance contracts in which the borrower has contracted to have another borrower or other entity operate and/or maintain all or substantially all (90 percent) of the physical plant facilities of the borrower.
+-</P>
+-<P>(D) Operations and maintenance contracts in which the borrower has contracted to operate and maintain the physical plant facilities of another borrower or other utility system; and 
+-</P>
+-<P>(ii) The requirement for a borrower to prepare and furnish mortgagees annual financial and statistical reports on the borrower's financial condition and operations. For borrowers with a December 31 year end, the CPA must state whether the information represented by the borrower as having been submitted to RUS in its most recent December 31 RUS Form 7 or Form 12 is in agreement with the borrower's audited records. For borrowers with a year end other than December 31, the CPA must state whether the information appears reasonable based upon the audit procedures performed. If the borrower represents that an amended report has been filed as of December 31, the comments must relate to the amended report.
+-</P>
+-<P>(2) For telecommunications borrowers, provisions relating to the requirement for a borrower to obtain written approval of the mortgagees to enter into: 
+-</P>
+-<P>(i) Any contract, agreement or lease between the borrower and an affiliate other than as allowed under 7 CFR part 1744, subpart E;
+-</P>
+-<P>(ii) The requirement for a borrower to prepare and furnish mortgagees annual financial and statistical reports on the borrower's financial condition and operations. For borrowers with a December 31 year end, the CPA must state whether the information represented by the borrower as having been submitted to RUS in its most recent December 31 RUS Form 479 is in agreement with the borrower's audited records. For borrowers with a year end other than December 31, the CPA must state whether the information appears reasonable based upon the audit procedures performed. If the borrower represents that an amended report has been filed as of December 31, the comments must relate to the amended report.
+-</P>
+-<P>(f) <I>Related party transactions.</I> State whether all material related party transactions have been disclosed in the notes to the financial statements in accordance with SFAS No. 57, entitled “Related Party Disclosures”. If the audit did not disclose any related party transactions considered to be material, either individually or in the aggregate, so state; 
+-</P>
+-<P>(g) <I>Depreciation rates.</I> For electric borrowers, comment when the depreciation rates used in computing monthly accruals are not in compliance with RUS requirements (See RUS Bulletin 183-1, Depreciation Rates and Procedures), which require the use of depreciation rates that are within the ranges established by RUS for each primary plant account, or with the requirements of the State regulatory body having jurisdiction over the borrower's depreciation rates; and 
+-</P>
+-<P>(h) <I>Deferred debits and deferred credits.</I> For electric borrowers, provide a detailed analysis of the totals reported as deferred debits and deferred credits, including, but not limited to, margin stabilization plans, revenue deferral plans, and expense deferrals. The CPA must state whether RUS has approved, in writing, each regulatory asset and liability. 
+-</P>
+-<P>(i) <I>Investments.</I> For electric and telecommunications borrowers, provide a detailed schedule of all investments in subsidiary and affiliated companies accounted for on either the cost or equity basis. This requirement includes investments in corporations, limited liability corporations and partnerships, joint ventures, etc. For all investments list the name of the entity, ownership percentage, and the principal business in which the entity is engaged. For investments recorded on the cost basis include the original investment, advances, dividends declared or paid in the current and prior years and the net investment. For investments recorded on the equity basis include the ownership percentage, original investment, advances, and current and prior years' earnings and losses, including accumulated losses in excess of the original investment.
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 59 FR 659, Jan. 6, 1994; 61 FR 108, Jan. 3, 1996. Redesignated and amended at 63 FR 38723, July 17, 1998; 63 FR 40169, July 28, 1998; 66 FR 27830, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§§ 1773.34-1773.37" TYPE="SECTION">
+-<HEAD>§§ 1773.34-1773.37   [Reserved]</HEAD>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="E" TYPE="SUBPART">
+-<HEAD>Subpart E - RUS Required Audit Procedures and Documentation</HEAD>
+-
+-
+-<DIV8 N="§ 1773.38" TYPE="SECTION">
+-<HEAD>§ 1773.38   Scope of engagement.</HEAD>
+-<P>(a) RUS requires that the audit procedures set forth in §§ 1773.39 through 1773.45 be performed annually by the CPA during the audit of the RUS borrowers' financial statements, which audit procedures may be in addition to the conduct of a GAGAS audit. 
+-</P>
+-<P>(b) The CPA must exercise professional judgment in determining whether any auditing procedures in addition to those mandated by GAGAS or this part should be performed in order to afford a reasonable basis for rendering the auditor's report, report on compliance and on internal control over financial reporting, and management letter. 
+-</P>
+-<CITA TYPE="N">[56 FR 63360, Dec. 3, 1991, as amended at 66 FR 27835, May 21, 2001]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.39" TYPE="SECTION">
+-<HEAD>§ 1773.39   Utility plant and accumulated depreciation.</HEAD>
+-<P>(a) <I>General.</I> The audit of these accounts must include tests of additions, replacements, retirements, and changes. Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(1) Examined direct labor and material transactions to determine whether the borrower's accounting records reflect a complete accumulation of costs; 
+-</P>
+-<P>(2) Examined indirect costs and overhead charges to determine if they conform to the Uniform System of Accounts; 
+-</P>
+-<P>(3) Reviewed the costs of completed construction and retirement projects to determine if they were cleared promptly from the work in progress accounts to the classified plant in service accounts and the related depreciation reserves;
+-</P>
+-<P>(4) Examined direct purchases of special equipment and general plant; 
+-</P>
+-<P>(5) Determined the degree of accuracy and control of costing retirements, including tests of salvage and removal costs; 
+-</P>
+-<P>(6) Reviewed the borrower's work order procedures; and 
+-</P>
+-<P>(7) Reviewed depreciation rates for adequate support, compared them to RUS guidelines, and determined if they are in compliance. 
+-</P>
+-<P>(b) <I>Construction work in progress.</I> (1) The workpapers must include a summary of open work orders reconciled to the general ledger. The CPA must note on the summary any unusual or nontypical projects. 
+-</P>
+-<P>(2) Based upon the CPA's determination of materiality, an appropriate sample of work orders must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(i) Reviewed equipment purchases charged to work orders, including payments and receiving reports; 
+-</P>
+-<P>(ii) Reviewed contracts showing the scope of the work, the nature of the contract, the contract amount, and scheduled payments and reviewed supporting documents to determine that all services contracted for were in fact rendered; 
+-</P>
+-<P>(iii) Reviewed time cards and pay rates for several employees who allocate their time to work orders; 
+-</P>
+-<P>(iv) Reviewed the nature of material and supplies issued to the project, traced amounts and quantities to supporting documents, and reviewed the reasonableness of clearing rates for assignment of stores expense to the work order; 
+-</P>
+-<P>(v) Reviewed the accuracy of the computation of overheads applied to the work order; and 
+-</P>
+-<P>(vi) Reviewed other costs charged to the work order for support and propriety. 
+-</P>
+-<P>(3) Based upon the CPA's determination of materiality, an appropriate sample of completed contracts must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(i) Scheduled payments to contractors and traced to verify payments and supporting invoices; 
+-</P>
+-<P>(ii) Traced contract costs to final closeout documents, to the general ledger, and to the continuing property records; and 
+-</P>
+-<P>(iii) Verified the costs of owner furnished materials, if applicable. 
+-</P>
+-<P>(4) The CPA must review the borrower's procedures for unitization and classification of work order and contract costs. Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(i) Reviewed the tabulation of record units for construction from the work order staking sheets to the tabulation of record units, to the unitization sheets, and to the continuing property records; 
+-</P>
+-<P>(ii) Reviewed the procedures for unitizing and distributing costs of completed construction to the plant accounts; 
+-</P>
+-<P>(iii) Verified that standard costs were being used; 
+-</P>
+-<P>(iv) Evaluated the basis for development of standard costs; and 
+-</P>
+-<P>(v) Determined that costs of completed construction were cleared promptly from work in progress accounts. 
+-</P>
+-<P>(c) <I>Continuing property records.</I> Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(1) Determined whether the subsidiary plant records agree with the controlling general ledger plant accounts; 
+-</P>
+-<P>(2) Noted differences in the workpapers; and 
+-</P>
+-<P>(3) Commented, in the management letter, on any discrepancies. 
+-</P>
+-<P>(d) <I>Retirement work-in-progress.</I> Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(1) Determined that plant retirements are currently and systematically recorded and priced on the basis of the continuing property records, and determined that costs of removal have been properly accounted for; 
+-</P>
+-<P>(2) Explained the method used in computing the cost of units of plant retired if continuing property records have not been established and determined whether costs appeared reasonable; and 
+-</P>
+-<P>(3) Determined the manner in which net losses due to retirements were accounted for and traced clearing entries to the depreciation reserve, the plant accounts, and the continuing property records. 
+-</P>
+-<P>(e) <I>Provision for accumulated depreciation.</I> The CPA's workpapers must include an analysis of transactions. Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(1) Verified the depreciation accruals for the period, including the depreciation base; 
+-</P>
+-<P>(2) Reviewed the basis of the depreciation rates, any change in rates and the reason therefor, and, if appropriate, determined whether the rates are in compliance with RUS requirements or with the requirements of the state regulatory body having jurisdiction over the borrower's depreciation rates; 
+-</P>
+-<P>(3) Reviewed salvage and removal costs; and 
+-</P>
+-<P>(4) Searched for unrecorded retirements. 
+-</P>
+-<P>(f) <I>Other reserves.</I> The CPA's workpapers must include an account analysis for all other material plant reserves, such as the reserve for the amortization of plant acquisition adjustments. Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that appropriate tests of transactions were performed. 
+-</P>
+-<P>(g) <I>Narrative.</I> The CPA must prepare and include in the workpapers a comprehensive narrative on the scope of work performed, observations made, and conclusions reached. Specific matters covered in this narrative must include: 
+-</P>
+-<P>(1) The nature of construction and other additions; 
+-</P>
+-<P>(2) The control over, and the accuracy of pricing retirements; 
+-</P>
+-<P>(3) The accuracy of distributing costs to classified utility plant accounts; 
+-</P>
+-<P>(4) An evaluation of the method of: 
+-</P>
+-<P>(i) Capitalizing the direct loadings on labor and material costs; 
+-</P>
+-<P>(ii) Distributing transportation costs and other expense clearing accounts; and 
+-</P>
+-<P>(iii) Capitalizing overhead costs; 
+-</P>
+-<P>(5) The tests of depreciation; 
+-</P>
+-<P>(6) A review of agreements such as those relating to acquisitions, property sales, and leases which affect the plant accounts; and 
+-</P>
+-<P>(7) Notations, if applicable, of RUS approval of property sales and the propriety of the disposition of the proceeds. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.40" TYPE="SECTION">
+-<HEAD>§ 1773.40   Regulatory assets.</HEAD>
+-<P>The CPA's workpapers must document whether all regulatory assets comply with the requirements of SFAS No. 71. For electric borrowers only, the CPA's workpapers must document whether all regulatory assets have received RUS approval. 
+-</P>
+-<CITA TYPE="N">[59 FR 660, Jan. 6, 1994]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.41" TYPE="SECTION">
+-<HEAD>§ 1773.41   Extraordinary retirement losses.</HEAD>
+-<P>The CPA's workpapers must contain an analysis of retirement losses, including any required approval by a regulatory commission with jurisdiction in the matter, or RUS, in the absence of commission jurisdiction. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.42" TYPE="SECTION">
+-<HEAD>§ 1773.42   Clearing accounts.</HEAD>
+-<P>The CPA's workpapers must contain an analysis of all clearing accounts. Based upon the CPA's determination of materiality, an appropriate sample of transactions should be selected for testing. The CPA's workpapers must document that transactions were reviewed for proper allocation between expense and capital accounts. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.43" TYPE="SECTION">
+-<HEAD>§ 1773.43   Capital and equity accounts.</HEAD>
+-<P>(a) <I>Capital stock.</I> For privately owned companies, the workpapers must include analyses of all stock transactions during the audit period. Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(1) Reviewed the subsidiary records and reconciled them to the general ledger control account; 
+-</P>
+-<P>(2) Reviewed authorizations and issuances or redemptions of capital stock for proper approvals by the board of directors, stockholders, and regulatory commissions; 
+-</P>
+-<P>(3) Determined that transactions were made in accordance with the appropriate provisions of the articles of incorporation, bylaws, and RUS loan documents; and 
+-</P>
+-<P>(4) Determined that transactions were recorded in accordance with the Uniform System of Accounts. 
+-</P>
+-<P>(b) <I>Memberships.</I> For cooperative organizations, the workpapers must include an analysis of the membership transactions during the audit period. Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(1) Reviewed the subsidiary records and reconciled them to the general ledger control account; and 
+-</P>
+-<P>(2) Determined that transactions were made in accordance with the appropriate provisions of the articles of incorporation, bylaws, and RUS loan documents. 
+-</P>
+-<P>(c) <I>Patronage capital, retained earnings, margins, and other equities.</I> The workpapers must include an analysis of the patronage capital, retained earnings, margins and other equities, and any related reserve accounts. Based upon the CPA's determination of materiality, an appropriate sample of transactions must be selected for testing. The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(1) Determined that the transactions were made in accordance with the appropriate provisions of the articles of incorporation, bylaws, RUS loan documents, Uniform System of Accounts, or orders of regulatory commissions; 
+-</P>
+-<P>(2) Traced payments to underlying support; and 
+-</P>
+-<P>(3) Determined whether, under the terms of the RUS security instrument, restrictions of retained earnings or margins are required and, if so, whether they have been properly recorded. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.44" TYPE="SECTION">
+-<HEAD>§ 1773.44   Long-term debt.</HEAD>
+-<P>The CPA's workpapers must document that he/she: 
+-</P>
+-<P>(a) Confirmed RUS, FFB, and RTB debt to the appropriate confirmation schedule (RUS Form 690, Confirmation Schedule Obligation to the FFB as of: or Form 691, Confirmation Schedule - Long-term Obligation to RUS as of; or RTB Form 12, Confirmation Schedule); 
+-</P>
+-<P>(b) Confirmed other long-term debt directly with the lender;
+-</P>
+-<P>(c) Examined notes executed or canceled during the audit period; and 
+-</P>
+-<P>(d) Tested accrued interest computations. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 1773.45" TYPE="SECTION">
+-<HEAD>§ 1773.45   Regulatory liabilities.</HEAD>
+-<P>The CPA's workpapers must document whether all regulatory liabilities comply with the requirements of SFAS No. 71. For electric borrowers only, the CPA's workpapers must document whether all regulatory liabilities have received RUS approval. 
+-</P>
+-<CITA TYPE="N">[59 FR 660, Jan. 6, 1994]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§§ 1773.46-1773.49" TYPE="SECTION">
+-<HEAD>§§ 1773.46-1773.49   [Reserved]</HEAD>
+-</DIV8>
+-
+-</DIV6>
+-
+ </DIV5>
+ 
+ 
