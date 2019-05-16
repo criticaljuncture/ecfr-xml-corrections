@@ -1,0 +1,174 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/47/2018/08/2018-08-07.xml	2019-05-16 13:44:29.000000000 -0700
++++ tmp/title_version_47_2018-08-07T01:00:00-0400_preprocessed.xml	2019-05-16 13:53:46.000000000 -0700
+@@ -172787,171 +172787,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 400.1" TYPE="SECTION">
+-<HEAD>§ 400.1   Purpose.</HEAD>
+-<P>This part establishes uniform application, approval, award, financial and administrative requirements for the grant program authorized under the “Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004” (ENHANCE 911 Act), as amended.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.2" TYPE="SECTION">
+-<HEAD>§ 400.2   Definitions.</HEAD>
+-<P>As used in this part - 
+-</P>
+-<P><I>Administrator</I> means the Administrator of the National Highway Traffic Safety Administration (NHTSA), U.S. Department of Transportation.
+-</P>
+-<P><I>Assistant Secretary</I> means the Assistant Secretary for Communications and Information, U.S. Department of Commerce, and Administrator of the National Telecommunications and Information Administration (NTIA).
+-</P>
+-<P><I>Designated E-911 charges</I> mean any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve E-911 services.
+-</P>
+-<P><I>E-911 Coordinator</I> means a single officer or governmental body of the State that is responsible for implementing E-911 services in the State.
+-</P>
+-<P><I>E-911 services</I> mean both phase I and phase II enhanced 911 services, as described in 47 CFR 20.18.
+-</P>
+-<P><I>Eligible entity</I> means a State or local government or tribal organization, including public authorities, boards, commissions, and similar bodies created by such governmental entities to provide E-911 services.
+-</P>
+-<P><I>ICO</I> means the National E-911 Implementation Coordination Office established under 47 U.S.C. 942 for the administration of the E-911 grant program, located at the National Highway Traffic Safety Administration, US Department of Transportation, 1200 New Jersey Avenue, SE., NTI-140, Washington, DC 20590.
+-</P>
+-<P><I>Integrated telecommunications services</I> mean those entities engaged in the provision of multiple services, such as voice, data, image, graphics, and video services, which make common use of all or part of the same transmission facilities, switches, signaling, or control devices.
+-</P>
+-<P><I>IP-enabled emergency network or IP-enabled emergency system</I> means an emergency communications network or system based on a secured infrastructure that allows secured transmission of information, using Internet Protocol, among users of the network or system.
+-</P>
+-<P><I>Phase II E-911 services</I> mean phase II enhanced 911 services, as described in 47 CFR 20.18.
+-</P>
+-<P><I>PSAP</I> means a public safety answering point, a facility that has been designated to receive emergency calls and route them to emergency personnel.
+-</P>
+-<P><I>State</I> includes any State of the United States, the District of Columbia, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.3" TYPE="SECTION">
+-<HEAD>§ 400.3   Who may apply.</HEAD>
+-<P>In order to apply for a grant under this part, an applicant must be a State applying on behalf of all eligible entities within its jurisdiction.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.4" TYPE="SECTION">
+-<HEAD>§ 400.4   Application requirements.</HEAD>
+-<P>(a) <I>Contents.</I> A State's application for funds for the E-911 grant program must consist of the following components:
+-</P>
+-<P>(1) <I>State 911 Plan.</I> A plan that details the projects and activities proposed to be funded for the implementation and operation of Phase II E-911 services or migration to an IP-enabled emergency network, establishes metrics and a time table for grant implementation, and describes the steps the State has taken to - 
+-</P>
+-<P>(i) Coordinate its application with local governments, tribal organizations, and PSAPs within the State;
+-</P>
+-<P>(ii) Ensure that at least 90 percent of the grant funds will be used for the direct benefit of PSAPs and not more than 10 percent of the grant funds will be used for the State's administrative expenses related to the E-911 grant program;
+-</P>
+-<P>(iii) Give priority to communities without 911 capability as of August 3, 2007 to establish Phase II coverage by identifying the percentage of grant funds designated for those communities or provide an explanation why such designation would not be practicable in successfully accomplishing the purposes of the grant;
+-</P>
+-<P>(iv) Involve integrated telecommunications services in the implementation and delivery of Phase II E-911 services or for migration to an IP-enabled emergency network; and
+-</P>
+-<P>(v) Employ the use of technologies to achieve compliance with Phase II E-911 services or for migration to an IP-enabled emergency network.
+-</P>
+-<P>(2) <I>Project budget.</I> A project budget for all proposed projects and activities to be funded by the grant funds identified for the State in appendix A and matching funds. Specifically, for each project or activity, the State must:
+-</P>
+-<P>(i) Demonstrate that the project or activity meets the eligible use requirement in § 400.7; and
+-</P>
+-<P>(ii) Identify the non-Federal sources, which meet the requirements of 49 CFR 18.24, that will fund at least 50 percent of the cost; except that as provided in 48 U.S.C. 1469a, the requirement for non-Federal matching funds (including in-kind contributions) is waived for American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands for grant amounts up to $200,000.
+-</P>
+-<P>(3) <I>Supplemental project budget.</I> States that meet the qualification requirements for the initial distribution of E-911 grant funds may also qualify for additional grant funds that may become available. To be eligible for any such additional grant funds that may become available in accordance with § 400.6, a State must submit, with its application, a supplemental project budget that identifies the maximum dollar amount the State is able to match from non-Federal sources meeting the requirements of 49 CFR 18.24, and includes projects or activities for those grant and matching amounts, up to the total amount in the project budget submitted under paragraph (a)(2) of this section. This information must be provided to the same level of detail as required under paragraph (a)(2) of this section and be consistent with the State 911 Plan required under paragraph (a)(1) of this section.
+-</P>
+-<P>(4) <I>Designated E-911 Coordinator.</I> The identification of a single officer or government body to serve as the E-911 Coordinator of implementation of E-911 services and to sign the certifications required under this part. If the State has established by law or regulation an office or coordinator with the authority to manage E-911 services, that office or coordinator must be identified as the designated E-911 Coordinator and apply for the grant on behalf of the State. If the State does not have such an office or coordinator established, the Governor of the State must appoint a single officer or governmental body to serve as the E-911 Coordinator in order to qualify for an E-911 grant. If the designated E-911 Coordinator is a governmental body, an official representative of the governmental body shall be identified to sign the certifications for the E-911 Coordinator. The State must notify NHTSA in writing within 30 days of any change in appointment of the E-911 Coordinator.
+-</P>
+-<P>(5) <I>Certifications.</I> (i) The certification in appendix B to this part, signed by the E-911 Coordinator, certifying that the State has complied with the required statutory and programmatic conditions in submitting its application. The State must certify that during the time period 180 days preceding the application date, the State has not diverted any portion of designated E-911 charges imposed by the State for any purpose other than the purposes for which such charges are designated, that no taxing jurisdiction in the State that will be a recipient of E-911 grant funds has diverted any portion of designated E-911 charges imposed by the taxing jurisdiction for any purpose other than the purposes for which such charges are designated, and that neither the State nor any taxing jurisdiction in the State that is a recipient of E-911 grant funds will divert designated E-911 charges for any purpose other than the purposes for which such charges are designated throughout the time period during which grant funds are available.
+-</P>
+-<P>(ii) Submitted on an annual basis 30 days after the end of each fiscal year during which grant funds are available, the certification in appendix C to this part, signed by the E-911 Coordinator, making the same certification as required under paragraph (a)(5)(i) of this section concerning the diversion of designated E-911 charges.
+-</P>
+-<P>(b) <I>Due date.</I> The State must submit the application documents identified in this section so that they are received by the ICO no later than August 4, 2009. Failure to meet this deadline will preclude the State from receiving consideration for an E-911 grant award.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.5" TYPE="SECTION">
+-<HEAD>§ 400.5   Approval and award.</HEAD>
+-<P>(a) The ICO will review each application for compliance with the requirements of this part.
+-</P>
+-<P>(b) The ICO may request additional information from the State, with respect to any of the application submission requirements of § 400.4, prior to making a recommendation for an award. Failure to submit such additional information may preclude the State from further consideration for award.
+-</P>
+-<P>(c) The Administrator and Assistant Secretary will jointly approve and announce, in writing, grant awards to qualifying States no later than September 30, 2009.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.6" TYPE="SECTION">
+-<HEAD>§ 400.6   Distribution of grant funds.</HEAD>
+-<P>(a) <I>Initial distribution.</I> Subject to paragraph (b) of this section, grant funds for each State that meets the requirements in § 400.4 will be distributed - 
+-</P>
+-<P>(1) 50 percent in the ratio which the population of the State bears to the total population of all the States, as shown by the latest available Federal census; and
+-</P>
+-<P>(2) 50 percent in the ratio which the public road mileage in each State bears to the total public road mileage in all States, as shown by the latest available Federal Highway Administration data.
+-</P>
+-<P>(b) <I>Minimum distribution.</I> The distribution to each qualifying State under paragraph (a) of this section shall not be less than $500,000, except that the distribution to American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands shall not be less than $250,000.
+-</P>
+-<P>(c) <I>Supplemental distribution.</I> Grant funds that are not distributed under paragraph (a) of this section will be redistributed among qualifying States that have met the requirements of § 400.4, including the submission of a supplemental project budget as provided in § 400.4(a)(3), in accordance with the formula in paragraph (a) of this section.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.7" TYPE="SECTION">
+-<HEAD>§ 400.7   Eligible uses for grant funds.</HEAD>
+-<P>Grant funds awarded under this part may be used only for the acquisition and deployment of hardware and software that enables the implementation and operation of Phase II E-911 services, for the acquisition and deployment of hardware and software to enable the migration to an IP-enabled emergency network, for the training in the use of such hardware and software, or for any combination of these uses, provided such uses have been identified in the State 911 Plan.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.8" TYPE="SECTION">
+-<HEAD>§ 400.8   Non-compliance.</HEAD>
+-<P>In accordance with 49 U.S.C. 942(c), where a State provides false or inaccurate information in its certification related to the diversion of E-911 charges, the State shall be required to return all grant funds awarded under this part.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.9" TYPE="SECTION">
+-<HEAD>§ 400.9   Financial and administrative requirements.</HEAD>
+-<P>(a) <I>General.</I> The requirements of 49 CFR part 18, the Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments, including applicable cost principles referenced at 49 CFR 18.22, govern the implementation and management of grants awarded under this part.
+-</P>
+-<P>(b) <I>Reporting requirements</I> - (1) <I>Performance reports.</I> Each grant recipient shall submit an annual performance report to NHTSA, following the procedures of 49 CFR 18.40, within 90 days after each fiscal year that grant funds are available, except when a final report is required under § 400.10(b)(2).
+-</P>
+-<P>(2) <I>Financial reports.</I> Each grant recipient shall submit quarterly financial reports to NHTSA, following the procedures of 49 CFR 18.41, within 30 days after each fiscal quarter that grant funds are available, except when a final voucher is required under § 400.10(b)(1).
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 400.10" TYPE="SECTION">
+-<HEAD>§ 400.10   Closeout.</HEAD>
+-<P>(a) <I>Expiration of the right to incur costs.</I> The right to incur costs under this part expires on September 30, 2012. The State and its subgrantees and contractors may not incur costs for Federal reimbursement past the expiration date.
+-</P>
+-<P>(b) <I>Final submissions.</I> Within 90 days after the completion of projects and activities funded under this part, but in no event later than the expiration date identified in paragraph (a) of this section, each grant recipient must submit - 
+-</P>
+-<P>(1) A final voucher for the costs incurred. The final voucher constitutes the final financial reconciliation for the grant award.
+-</P>
+-<P>(2) A final report to NHTSA, following the procedures of 49 CFR 18.50(b).
+-</P>
+-<P>(c) <I>Disposition of unexpended balances.</I> Any funds that remain unexpended by the end of fiscal year 2012 shall cease to be available to the State and shall be returned to the government.
+-
+-
+-</P>
+-</DIV8>
+-
+ 
+ <DIV9 N="Appendix A" TYPE="APPENDIX">
+ <HEAD>Appendix A to Part 400 - Minimum Grant Awards Available to Qualifying States

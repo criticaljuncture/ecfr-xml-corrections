@@ -1,0 +1,8 @@
+description: When Part 400 was updated because of 83 FR 38051 the old version of Part 400 was left behind. This removes the older version of Part 400.
+tags: content
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-08-07'
+    end_date: '2100-01-01'
