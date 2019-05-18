@@ -1,0 +1,8 @@
+description: 'Title 15 Part 2004 was missing an identifier in both the head and identifier for most of 2017. This restores the identifier but does not update the visible description/head tag.'
+tags: ['content-error']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2017-09-28'
