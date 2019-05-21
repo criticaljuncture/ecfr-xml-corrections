@@ -1,0 +1,8 @@
+description: 'This removes a duplicate section 48 CFR 852.236-72.'
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2019-04-22'
+    end_date: '2100-01-01'
