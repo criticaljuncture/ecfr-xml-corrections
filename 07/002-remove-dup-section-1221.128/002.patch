@@ -1,6 +1,6 @@
---- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/07/2018/10/2018-10-25.xml	2019-05-23 16:51:27.000000000 -0700
-+++ tmp/title_version_7_2018-10-25T01:00:00-0400_preprocessed.xml	2019-05-23 16:53:25.000000000 -0700
-@@ -307263,20 +307263,8 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/07/2019/04/2019-04-30T10:30:06-0400.xml	2019-05-23 16:26:39.000000000 -0700
++++ tmp/title_version_7_2019-04-30T10:30:06-0400_preprocessed.xml	2019-05-23 16:31:23.000000000 -0700
+@@ -304528,15 +304528,7 @@
  </DIV8>
  
  
@@ -10,14 +10,9 @@
 -</P>
 -<CITA TYPE="N">[83 FR 35106, July 25, 2018]
 -
--
--
  
- 
--
 -</CITA>
 -</DIV8>
--
- </DIV7>
  
+ </DIV7>
  
