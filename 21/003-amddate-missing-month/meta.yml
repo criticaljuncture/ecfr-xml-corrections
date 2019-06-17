@@ -1,0 +1,8 @@
+description: 'Amendment date was missing month (May). This adds "May" for three title versions.'
+tags: 'structural'
+status: 'needs-approved'
+
+patches:
+  '001':
+    start_date: '2019-05-02T20:00:07-0400'
+    end_date: '2019-05-09T20:00:07-0400'
