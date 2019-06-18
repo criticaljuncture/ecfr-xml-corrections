@@ -4,5 +4,5 @@ status: 'needs-approved'
 
 patches:
   '001':
-    start_date: '2019-04-09 20:00:06 -0400'
+    start_date: '2019-04-09'
     end_date: '2100-01-01'
