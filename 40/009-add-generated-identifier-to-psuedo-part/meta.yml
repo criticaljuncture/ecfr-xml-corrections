@@ -1,0 +1,8 @@
+description: Title 40 contains a part node that is used as an index for Parts 1500 Through 1508. This assigns this part a generated ECFR identifier.
+tags: 'structural'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2015-01-03'
+    end_date: '2100-01-01'
