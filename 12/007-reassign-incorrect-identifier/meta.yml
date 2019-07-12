@@ -1,0 +1,8 @@
+description: Reserved Chapter node Chapter V has been accidentally assigned identifier 0. This Corrects the identifier to be V.
+tags: ['transcription-error']
+status: 'needs review'
+
+patches:
+  '001':
+    start_date: '2019-03-08'
+    end_date: '2099-09-09'
