@@ -1,0 +1,8 @@
+description: When 50 CFR  648.65 was turned into a reserved node an additional head tag was inserted. This removes this additional head tag in favor of the reserved tag because the node is empty. 
+tags: ['content']
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2018-04-23'
+    end_date: '2099-09-09'
