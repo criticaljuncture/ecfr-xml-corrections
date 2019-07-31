@@ -1,0 +1,11 @@
+description: "Title 47 Volume 5 had it's amendment date changed from Dec. 12, 2018 to Nov. 27, 2018 on 2019-02-05. This should be Dec. 27, 2018."
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: '131'
+fr_doc: 'https://www.federalregister.gov/documents/2018/11/27/2018-24022/creation-of-interstitial-125-kilohertz-channels-in-the-800-mhz-band-between-809-817854-862-mhz'
+reference:
+
+patches:
+  '001':
+    start_date: '2019-02-05'
+    end_date: '2019-02-08'
