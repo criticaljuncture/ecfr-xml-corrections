@@ -1,0 +1,14 @@
+description: "Four title_versions for Title 30 included amendment dates for Volume 3 that were off by a year. This patches 2018 to be 2019."
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: '126'
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2019-03-15'
+    end_date: '2019-03-15'
+  '002':
+    start_date: '2019-03-25'
+    end_date: '2019-03-27'
