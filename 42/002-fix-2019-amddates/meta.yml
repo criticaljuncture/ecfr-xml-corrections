@@ -1,0 +1,17 @@
+description: 'Update three rounds of Volume 3 amddates incorrectly inserted with 2018 instead of 2019.'
+tags: 'transcription'
+status: 'needs-approval'
+issue_number: '129'
+fr_doc: 
+reference:
+
+patches:
+  '001':
+    start_date: '2019-02-08'
+    end_date: '2019-02-08'
+  '002':
+    start_date: '2019-02-22'
+    end_date: '2019-02-26'
+  '003':
+    start_date: '2019-03-05'
+    end_date: '2019-04-11'
