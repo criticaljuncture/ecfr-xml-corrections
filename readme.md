@@ -58,10 +58,10 @@ When these range dates are inserted, CFR says to use the later date. If they see
 Original basecamp explanation:
 https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/108715908/comments#401012955
 
-## AmendmentDateTracker
+## TitleAmddateCsvGenerator
 We've created a utility that makes it easier to diagnose and triage amendment date issues.
 
-The AmendmentDateTracker creates a CSV with all the volume amendment dates for every title_version received for a Title in a given year.
+The TitleAmddateCsvGenerator creates a CSV with all the volume amendment dates for every title_version received for a Title in a given year.
 
 CSV output example:
 ```
@@ -78,8 +78,9 @@ For the source_xml for 2017-02-03 the amendment date is incremented from January
 
 The amendment date wraps dates that are unparsable or that are smaller than the previous date in *asterisks* so after csv generation it's easy to find amendment date problems while looking at the document in a spreadsheet.
 
-How to run the AmendmentDateTracker
-WIP update to accept title/year as arguments rather than modifying #initialize
+Use from inside `ecfr-versioner` repo:
+
+`$ TITLE=7 YEAR=2017 ruby lib/utils/title_ammdate_csv_generator.rb`
 
 ## Ecfr Wiki
 https://github.com/criticaljuncture/criticaljuncture.org/wiki/ECFR
