@@ -1,0 +1,14 @@
+description: "Update Title 26 volumes 5 and 6 amddates to be 2019 instead of incorrect 2018. Patch 001 applies to both, Patch 002 is only to volume 6."
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: '118'
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2019-03-19'
+    end_date: '2019-04-05'
+  '002':
+    start_date: '2019-04-08'
+    end_date: '2019-07-29T12:00:13-0400'
