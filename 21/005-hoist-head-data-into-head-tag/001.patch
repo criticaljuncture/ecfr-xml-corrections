@@ -1,0 +1,26 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/21/2019/06/2019-06-06T20:00:08-0400.xml	2019-08-12 14:36:11.000000000 -0700
++++ tmp/title_version_21_2019-06-06T20:00:08-0400_preprocessed.xml	2019-08-12 14:52:37.000000000 -0700
+@@ -36134,10 +36134,9 @@
+ 
+ <DIV9 N="" TYPE="APPENDIX">
+ <HEAD> 
+-
+-</HEAD>
+ <TCAP><E T="04">Appendix C to Part 101 - Nutrition Facts for Raw Fruits and Vegetables</E>
+ </TCAP>
++</HEAD>
+ <img src="http://www.ecfr.gov/graphics/er17au06.007.gif"/>
+ <img src="http://www.ecfr.gov/graphics/er17au06.008.gif"/>
+ <BCAP><E T="04">[71 FR 47439, Aug. 17, 2006]</E></BCAP>
+@@ -36146,10 +36145,9 @@
+ 
+ <DIV9 N="" TYPE="APPENDIX">
+ <HEAD> 
+-
+-</HEAD>
+ <TCAP><E T="04">Appendix D to Part 101 - Nutrition Facts for Cooked Fish</E>
+ </TCAP>
++</HEAD>
+ <img src="http://www.ecfr.gov/graphics/er17au06.009.gif"/>
+ <BCAP><E T="04">[71 FR 47439, Aug. 17, 2006]</E></BCAP>
+ </DIV9>
