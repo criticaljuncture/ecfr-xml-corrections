@@ -7,5 +7,5 @@ reference:
 
 patches:
   '001':
-    start_date: "2019-03-19"
-    end_date: "2099-09-09"
+    start_date: '2019-03-19'
+    end_date: '2019-08-16 00:13:18'
