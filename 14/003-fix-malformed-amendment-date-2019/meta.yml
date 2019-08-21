@@ -1,0 +1,11 @@
+description: 'Fix malformed date in Volume 2 of Title 14'
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: '150'
+fr_doc: 'https://www.federalregister.gov/documents/2019/08/19/2019-17695/special-conditions-mitsubishi-aircraft-corporation-model-mrj-200-airplane-airplane-electronic-system'
+reference:
+
+patches:
+  '001':
+    start_date: '2019-08-20'
+    end_date: '2099-09-09'
