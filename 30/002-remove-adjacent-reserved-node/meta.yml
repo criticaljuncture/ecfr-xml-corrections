@@ -1,0 +1,11 @@
+description: 'Title 30 779.25 was a reserved node that was replaced with content. This removes the adjacent left-over reserved node.'
+tags: 'transcription'
+status: 'needs-approval'
+issue_number: '152'
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-11-20'
+    end_date: '2018-10-02'
