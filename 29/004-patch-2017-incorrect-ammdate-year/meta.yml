@@ -1,0 +1,29 @@
+description: 'This patches a an amendment date in Title 29 volume 9 to be 2017 instead of 2016.'
+tags: 'amendment-date'
+status:  'needs-approval'
+issue_number: 152
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-07'
+    end_date: '2017-01-12'
+  '002':
+    start_date: '2017-01-24'
+    end_date: '2017-01-24'
+
+# #<ImportProblem:0x00007fc406a17508
+#   "Title 29 - received_on: 2017-01-07T00:00:00-0500 has a newly inserted amendment date that is before the previous amendment d
+# ate.",
+
+#  id: 705,
+#  problem_type: "reverse_amendment_date",
+#  description:
+#  sent_at: Fri, 06 Sep 2019 08:00:09 EDT -04:00,
+#  created_at: Mon, 26 Aug 2019 17:14:09 EDT -04:00,
+#  error_type: "ofr",
+#  first_received_at: Sat, 07 Jan 2017 00:00:00 EST -05:00,
+#  last_received_at: Sat, 07 Jan 2017 00:00:00 EST -05:00,
+#  composite_hierarchy: nil,
+#  title: 29>,
