@@ -1,0 +1,11 @@
+description: "This patches volume 3 and 4 in Title 20. These dates appeared to regress from Jan 18, 2017 to October 18 and 24, 2016. In the following title version they return to Jan. 18 2017."
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: '152'
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-25'
+    end_date: '2017-01-25'
