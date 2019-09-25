@@ -1,0 +1,8 @@
+description: 'Title 7 - Appendix B to Part 3434 has an empty <head/> tag before a correct tag that is causing the label and name of the appendix to be incorrect. This removes this empty head tag.'
+tags: 'structural'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2019-06-10'
+    end_date: '2019-06-10'
