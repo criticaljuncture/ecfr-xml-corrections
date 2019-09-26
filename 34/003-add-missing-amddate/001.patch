@@ -1,0 +1,12 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/34/2019/09/2019-09-25T20:13:31-0400.xml	2019-09-26 15:08:17.000000000 -0700
++++ tmp/title_version_34_2019-09-25T20:13:31-0400_preprocessed.xml	2019-09-26 15:29:06.000000000 -0700
+@@ -98635,8 +98635,9 @@
+
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>, 2019
++<AMDDATE>Sept. 23, 2019
+ </AMDDATE>
++
+ <RESERVED>[Reserved]
+ </RESERVED>

@@ -1,0 +1,9 @@
+description: 'This adds a missing amendment-date to Title 34 Volume 4'
+tags: 'amendment-date'
+status: 'needs-review'
+reference: 'https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109149854/comments#403280383'
+
+patches:
+  '001':
+    start_date: '2019-09-25'
+    end_date: '2099-09-09'
