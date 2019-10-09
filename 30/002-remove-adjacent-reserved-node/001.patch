@@ -1,0 +1,13 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/30/2017/11/2017-11-21.xml	2019-09-13 10:59:07.000000000 -0700
++++ tmp/title_version_30_2017-11-21T00:00:00-0500_preprocessed.xml	2019-09-13 11:00:46.000000000 -0700
+@@ -92609,9 +92609,7 @@
+ </DIV8>
+
+
+-<DIV8 N="§ 779.25" TYPE="SECTION">
+-<HEAD>§ 779.25   [Reserved]</HEAD>
+-</DIV8>
++
+
+ </DIV5>
+
