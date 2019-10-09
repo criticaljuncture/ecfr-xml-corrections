@@ -1,0 +1,23 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/40/2019/10/2019-10-03T20:30:14-0400.xml	2019-10-09 14:19:26.000000000 -0700
++++ tmp/title_version_40_2019-10-03T20:30:14-0400_preprocessed.xml	2019-10-09 15:37:33.000000000 -0700
+@@ -684784,9 +684784,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 89.507" TYPE="SECTION">
+-</DIV8>
+-
++<DIV8 N="§ 89.506" TYPE="SECTION">
++<HEAD>§ 89.506   Right of entry and access.</HEAD>
+ <P>(a) To allow the Administrator to determine whether a manufacturer is complying with the provisions of this subpart and a test order issued thereunder, EPA enforcement officers or EPA authorized representatives may enter during operating hours and upon presentation of credentials any of the following places: 
+ </P>
+ <P>(1) Any facility where any engine to be introduced into commerce, including ports of entry, or any emission-related component is manufactured, assembled, or stored; 
+@@ -684825,6 +684824,8 @@
+ 
+ 
+ </CITA>
++</DIV8>
++
+ 
+ <DIV8 N="§ 89.507" TYPE="SECTION">
+ <HEAD>§ 89.507   Sample selection.</HEAD>

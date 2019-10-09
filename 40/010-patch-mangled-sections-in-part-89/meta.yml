@@ -1,0 +1,12 @@
+description: 'Title 40 contains a part node whose XML was mangled because of a missing <SUBJECT> tag in the SGML.'
+tags: 'structural'
+status: 'approved'
+issue_number: '156'
+fr_doc:
+reference:
+  'https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109219561/comments'
+
+patches:
+  '001':
+    start_date: '2019-10-03'
+    end_date: '2019-10-03'
