@@ -1,0 +1,10 @@
+description: Part 267 was changed from reserved to having content - however the reserved part tags were left behind by the editor
+tags: ['transcription-error']
+status: 'needs review'
+fr_doc: 84 FR 15503
+reference: "https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109271551/comments"
+
+patches:
+  '001':
+    start_date: '2019-04-23'
+    end_date: '2100-01-01'
