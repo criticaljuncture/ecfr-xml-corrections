@@ -1,0 +1,13 @@
+--- /home/app/data/titles/preprocessed/xml/20/2017/01/2017-01-03.xml	2019-10-15 19:54:06.291045846 -0400
++++ tmp/title_version_20_2017-01-03T00:00:00-0500_preprocessed.xml	2019-10-15 19:56:09.190121895 -0400
+@@ -102167,8 +102167,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ " TYPE="SECTION">
+-<HEAD>§    653.102 Job information.</HEAD>
++<DIV8 N="§ 653.102" TYPE="SECTION">
++<HEAD>§ 653.102   Job information.</HEAD>
+ <P>All SWAs must make job order information conspicuous and available to MSFWs by all reasonable means. Such information must, at minimum, be available through internet labor exchange systems and through the one-stop centers. One-stop centers must provide adequate staff assistance to MSFWs to access job order information easily and efficiently. In designated significant MSFW multilingual offices, such assistance must be provided to MSFWs in their native language, whenever requested or necessary.
+ 
+ 
