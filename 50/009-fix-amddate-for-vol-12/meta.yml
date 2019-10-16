@@ -1,0 +1,11 @@
+description: Patch incorrect Title 50 amddate, editor entered FR documents publication date rather than when the provisions expired
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 120
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2019-02-08'
+    end_date: '2019-02-08'
