@@ -1,0 +1,10 @@
+description: Amendment date was entered incorrectly and then later corrected, this fixes the interim period where it was incorrect
+tags: 'structural, transcription-error'
+status: 'needs-approval'
+issue_number: 128
+fr_doc:
+
+patches:
+  '001':
+    start_date: '2019-03-05'
+    end_date: '2019-03-08'
