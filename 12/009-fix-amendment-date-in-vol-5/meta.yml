@@ -1,0 +1,11 @@
+description: OFR reorganized Title 12 by splitting Vol 5 into Vol 5 & 6 (6 was empty) - the amendment dates should have remained the same after the change (Part 1 of 2)
+tags: ['amendment-date']
+status: 'approved'
+fr_doc:
+issue: 122
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109227233/comments
+
+patches:
+  '001':
+    start_date: '2019-03-09'
+    end_date: '2019-03-14'
