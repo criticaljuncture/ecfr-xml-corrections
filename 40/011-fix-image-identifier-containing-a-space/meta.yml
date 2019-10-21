@@ -1,0 +1,11 @@
+description: A space was added to the middle of an image identifier for one update making it invalid
+tags: 'transcription'
+status: 'needs-approval'
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-06-02'
+    end_date: '2017-06-02'

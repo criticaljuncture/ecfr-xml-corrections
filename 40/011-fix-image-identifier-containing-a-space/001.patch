@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/40/2017/06/2017-06-02.xml	2019-10-21 17:44:04.207039789 -0400
++++ tmp/title_version_40_2017-06-02T01:00:00-0400_preprocessed.xml	2019-10-21 17:45:17.595160563 -0400
+@@ -1215566,7 +1215566,7 @@
+ <img src="http://www.ecfr.gov/graphics/er25oc16.146.gif"/>
+ <P>(g) Create a table showing the mean power loss,
+ </P>
+-<img src="http://www.ecfr.gov/graphics/er25oc 16.322.gif"/>
++<img src="http://www.ecfr.gov/graphics/er25oc16.322.gif"/>
+ <FP>corresponding to each mean output torque and mean wheel speed for input into GEM. Express wheel speed in r/min to one decimal place; express output torque in N·m to two decimal places; express power loss in kW to four decimal places. Select mean power loss values at or above the corresponding value calculated in paragraph (f) of this section. Use good engineering judgment to select values that will be at or above the mean power loss values for your production axles. For vehicles with tandem drive axles, sum the power losses and output torques of the individual axles when creating your table. For tandem axles with a disconnect, input a separate table into GEM for the single and tandem drive axle configurations. Vehicle manufacturers will use these declared mean power loss values for certification.
+ 
+ 
