@@ -5,4 +5,4 @@ status: 'needs-review'
 patches:
   '001':
     start_date: '2018-02-15'
-    end_date: '2100-01-01'
+    end_date: '2019-10-09 12:31:00'
