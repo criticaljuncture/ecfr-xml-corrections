@@ -1,0 +1,8 @@
+description: Title 9 contains an extra section 318.12, the first not having any content and getting removed the next update. 
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2019-10-16'
+    end_date: '2019-10-16'

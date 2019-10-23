@@ -1,0 +1,14 @@
+--- data/titles/preprocessed/xml/09/2019/10/2019-10-16T20:00:06-0400.xml	2019-10-23 19:21:47.128001280 -0400
++++ tmp/title_version_9_2019-10-16T20:00:06-0400_preprocessed.xml	2019-10-23 19:25:52.190251203 -0400
+@@ -51837,11 +51837,6 @@
+ 
+ <DIV8 N="§ 318.12" TYPE="SECTION">
+ <HEAD>§ 318.12   Manufacture of uninspected, inedible products at official establishments.</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 318.12" TYPE="SECTION">
+-<HEAD>§ 318.12   Manufacture of uninspected, inedible products at official establishments.</HEAD>
+ <P>(a) Official establishments may manufacture pet food or similar uninspected, inedible products in areas where edible products also are produced, provided that the manufacture of uninspected, inedible products does not:
+ </P>
+ <P>(1) Adulterate edible products;
