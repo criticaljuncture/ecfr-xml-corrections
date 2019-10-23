@@ -1,0 +1,13 @@
+description: 'Patch Title 24 volume 2 amddate to be 2018 instead of 2017.'
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: '153'
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2018-07-06'
+    # end_date: '2018-07-24'
+    end_date: '2099-07-24'
+
