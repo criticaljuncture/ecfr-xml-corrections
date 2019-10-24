@@ -1,0 +1,8 @@
+description: Subtitle A was split from only volume 1 to volume 1 & 2 - Subpart B was moved to Vol 2 but the editor failed to remove it from Vol 1 - this was subsequently fixed.
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2019-10-18'
+    end_date: '2019-10-20'

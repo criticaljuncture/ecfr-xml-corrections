@@ -1,0 +1,38 @@
+--- data/titles/preprocessed/xml/45/2019/10/2019-10-21T19:30:09-0400.xml	2019-10-24 14:59:16.065317617 -0400
++++ tmp/title_version_45_2019-10-21T19:30:09-0400_preprocessed.xml	2019-10-24 15:00:25.905440646 -0400
+@@ -51,7 +51,7 @@
+ 
+ </PG></CHAPTI></CFRTOC>
+ 
+-<DIV3 N="A" TYPE="CHAPTER">
++<DIV2 N="A" TYPE="SUBTITLE">
+ 
+ <HEAD> Subtitle A - Department of Health and Human Services</HEAD>
+ 
+@@ -36677,7 +36677,7 @@
+ 
+ </DIV4>
+ 
+-</DIV3>
++</DIV2>
+ 
+ </DIV1>
+ 
+@@ -36700,7 +36700,7 @@
+ 
+ </PG></CHAPTI></CFRTOC>
+ 
+-<DIV3 N="A" TYPE="CHAPTER">
++<DIV2 N="A" TYPE="SUBTITLE">
+ 
+ <HEAD> Subtitle A - Department of Health and Human Services</HEAD>
+ 
+@@ -66025,7 +66025,7 @@
+ 
+ </DIV4>
+ 
+-</DIV3>
++</DIV2>
+ 
+ </DIV1>
+ 
