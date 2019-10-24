@@ -1,5 +1,5 @@
---- tmp/title_version_39_preprocessed.xml	2018-12-31 14:16:24.000000000 -0800
-+++ /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/45/2017/01/2017-01-03.xml	2018-12-31 14:31:08.000000000 -0800
+--- data/titles/preprocessed/xml/45/2017/01/2017-01-03.xml	2019-10-24 13:30:19.466360564 -0400
++++ tmp/title_version_45_2017-01-03T00:00:00-0500_preprocessed.xml	2019-10-24 13:33:34.653475016 -0400
 @@ -51,7 +51,7 @@
  
  </PG></CHAPTI></CFRTOC>
@@ -8,4 +8,13 @@
 +<DIV2 N="A" TYPE="SUBTITLE">
  
  <HEAD> Subtitle A - Department of Health and Human Services</HEAD>
+ 
+@@ -64616,7 +64616,7 @@
+ 
+ </DIV4>
+ 
+-</DIV3>
++</DIV2>
+ 
+ </DIV1>
  
