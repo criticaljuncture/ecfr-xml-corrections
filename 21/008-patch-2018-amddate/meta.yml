@@ -1,0 +1,10 @@
+description: 'Change incorrect Title 21 Volume 8 amendment date from June 18 to October 18 2018.'
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 153
+reference: '2018-22694'
+
+patches:
+  '001':
+    start_date: '2018-10-19'
+    end_date: '2018-10-19'
