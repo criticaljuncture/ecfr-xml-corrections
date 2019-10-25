@@ -1,0 +1,11 @@
+description: Patch incorrect Title 50 amddate, volume 12 had a cross reference inserted. Month mistakenly went backward (January instead of February).
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 153
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2018-02-15'
+    end_date: '2018-02-28'
