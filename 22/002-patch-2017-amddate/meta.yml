@@ -1,0 +1,11 @@
+description: Patch incorrect year when transitioning from Dec 2016 to Jan 2017.
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 152
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-09'
+    end_date: '2017-01-09'
