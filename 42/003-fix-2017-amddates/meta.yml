@@ -1,0 +1,11 @@
+description: 'Update accidental Title 42 Jan 1 2016 date to be 2017. Update amendment date where they used published instead of effective date.'
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 152
+fr_doc: 'https://www.federalregister.gov/documents/2016/11/15/2016-26668/medicare-program-revisions-to-payment-policies-under-the-physician-fee-schedule-and-other-revisions'
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-07'
+    end_date: '2017-01-07'
