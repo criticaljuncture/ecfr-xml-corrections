@@ -1,0 +1,14 @@
+description: 'Fix 2017 reverse Title 45 Vol 1, 4 amendment dates.'
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 152
+fr_doc:   
+  vol1: https://www.federalregister.gov/documents/2016/12/12/2016-29752/health-and-human-services-grants-regulation
+  vol2: https://www.federalregister.gov/documents/2016/12/14/2016-29366/adoption-and-foster-care-analysis-and-reporting-system
+
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-25'
+    end_date: '2017-01-25'
