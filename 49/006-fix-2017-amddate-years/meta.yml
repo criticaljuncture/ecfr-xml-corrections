@@ -1,0 +1,16 @@
+description: 'Title 49 Volume 2 was continually assigned 2016 during 2017 amendment date updates. This updates these to use the correct year, 2017 for April and July amendment dates.'
+tags: 'amendment-date'
+status: needs-approval
+issue_number: 152
+fr_doc:
+reference:
+
+patches:
+  # april
+  '001':
+    start_date: '2017-04-21'
+    end_date: '2017-07-11'
+  # july
+  '002':
+    start_date: '2017-07-12'
+    end_date: '2018-01-25'
