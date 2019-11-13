@@ -1,0 +1,11 @@
+description: 'This patches an incorrect amendment date year from 2016 to 2017'
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 152
+fr_doc: https://www.federalregister.gov/documents/2017/01/12/2016-31873/certifications-and-exemptions-under-the-international-regulations-for-preventing-collisions-at-sea
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-24'
+    end_date: '2017-03-15'
