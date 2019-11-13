@@ -1,0 +1,11 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/33/2017/01/2017-01-24.xml	2019-11-13 11:47:10.000000000 -0800
++++ tmp/title_version_33_2017-01-24T00:00:00-0500_preprocessed.xml	2019-11-13 11:48:11.000000000 -0800
+@@ -104771,7 +104771,7 @@
+
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>January 17, 2016
++<AMDDATE>January 17, 2017
+ </AMDDATE>
+
+ <DIV1 N="3" TYPE="TITLE">

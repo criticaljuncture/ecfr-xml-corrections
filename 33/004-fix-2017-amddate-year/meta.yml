@@ -1,0 +1,17 @@
+description: "Title 33 Volume 3 amendment date has the incorrect year, 2016, instead of 2017"
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: 130
+fr_doc:
+  001: https://www.federalregister.gov/documents/2016/12/15/2016-30015/united-states-navy-restricted-area-supship-usn-gulf-coast-pascagoula-mississippi 
+  002: https://www.federalregister.gov/documents/2017/03/01/2017-03985/safety-zone-eastport-breakwater-terminal-eastport-maine
+
+reference: 
+
+patches:
+  '001':
+    start_date: '2017-01-24'
+    end_date: '2017-02-13'
+  '002':
+    start_date: '2017-03-15'
+    end_date: '2017-03-18'
