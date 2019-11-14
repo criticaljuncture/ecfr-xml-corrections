@@ -1,0 +1,17 @@
+description: "This appears to be the final date of cleanup to a citation tag reverting from July 24, 2016 to July 24, 1998. On the final date of cleanup the amendment date was reverted to several months before. This changes the amendment date to not be in reverse and use the previous amendment date because these aren't substantive changes. Churning citation:
+  <CITA TYPE='N'>[63 FR 39981, July 24, 2016. Redesignated at 81 FR 67588, Sept. 30, 2016]
+  <CITA TYPE='N'>[63 FR 39981, July 24, 1998, as amended at 81 FR 3020, Jan. 20, 2016; 81 FR 67591, Sept. 30, 2016]
+"
+
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number: '152'
+fr_doc:
+  'https://www.federalregister.gov/documents/2016/09/30/2016-22986/child-care-and-development-fund-ccdf-program'
+reference:
+  pdf: 'https://www.govinfo.gov/content/pkg/CFR-2018-title45-vol1/pdf/CFR-2018-title45-vol1.pdf'
+
+patches:
+  '001':
+    start_date: '2017-10-11'
+    end_date: '2017-10-12'
