@@ -1,0 +1,11 @@
+description: The amendment date change for volume 2 got mangled - instead of being Dec 5 it was Dec 52 
+tags: 'content-error'
+status: 'needs-review'
+fr_doc: 2019-24055
+issue_number: 165
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109611940/comments
+
+patches:
+  '001':
+    start_date: '2019-12-06'
+    end_date: '2100-01-01'
