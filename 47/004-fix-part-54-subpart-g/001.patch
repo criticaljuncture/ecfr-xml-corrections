@@ -1,0 +1,1076 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/47/2019/11/2019-11-13T20:00:12-0500.xml	2019-12-13 13:05:07.000000000 -0800
++++ tmp/title_version_47_2019-11-13T20:00:12-0500_preprocessed.xml	2019-12-13 13:18:04.000000000 -0800
+ 
+   
+@@ -70512,11 +70514,15 @@
+ <CITA TYPE="N">[69 FR 6192, Feb. 10, 2004]
+ 
+ 
+-
+-
+ </CITA>
+ </DIV8>
+ 
++</DIV6>
++
++
++<DIV6 N="G" TYPE="SUBPART">
++<HEAD>Subpart G - Defined Terms and Eligibility</HEAD>
++
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>84 FR 54979, Oct. 11, 2019, unless otherwise noted.
+ 
+@@ -71562,1052 +71568,10 @@
+ 
+ 
+ 
++  
+ 
+-</P>
+-</DIV8>
+-
+-</DIV7>
+-
+-
+-<DIV7 N="10" TYPE="SUBJGRP">
+-<HEAD>Defined Terms and Eligibility</HEAD>
+-
+-
+-<DIV8 N="§ 54.600" TYPE="SECTION">
+-<HEAD>§ 54.600   Terms and definitions.</HEAD>
+-<P>As used in this subpart, the following terms shall be defined as follows:
+-</P>
+-<P>(a) <I>Health care provider.</I> A “health care provider” is any:
+-</P>
+-<P>(1) Post-secondary educational institution offering health care instruction, including a teaching hospital or medical school;
+-</P>
+-<P>(2) Community health center or health center providing health care to migrants;
+-</P>
+-<P>(3) Local health department or agency;
+-</P>
+-<P>(4) Community mental health center;
+-</P>
+-<P>(5) Not-for-profit hospital;
+-</P>
+-<P>(6) Rural health clinic;
+-</P>
+-<P>(7) Skilled nursing facility; or
+-</P>
+-<P>(8) Consortium of health care providers consisting of one or more entities described in paragraphs (a)(1) through (7) of this section.
+-</P>
+-<P>(b) <I>Rural area.</I> (1) A “rural area” is an area that is entirely outside of a Core Based Statistical Area; is within a Core Based Statistical Area that does not have any Urban Area with a population of 25,000 or greater; or is in a Core Based Statistical Area that contains an Urban Area with a population of 25,000 or greater, but is within a specific census tract that itself does not contain any part of a Place or Urban Area with a population of greater than 25,000. For purposes of this rule, “Core Based Statistical Area,” “Urban Area,” and “Place” are as identified by the Census Bureau.
+-</P>
+-<P>(2) Notwithstanding the definition of “rural area,” any health care provider that is located in a “rural area” under the definition used by the Commission prior to July 1, 2005, and received a funding commitment from the rural health care program prior to July 1, 2005, is eligible for support under this subpart.
+-</P>
+-<P>(c) <I>Rural health care provider.</I> A “rural health care provider” is an eligible health care provider site located in a rural area.
+-</P>
+-<CITA TYPE="N">[78 FR 13982, Mar. 1, 2013, as amended at 82 FR 28245, June 21, 2017]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.601" TYPE="SECTION">
+-<HEAD>§ 54.601   Health care provider eligibility.</HEAD>
+-<P>(a) <I>Eligible health care providers.</I> (1) Only an entity that is either a public or non-profit health care provider, as defined in this subpart, shall be eligible to receive support under this subpart.
+-</P>
+-<P>(2) Each separate site or location of a health care provider shall be considered an individual health care provider for purposes of calculating and limiting support under this subpart.
+-</P>
+-<P>(b) <I>Determination of health care provider eligibility for the Healthcare Connect Fund.</I> Health care providers in the Healthcare Connect Fund may certify to the eligibility of particular sites at any time prior to, or concurrently with, filing a request for services to initiate competitive bidding for the site. Applicants who utilize a competitive bidding exemption must provide eligibility information for the site to the Administrator prior to, or concurrently with, filing a request for funding for the site. Health care providers must also notify the Administrator within 30 days of a change in the health care provider's name, site location, contact information, or eligible entity type.
+-</P>
+-<CITA TYPE="N">[78 FR 13982, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.602" TYPE="SECTION">
+-<HEAD>§ 54.602   Health care support mechanism.</HEAD>
+-<P>(a) <I>Telecommunications Program.</I> Rural health care providers may request support for the difference, if any, between the urban and rural rates for telecommunications services, subject to the provisions and limitations set forth in §§ 54.600 through 54.625 and §§ 54.671 through 54.680. This support is referred to as the “Telecommunications Program.”
+-</P>
+-<P>(b) <I>Healthcare Connect Fund.</I> Eligible health care providers may request support for eligible services, equipment, and infrastructure, subject to the provisions and limitations set forth in §§ 54.600 through 54.602 and §§ 54.630 through 54.680. This support is referred to as the “Healthcare Connect Fund.”
+-</P>
+-<P>(c) <I>Allocation of discounts.</I> An eligible health care provider that engages in both eligible and ineligible activities or that collocates with an ineligible entity shall allocate eligible and ineligible activities in order to receive prorated support for the eligible activities only. Health care providers shall choose a method of cost allocation that is based on objective criteria and reasonably reflects the eligible usage of the facilities.
+-</P>
+-<P>(d) <I>Health care purposes.</I> Services for which eligible health care providers receive support from the Telecommunications Program or the Healthcare Connect Fund must be reasonably related to the provision of health care services or instruction that the health care provider is legally authorized to provide under the law in the state in which such health care services or instruction are provided.
+-</P>
+-<CITA TYPE="N">[78 FR 13982, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-</DIV7>
+-
+-
+-<DIV7 N="11" TYPE="SUBJGRP">
+-<HEAD>Telecommunications Program</HEAD>
+-
+-
+-<DIV8 N="§ 54.603" TYPE="SECTION">
+-<HEAD>§ 54.603   Competitive bidding and certification requirements.</HEAD>
+-<P>(a) <I>Competitive bidding requirement.</I> To select the telecommunications carriers that will provide services eligible for universal service support to it under the Telecommunications Program, each eligible health care provider shall participate in a competitive bidding process pursuant to the requirements established in this section and any additional and applicable state, Tribal, local, or other procurement requirements.
+-</P>
+-<P>(b) <I>Posting of FCC Form 465.</I> (1) An eligible health care provider seeking to receive telecommunications services eligible for universal service support under the Telecommunications Program shall submit a completed FCC Form 465 to the Administrator. FCC Form 465 shall be signed by the person authorized to order telecommunications services for the health care provider and shall include, at a minimum, that person's certification under oath that:
+-</P>
+-<P>(i) The requester is a public or non-profit entity that falls within one of the seven categories set forth in the definition of health care provider, listed in § 54.600(a);
+-</P>
+-<P>(ii) The requester is physically located in a rural area;
+-</P>
+-<P>(iii) [Reserved]
+-</P>
+-<P>(iv) The requested service or services will be used solely for purposes reasonably related to the provision of health care services or instruction that the health care provider is legally authorized to provide under the law in the state in which such health care services or instruction are provided;
+-</P>
+-<P>(v) The requested service or services will not be sold, resold or transferred in consideration of money or any other thing of value; and
+-</P>
+-<P>(vi) If the service or services are being purchased as part of an aggregated purchase with other entities or individuals, the full details of any such arrangement, including the identities of all co-purchasers and the portion of the service or services being purchased by the health care provider.
+-</P>
+-<P>(2) The Rural Health Care Division shall post each FCC Form 465 that it receives from an eligible health care provider on its website designated for this purpose.
+-</P>
+-<P>(3) After posting an eligible health care providers FCC Form 465 on the Rural Health Care Corporation website, the Rural Health Care Division shall send confirmation of the posting to the entity requesting services. The health care provider shall wait at least 28 days from the date on which its FCC Form 465 is posted on the website before making commitments with the selected telecommunications carrier(s). 
+-</P>
+-<P>(4) After selecting a telecommunications carrier, the health care provider shall certify to the Rural Health Care Division that the provider is selecting the most cost-effective method of providing the requested service or services, where the most cost-effective method of providing a service is defined as the method that costs the least after consideration of the features, quality of transmission, reliability, and other factors that the health care provider deems relevant to choosing a method of providing the required health care services. The health care provider shall submit to the Administrator paper copies of the responses or bids received in response to the requested services.
+-</P>
+-<P>(5) The confirmation from the Rural Health Care Division shall include the date after which the requester may sign a contract with its chosen telecommunications carrier(s).
+-</P>
+-<CITA TYPE="N">[62 FR 32948, June 17, 1997, as amended at 62 FR 41304, Aug. 1, 1997; 63 FR 2131, Jan. 13, 1998; 68 FR 74502, Dec. 24, 2003; 78 FR 13983, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.604" TYPE="SECTION">
+-<HEAD>§ 54.604   Consortia, telecommunications services, and existing contracts.</HEAD>
+-<P>(a) <I>Consortia.</I> (1) Under the Telecommunications Program, an eligible health care provider may join a consortium with other eligible health care providers; with schools, libraries, and library consortia eligible under subpart F of this part; and with public sector (governmental) entities to order telecommunications services. With one exception, eligible health care providers participating in consortia with ineligible private sector members shall not be eligible for supported services under this subpart. A consortium may include ineligible private sector entities if such consortium is only receiving services at tariffed rates or at market rates from those providers who do not file tariffs.
+-</P>
+-<P>(2) For consortia, universal service support under the Telecommunications Program shall apply only to the portion of eligible services used by an eligible health care provider.
+-</P>
+-<P>(b) <I>Telecommunications Services.</I> Any telecommunications service that is the subject of a properly completed bona fide request by a rural health care provider shall be eligible for universal service support, subject to the limitations described in this paragraph. The length of a supported telecommunications service may not exceed the distance between the health care provider and the point farthest from that provider on the jurisdictional boundary of the largest city in a state as defined in § 54.625(a).
+-</P>
+-<P>(c) <I>Existing contracts.</I> A signed contract for services eligible for Telecommunications Program support pursuant to this subpart between an eligible health care provider as defined under § 54.600 and a telecommunications carrier shall be exempt from the competitive bid requirements set forth in § 54.603(a) as follows:
+-</P>
+-<P>(1) A contract signed on or before July 10, 1997 is exempt from the competitive bid requirement for the life of the contract.
+-</P>
+-<P>(2) [Reserved]
+-</P>
+-<P>(d) For rural health care providers that take service under or pursuant to a master contract, as defined in § 54.500(f), the date of execution of that master contract represents the applicable date for purposes of determining whether and to what extent the rural health care provider is exempt from the competitive bid requirements.
+-</P>
+-<P>(e) The competitive bid system will be deemed to be operational when the Administrator is ready to accept and post FCC Form 465 from rural health care providers on a website and that website is available for use by telecommunications carriers.
+-</P>
+-<CITA TYPE="N">[63 FR 2131, Jan. 13, 1998; 63 FR 33586, June 19, 1998, as amended at 63 FR 70572, Dec. 21, 1998; 64 FR 22810, Apr. 28, 1999; 71 FR 65750, Nov. 9, 2006; 78 FR 13983, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.605" TYPE="SECTION">
+-<HEAD>§ 54.605   Determining the urban rate.</HEAD>
+-<P>(a) If a rural health care provider requests support for an eligible service to be funded from the Telecommunications Program that is to be provided over a distance that is less than or equal to the “standard urban distance,” as defined in paragraph (c) of this section, for the state in which it is located, the “urban rate” for that service shall be a rate no higher than the highest tariffed or publicly-available rate charged to a commercial customer for a functionally similar service in any city with a population of 50,000 or more in that state, calculated as if it were provided between two points within the city.
+-</P>
+-<P>(b) If a rural health care provider requests an eligible service to be provided over a distance that is greater than the “standard urban distance,” as defined in paragraph (c) of this section, for the state in which it is located, the urban rate for that service shall be a rate no higher than the highest tariffed or publicly-available rate charged to a commercial customer for a functionally similar service provided over the standard urban distance in any city with a population of 50,000 or more in that state, calculated as if the service were provided between two points within the city. 
+-</P>
+-<P>(c) The “standard urban distance” for a state is the average of the longest diameters of all cities with a population of 50,000 or more within the state.
+-</P>
+-<P>(d) The Administrator shall calculate the “standard urban distance” and shall post the “standard urban distance” and the maximum supported distance for each state on its website.
+-</P>
+-<CITA TYPE="N">[62 FR 32948, June 17, 1997, as amended at 63 FR 2131, Jan. 13, 1998; 63 FR 70572, Dec. 21, 1998; 68 FR 74502, Dec. 24, 2003; 78 FR 13983, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.607" TYPE="SECTION">
+-<HEAD>§ 54.607   Determining the rural rate.</HEAD>
+-<P>(a) The rural rate shall be the average of the rates actually being charged to commercial customers, other than health care providers, for identical or similar services provided by the telecommunications carrier providing the service in the rural area in which the health care provider is located. The rates included in this average shall be for services provided over the same distance as the eligible service. The rates averaged to calculate the rural rate must not include any rates reduced by universal service support mechanisms. The “rural rate” shall be used as described in this subpart to determine the credit or reimbursement due to a telecommunications carrier that provides eligible telecommunications services to eligible health care providers.
+-</P>
+-<P>(b) If the telecommunications carrier serving the health care provider is not providing any identical or similar services in the rural area, then the rural rate shall be the average of the tariffed and other publicly available rates, not including any rates reduced by universal service programs, charged for the same or similar services in that rural area over the same distance as the eligible service by other carriers. If there are no tariffed or publicly available rates for such services in that rural area, or if the carrier reasonably determines that this method for calculating the rural rate is unfair, then the carrier shall submit for the state commission's approval, for intrastate rates, or the Commission's approval, for interstate rates, a cost-based rate for the provision of the service in the most economically efficient, reasonably available manner.
+-</P>
+-<P>(1) The carrier must provide, to the state commission, or intrastate rates, or to the Commission, for interstate rates, a justification of the proposed rural rate, including an itemization of the costs of providing the requested service.
+-</P>
+-<P>(2) The carrier must provide such information periodically thereafter as required, by the state commission for intrastate rates or the Commission for interstate rates. In doing so, the carrier must take into account anticipated and actual demand for telecommunications services by all customers who will use the facilities over which services are being provided to eligible health care providers.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.609" TYPE="SECTION">
+-<HEAD>§ 54.609   Calculating support.</HEAD>
+-<P>(a) The amount of universal service support provided for an eligible service to be funded from the Telecommunications Program shall be the difference, if any, between the urban rate and the rural rate charged for the service, as defined herein. In addition, all reasonable charges that are incurred by taking such services, such as state and federal taxes shall be eligible for universal service support. Charges for termination liability, penalty surcharges, and other charges not included in the cost of taking such service shall not be covered by the universal service support mechanisms. Under the Telecommunications Program, rural health care providers may choose one of the following two support options.
+-</P>
+-<P>(1) <I>Distance based support.</I> The Administrator shall consider the base rates for telecommunications services in rural areas to be reasonably comparable to the base rates charged for functionally similar telecommunications service in urban areas in that state, and, therefore, the Administrator shall not include these charges in calculating the support. The Administrator shall include, in the support calculation, all other charges specified, and all actual distance-based charges as follows: 
+-</P>
+-<P>(i) If the requested service distance is less than or equal to the SUD for the state, the distance-based charges for the rural health care provider are reasonably comparable to those in urban areas, so the health care provider will not receive distance-based support. 
+-</P>
+-<P>(ii) If the requested service distance is greater than the SUD for the state, but less than the maximum allowable distance, the distance-based charge actually incurred for that service can be no higher than the distance-based charges for a functionally similar service in any city in that state with a population of 50,000 or more over the SUD. 
+-</P>
+-<P>(iii) “Distance-based charges” are charges based on a unit of distance, such as mileage-based charges. 
+-</P>
+-<P>(iv) A telecommunications carrier that provides telecommunications service to a rural health care provider participating in an eligible health care consortium, and the consortium must establish the actual distance-based charges for the health care provider's portion of the shared telecommunications services.
+-</P>
+-<P>(2) <I>Base rate support.</I> If a telecommunications carrier, health care provider, and/or consortium of health care providers reasonably determines that the base rates for telecommunications services in rural areas are not reasonably comparable to the base rates charged for functionally similar telecommunications service in urban areas in that state, the telecommunications carrier, health care provider, and/or consortium of health care providers may request that the Administrator perform a more comprehensive support calculation. The requester shall provide to the Administrator the information to establish both the urban and rural rates consistent with § 54.605 and § 54.607, and submit to the Administrator with Form 466 all of the documentation necessary to substantiate the request.
+-</P>
+-<P>(3) <I>Base rate support-consortium.</I> A telecommunications carrier that provides telecommunications service to a rural health care provider participating in an eligible health care consortium, and the consortium must establish the applicable rural base rates for telecommunications service for the health care provider's portion of the shared telecommunications services, as well as the applicable urban base rates for the telecommunications service.
+-</P>
+-<P>(b) Absent documentation justifying the amount of universal service support requested for health care providers participating in a consortium, the Administrator shall not allow telecommunications carriers to offset, or receive reimbursement for, the amount eligible for universal service support. 
+-</P>
+-<P>(c) The universal service support mechanisms shall provide support for intrastate telecommunications services, as set forth in § 54.101(a), provided to rural health care providers as well as interstate telecommunications services. 
+-</P>
+-<P>(d) <I>Satellite services.</I> (1) Rural public and non-profit health care providers may receive support for rural satellite services under the Telecommunications Program, even when another functionally similar terrestrial-based service is available in that rural area. Support for satellite services shall be capped at the amount the rural health care provider would have received if they purchased a functionally similar terrestrial-based alternative.
+-</P>
+-<P>(2) Rural health care providers seeking support from the Telecommunications Program for satellite services shall provide to the Administrator with the Form 466, documentation of the urban and rural rates for the terrestrial-based alternatives.
+-</P>
+-<P>(3) Where a rural health care provider seeks a more expensive satellite-based service when a less expensive terrestrial-based alternative is available, the rural health care provider shall be responsible for the additional cost.
+-</P>
+-<P>(e) <I>Mobile rural health care providers</I> -  (1) <I>Calculation of support.</I> The support amount allowed under the Telecommunications Program for satellite services provided to mobile rural health care providers is calculated by comparing the rate for the satellite service to the rate for an urban wireline service with a similar bandwidth. Support for satellite services shall not be capped at an amount of a functionally similar wireline alternative. Where the mobile rural health care provider provides service in more than one state, the calculation shall be based on the urban areas in each state, proportional to the number of locations served in each state.
+-</P>
+-<P>(2) <I>Documentation of support.</I> (i) Mobile rural health care providers shall provide to the Administrator documentation of the price of bandwidth equivalent wireline services in the urban area in the state or states where the service is provided. Mobile rural health care providers shall provide to the Administrator the number of sites the mobile health care provider will serve during the funding year.
+-</P>
+-<P>(ii) Where a mobile rural health care provider serves less than eight different sites per year, the mobile rural health care provider shall provide to the Administrator documentation of the price of bandwidth equivalent wireline services. In such case, the Administrator shall determine on a case-by-case basis whether the telecommunications service selected by the mobile rural health care provider is the most cost-effective option. Where a mobile rural health care provider seeks a more expensive satellite-based service when a less expensive wireline alternative is most cost-effective, the mobile rural health care provider shall be responsible for the additional cost.
+-</P>
+-<CITA TYPE="N">[68 FR 74502, Dec. 24, 2003, as amended at 70 FR 6373, Feb. 7, 2005; 78 FR 13983, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.613" TYPE="SECTION">
+-<HEAD>§ 54.613   Limitations on supported services for rural health care providers.</HEAD>
+-<P>(a) Upon submitting a bona fide request to a telecommunications carrier, each eligible rural health care provider is entitled to receive the most cost-effective, commercially-available telecommunications service at a rate no higher than the highest urban rate, as defined in § 54.605, at a distance not to exceed the distance between the eligible health care provider's site and the farthest point on the jurisdictional boundary of the city in that state with the largest population. 
+-</P>
+-<P>(b) [Reserved]
+-</P>
+-<CITA TYPE="N">[64 FR 66787, Nov. 30, 1999, as amended at 68 FR 74503, Dec. 24, 2003; 78 FR 13984, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.615" TYPE="SECTION">
+-<HEAD>§ 54.615   Obtaining services.</HEAD>
+-<P>(a) <I>Selecting a provider.</I> In selecting a telecommunications carrier, a health care provider shall consider all bids submitted and select the most cost-effective alternative.
+-</P>
+-<P>(b) <I>Receiving supported rate.</I> Upon receiving a bona fide request, as defined in paragraph (c) of this section, from a rural health care provider for a telecommunications service that is eligible for support under the Telecommunications Program, a telecommunications carrier shall provide the service at a rate no higher than the urban rate, as defined in § 54.605, subject to the limitations applicable to the Telecommunications Program.
+-</P>
+-<P>(c) <I>Bona fide request.</I> In order to receive services eligible for support under the Telecommunications Program, an eligible health care provider must submit a request for services to the telecommunications carrier, signed by an authorized officer of the health care provider, and shall include that person's certification under oath that:
+-</P>
+-<P>(1) The requester is a public or non-profit entity that falls within one of the seven categories set forth in the definition of health care provider, listed in § 54.601(a);
+-</P>
+-<P>(2) The requester is physically located in a rural area, or if the requester is a mobile rural health care provider requesting services under § 54.609(e), that the requester has certified that it is serving eligible rural areas;
+-</P>
+-<P>(3) [Reserved]
+-</P>
+-<P>(4) The requested service or services will be used solely for purposes reasonably related to the provision of health care services or instruction that the health care provider is legally authorized to provide under the law in the state in which such health care services or instruction are provided;
+-</P>
+-<P>(5) The requested service or services will not be sold, resold or transferred in consideration of money or any other thing of value;
+-</P>
+-<P>(6) If the service or services are being purchased as part of an aggregated purchase with other entities or individuals, the full details of any such arrangement, including the identities of all co-purchasers and the portion of the service or services being purchased by the health care provider; and
+-</P>
+-<P>(7) The requester is selecting the most cost-effective method of providing the requested service or services, where the most cost-effective method of providing a service is defined as the method that costs the least after consideration of the features, quality of transmission, reliability, and other factors that the health care provider deems relevant to choosing a method of providing the required health care services.
+-</P>
+-<P>(d) <I>Annual renewal.</I> The certification set forth in paragraph (c) of this section shall be renewed annually.
+-</P>
+-<CITA TYPE="N">[62 FR 32948, June 17, 1997, as amended at 70 FR 6373, Feb. 7, 2005; 78 FR 13984, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.619" TYPE="SECTION">
+-<HEAD>§ 54.619   Audits and recordkeeping.</HEAD>
+-<P>(a) <I>Health care providers.</I> (1) Health care providers shall maintain for their purchases of services supported under the Telecommunications Program documentation for five years from the end of the funding year sufficient to establish compliance with all rules in this subpart. Documentation must include, among other things, records of allocations for consortia and entities that engage in eligible and ineligible activities, if applicable. Mobile rural health care providers shall maintain annual logs indicating: The date and locations of each clinic stop; and the number of patients served at each such clinic stop.
+-</P>
+-<P>(2) Mobile rural health care providers shall maintain its annual logs for a period of five years. Mobile rural health care providers shall make its logs available to the Administrator and the Commission upon request.
+-</P>
+-<P>(b) <I>Production of records.</I> Health care providers shall produce such records at the request of any auditor appointed by the Administrator or any other state or federal agency with jurisdiction. 
+-</P>
+-<P>(c) <I>Random audits.</I> Health care providers shall be subject to random compliance audits to ensure that requesters are complying with the certification requirements set forth in § 54.615(c) and are otherwise eligible to receive universal service support and that rates charged comply with the statute and regulations. 
+-</P>
+-<P>(d) <I>Service providers.</I> Service providers shall retain documents related to the delivery of discounted services under the Telecommunications Program for at least 5 years after the last day of the delivery of discounted services. Any other document that demonstrates compliance with the statutory or regulatory requirements for the rural health care mechanism shall be retained as well.
+-</P>
+-<CITA TYPE="N">[68 FR 74503, Dec. 24, 2003, as amended at 69 FR 12087, Mar. 15, 2004; 70 FR 6373, Feb. 7, 2005; 71 FR 13281, Mar. 15, 2006; 72 FR 54218, Sept. 24, 2007; 78 FR 13984, Mar. 1, 2013] 
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.623" TYPE="SECTION">
+-<HEAD>§ 54.623   Annual filing and funding commitment requirement.</HEAD>
+-<P>(a) <I>Annual filing requirement.</I> Health care providers seeking support under the Telecommunications Program shall file new funding requests for each funding year.
+-</P>
+-<P>(b) <I>Long term contracts.</I> Under the Telecommunications Program, if health care providers enter into long term contracts for eligible services, the Administrator shall only commit funds to cover the portion of such a long term contract scheduled to be delivered during the funding year for which universal service support is sought.
+-</P>
+-<CITA TYPE="N">[78 FR 13984, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.625" TYPE="SECTION">
+-<HEAD>§ 54.625   Support for telecommunications services beyond the maximum supported distance for rural health care providers.</HEAD>
+-<P>(a) The maximum support distance for the Telecommunications Program is the distance from the health care provider to the farthest point on the jurisdictional boundary of the city in that state with the largest population, as calculated by the Administrator.
+-</P>
+-<P>(b) An eligible rural health care provider may purchase an eligible telecommunications service supported under the Telecommunications Program that is provided over a distance that exceeds the maximum supported distance.
+-</P>
+-<P>(c) If an eligible rural health care provider purchases an eligible telecommunications service supported under the Telecommunications Program that exceeds the maximum supported distance, the health care provider must pay the applicable rural rate for the distance that such service is carried beyond the maximum supported distance.
+-</P>
+-<CITA TYPE="N">[78 FR 13984, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-</DIV7>
+-
+-
+-<DIV7 N="12" TYPE="SUBJGRP">
+-<HEAD>Healthcare Connect Fund</HEAD>
+-
+-
+-<DIV8 N="§ 54.630" TYPE="SECTION">
+-<HEAD>§ 54.630   Eligible recipients.</HEAD>
+-<P>(a) <I>Rural health care provider site - individual and consortium.</I> Under the Healthcare Connect Fund, an eligible rural health care provider may receive universal service support by applying individually or through a consortium. For purposes of the Healthcare Connect Fund, a “consortium” is a group of two or more health care provider sites that request support through a single application. Consortia may include health care providers who are not eligible for support under the Healthcare Connect Fund, but such health care providers cannot receive support for their expenses and must participate pursuant to the cost allocation guidelines in § 54.639(d).
+-</P>
+-<P>(b) <I>Limitation on participation of non-rural health care provider sites in a consortium.</I> An eligible non-rural health care provider site may receive universal service support only as part of a consortium that includes more than 50 percent eligible rural health care provider sites.
+-</P>
+-<P>(c) <I>Limitation on large non-rural hospitals.</I> Each eligible non-rural public or non-profit hospital site with 400 or more licensed patient beds may receive no more than $30,000 per year in Healthcare Connect Fund support for eligible recurring charges and no more than $70,000 in Healthcare Connect Fund support every 5 years for eligible nonrecurring charges, exclusive in both cases of costs shared by the network.
+-</P>
+-<CITA TYPE="N">[78 FR 13984, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.631" TYPE="SECTION">
+-<HEAD>§ 54.631   Designation of Consortium Leader.</HEAD>
+-<P>(a) <I>Identifying a Consortium Leader.</I> Each consortium seeking support from the Healthcare Connect Fund must identify an entity or organization that will be the lead entity (the “Consortium Leader”).
+-</P>
+-<P>(b) <I>Consortium Leader eligibility.</I> The Consortium Leader may be the consortium itself (if it is a distinct legal entity); an eligible health care provider participating in the consortium; or a state organization, public sector (governmental) entity (including a Tribal government entity), or non-profit entity that is ineligible for Healthcare Connect Fund support. Ineligible state organizations, public sector entities, or non-profit entities may serve as Consortium Leaders or provide consulting assistance to consortia only if they do not participate as potential vendors during the competitive bidding process. An ineligible entity that serves as the Consortium Leader must pass on the full value of any discounts, funding, or other program benefits secured to the consortium members that are eligible health care providers.
+-</P>
+-<P>(c) <I>Consortium Leader responsibilities.</I> The Consortium Leader's responsibilities include the following:
+-</P>
+-<P>(1) <I>Legal and financial responsibility for supported activities.</I> The Consortium Leader is the legally and financially responsible entity for the activities supported by the Healthcare Connect Fund. By default, the Consortium Leader is the responsible entity if audits or other investigations by Administrator or the Commission reveal violations of the Act or Commission rules, with individual consortium members being jointly and severally liable if the Consortium Leader dissolves, files for bankruptcy, or otherwise fails to meet its obligations. Except for the responsibilities specifically described in paragraphs (c)(2) through (c)(6) of this section, consortia may allocate legal and financial responsibility as they see fit, provided that this allocation is memorialized in a formal written agreement between the affected parties (<I>i.e.,</I> the Consortium Leader, and the consortium as a whole and/or its individual members), and the written agreement is submitted to the Administrator for approval with or prior to the Request for Services. Any such agreement must clearly identify the party(ies) responsible for repayment if the Administrator is required, at a later date, to recover disbursements to the consortium due to violations of program rules.
+-</P>
+-<P>(2) <I>Point of contact for the FCC and Administrator.</I> The Consortium Leader is responsible for designating an individual who will be the “Project Coordinator” and serve as the point of contact with the Commission and the Administrator for all matters related to the consortium. The Consortium Leader is responsible for responding to Commission and Administrator inquiries on behalf of the consortium members throughout the application, funding, invoicing, and post-invoicing period.
+-</P>
+-<P>(3) <I>Typical applicant functions, including forms and certifications.</I> The Consortium Leader is responsible for submitting program forms and required documentation and ensuring that all information and certifications submitted are true and correct. The Consortium Leader must also collect and retain a Letter of Agency (LOA) from each member, pursuant to § 54.632.
+-</P>
+-<P>(4) <I>Competitive bidding and cost allocation.</I> The Consortium Leader is responsible for ensuring that the competitive bidding process is fair and open and otherwise complies with Commission requirements. If costs are shared by both eligible and ineligible entities, the Consortium Leader must ensure that costs are allocated in a manner that ensures that only eligible entities receive the benefit of program discounts.
+-</P>
+-<P>(5) <I>Invoicing.</I> The Consortium Leader is responsible for notifying the Administrator when supported services have commenced and for submitting invoices to the Administrator.
+-</P>
+-<P>(6) <I>Recordkeeping, site visits, and audits.</I> The Consortium Leader is also responsible for compliance with the Commission's recordkeeping requirements and for coordinating site visits and audits for all consortium members.
+-</P>
+-<CITA TYPE="N">[78 FR 13985, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.632" TYPE="SECTION">
+-<HEAD>§ 54.632   Letters of agency (LOA).</HEAD>
+-<P>(a) <I>Authorizations.</I> Under the Healthcare Connect Fund, the Consortium Leader must obtain the following authorizations.
+-</P>
+-<P>(1) Prior to the submission of the request for services, the Consortium Leader must obtain authorization, the necessary certifications, and any supporting documentation from each consortium member to permit the Consortium Leader to submit the request for services and prepare and post the request for proposal on behalf of the member.
+-</P>
+-<P>(2) Prior to the submission of the funding request, the Consortium Leader must secure authorization, the necessary certifications, and any supporting documentation from each consortium member to permit the Consortium Leader to submit the funding request and manage invoicing and payments on behalf of the member.
+-</P>
+-<P>(b) <I>Optional two-step process.</I> The Consortium Leader may secure both required authorizations from each consortium member in either a single LOA or in two separate LOAs.
+-</P>
+-<P>(c) <I>Required Information in LOA.</I> (1) An LOA must include, at a minimum, the name of the entity filing the application (<I>i.e.,</I> lead applicant or Consortium Leader); name of the entity authorizing the filing of the application (<I>i.e.,</I> the participating health care provider/consortium member); the physical location of the health care provider/consortium member site(s); the relationship of each site seeking support to the lead entity filing the application; the specific timeframe the LOA covers; the signature, title and contact information (including phone number, mailing address, and email address) of an official who is authorized to act on behalf of the health care provider/consortium member; signature date; and the type of services covered by the LOA.
+-</P>
+-<P>(2) For HCPs located on Tribal lands, if the health care facility is a contract facility that is run solely by the tribe, the appropriate tribal leader, such as the tribal chairperson, president, or governor, shall also sign the LOA, unless the health care responsibilities have been duly delegated to another tribal government representative.
+-</P>
+-<CITA TYPE="N">[78 FR 13985, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.633" TYPE="SECTION">
+-<HEAD>§ 54.633   Health care provider contribution.</HEAD>
+-<P>(a) <I>Health care provider contribution.</I> All health care providers receiving support under the Healthcare Connect Fund shall receive a 65 percent discount on the cost of eligible expenses and shall be required to contribute 35 percent of the total cost of all eligible expenses.
+-</P>
+-<P>(b) <I>Limits on eligible sources of health care provider contribution.</I> Only funds from eligible sources may be applied toward the health care provider's required contribution.
+-</P>
+-<P>(1) Eligible sources include the applicant or eligible health care provider participants; state grants, funding, or appropriations; federal funding, grants, loans, or appropriations except for other federal universal service funding; Tribal government funding; and other grant funding, including private grants.
+-</P>
+-<P>(2) Ineligible sources include (but are not limited to) in-kind or implied contributions from health care providers; direct payments from vendors or other service providers, including contractors and consultants to such entities; and for-profit entities.
+-</P>
+-<P>(c) <I>Disclosure of health care provider contribution source.</I> Prior to receiving support, applicants are required to identify with specificity their sources of funding for their contribution of eligible expenses.
+-</P>
+-<P>(d) <I>Future revenues from excess capacity as source of health care provider contribution.</I> A consortium applicant that receives support for participant-owned network facilities under § 54.636 may use future revenues from excess capacity as a source for the required health care provider contribution, subject to the following limitations.
+-</P>
+-<P>(1) The consortium's selection criteria and evaluation for “cost-effectiveness” pursuant to § 54.642 cannot provide a preference to bidders that offer to construct excess capacity.
+-</P>
+-<P>(2) The applicant must pay the full amount of the additional costs for excess capacity facilities that will not be part of the supported health care network.
+-</P>
+-<P>(3) The additional cost of constructing excess capacity facilities may not count toward a health care provider's required contribution.
+-</P>
+-<P>(4) The inclusion of excess capacity facilities cannot increase the funded cost of the dedicated health care network in any way.
+-</P>
+-<P>(5) An eligible health care provider (typically the consortium, although it may be an individual health care provider participating in the consortium) must retain ownership of the excess capacity facilities. It may make the facilities available to third parties only under an indefeasible right of use (IRU) or lease arrangement. The lease or IRU between the participant and the third party must be an arm's length transaction. To ensure that this is an arm's length transaction, neither the vendor that installs the excess capacity facilities nor its affiliate is eligible to enter into an IRU or lease with the participant.
+-</P>
+-<P>(6) Any amount prepaid for use of the excess capacity facilities (IRU or lease) must be placed in an escrow account. The participant can then use the escrow account as an eligible source of funds for the participant's 35 percent contribution to the project.
+-</P>
+-<P>(7) All revenues from use of the excess capacity facilities by the third party must be used for the health care provider contribution or for sustainability of the health care network supported by the Healthcare Connect Fund. Network costs that may be funded with any additional revenues that remain include administration, equipment, software, legal fees, or other costs not covered by the Healthcare Connect Fund, as long as they are relevant to sustaining the network.
+-</P>
+-<CITA TYPE="N">[78 FR 13985, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.634" TYPE="SECTION">
+-<HEAD>§ 54.634   Eligible services.</HEAD>
+-<P>(a) <I>Eligible services.</I> Subject to the provisions of §§ 54.600 through 54.602 and §§ 54.630 through 54.680, eligible health care providers may request support from the Healthcare Connect Fund for any advanced telecommunications or information service that enables health care providers to post their own data, interact with stored data, generate new data, or communicate, by providing connectivity over private dedicated networks or the public Internet for the provision of health information technology.
+-</P>
+-<P>(b) <I>Eligibility of dark fiber.</I> A consortium of eligible health care providers may receive support for “dark” fiber where the customer, not the vendor, provides the modulating electronics, subject to the following limitations:
+-</P>
+-<P>(1) Support for recurring charges associated with dark fiber is only available once the dark fiber is “lit” and actually being used by the health care provider. Support for non-recurring charges for dark fiber is only available for fiber lit within the same funding year, but applicants may receive up to a one-year extension to light fiber if they provide documentation to the Administrator that construction was unavoidably delayed due to weather or other reasons.
+-</P>
+-<P>(2) Requests for proposals (RFPs) that solicit dark fiber solutions must also solicit proposals to provide the needed services over lit fiber over a time period comparable to the duration of the dark fiber lease or indefeasible right of use.
+-</P>
+-<P>(3) If an applicant intends to request support for equipment and maintenance costs associated with lighting and operating dark fiber, it must include such elements in the same RFP as the dark fiber so that the Administrator can review all costs associated with the fiber when determining whether the applicant chose the most cost-effective bid.
+-</P>
+-<P>(c) <I>Dark and lit fiber maintenance costs.</I> (1) Both individual and consortium applicants may receive support for recurring maintenance costs associated with leases of dark or lit fiber.
+-</P>
+-<P>(2) Consortium applicants may receive support for upfront payments for maintenance costs associated with leases of dark or lit fiber, subject to the limitations in § 54.638.
+-</P>
+-<P>(d) <I>Reasonable and customary installation charges.</I> Eligible health care providers may obtain support for reasonable and customary installation charges for eligible services, up to an undiscounted cost of $5,000 per eligible site.
+-</P>
+-<P>(e) <I>Upfront charges for vendor deployment of new or upgraded facilities.</I> (1) Participants may obtain support for upfront charges for vendor deployment of new or upgraded facilities to serve eligible sites.
+-</P>
+-<P>(2) Support is available to extend vendor deployment of facilities up to the “demarcation point,” which is the boundary between facilities owned or controlled by the vendor, and facilities owned or controlled by the customer.
+-</P>
+-<CITA TYPE="N">[78 FR 13986, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.635" TYPE="SECTION">
+-<HEAD>§ 54.635   Eligible equipment.</HEAD>
+-<P>(a) Both individual and consortium applicants may receive support for network equipment necessary to make functional an eligible service that is supported under the Healthcare Connect Fund.
+-</P>
+-<P>(b) Consortium applicants may also receive support for network equipment necessary to manage, control, or maintain an eligible service or a dedicated health care broadband network. Support for network equipment is not available for networks that are not dedicated to health care.
+-</P>
+-<P>(c) Network equipment eligible for support includes the following:
+-</P>
+-<P>(1) Equipment that terminates a carrier's or other provider's transmission facility and any router/switch that is directly connected to either the facility or the terminating equipment. This includes equipment required to light dark fiber, or equipment necessary to connect dedicated health care broadband networks or individual health care providers to middle mile or backbone networks;
+-</P>
+-<P>(2) Computers, including servers, and related hardware (<I>e.g.</I> printers, scanners, laptops) that are used exclusively for network management;
+-</P>
+-<P>(3) Software used for network management, maintenance, or other network operations, and development of software that supports network management, maintenance, and other network operations;
+-</P>
+-<P>(4) Costs of engineering, furnishing (<I>i.e.</I> as delivered from the manufacturer), and installing network equipment; and
+-</P>
+-<P>(5) Equipment that is a necessary part of health care provider-owned network facilities.
+-</P>
+-<P>(d) Additional limitations: Support for network equipment is limited to equipment:
+-</P>
+-<P>(1) Purchased or leased by a Consortium Leader or eligible health care provider; and
+-</P>
+-<P>(2) Used for health care purposes.
+-</P>
+-<CITA TYPE="N">[78 FR 13986, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.636" TYPE="SECTION">
+-<HEAD>§ 54.636   Eligible participant-constructed and owned network facilities for consortium applicants.</HEAD>
+-<P>(a) Subject to the funding limitations under §§ 54.675 and 54.638 and the following restrictions, consortium applicants may receive support for network facilities that will be constructed and owned by the consortium (if the consortium is an eligible health care provider) or eligible health care providers within the consortium.
+-</P>
+-<P>(1) Consortia seeking support to construct and own network facilities are required to solicit bids for both:
+-</P>
+-<P>(i) Services provided over third-party networks; and
+-</P>
+-<P>(ii) Construction of participant-owned network facilities, in the same request for proposals. Requests for proposals must provide sufficient detail so that cost-effectiveness can be evaluated over the useful life of the proposed network facility to be constructed.
+-</P>
+-<P>(2) Support for participant-constructed and owned network facilities is only available where the consortium demonstrates that constructing its own network facilities is the most cost-effective option after competitive bidding, pursuant to § 54.642.
+-</P>
+-<P>(b) [Reserved]
+-</P>
+-<CITA TYPE="N">[78 FR 13987, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.637" TYPE="SECTION">
+-<HEAD>§ 54.637   Off-site data centers and off-site administrative offices.</HEAD>
+-<P>(a) The connections and network equipment associated with off-site data centers and off-site administrative offices used by eligible health care providers for their health care purposes are eligible for support under the Healthcare Connect Fund, subject to the conditions and restrictions set forth in paragraph (b) of this section.
+-</P>
+-<P>(1) An “off-site administrative office” is a facility that does not provide hands-on delivery of patient care, but performs administrative support functions that are critical to the provision of clinical care by eligible health care providers.
+-</P>
+-<P>(2) An “off-site data center” is a facility that serves as a centralized repository for the storage, management, and dissemination of an eligible health care provider's computer systems, associated components, and data, including (but not limited to) electronic health records.
+-</P>
+-<P>(b) <I>Conditions and Restrictions.</I> The following conditions and restrictions apply to support provided under this sections.
+-</P>
+-<P>(1) Connections eligible for support are only those that are between:
+-</P>
+-<P>(i) Eligible health care provider sites and off-site data centers or off-site administrative offices,
+-</P>
+-<P>(ii) Two off-site data centers,
+-</P>
+-<P>(iii) Two off-site administrative offices,
+-</P>
+-<P>(iv) An off-site data center and the public Internet or another network,
+-</P>
+-<P>(v) An off-site administrative office and the public Internet or another network, or
+-</P>
+-<P>(vi) An off-site administrative office and an off-site data center.
+-</P>
+-<P>(2) The supported connections and network equipment must be used solely for health care purposes.
+-</P>
+-<P>(3) The supported connections and network equipment must be purchased by an eligible health care provider or a public or non-profit health care system that owns and operates eligible health care provider sites.
+-</P>
+-<P>(4) If traffic associated with one or more ineligible health care provider sites is carried by the supported connection and/or network equipment, the ineligible health care provider sites must allocate the cost of that connection and/or equipment between eligible and ineligible sites, consistent with the “fair share” principles set forth in § 54.639(d).
+-</P>
+-<CITA TYPE="N">[78 FR 13987, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+ 
+-
+-<DIV8 N="§ 54.638" TYPE="SECTION">
+-<HEAD>§ 54.638   Upfront payments.</HEAD>
+-<P>(a) Upfront payments include all non-recurring costs for services, equipment, or facilities, other than reasonable and customary installation charges of up to $5,000.
+-</P>
+-<P>(b) The following limitations apply to all upfront payments:
+-</P>
+-<P>(1) Upfront payments associated with services providing a bandwidth of less than 1.5 Mbps (symmetrical) are not eligible for support.
+-</P>
+-<P>(2) Only consortium applicants are eligible for support for upfront payments.
+-</P>
+-<P>(c) The following limitations apply if a consortium makes a request for support for upfront payments that exceeds, on average, $50,000 per eligible site in the consortium:
+-</P>
+-<P>(1) The support for the upfront payments must be prorated over at least three years.
+-</P>
+-<P>(2) The upfront payments must be part of a multi-year contract.
+-</P>
+-<CITA TYPE="N">[78 FR 13987, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.639" TYPE="SECTION">
+-<HEAD>§ 54.639   Ineligible expenses.</HEAD>
+-<P><I>(a) Equipment or services not directly associated with eligible services.</I> Expenses associated with equipment or services that are not necessary to make an eligible service functional, or to manage, control, or maintain an eligible service or a dedicated health care broadband network are ineligible for support.
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">a</E>):</HED>
+-<P>The following are examples of ineligible expenses:
+ </P>
+-<P>1. Costs associated with general computing, software, applications, and Internet content development are not supported, including the following:
+-</P>
+-<P>i. Computers, including servers, and related hardware (<I>e.g.,</I> printers, scanners, laptops), unless used exclusively for network management, maintenance, or other network operations;
+-</P>
+-<P>ii. End user wireless devices, such as smartphones and tablets;
+-</P>
+-<P>iii. Software, unless used for network management, maintenance, or other network operations;
+-</P>
+-<P>iv. Software development (excluding development of software that supports network management, maintenance, and other network operations);
+-</P>
+-<P>v. Helpdesk equipment and related software, or services, unless used exclusively in support of eligible services or equipment;
+-</P>
+-<P>vi. Web server hosting;
+-</P>
+-<P>vii. Web site portal development;
+-</P>
+-<P>viii. Video/audio/web conferencing equipment or services; and
+-</P>
+-<P>ix. Continuous power source.
+-</P>
+-<P>2. Costs associated with medical equipment (hardware and software), and other general health care provider expenses are not supported, including the following:
+-</P>
+-<P>i. Clinical or medical equipment;
+-</P>
+-<P>ii. Telemedicine equipment, applications, and software;
+-</P>
+-<P>iii. Training for use of telemedicine equipment;
+-</P>
+-<P>iv. Electronic medical records systems; and
+-</P>
+-<P>v. Electronic records management and expenses.</P></NOTE>
+-<P>(b) <I>Inside wiring/internal connections.</I> Expenses associated with inside wiring or internal connections are ineligible for support under the Healthcare Connect Fund.
+-</P>
+-<P>(c) <I>Administrative expenses.</I> Administrative expenses are not eligible for support under the Healthcare Connect Fund.
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">c</E>):</HED>
+-<P>Ineligible administrative expenses include, but not limited to, the following expenses:
+-</P>
+-<P>1. Personnel costs (including salaries and fringe benefits), except for personnel expenses in a consortium application that directly relate to designing, engineering, installing, constructing, and managing a dedicated broadband network. Ineligible costs of this category include, for example, personnel to perform program management and coordination, program administration, and marketing;
+-</P>
+-<P>2. Travel costs, except for travel costs that are reasonable and necessary for network design or deployment and that are specifically identified and justified as part of a competitive bid for a construction project;
+-</P>
+-<P>3. Legal costs;
+-</P>
+-<P>4. Training, except for basic training or instruction directly related to and required for broadband network installation and associated network operations;
+-</P>
+-<P>5. Program administration or technical coordination (<I>e.g.,</I> preparing application materials, obtaining letters of agency, preparing request for proposals, negotiating with vendors, reviewing bids, and working with the Administrator) that involves anything other than the design, engineering, operations, installation, or construction of the network;
+-</P>
+-<P>6. Administration and marketing costs (<I>e.g.,</I> administrative costs; supplies and materials, except as part of network installation/construction; marketing studies, marketing activities, or outreach to potential network members; evaluation and feedback studies);
+-</P>
+-<P>7. Billing expenses (<I>e.g.,</I> expense that vendors may charge for allocating costs to each health care provider in a network);
+-</P>
+-<P>8. Helpdesk expenses (<I>e.g.,</I> equipment and related software, or services); and
+-</P>
+-<P>9. Technical support services that provide more than basic maintenance.</P></NOTE>
+-<P>(d) <I>Cost allocation for ineligible sites, services, or equipment</I> - (1) <I>Ineligible sites.</I> Eligible health care provider sites may share expenses with ineligible sites, as long as the ineligible sites pay their fair share of the expenses. An applicant may seek support for only the portion of a shared eligible expense attributable to eligible health care provider sites. To receive support, the applicant must ensure that ineligible sites pay their fair share of the expense. The fair share is determined as follows:
+-</P>
+-<P>(i) If the vendor charges a separate and independent price for each site, an ineligible site must pay the full undiscounted price.
+-</P>
+-<P>(ii) If there is no separate and independent price for each site, the applicant must prorate the undiscounted price for the “shared” service, equipment, or facility between eligible and ineligible sites on a proportional fully-distributed basis. Applicants must make this cost allocation using a method that is based on objective criteria and reasonably reflects the eligible usage of the shared service, equipment, or facility. The applicant bears the burden of demonstrating the reasonableness of the allocation method chosen.
+-</P>
+-<P>(2) <I>Ineligible components of a single service or piece of equipment.</I> Applicants seeking support for a service or piece of equipment that includes an ineligible component must explicitly request in their requests for proposals that vendors include pricing for a comparable service or piece of equipment that is comprised of only eligible components. If the selected provider also submits a price for the eligible component on a stand-alone basis, the support amount is calculated based on the stand-alone price of the eligible component on a stand-alone basis. If the vendor does not offer the eligible component on a stand-alone basis, the full price of the entire service or piece of equipment must be taken into account, without regard to the value of the ineligible components, when determining the most cost-effective bid.
+-</P>
+-<P>(3) <I>Written description.</I> Applicants must submit a written description of their allocation method(s) to the Administrator with their funding requests.
+-</P>
+-<P>(4) <I>Written agreement.</I> If ineligible entities participate in a network, the allocation method must be memorialized in writing, such as a formal agreement among network members, a master services contract, or for smaller consortia, a letter signed and dated by all (or each) ineligible entity and the Consortium Leader.
+-</P>
+-<CITA TYPE="N">[78 FR 13987, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.640" TYPE="SECTION">
+-<HEAD>§ 54.640   Eligible vendors.</HEAD>
+-<P>(a) <I>Eligibility.</I> For purposes of the Healthcare Connect Fund, eligible vendors shall include any provider of equipment, facilities, or services that are eligible for support under Healthcare Connect Fund.
+-</P>
+-<P>(b) <I>Obligation to assist health care providers.</I> Vendors in the Healthcare Connect Fund must certify, as a condition of receiving support, that they will provide to health care providers, on a timely basis, all information and documents regarding supported equipment, facilities, or services that are necessary for the health care provider to submit required forms or respond to Commission or Administrator inquiries. The Administrator may withhold disbursements for the vendor if the vendor, after written notice from the Administrator, fails to comply with this requirement.
+-</P>
+-<CITA TYPE="N">[78 FR 13988, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.642" TYPE="SECTION">
+-<HEAD>§ 54.642   Competitive bidding requirement and exemptions.</HEAD>
+-<P>(a) <I>Competitive bidding requirement.</I> All applicants are required to engage in a competitive bidding process for supported services, facilities, or equipment consistent with the requirements set forth in this subpart, unless they qualify for one or more of the exemptions in paragraph (h) of this section. In addition, applicants may engage in competitive bidding even if they qualify for an exemption. Applicants who utilize a competitive bidding exemption may proceed directly to filing a funding request as described in § 54.643.
+-</P>
+-<P>(b) <I>Fair and open process.</I> (1) All entities participating in the Healthcare Connect Fund must conduct a fair and open competitive bidding process, consistent with all applicable requirements.
+-</P>
+-<P>(2) Vendors who intend to bid to provide supported services, equipment, or facilities to a health care provider may not simultaneously help the health care provider choose a winning bid. Any vendor who submits a bid, and any individual or entity that has a financial interest in such a vendor, is prohibited from:
+-</P>
+-<P>(i) Preparing, signing or submitting an applicant's request for services;
+-</P>
+-<P>(ii) Serving as the Consortium Leader or other point of contact on behalf of applicant(s);
+-</P>
+-<P>(iii) Being involved in setting bid evaluation criteria; or
+-</P>
+-<P>(iv) Participating in the bid evaluation or vendor selection process (except in their role as potential vendors).
+-</P>
+-<P>(3) All potential bidders must have access to the same information and must be treated in the same manner.
+-</P>
+-<P>(4) All applicants and vendors must comply with any applicable state, Tribal, or local competitive bidding requirements. The competitive bidding requirements in this section apply in addition to state, Tribal, and local competitive bidding requirements and are not intended to preempt such state, Tribal, or local requirements.
+-</P>
+-<P>(c) <I>Cost-effective.</I> For purposes of the Healthcare Connect Fund, “cost-effective” is defined as the method that costs the least after consideration of the features, quality of transmission, reliability, and other factors that the health care provider deems relevant to choosing a method of providing the required health care services.
+-</P>
+-<P>(d) <I>Bid evaluation criteria.</I> Applicants must develop weighted evaluation criteria (<I>e.g.,</I> scoring matrix) that demonstrate how the applicant will choose the most “cost-effective” bid before submitting a Request for Services. Price must be a primary factor, but need not be the only primary factor. A non-price factor can receive an equal weight to price, but may not receive a greater weight than price.
+-</P>
+-<P>(e) <I>Request for services.</I> Applicants must submit the following documents to the Administrator in order to initiate competitive bidding.
+-</P>
+-<P>(1) <I>Form 461, including certifications.</I> The applicant must provide the following certifications as part of the request for services.
+-</P>
+-<P>(i) The person signing the application is authorized to submit the application on behalf of the applicant and has examined the form and all attachments, and to the best of his or her knowledge, information, and belief, all statements of fact contained therein are true.
+-</P>
+-<P>(ii) The applicant has followed any applicable state, Tribal, or local procurement rules.
+-</P>
+-<P>(iii) All Healthcare Connect Fund support will be used solely for purposes reasonably related to the provision of health care service or instruction that the HCP is legally authorized to provide under the law of the state in which the services are provided and will not be sold, resold, or transferred in consideration for money or any other thing of value.
+-</P>
+-<P>(iv) The applicant satisfies all of the requirements under section 254 of the Act and applicable Commission rules.
+-</P>
+-<P>(v) The applicant has reviewed all applicable requirements for the program and will comply with those requirements.
+-</P>
+-<P>(2) <I>Bid evaluation criteria.</I> Requirements for bid evaluation criteria are described in paragraph (d) of this section.
+-</P>
+-<P>(3) <I>Declaration of assistance.</I> All applicants must submit a “Declaration of Assistance” with their Request for Services. In the Declaration of Assistance, applicants must identify each and every consultant, vendor, and other outside expert, whether paid or unpaid, who aided in the preparation of their applications.
+-</P>
+-<P>(4) <I>Request for proposal (if applicable).</I> (i) Any applicant may use a request for proposals (RFP). Applicants who use an RFP must submit the RFP and any additional relevant bidding information to the Administrator with Form 461.
+-</P>
+-<P>(ii) An applicant must submit an RFP:
+-</P>
+-<P>(A) If it is required to issue an RFP under applicable State, Tribal, or local procurement rules or regulations;
+-</P>
+-<P>(B) If the applicant is a consortium seeking more than $100,000 in program support during the funding year, including applications that seek more than $100,000 in program support for a multi-year commitment; or
+-</P>
+-<P>(C) If the applicant is a consortium seeking support for participant-constructed and owned network facilities.
+-</P>
+-<P><I>(iii) RFP requirements.</I> (A) An RFP must provide sufficient information to enable an effective competitive bidding process, including describing the health care provider's service needs and defining the scope of the project and network costs (if applicable).
+-</P>
+-<P>(B) An RFP must specify the period during which bids will be accepted.
+-</P>
+-<P>(C) An RFP must include the bid evaluation criteria described in paragraph (d) of this section, and solicit sufficient information so that the criteria can be applied effectively.
+-</P>
+-<P>(D) Consortium applicants seeking support for long-term capital investments whose useful life extends beyond the period of the funding commitment (<I>e.g.,</I> facilities constructed and owned by the applicant, fiber indefeasible rights of use) must seek bids in the same RFP from vendors who propose to meet those needs via services provided over vendor-owned facilities, for a time period comparable to the life of the proposed capital investment.
+-</P>
+-<P>(E) Applicants may prepare RFPs in any manner that complies with the rules in this subpart and any applicable state, Tribal, or local procurement rules or regulations.
+-</P>
+-<P>(5) <I>Additional requirements for consortium applicants. (i) Network plan.</I> Consortium applicants must submit a narrative describing specific elements of their network plan with their Request for Services. Consortia applicants are required to use program support for the purposes described in their narrative. The required elements of the narrative include:
+-</P>
+-<P>(A) Goals and objectives of the network;
+-</P>
+-<P>(B) Strategy for aggregating the specific needs of health care providers (including providers that serve rural areas) within a state or region;
+-</P>
+-<P>(C) Strategy for leveraging existing technology to adopt the most efficient and cost effective means of connecting those providers;
+-</P>
+-<P>(D) How the supported network will be used to improve or provide health care delivery;
+-</P>
+-<P>(E) Any previous experience in developing and managing health information technology (including telemedicine) programs; and
+-</P>
+-<P>(F) A project management plan outlining the project's leadership and management structure, and a work plan, schedule, and budget.
+-</P>
+-<P>(ii) <I>Letters of agency.</I> Consortium applicants must submit letters of agency pursuant to § 54.632.
+-</P>
+-<P>(f) <I>Public posting by the Administrator.</I> The Administrator shall post on its web site the following competitive bidding documents, as applicable:
+-</P>
+-<P>(1) Form 461,
+-</P>
+-<P>(2) Bid evaluation criteria,
+-</P>
+-<P>(3) Request for proposal, and
+-</P>
+-<P>(4) Network plan.
+-</P>
+-<P>(g) <I>28-day waiting period.</I> After posting the documents described in paragraph (f) of this section on its Web site, the Administrator shall send confirmation of the posting to the applicant. The applicant shall wait at least 28 days from the date on which its competitive bidding documents are posted on the Web site before selecting and committing to a vendor.
+-</P>
+-<P>(1) <I>Selection of the most “cost-effective” bid and contract negotiation.</I> Each applicant subject to competitive bidding is required to certify to the Administrator that the selected bid is, to the best of the applicant's knowledge, the most cost-effective option available. Applicants are required to submit the documentation listed in § 54.643 to support their certifications.
+-</P>
+-<P>(2) Applicants who plan to request evergreen status under § 54.642(h)(4)(ii) must enter into a contract that identifies both parties, is signed and dated by the health care provider or Consortium Leader after the 28-day waiting period expires, and specifies the type, term, and cost of service.
+-</P>
+-<P>(h) <I>Exemptions to competitive bidding requirements. (1) Annual undiscounted cost of $10,000 or less.</I> An applicant that seeks support for $10,000 or less of total undiscounted eligible expenses for a single year is exempt from the competitive bidding requirements under this section, if the term of the contract is one year or less.
+-</P>
+-<P><I>(2) Government Master Service Agreement (MSA).</I> Eligible health care providers that seek support for services and equipment purchased from MSAs negotiated by federal, state, Tribal, or local government entities on behalf of such health care providers and others, if such MSAs were awarded pursuant to applicable federal, state, Tribal, or local competitive bidding requirements, are exempt from the competitive bidding requirements under this section.
+-</P>
+-<P><I>(3) Master Service Agreements approved under the Pilot Program or Healthcare Connect Fund.</I> A eligible health care provider site may opt into an existing MSA approved under the Pilot Program or Healthcare Connect Fund and seek support for services and equipment purchased from the MSA without triggering the competitive bidding requirements under this section, if the MSA was developed and negotiated in response to an RFP that specifically solicited proposals that included a mechanism for adding additional sites to the MSA.
+-</P>
+-<P><I>(4) Evergreen contracts.</I> (i) Subject to the provisions in § 54.644, the Administrator may designate a multi-year contract as “evergreen,” which means that the service(s) covered by the contract need not be re-bid during the contract term.
+-</P>
+-<P>(ii) A contract entered into by a health care provider or consortium as a result of competitive bidding may be designated as evergreen if it meets all of the following requirements:
+-</P>
+-<P>(A) Is signed by the individual health care provider or consortium lead entity;
+-</P>
+-<P>(B) Specifies the service type, bandwidth and quantity;
+-</P>
+-<P>(C) Specifies the term of the contract;
+-</P>
+-<P>(D) Specifies the cost of services to be provided; and
+-</P>
+-<P>(E) Includes the physical location or other identifying information of the health care provider sites purchasing from the contract.
+-</P>
+-<P>(iii) Participants may exercise voluntary options to extend an evergreen contract without undergoing additional competitive bidding, if:
+-</P>
+-<P>(A) The voluntary extension(s) is memorialized in the evergreen contract;
+-</P>
+-<P>(B) The decision to extend the contract occurs before the participant files its funding request for the funding year when the contract would otherwise expire; and
+-</P>
+-<P>(C) The voluntary extension(s) do not exceed five years in the aggregate.
+-</P>
+-<P>(5) <I>Schools and libraries program master contracts.</I> Subject to the provisions in §§ 54.500, 54.501(c)(1), and 54.503, an eligible health care provider in a consortium with participants in the schools and libraries universal service support program and a party to the consortium's existing contract is exempt from the Healthcare Connect Fund competitive bidding requirements if the contract was approved in the schools and libraries universal service support program as a master contract. The health care provider must comply with all Healthcare Connect Fund rules and procedures except for those applicable to competitive bidding.
+-</P>
+-<CITA TYPE="N">[78 FR 13988, Mar. 1, 2013, as amended at 79 FR 49203, Aug. 19, 2014]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.643" TYPE="SECTION">
+-<HEAD>§ 54.643   Funding commitments.</HEAD>
+-<XREF ID="20190219">Link to an amendment published at 84 FR 4732, Feb. 19, 2019.</XREF>
+-<P>(a) Once a vendor is selected, applicants must submit a “Funding Request” (and supporting documentation) to provide information about the services, equipment, or facilities selected and certify that the services selected were the most cost-effective option of the offers received. The following information should be submitted to the Administrator with the Funding Request.
+-</P>
+-<P>(1) <I>Request for funding.</I> The applicant shall submit a request for funding (Form 462) to identify the service(s), equipment, or facilities; rates; vendor(s); and date(s) of vendor selection.
+-</P>
+-<P>(2) <I>Certifications.</I> The applicant must provide the following certifications as part of the request for funding:
+-</P>
+-<P>(i) The person signing the application is authorized to submit the application on behalf of the applicant and has examined the form and all attachments, and to the best of his or her knowledge, information, and belief, all statements of fact contained therein are true.
+-</P>
+-<P>(ii) Each vendor selected is, to the best of the applicant's knowledge, information and belief, the most cost-effective vendor available, as defined in § 54.642(c).
+-</P>
+-<P>(iii) All Healthcare Connect Fund support will be used only for eligible health care purposes.
+-</P>
+-<P>(iv) The applicant is not requesting support for the same service from both the Telecommunications Program and the Healthcare Connect Fund.
+-</P>
+-<P>(v) The applicant satisfies all of the requirements under section 254 of the Act and applicable Commission rules, and understands that any letter from the Administrator that erroneously commits funds for the benefit of the applicant may be subject to rescission.
+-</P>
+-<P>(vi) The applicant has reviewed all applicable requirements for the program and will comply with those requirements.
+-</P>
+-<P>(vii) The applicant will maintain complete billing records for the service for five years.
+-</P>
+-<P>(3) <I>Contracts or other documentation.</I> All applicants must submit a contract or other documentation that clearly identifies the vendor(s) selected and the health care provider(s) who will receive the services, equipment, or facilities; the service, bandwidth, and costs for which support is being requested; and the term of the service agreement(s) if applicable (<I>i.e.,</I> if services are not being provided on a month-to-month basis). For services, equipment, or facilities provided under contract, the applicant must submit a copy of the contract signed and dated (after the Allowable Contract Selection Date) by the individual health care provider or Consortium Leader. If the service, equipment, or facilities are not being provided under contract, the applicant must submit a bill, service offer, letter, or similar document from the vendor that provides the required information.
+-</P>
+-<P>(4) <I>Competitive bidding documents.</I> Applicants must submit documentation to support their certifications that they have selected the most cost-effective option, including a copy of each bid received (winning, losing, and disqualified), the bid evaluation criteria, and the following documents (as applicable): bid evaluation sheets; a list of people who evaluated bids (along with their title/role/relationship to the applicant organization); memos, board minutes, or similar documents related to the vendor selection/award; copies of notices to winners; and any correspondence with vendors during the bidding/evaluation/award phase of the process. Applicants who claim a competitive bidding exemption must submit relevant documentation to allow the Administrator to verify that the applicant is eligible for the claimed exemption.
+-</P>
+-<P>(5) <I>Cost allocation for ineligible entities or components.</I> Pursuant to § 54.639(d)(3) through (d)(4), where applicable, applicants must submit a description of how costs will be allocated for ineligible entities or components, as well as any agreements that memorialize such arrangements with ineligible entities.
+-</P>
+-<P>(6) <I>Additional documentation for consortium applicants.</I> A consortium applicant must also submit the following:
+-</P>
+-<P>(i) Any revisions to the network plan submitted with the Request for Services pursuant to § 54.642(e)(5)(i), as necessary. If not previously submitted, the consortium should provide a narrative description of how the network will be managed, including all administrative aspects of the network, including but not limited to invoicing, contractual matters, and network operations. If the consortium is required to provide a sustainability plan as set forth in § 54.643(a)(6)(iv), the revised budget should include the budgetary factors discussed in the sustainability plan requirements.
+-</P>
+-<P>(ii) A list of participating health care providers and all of their relevant information, including eligible (and ineligible, if applicable) cost information for each participating health care provider.
+-</P>
+-<P>(iii) Evidence of a viable source for the undiscounted portion of supported costs.
+-
+-
+-</P>
+-<P>(iv) Sustainability plans for applicants requesting support for long-term capital expenses: Consortia that seek funding to construct and own their own facilities or obtain indefeasible right of use or capital lease interests are required to submit a sustainability plan with their funding requests demonstrating how they intend to maintain and operate the facilities that are supported over the relevant time period. Applicants may incorporate by reference other portions of their applications (<I>e.g.,</I> project management plan, budget). The sustainability plan must, at a minimum, address the following points:
+-
+-
+-</P>
+-<P>(A) <I>Projected sustainability period.</I> Indicate the sustainability period, which at a minimum is equal to the useful life of the funded facility. The consortium's budget must show projected income and expenses (<I>i.e.,</I> for maintenance) for the project at the aggregate level, for the sustainability period.
+-</P>
+-<P>(B) <I>Principal factors.</I> Discuss each of the principal factors that were considered by the participant to demonstrate sustainability. This discussion must include all factors that show that the proposed network will be sustainable for the entire sustainability period. Any factor that will have a monetary impact on the network must be reflected in the applicant's budget.
+-</P>
+-<P>(C) <I>Terms of membership in the network.</I> Describe generally any agreements made (or to be entered into) by network members (<I>e.g.,</I> participation agreements, memoranda of understanding, usage agreements, or other similar agreements). The sustainability plan must also describe, as applicable:
+-</P>
+-<P>(<I>1</I>) Financial and time commitments made by proposed members of the network;
+-</P>
+-<P>(<I>2</I>) If the project includes excess bandwidth for growth of the network, describe how such excess bandwidth will be financed; and
+-</P>
+-<P>(<I>3</I>) If the network will include ineligible health care providers and other network members, describe how fees for joining and using the network will be assessed.
+-</P>
+-<P>(D) <I>Ownership structure.</I> Explain who will own each material element of the network (<I>e.g.,</I> fiber constructed, network equipment, end user equipment). For purposes of this subsection, “ownership” includes an indefeasible right of use interest. Applicants must clearly identify the legal entity that will own each material element. Applicants must also describe any arrangements made to ensure continued use of such elements by the network members for the duration of the sustainability period.
+-</P>
+-<P>(E) <I>Sources of future support.</I> Describe other sources of future funding, including fees to be paid by eligible health care providers and/or non-eligible entities.
+-</P>
+-<P>(F) <I>Management.</I> Describe the management structure of the network for the duration of the sustainability period. The applicant's budget must describe how management costs will be funded.
+-</P>
+-<P>(v) <I>Material change to sustainability plan.</I> A consortium that is required to file a sustainability plan must maintain its accuracy. If there is a material change to a required sustainability plan that would impact projected income or expenses by more than 20 percent or $100,000 from the previous submission, or if the applicant submits a funding request based on a new Form 462 (<I>i.e.,</I> a new competitively bid contract), the consortium is required to re-file its sustainability plan. In the event of a material change, the applicant must provide the Administrator with the revised sustainability plan no later than the end of the relevant quarter, clearly showing (<I>i.e.,</I> by redlining or highlighting) what has changed.
+-</P>
+-<P>(b) [Reserved]
+-</P>
+-<CITA TYPE="N">[78 FR 13990, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.644" TYPE="SECTION">
+-<HEAD>§ 54.644   Multi-year commitments.</HEAD>
+-<P>(a) Participants in the Healthcare Connect Fund are permitted to enter into multi-year contracts for eligible expenses and may receive funding commitments from the Administrator for a period that covers up to three funding years.
+-</P>
+-<P>(b) If a long-term contract covers a period of more than three years, the applicant may also have the contract designated as “evergreen” under § 54.642(h)(4) which will allow the applicant to re-apply for a funding commitment under the contract after three years without having to undergo additional competitive bidding.
+-</P>
+-<CITA TYPE="N">[78 FR 13991, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.645" TYPE="SECTION">
+-<HEAD>§ 54.645   Payment process.</HEAD>
+-<P>(a) The Consortium Leader (or health care provider, if participating individually) must certify to the Administrator that it has paid its contribution to the vendor before the invoice can be sent to Administrator and the vendor can be paid.
+-</P>
+-<P>(b) Before the Administrator may process and pay an invoice, both the Consortium Leader (or health care provider, if participating individually) and the vendor must certify that they have reviewed the document and that it is accurate. All invoices must be received by the Administrator within six months of the end date of the funding commitment.
+-</P>
+-<CITA TYPE="N">[78 FR 13991, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.646" TYPE="SECTION">
+-<HEAD>§ 54.646   Site and service substitutions.</HEAD>
+-<P>(a) A Consortium Leader (or health care provider, if participating individually) may request a site or service substitution if:
+-</P>
+-<P>(1) The substitution is provided for in the contract, within the change clause, or constitutes a minor modification;
+-</P>
+-<P>(2) The site is an eligible health care provider and the service is an eligible service under the Healthcare Connect Fund;
+-</P>
+-<P>(3) The substitution does not violate any contract provision or state, Tribal, or local procurement laws; and
+-</P>
+-<P>(4) The requested change is within the scope of the controlling request for services, including any applicable request for proposal used in the competitive bidding process.
+-</P>
+-<P>(b) Support for a qualifying site and service substitution will be provided to the extent the substitution does not cause the total amount of support under the applicable funding commitment to increase.
+-</P>
+-<CITA TYPE="N">[78 FR 13991, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.647" TYPE="SECTION">
+-<HEAD>§ 54.647   Data collection and reporting.</HEAD>
+-<P>(a) Each consortium lead entity must file an annual report with the Administrator on or before September 30 for the preceding funding year, with the information and in the form specified by the Wireline Competition Bureau.
+-</P>
+-<P>(b) Each consortium is required to file an annual report for each funding year in which it receives support from the Healthcare Connect Fund.
+-</P>
+-<P>(c) For consortia that receive large upfront payments, the reporting requirement extends for the life of the supported facility.
+-</P>
+-<CITA TYPE="N">[78 FR 13991, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.648" TYPE="SECTION">
+-<HEAD>§ 54.648   Audits and recordkeeping.</HEAD>
+-<P>(a) <I>Random audits.</I> Participants shall be subject to random compliance audits and other investigations to ensure compliance with program rules and orders.
+-</P>
+-<P>(b) <I>Recordkeeping.</I> (1) Participants, including Consortium Leaders and health care providers, shall maintain records to document compliance with program rules and orders for at least 5 years after the last day of service delivered in a particular funding year. Participants who receive support for long-term capital investments in facilities whose useful life extends beyond the period of the funding commitment shall maintain records for at least 5 years after the end of the useful life of the facility. Participants shall maintain asset and inventory records of supported network equipment to verify the actual location of such equipment for a period of 5 years after purchase.
+-</P>
+-<P>(2) Vendors shall retain records related to the delivery of supported services, facilities, or equipment to document compliance with program rules and orders for at least 5 years after the last day of the delivery of supported services, equipment, or facilities in a particular funding year.
+-</P>
+-<P>(3) Both participants and vendors shall produce such records at the request of the Commission, any auditor appointed by the Administrator or the Commission, or of any other state or federal agency with jurisdiction.
+-</P>
+-<CITA TYPE="N">[78 FR 13991, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.649" TYPE="SECTION">
+-<HEAD>§ 54.649   Certifications.</HEAD>
+-<P>For individual health care provider applicants, required certifications must be provided and signed by an officer or director of the health care provider, or other authorized employee of the health care provider. For consortium applicants, an officer, director, or other authorized employee of the Consortium Leader must sign the required certifications. Pursuant to § 54.680, electronic signatures are permitted for all required certifications.
+-</P>
+-<CITA TYPE="N">[78 FR 13992, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-</DIV7>
+-
+-
+-<DIV7 N="13" TYPE="SUBJGRP">
+-<HEAD>General Provisions</HEAD>
+-
+-
+-<DIV8 N="§ 54.671" TYPE="SECTION">
+-<HEAD>§ 54.671   Resale.</HEAD>
+-<P>(a) <I>Prohibition on resale.</I> Services purchased pursuant to universal service support mechanisms under this subpart shall not be sold, resold, or transferred in consideration for money or any other thing of value.
+-</P>
+-<P>(b) <I>Permissible fees.</I> The prohibition on resale set forth in paragraph (a) of this section shall not prohibit a health care provider from charging normal fees for health care services, including instruction related to services purchased with support provided under this subpart.
+-</P>
+-<CITA TYPE="N">[78 FR 13992, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.672" TYPE="SECTION">
+-<HEAD>§ 54.672   Duplicate support.</HEAD>
+-<P>(a) Eligible health care providers that seek support under the Healthcare Connect Fund for telecommunications services may not also request support from the Telecommunications Program for the same services.
+-</P>
+-<P>(b) Eligible health care providers that seek support under the Telecommunications Program or the Healthcare Connect Fund may not also request support from any other universal service program for the same expenses.
+-</P>
+-<CITA TYPE="N">[78 FR 13992, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.675" TYPE="SECTION">
+-<HEAD>§ 54.675   Cap.</HEAD>
+-<P>(a) <I>Amount of the annual cap.</I> The aggregate annual cap on federal universal service support for health care providers shall be $571 million per funding year, of which up to $150 million per funding year will be available to support upfront payments and multi-year commitments under the Healthcare Connect Fund.
+-</P>
+-<P>(1) <I>Inflation increase.</I> In funding year 2018 and the subsequent funding years, the $571 million cap on federal universal support in the Rural Health Care Program shall be automatically increased annually to take into account increases in the rate of inflation as calculated in paragraph (a)(2) of this section.
+-</P>
+-<P>(2) <I>Increase calculation.</I> To measure increases in the rate of inflation for the purposes of this paragraph (a), the Commission shall use the Gross Domestic Product Chain-type Price Index (GDP-CPI). To compute the annual increase as required by this paragraph (a), the percentage increase in the GDP-CPI from the previous year will be used. For instance, the annual increase in the GDP-CPI from 2017 to 2018 would be used for the 2018 funding year. The increase shall be rounded to the nearest 0.1 percent by rounding 0.05 percent and above to the next higher 0.1 percent and otherwise rounding to the next lower 0.1 percent. This percentage increase shall be added to the amount of the annual funding cap from the previous funding year. If the yearly average GDP-CPI decreases or stays the same, the annual funding cap shall remain the same as the previous year.
+-</P>
+-<P>(3) <I>Public notice.</I> When the calculation of the yearly average GDP-CPI is determined, the Wireline Competition Bureau shall publish a public notice in the <E T="04">Federal Register</E> within 60 days announcing any increase of the annual funding cap based on the rate of inflation.
+-</P>
+-<P>(4) <I>Amount of unused funds.</I> All funds collected that are unused shall be carried forward into subsequent funding years for use in the Rural Health Care Program in accordance with the public interest and notwithstanding the annual cap. The Administrator shall report to the Commission, on a quarterly basis, funding that is unused from prior years of the Rural Health Care Program.
+-</P>
+-<P>(5) <I>Application of unused funds.</I> On an annual basis, in the second quarter of each calendar year, all funds that are collected and that are unused from prior years shall be available for use in the next full funding year of the Rural Health Care Program in accordance with the public interest and notwithstanding the annual cap as described in this paragraph (a).
+-</P>
+-<P>(b) <I>Funding year.</I> A funding year for purposes of the health care providers cap shall be the period July 1 through June 30.
+-</P>
+-<P>(c) <I>Requests.</I> Funds shall be available as follows:
+-</P>
+-<P>(1) Generally, funds shall be available to eligible health care providers on a first-come-first-served basis, with requests accepted beginning on the first of January prior to each funding year.
+-</P>
+-<P>(2) For the Telecommunications Program and the Healthcare Connect Fund, the Administrator shall implement a filing window period that treats all eligible health care providers filing within the window period as if their applications were simultaneously received.
+-</P>
+-<P>(3) [Reserved]
+-</P>
+-<P>(4) The deadline to submit a funding commitment request under the Telecommunications Program and the Healthcare Connect Fund is June 30 for the funding year that begins on the previous July 1.
+-</P>
+-<P>(d) <I>Annual filing requirement.</I> Health care providers shall file new funding requests for each funding year, except for health care providers who have received a multi-year funding commitment under § 54.644.
+-</P>
+-<P>(e) <I>Long-term contracts.</I> If health care providers enter into long-term contracts for eligible services, the Administrator shall only commit funds to cover the portion of such a long-term contract scheduled to be delivered during the funding year for which universal service support is sought, except for multi-year funding commitments as described in § 54.644.
+-</P>
+-<P>(f) <I>Pro-rata reductions for Telecommunications Program support.</I> The Administrator shall act in accordance with this section when a filing window period for the Telecommunications Program and the Healthcare Connect Fund, as described in paragraph (c)(2) of this section, is in effect. When a filing window period described in paragraph (c)(2) of this section closes, the Administrator shall calculate the total demand for Telecommunications Program and Healthcare Connect Fund support submitted by all applicants during the filing window period. If the total demand during a filing window period exceeds the total remaining support available for the funding year, the Administrator shall take the following steps:
+-</P>
+-<P>(1) The Administrator shall divide the total remaining funds available for the funding year by the total amount of Telecommunications Program and Healthcare Connect Fund support requested by each applicant that has filed during the window period, to produce a pro-rata factor.
+-</P>
+-<P>(2) The Administrator shall calculate the amount of Telecommunications Program and Healthcare Connect Fund support requested by each applicant that has filed during the filing window.
+-</P>
+-<P>(3) The Administrator shall multiply the pro-rata factor by the total dollar amount requested by each applicant filing during the window period. Administrator shall then commit funds to each applicant for Telecommunications Program and Healthcare Connect Fund support consistent with this calculation.
+-</P>
+-<CITA TYPE="N">[78 FR 13992, Mar. 1, 2013, as amended at 83 FR 30584, June 29 2018]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.679" TYPE="SECTION">
+-<HEAD>§ 54.679   Election to offset support against annual universal service fund contribution.</HEAD>
+-<P>(a) A service provider that contributes to the universal service support mechanisms under subpart H of this part and also provides services eligible for support under this subpart to eligible health care providers may, at the election of the contributor:
+-</P>
+-<P>(1) Treat the amount eligible for support under this subpart as an offset against the contributor's universal service support obligation for the year in which the costs for providing eligible services were incurred; or
+-</P>
+-<P>(2) Receive direct reimbursement from the Administrator for that amount.
+-</P>
+-<P>(b) Service providers that are contributors shall elect in January of each year the method by which they will be reimbursed and shall remain subject to that method for the duration of the calendar year. Any support amount that is owed a service provider that fails to remit its monthly universal service contribution obligation, however, shall first be applied as an offset to that contributor's contribution obligation. Such a service provider shall remain subject to the offsetting method for the remainder of the calendar year in which it failed to remit its monthly universal service obligation. A service provider that continues to be in arrears on its universal service contribution obligations at the end of a calendar year shall remain subject to the offsetting method for the next calendar year.
+-</P>
+-<P>(c) If a service provider providing services eligible for support under this subpart elects to treat that support amount as an offset against its universal service contribution obligation and the total amount of support owed exceeds its universal service obligation, calculated on an annual basis, the service provider shall receive a direct reimbursement in the amount of the difference. Any such reimbursement due a service provider shall be provided by the Administrator no later than the end of the first quarter of the calendar year following the year in which the costs were incurred and the offset against the contributor's universal service obligation was applied.
+-</P>
+-<CITA TYPE="N">[78 FR 13992, Mar. 1, 2013]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 54.680" TYPE="SECTION">
+-<HEAD>§ 54.680   Validity of electronic signatures.</HEAD>
+-<P>(a) For the purposes of this subpart, an electronic signature (defined by the Electronic Signatures in Global and National Commerce Act, as an electronic sound, symbol, or process, attached to or logically associated with a contract or other record and executed or adopted by a person with the intent to sign the record) has the same legal effect as a written signature.
+-</P>
+-<P>(b) For the purposes of this subpart, an electronic record (defined by the Electronic Signatures in Global and National Commerce Act, as a contract or other record created, generated, sent, communicated, received, or stored by electronic means) constitutes a record.
+-</P>
+-<CITA TYPE="N">[78 FR 13993, Mar. 1, 2013]
+-
+-
+-</CITA>
+ </DIV8>
+ 
+ </DIV7>

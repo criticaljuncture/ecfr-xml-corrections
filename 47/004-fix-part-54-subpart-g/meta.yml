@@ -1,0 +1,12 @@
+description: "Title 47 Part 54 subpart G had it's structure and content incorrecty updated which resulted in incorrects structure and content. This corrects these issues"
+tags: 'structural'
+status: 'approved'
+issue_number: '161'
+
+fr_doc: 'https://www.federalregister.gov/documents/2019/10/11/2019-20173/promoting-telehealth-in-rural-america#sectno-reference-54.623%20'
+reference: 'https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109485575/comments#405847233'
+
+patches:
+  '001':
+    start_date: "2019-11-13T20:00:12-0500"
+    end_date: "2019-12-05T03:00:11-0500"
