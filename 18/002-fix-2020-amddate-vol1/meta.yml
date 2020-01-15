@@ -3,7 +3,7 @@ tags: 'amendment-date'
 status: needs-approval
 issue_number: 167
 fr_doc:
-reference:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109798530/
 
 patches:
   '001':
