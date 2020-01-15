@@ -17,3 +17,7 @@ It currently affects source xml received on XXXX through XXXX.
 This is [still present | fixed] in the latest source xml. 
 
 *** **attach CSV if available, run `rake utils:generate_title_amddate_csv[title,year]` to generate one** ***
+
+Can use this to format CSV into embeddable markdown table:
+https://www.convertcsv.com/csv-to-markdown.htm
+
