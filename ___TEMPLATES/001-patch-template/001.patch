@@ -1,0 +1,13 @@
+--- data/titles/preprocessed/xml/50/2017/01/2017-01-03.xml	2017-09-28 09:43:37.000000000 -0700
++++ tmp/title_version_49_preprocessed.xml	2017-09-28 10:14:30.000000000 -0700
+@@ -20503,8 +20503,8 @@
+ 
+ </CITA>
+ <EDNOTE>
+-<HED>Editorial Notes:</HED><PSPACE>1. For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.fdsys.gov.</I>
+-</PSPACE><P>2. The remainder of § 17.95 appears in 50 Part 17, § 17.95(b), 50 Part 17, § 17.95(c) to § 17.95(e), and 50 Part 17, § 17.95(f) to end of § 17.95.</P></EDNOTE>
++<HED>Editorial Notes:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.fdsys.gov.</I>
++</PSPACE></EDNOTE>
+ </DIV8>
+ 
+ </DIV6>
