@@ -8,6 +8,4 @@ reference:
 patches:
   '001':
     start_date: '2018-07-06'
-    # end_date: '2018-07-24'
-    end_date: '2099-07-24'
-
+    end_date: '2018-07-24'
