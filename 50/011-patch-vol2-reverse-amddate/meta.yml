@@ -1,0 +1,11 @@
+description: Title 50 Volume 2 amddate goes in reverse. It appears to publication date was inserted instead of the effective date.
+tags: amendment-date
+status: needs-review
+issue_number: 186
+fr_doc: https://www.federalregister.gov/documents/2020/01/02/2019-27339/endangered-and-threatened-wildlife-and-plants-removing-the-hawaiian-hawk-from-the-federal-list-of
+reference: 
+
+patches:
+  '001':
+    start_date: '2020-02-05'
+    end_date: '2100-01-01'
