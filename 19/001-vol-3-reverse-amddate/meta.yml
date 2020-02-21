@@ -1,0 +1,11 @@
+description: Title 19 vol 3 had its amendment date reverse in the new year of 2020.
+tags: amendment-date
+status: needs-review
+issue_number: 187
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-02-06'
+    end_date: '2100-01-01'
