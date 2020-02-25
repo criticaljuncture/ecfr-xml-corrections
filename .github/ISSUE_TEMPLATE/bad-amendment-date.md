@@ -1,7 +1,7 @@
 ---
 name: Bad Amendment Date
 about: Use for reverse or unparsable amendment dates
-title: "[Reverse | Unparsable] Amendment Date for Title XXXX Volume XXXX"
+title: "[Reverse | Unparsable | Incorrect] Amendment Date for Title XXXX Volume XXXX Year XXX"
 labels: support
 assignees: ''
 
@@ -20,4 +20,3 @@ This is [still present | fixed] in the latest source xml.
 
 Can use this to format CSV into embeddable markdown table:
 https://www.convertcsv.com/csv-to-markdown.htm
-
