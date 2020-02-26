@@ -1,0 +1,12 @@
+description: Patch Title 7 Volume 8 reverse amendment date 2018.
+tags: amendment-date
+status: needs-review
+issue_number: 198
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2018-01-09'
+    end_date: '2018-01-27'
+    
