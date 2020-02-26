@@ -1,0 +1,11 @@
+description: Patch reverse amddate date for Title 47 vol 3.
+tags: amendment-date
+status: 'needs-approval'
+issue_number: 200
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2017-01-07'
+    end_date: '2017-01-07'
