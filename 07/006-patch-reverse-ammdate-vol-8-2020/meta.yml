@@ -1,4 +1,4 @@
-description: Patch Title 7 Volume 8 reverse amendment date
+description: Patch Title 7 Volume 8 reverse amendment date. 2019 should be 2020.
 tags: amendment-date
 status: needs-review
 issue_number: 174
@@ -9,3 +9,9 @@ patches:
   '001':
     start_date: '2020-01-10'
     end_date: '2020-02-07'
+  '002':
+    start_date: '2020-02-08'
+    end_date: '2020-03-05'
+  '003':
+    start_date: '2020-03-09'
+    end_date: '2100-01-01'
