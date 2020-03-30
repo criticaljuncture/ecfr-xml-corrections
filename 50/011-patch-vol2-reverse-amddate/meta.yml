@@ -3,9 +3,9 @@ tags: amendment-date
 status: needs-review
 issue_number: 186
 fr_doc: https://www.federalregister.gov/documents/2020/01/02/2019-27339/endangered-and-threatened-wildlife-and-plants-removing-the-hawaiian-hawk-from-the-federal-list-of
-reference: 
+reference:
 
 patches:
   '001':
     start_date: '2020-02-05'
-    end_date: '2100-01-01'
+    end_date: '2020-03-05T11:30:06-0500'
