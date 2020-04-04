@@ -1,0 +1,11 @@
+description: Patch Title 40 Volume 20 reverse amendment date.
+tags: amendment-date
+status: needs-review
+issue_number: 218
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2019-02-08T22:50:15-0500'
+    end_date: '2019-02-12T05:10:13-0500'

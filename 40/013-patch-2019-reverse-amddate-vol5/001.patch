@@ -1,0 +1,118 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/40/2019/02/2019-02-08T22:50:15-0500.xml	2020-04-03 17:01:48.000000000 -0700
++++ tmp/title_version_40_2019-02-08T22:50:15-0500_preprocessed.xml	2020-04-03 17:04:04.000000000 -0700
+@@ -145989,7 +145989,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Dec. 31, 2018
++<AMDDATE>Jan. 2, 2019
+ </AMDDATE>
+ 
+ <DIV1 N="5" TYPE="TITLE">
+@@ -150025,7 +150025,6 @@
+ 
+ <DIV8 N="§ 52.2170" TYPE="SECTION">
+ <HEAD>§ 52.2170   Identification of plan.</HEAD>
+-<XREF ID="20181203">Link to an amendment published at 83 FR 62268, Dec. 3, 2018.</XREF>
+ <P>(a) <I>Purpose and scope.</I> This section sets forth the applicable State Implementation Plan for South Dakota under section 110 of the Clean Air Act, 42 U.S.C. 7410 and 40 CFR part 51 to meet national ambient air quality standards or other requirements under the Clean Air Act.
+ </P>
+ <P>(b) <I>Incorporation by reference.</I> (1) Material listed in paragraphs (c) and (d) of this section with an EPA approval date prior to October 1, 2015, was approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Material is incorporated as it exists on the date of the approval, and notice of any change in the material will be published in the <E T="04">Federal Register.</E> Entries in paragraphs (c) and (d) of this section with EPA approval dates after October 1, 2015, will be incorporated by reference in the next update to the SIP compilation.
+@@ -150271,8 +150270,10 @@
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">XIX. Section 110(a)(2)(D)(i)(I) Interstate Transport Requirements for the 2008 8-hour Ozone NAAQS</TD><TD align="right" class="gpotbl_cell">5/21/13</TD><TD align="right" class="gpotbl_cell">3/2/15</TD><TD align="left" class="gpotbl_cell">80 FR 4799, 1/29/15
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">XX. Section 110(a)(2) Infrastructure Requirements for the 2010 SO<E T="0732">2</E> and 2012 PM<E T="0732">2.5</E> NAAQS</TD><TD align="right" class="gpotbl_cell">Submitted: 12/20/2013 and 01/25/2016</TD><TD align="right" class="gpotbl_cell">8/16/2017</TD><TD align="left" class="gpotbl_cell">82 FR 38832</TD><TD align="left" class="gpotbl_cell">Excluding 110(D)(i)(I), interstate transport for the 2010 SO<E T="0732">2</E> and 2012 PM<E T="0732">2.5</E> NAAQS which will be acted on separately.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">XXI. Section 110(a)(2)(D)(i)(I) Interstate Transport Requirements for the 2012 PM<E T="0732">2.5</E> NAAQS</TD><TD align="right" class="gpotbl_cell">Submitted: 1/25/2016</TD><TD align="right" class="gpotbl_cell">8/6/2018</TD><TD align="left" class="gpotbl_cell">83 FR 31329, 7/5/2018
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">XXII. Section 110(a)(2)(D)(i)(I) Interstate Transport Requirements for the 2010 SO<E T="0732">2</E> NAAQS</TD><TD align="right" class="gpotbl_cell">Submitted: 12/20/2013</TD><TD align="right" class="gpotbl_cell">10/1/2018</TD><TD align="left" class="gpotbl_cell">83 FR 44503, 8/31/2018</TD><TD align="left" class="gpotbl_cell"/></TR></TABLE></DIV></DIV>
+-<CITA TYPE="N">[70 FR 11128, Mar. 8, 2005, as amended at 71 FR 46407, Aug. 14, 2006; 72 FR 57868, Oct. 11, 2007; 72 FR 72621, Dec. 21, 2007; 73 FR 26024, May 8, 2008; 76 FR 43917, July 22, 2011; 77 FR 24856, Apr. 26, 2012; 79 FR 21854, Apr. 18, 2014; 79 FR 36425, June 27, 2014; 80 FR 4800, Jan. 29, 2015; 80 FR 79697, Dec. 23, 2015; 81 FR 70628, Oct. 13, 2016; 82 FR 38833, Aug. 16, 2017; 83 FR 29700, June 26, 2018; 83 FR 31329, July 5, 2018; 83 FR 44503, Aug. 31, 2018]
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">XXII. Section 110(a)(2)(D)(i)(I) Interstate Transport Requirements for the 2010 SO<E T="0732">2</E> NAAQS</TD><TD align="right" class="gpotbl_cell">Submitted: 12/20/2013</TD><TD align="right" class="gpotbl_cell">10/1/2018</TD><TD align="left" class="gpotbl_cell">83 FR 44503, 8/31/2018
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">XXIII. Regional Haze 5-Year Progress Report</TD><TD align="right" class="gpotbl_cell">Submitted 01/27/2016</TD><TD align="right" class="gpotbl_cell">1/2/2019</TD><TD align="left" class="gpotbl_cell">83 FR 66268, 12/3/2018
++</TD><TD align="left" class="gpotbl_cell"/></TR></TABLE></DIV></DIV>
++<CITA TYPE="N">[70 FR 11128, Mar. 8, 2005, as amended at 71 FR 46407, Aug. 14, 2006; 72 FR 57868, Oct. 11, 2007; 72 FR 72621, Dec. 21, 2007; 73 FR 26024, May 8, 2008; 76 FR 43917, July 22, 2011; 77 FR 24856, Apr. 26, 2012; 79 FR 21854, Apr. 18, 2014; 79 FR 36425, June 27, 2014; 80 FR 4800, Jan. 29, 2015; 80 FR 79697, Dec. 23, 2015; 81 FR 70628, Oct. 13, 2016; 82 FR 38833, Aug. 16, 2017; 83 FR 29700, June 26, 2018; 83 FR 31329, July 5, 2018; 83 FR 44503, Aug. 31, 2018; 83 FR 66268, Dec. 3, 2018]
+ 
+ 
+ 
+@@ -151508,7 +151509,6 @@
+ 
+ <DIV8 N="§ 52.2270" TYPE="SECTION">
+ <HEAD>§ 52.2270   Identification of plan.</HEAD>
+-<XREF ID="20181004">Link to an amendment published at 83 FR 50021, Oct. 4, 2018.</XREF>
+ <XREF ID="20181204">Link to an amendment published at 83 FR 62470, Dec. 4, 2018.</XREF>
+ <XREF ID="20181206">Link to an amendment published at 83 FR 62720, Dec. 6, 2018.</XREF>
+ <P>(a) <I>Purpose and scope.</I> This section sets forth the applicable State Implementation Plan (SIP) for Texas under section 110 of the Clean Air Act, 42 U.S.C. 7410, and 40 CFR part 51 to meet national ambient air quality standards.
+@@ -151779,10 +151779,10 @@
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.517</TD><TD align="left" class="gpotbl_cell">Exemptions</TD><TD align="left" class="gpotbl_cell">8/8/2012</TD><TD align="left" class="gpotbl_cell">7/25/2014, 79 FR 43264
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Subchapter K - Mobile Source Incentive Programs</E>
+ </TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Division 3: Diesel Emissions Reduction Incentive Program for On-Road and Non-Road Vehicles</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.620</TD><TD align="left" class="gpotbl_cell">Definitions</TD><TD align="left" class="gpotbl_cell">2/24/2010</TD><TD align="left" class="gpotbl_cell">11/12/2014, 79 FR 67071
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.620</TD><TD align="left" class="gpotbl_cell">Definitions</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.621</TD><TD align="left" class="gpotbl_cell">Applicability</TD><TD align="left" class="gpotbl_cell">1/28/04</TD><TD align="left" class="gpotbl_cell">08/19/05, 70 FR 48647
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.622</TD><TD align="left" class="gpotbl_cell">Incentive Program Requirements</TD><TD align="left" class="gpotbl_cell">4/9/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.623</TD><TD align="left" class="gpotbl_cell">Small Business Incentives</TD><TD align="left" class="gpotbl_cell">1/28/04</TD><TD align="left" class="gpotbl_cell">8/19/05, 70 FR 48647
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.622</TD><TD align="left" class="gpotbl_cell">Incentive Program Requirements</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.623</TD><TD align="left" class="gpotbl_cell">Small Business Incentives</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021 
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.624</TD><TD align="left" class="gpotbl_cell">Rebate Grant Process</TD><TD align="left" class="gpotbl_cell">9/20/2006</TD><TD align="left" class="gpotbl_cell">4/9/2010, 75 FR 18061
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.626</TD><TD align="left" class="gpotbl_cell">Monitoring, Recordkeeping, and Reporting Requirements</TD><TD align="left" class="gpotbl_cell">8/22/01</TD><TD align="left" class="gpotbl_cell">08/19/05, 70 FR 48647
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.629</TD><TD align="left" class="gpotbl_cell">Affected Counties and Implementation Schedule</TD><TD align="left" class="gpotbl_cell">4/9/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+@@ -151793,19 +151793,29 @@
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.646</TD><TD align="left" class="gpotbl_cell">Monitoring, Recordkeeping, and Reporting Requirements</TD><TD align="left" class="gpotbl_cell">3/26/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.648</TD><TD align="left" class="gpotbl_cell">Expiration</TD><TD align="left" class="gpotbl_cell">3/26/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Division 5: Texas Clean Fleet Program</E> 
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.650</TD><TD align="left" class="gpotbl_cell">Definitions</TD><TD align="left" class="gpotbl_cell">4/9/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.651</TD><TD align="left" class="gpotbl_cell">Applicability</TD><TD align="left" class="gpotbl_cell">3/28/2012</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.652</TD><TD align="left" class="gpotbl_cell">Qualifying Vehicles</TD><TD align="left" class="gpotbl_cell">3/28/2012</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.653</TD><TD align="left" class="gpotbl_cell">Grant Eligibility</TD><TD align="left" class="gpotbl_cell">4/9/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.654</TD><TD align="left" class="gpotbl_cell">Usage and Disposition</TD><TD align="left" class="gpotbl_cell">3/28/2012</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287 
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.655</TD><TD align="left" class="gpotbl_cell">Grant Restrictions</TD><TD align="left" class="gpotbl_cell">2/24/2010</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.656</TD><TD align="left" class="gpotbl_cell">Eligible Grant Amounts</TD><TD align="left" class="gpotbl_cell">4/9/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.657</TD><TD align="left" class="gpotbl_cell">Reporting Requirements</TD><TD align="left" class="gpotbl_cell">2/24/2010</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.658</TD><TD align="left" class="gpotbl_cell">Implementation Schedule</TD><TD align="left" class="gpotbl_cell">2/24/2010</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Division 8: Drayage Truck Incentive Program</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.680</TD><TD align="left" class="gpotbl_cell">Definitions</TD><TD align="left" class="gpotbl_cell">8/3/2016</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.681</TD><TD align="left" class="gpotbl_cell">Applicability</TD><TD align="left" class="gpotbl_cell">4/9/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.682</TD><TD align="left" class="gpotbl_cell">Eligible Vehicle Models</TD><TD align="left" class="gpotbl_cell">8/3/2016</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.650</TD><TD align="left" class="gpotbl_cell">Definitions</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021
++
++
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.651</TD><TD align="left" class="gpotbl_cell">Applicability</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021 
++
++
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.652</TD><TD align="left" class="gpotbl_cell">Qualifying Vehicles</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.653</TD><TD align="left" class="gpotbl_cell">Grant Eligibility</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.654</TD><TD align="left" class="gpotbl_cell">Usage and Disposition</TD><TD align="left" class="gpotbl_cell">3/28/2012</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287 
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.655</TD><TD align="left" class="gpotbl_cell">Grant Restrictions</TD><TD align="left" class="gpotbl_cell">2/24/2010</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.656</TD><TD align="left" class="gpotbl_cell">Eligible Grant Amounts</TD><TD align="left" class="gpotbl_cell">4/9/2014</TD><TD align="left" class="gpotbl_cell">6/9/2017, 82 FR 26756
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.657</TD><TD align="left" class="gpotbl_cell">Reporting Requirements</TD><TD align="left" class="gpotbl_cell">2/24/2010</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
++</TD></TR><TR><TD align="left" class="gpotbl_cell" colspan="5" scope="row">Section 114.658</TD><TD align="left" class="gpotbl_cell">Implementation Schedule</TD><TD align="left" class="gpotbl_cell">2/24/2010</TD><TD align="left" class="gpotbl_cell">1/31/2014, 79 FR 5287
++
++
++</TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Division 8: Drayage Truck Incentive Program</E>
++
++
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.680</TD><TD align="left" class="gpotbl_cell">Definitions</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018; 83 FR 50021
++
++
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.681</TD><TD align="left" class="gpotbl_cell">Applicability</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018, 83 FR 50021
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 114.682</TD><TD align="left" class="gpotbl_cell">Eligible Vehicle Models</TD><TD align="left" class="gpotbl_cell">4/4/2018</TD><TD align="left" class="gpotbl_cell">10/4/2018; 83 FR 50021
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Texas Department of Transportation Regulation - 31 TAC Chapter 17 - Vehicle Titles and Registration</E>
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 17.80</TD><TD align="left" class="gpotbl_cell">Vehicle Emissions Verification System</TD><TD align="left" class="gpotbl_cell">11/09/93</TD><TD align="left" class="gpotbl_cell">08/22/94, 59 FR 43046</TD><TD align="left" class="gpotbl_cell">Ref 52.2299 (c)(87)(i)(F).
+ </TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Texas Department of Public Safety - 37 TAC Chapter 23 - Vehicle Inspection</E>
+@@ -160387,6 +160397,12 @@
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 45-40-8</TD><TD align="left" class="gpotbl_cell">Appeal Procedures</TD><TD align="right" class="gpotbl_cell">5/1/08</TD><TD align="left" class="gpotbl_cell">8/4/09, 74 FR 38536
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 45-40-10</TD><TD align="left" class="gpotbl_cell">Authorization and Responsibilities of the CAIR Designated Representative</TD><TD align="right" class="gpotbl_cell">5/1/08</TD><TD align="left" class="gpotbl_cell">8/4/09, 74 FR 38536
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 45-40-11</TD><TD align="left" class="gpotbl_cell">Alternate CAIR Designated Representative</TD><TD align="right" class="gpotbl_cell">5/1/08</TD><TD align="left" class="gpotbl_cell">8/4/09, 74 FR 38536
++
++
++
++
++
++
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 45-40-12</TD><TD align="left" class="gpotbl_cell">Changing the CAIR Designated Representative and Alternate CAIR Designated Representative; Changes in Owners and Operators</TD><TD align="right" class="gpotbl_cell">5/1/08</TD><TD align="left" class="gpotbl_cell">8/4/09, 74 FR 38536
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 45-40-13</TD><TD align="left" class="gpotbl_cell">Certificate of Representation</TD><TD align="right" class="gpotbl_cell">5/1/08</TD><TD align="left" class="gpotbl_cell">8/4/09, 74 FR 38536
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Section 45-40-14</TD><TD align="left" class="gpotbl_cell">Objections Concerning the CAIR Designated Representative</TD><TD align="right" class="gpotbl_cell">5/1/08</TD><TD align="left" class="gpotbl_cell">8/4/09, 74 FR 38536
+@@ -160929,7 +160945,6 @@
+ 
+ <DIV8 N="§ 52.2570" TYPE="SECTION">
+ <HEAD>§ 52.2570   Identification of plan.</HEAD>
+-<XREF ID="20181204">Link to an amendment published at 83 FR 62473, Dec. 4, 2018.</XREF>
+ <P>(a) Title of plan: “A Statewide Implementation Plan to Achieve Air Quality Standards for Particulates, Sulfur Oxides, Nitrogen Oxides, Hydrocarbons, Oxidants, and Carbon Monoxide in the State of Wisconsin.”
+ </P>
+ <P>(b) The plan was officially submitted on January 14, 1972.
