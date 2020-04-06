@@ -1,0 +1,12 @@
+description: Patch Title 40 Volume 35 2017 reverse amendment dates.
+tags: amendment-date
+status: needs-review
+issue_number: 214
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2017-05-31T01:00:00-0400'
+    end_date:   '2017-06-15T01:00:00-0400'
+
