@@ -1,0 +1,11 @@
+description: Patch Title 40 Volume 16 2018 reverse amendment dates.
+tags: amendment-date
+status: needs-review
+issue_number: 221
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2018-03-24T01:00:00-0400'
+    end_date:   '2018-07-05T01:00:00-0400'
