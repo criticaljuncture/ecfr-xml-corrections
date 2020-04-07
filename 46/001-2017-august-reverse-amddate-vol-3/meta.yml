@@ -1,0 +1,12 @@
+description: Patch Title 46 vol 3 2017 reverse amddate
+tags: 'amendment-date'
+status: 'approved'
+issue_number: '156'
+fr_doc:
+reference:
+  'https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/109219561/comments'
+
+patches:
+  '001':
+    start_date: '2017-08-01T01:00:00-0400'
+    end_date:   '2017-09-29T01:00:00-0400'
