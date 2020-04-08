@@ -1,0 +1,17 @@
+description: Patch multiple Title 40 Volume 2 2018 reverse amendment dates.
+tags: amendment-date
+status: needs-review
+issue_number: 220
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2018-03-13T01:00:00-0400'
+    end_date:   '2018-03-21T01:00:00-0400'
+  '002':
+    start_date: '2018-03-24T01:00:00-0400'
+    end_date:   '2018-05-09T01:00:00-0400'
+  '003':
+    start_date: '2018-05-10T01:00:00-0400'
+    end_date:   '2018-11-15T00:00:00-0500'
