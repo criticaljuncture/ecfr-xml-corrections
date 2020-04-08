@@ -1,0 +1,11 @@
+description: 'Title 49 Volume 2 March reverse amddate'
+tags: 'amendment-date'
+status: needs-approval
+issue_number: 152
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-04-04'
+    end_date:   '2017-04-04'
