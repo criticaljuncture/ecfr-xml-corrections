@@ -1,0 +1,14 @@
+description: Patch Title 46 vol 3 2017 reverse amddate
+tags: 'amendment-date'
+status: 'approved'
+issue_number: '223'
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-08-01T01:00:00-0400'
+    end_date:   '2017-09-29T01:00:00-0400'
+  '002':
+    start_date: '2017-10-04T01:00:00-0400'
+    end_date:   '2100-01-01'
