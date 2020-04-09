@@ -12,8 +12,8 @@ Title XXXX Volume XXXX amendment date is a [reverse | unparsable] amendment date
 It changed changed from XXXX to XXXX.
 It should probably be XXXX
 
-start_date: XXX
-end_date: XXXX.
+<p>start_date: XXXX</p>
+<p>end_date: XXXX</p>
 
 This is [still present | fixed] in the latest source xml. 
 
