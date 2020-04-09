@@ -1,0 +1,11 @@
+description: Patch multiple Title 10 Volume 1 2018 reverse amendment dates.
+tags: amendment-date
+status: needs-review
+issue_number: 229
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2018-01-17T00:00:00-0500'
+    end_date: '2018-01-17T00:00:00-0500'
