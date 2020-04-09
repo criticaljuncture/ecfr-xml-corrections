@@ -1,0 +1,14 @@
+description: Patch Title 41 Volume 3 2019 reverse amendment date.
+tags: amendment-date
+status: needs-review
+issue_number: 227
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2019-10-09T12:30:22-0400'
+    end_date:   '2019-10-17T20:00:13-0400'
+  '002':
+    start_date: '2019-11-06T03:30:06-0500'
+    end_date:   '2020-01-23T20:30:05-0500'
