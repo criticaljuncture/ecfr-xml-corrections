@@ -1,0 +1,14 @@
+description:
+  "As part of a repeal update in Title 7 a number of parts were removed. Reserved parts 2200-2299
+  should be placed under chapter XX but were instead inserted under chapter XXV.
+  "
+tags: amendment-date
+status: needs-review
+issue_number: 235
+fr_doc: https://www.federalregister.gov/documents/2019/11/07/2019-24310/repeal-of-regulations-concerning-the-rural-telephone-bank-the-public-television-station-digital#p-amd-35
+reference:
+
+patches:
+  '001':
+    start_date: '2020-01-08T19:00:16-0500'
+    end_date:   '2020-01-10T03:00:06-0500'
