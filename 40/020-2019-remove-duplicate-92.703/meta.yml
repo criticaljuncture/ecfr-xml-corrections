@@ -1,0 +1,11 @@
+description: 'Remove duplicate and empty Title 40 92.703'
+tags: amendment-date
+status: needs-review
+issue_number: 233
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2019-10-01T08:00:16-0400'
+    end_date:   '2019-10-03T20:30:14-0400'
