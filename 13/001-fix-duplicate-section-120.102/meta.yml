@@ -1,0 +1,11 @@
+description: Remove duplicate section for a single Title 13 title version
+tags: transcription
+status: 'needs-approval'
+fr_doc:
+issue:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-03-12T20:30:11-0400'
+    end_date:   '2020-03-12T20:30:11-0400'

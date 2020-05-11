@@ -1,0 +1,29 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/13/2020/03/2020-03-12T20:30:11-0400.xml	2020-05-08 17:25:20.000000000 -0700
++++ tmp/title_version_13_2020-03-12T20:30:11-0400_preprocessed.xml	2020-05-08 17:27:23.000000000 -0700
+@@ -13089,26 +13089,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 120.102" TYPE="SECTION">
+-<HEAD>§ 120.102   Funds not available from alternative sources, including the personal resources of owners.</HEAD>
+-<P>(a) An Applicant for a business loan must show that the desired funds are not available from the resources of any individual or entity owning 20 percent or more of the Applicant. SBA will require the use of liquid assets from any such owner as an injection to reduce the SBA loan amount when that owner's liquid assets exceed the amounts specified in paragraphs (a)(1) through (3) of this section. SBA will reexamine the thresholds periodically and, if adjustments are necessary based on nationally-recognized economic indicators, SBA may modify the thresholds from time to time through rulemaking. When the total financing package (<I>i.e.,</I> any SBA loans and any other financing, including loans from any other source, requested by the Applicant business at or about the same time, as defined in Loan Program Requirements (see <I>§ 120.10)</I>):
+-</P>
+-<P>(1) Is $350,000 or less, each 20 percent owner of the Applicant must inject any liquid assets that are in excess of two times the total financing package, or $500,000, whichever is greater;
+-</P>
+-<P>(2) Is between $350,001 and $1,000,000, each 20 percent owner of the Applicant must inject any liquid assets that are in excess of one and one-half times the total financing package, or $1,000,000, whichever is greater; or
+-</P>
+-<P>(3) Exceeds $1,000,000, each 20 percent owner of the Applicant must inject any liquid assets that are in excess of one times the total financing package, or $2,500,000, whichever is greater.
+-</P>
+-<P>(b) Any liquid assets in excess of the applicable amount set forth in paragraph (a) of this section must be used to reduce the SBA loan amount. These funds must be injected prior to the disbursement of the proceeds of any SBA financing. In extraordinary circumstances, SBA may, in its sole discretion, permit exceptions to the required injection of an owner's excess liquid assets.
+-</P>
+-<P>(c) For purposes of this section, “liquid assets” means cash or cash equivalents, including savings accounts, CDs, stocks, bonds, or other similar assets. Equity in real estate holdings, the cash value of life insurance policies, and other fixed assets are not to be considered liquid assets. In addition, the liquid assets of any 20 percent owner who is an individual include the liquid assets of the owner's spouse and any minor children.
+-</P>
+-<P>(d) SBA Lenders must document their analysis and determination in the loan file.
+-
+-
+-</P>
+-</DIV8>
+-
+ 
+ <DIV8 N="§ 120.102" TYPE="SECTION">
+ <HEAD>§ 120.102   Funds not available from alternative sources, including the personal resources of owners.</HEAD>
