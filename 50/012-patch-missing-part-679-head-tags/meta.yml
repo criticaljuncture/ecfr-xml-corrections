@@ -1,0 +1,11 @@
+description: Title 50 had images inserted with head tags. These missing head tags cause the appendix id generator preprocessor to be unable to generate ids. This back patches these head tags that are later inserted above the images.
+tags: 'transcription'
+status: needs-review
+issue_number: 
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2019-12-21T06:30:08-0500'
+    end_date:   '2020-01-17T07:00:07-0500'
