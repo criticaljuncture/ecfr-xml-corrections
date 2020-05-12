@@ -1,0 +1,23 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/50/2020/01/2020-01-29T07:00:08-0500.xml	2020-05-12 10:47:51.000000000 -0700
++++ tmp/title_version_50_2020-01-29T07:00:08-0500_preprocessed.xml	2020-05-12 10:51:31.000000000 -0700
+@@ -248953,9 +248953,7 @@
+ 
+ 
+ <DIV9 N="" TYPE="APPENDIX">
+-<HEAD> 
+-
+-
++<HEAD>Figure 10 to Part 679 - Pribilof Islands Habitat Conservation Zone (PIHCZ) in the Bering Sea
+ 
+ </HEAD>
+ <img src="http://www.ecfr.gov/graphics/er02de14.000.gif"/>
+@@ -249182,8 +249180,7 @@
+ 
+ 
+ <DIV9 N="" TYPE="APPENDIX">
+-<HEAD> 
+-
++<HEAD>Table 1<E T="01">d</E> to Part 660, Subpart C - Whiting and non-whiting initial issuance allocation percentage for IFQ decided through the harvest specifications, 2011
+ </HEAD>
+ <img src="http://www.ecfr.gov/graphics/er03no09.035.gif"/>
+ <CITA TYPE="N">[74 FR 56746, Nov. 3, 2009]
