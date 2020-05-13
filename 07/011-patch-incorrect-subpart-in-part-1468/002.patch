@@ -1,0 +1,15 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/07/2020/01/2020-01-08T19:00:16-0500.xml	2020-05-13 15:21:58.000000000 -0700
++++ tmp/title_version_7_2020-01-08T19:00:16-0500_preprocessed.xml	2020-05-13 15:26:01.000000000 -0700
+@@ -338792,10 +338792,10 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV5>
+ 
+ 
+-<DIV5 N="" TYPE="PART">
++
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Subpart A - General Provisions
+ 
+ 
