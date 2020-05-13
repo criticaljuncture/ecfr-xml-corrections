@@ -1,0 +1,12 @@
+description:
+  "On two different title 7 title versions (with a correct title version in between) Part 1468 Subpart A was incorrectly inserted as a part node."
+tags: 'transcription-error'
+status: needs-review
+issue_number: 238
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-01-08T19:00:16-0500'
+    end_date:   '2020-01-08T19:00:16-0500'
