@@ -1,0 +1,11 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/24/2020/06/2020-06-29T20:30:09-0400.xml	2020-07-01 16:30:30.000000000 -0700
++++ tmp/title_version_24_2020-06-29T20:30:09-0400_preprocessed.xml	2020-07-01 16:32:18.000000000 -0700
+@@ -34224,7 +34224,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>June 26, 2019
++<AMDDATE>June 26, 2020
+ </AMDDATE>
+ 
+ <DIV1 N="2" TYPE="TITLE">
