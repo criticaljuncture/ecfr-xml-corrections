@@ -1,0 +1,13 @@
+description: This removes a duplicate reserved Subchapter H-Z. This node is also affected by earlier patch to fix missing identifier.
+tags: transcription-error
+status: needs-review
+issue_number: 251
+fr_doc: 
+reference: 
+  pdf: https://www.govinfo.gov/content/pkg/CFR-2019-title41-vol3/pdf/CFR-2019-title41-vol3-subtitleC-chap102-subchapH-id2162.pdf
+  govinfo: https://www.govinfo.gov/app/collection/cfr/2019/title41/subtitleC/chapter102
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date:   '2100-01-01'

@@ -1,0 +1,17 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/41/2017/01/2017-01-03.xml	2020-07-14 12:29:58.000000000 -0700
++++ tmp/title_version_41_2017-01-03T00:00:00-0500_preprocessed.xml	2020-07-14 13:06:43.000000000 -0700
+@@ -20001,14 +20001,6 @@
+
+ <HEAD> CHAPTER 102 - FEDERAL MANAGEMENT REGULATION</HEAD>
+
+-<DIV4 N="H-Z" TYPE="SUBCHAP">
+-<HEAD>SUBCHAPTERS H-Z [RESERVED]
+-
+-
+-</HEAD>
+-</DIV4>
+-
+-
+ <DIV4 N="A" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER A - GENERAL
+
