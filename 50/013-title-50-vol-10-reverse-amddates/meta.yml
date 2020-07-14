@@ -1,0 +1,32 @@
+description: Title 50 Volume 10 had its amendment date set to 2019 instead of 2020 from March to May.
+tags: amendment-date
+status: needs-review
+issue_number: 240
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-03-05T11:30:06-0500'
+    end_date:   '2020-03-05T17:30:08-0500'
+  '002':
+    start_date: '2020-03-05T19:30:06-0500'
+    end_date:   '2020-03-10T22:32:29-0400'
+  '003':
+    start_date: '2020-03-14T01:00:06-0400'
+    end_date:   '2020-03-24T23:00:05-0400'
+  '004':
+    start_date: '2020-03-25T23:00:06-0400'
+    end_date:   '2020-04-02T21:00:07-0400'
+  '005':
+    start_date: '2020-04-03T22:30:06-0400'
+    end_date:   '2020-04-08T00:00:13-0400'
+  '006': 
+    start_date: '2020-04-13T23:30:11-0400'
+    end_date:   '2020-04-13T23:30:11-0400'
+  '007':
+    start_date: '2020-04-14T23:00:09-0400'
+    end_date:   '2020-04-22T22:30:10-0400'
+  '008':
+    start_date: '2020-04-23T21:00:05-0400'
+    end_date:   '2020-05-05T21:30:06-0400'
