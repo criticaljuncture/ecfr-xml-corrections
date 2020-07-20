@@ -1,0 +1,10 @@
+description: This removes a duplicate subpart 849.5 and children
+tags: 'transcription'
+status: 'needs-review'
+fr_doc: https://www.federalregister.gov/documents/2020/06/16/2020-11608/va-acquisition-regulation-administrative-and-information-matters-publicizing-contract-actions-and
+issue_number: 255
+
+patches:
+  '001':
+    start_date: '2020-07-17'
+    end_date: '2100-01-01'

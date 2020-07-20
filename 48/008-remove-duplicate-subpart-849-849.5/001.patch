@@ -1,0 +1,45 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/48/2020/07/2020-07-17T20:00:07-0400.xml	2020-07-20 13:52:56.000000000 -0700
++++ tmp/title_version_48_2020-07-17T20:00:07-0400_preprocessed.xml	2020-07-20 13:55:44.000000000 -0700
+@@ -182542,7 +182542,7 @@
+
+ <DIV8 N="849.504-70" TYPE="SECTION">
+ <HEAD>849.504-70   Termination of mortuary services.</HEAD>
+-<P>Use the clause at 852.249-70, Termination for Default - Supplement for Mortuary Services, in all solicitations and contracts for mortuary services containing the FAR clause 52.249-8, Default (Fixed-Price Supply and Service).
++<P>Use the clause at 852.249-70, Termination for Default—Supplement for Mortuary Services, in all solicitations and contracts for mortuary services containing the FAR clause 52.249-8, Default (Fixed-Price Supply and Service).
+
+
+ </P>
+@@ -182551,32 +182551,6 @@
+ </DIV6>
+
+
+-<DIV6 N="849.5" TYPE="SUBPART">
+-<HEAD>Subpart 849.5 - Contract Termination Clauses</HEAD>
+-
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>85 FR 36349, June 16, 2020, unless otherwise noted.
+-
+-
+-</PSPACE></SOURCE>
+-
+-<DIV8 N="849.504" TYPE="SECTION">
+-<HEAD>849.504   Termination of fixed-price contracts for default.</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="849.504-70" TYPE="SECTION">
+-<HEAD>849.504-70   Termination of mortuary services.</HEAD>
+-<P>Use the clause at 852.249-70, Termination for Default - Supplement for Mortuary Services, in all solicitations and contracts for mortuary services containing the FAR clause 52.249-8, Default (Fixed-Price Supply and Service).
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+ </DIV5>
+
+ </DIV4>
+
