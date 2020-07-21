@@ -1,0 +1,11 @@
+description: Remove duplicate section 270.6e-2 that was modified as part of correction.
+tags: amendment-date
+status: needs-review
+issue_number: 171
+fr_doc: https://www.federalregister.gov/documents/2020/05/01/2020-05526/updated-disclosure-requirements-and-summary-prospectus-for-variable-annuity-and-variable-life
+reference:
+
+patches:
+  '001':
+    start_date: '2020-07-02'
+    end_date: '2020-07-13'
