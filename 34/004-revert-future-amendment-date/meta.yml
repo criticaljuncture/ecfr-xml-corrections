@@ -1,0 +1,9 @@
+description: This removes a future amendment date and sets it back two days so its not ahead of its received on date.
+tags: 'amendment-date'
+status: 'needs-review'
+reference: https://www.federalregister.gov/documents/2020/05/19/2020-10512/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal
+issue: 266
+patches:
+  '001':
+    start_date: '2020-05-20'
+    end_date: '2020-06-29'
