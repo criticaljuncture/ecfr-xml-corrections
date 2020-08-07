@@ -1,0 +1,10 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/19/2020/07/2020-07-02T22:00:07-0400.xml	2020-07-30 14:22:26.000000000 -0700
++++ tmp/title_version_19_2020-07-02T22:00:07-0400_preprocessed.xml	2020-07-30 14:23:20.000000000 -0700
+@@ -66043,7 +66043,7 @@
+ </DIV5>
+
+
+-<DIV5 N="" TYPE="PART">
++<DIV6 N="H" TYPE="SUBPART">
+ <HEAD>Subpart H - Textile and Apparel Goods
+
