@@ -1,0 +1,11 @@
+description: 'This patches a malformed amendment date in Title 29 volume 7'
+tags: 'amendment-date'
+status:  'needs-approval'
+issue_number: 268
+fr_doc: https://www.federalregister.gov/documents/2020/07/30/2020-15562/rules-of-agency-practice-and-procedure-concerning-occupational-safety-and-health-administration
+reference:
+
+patches:
+  '001':
+    start_date: '2020-07-31'
+    end_date: '2100-01-01'
