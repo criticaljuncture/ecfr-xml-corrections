@@ -1,0 +1,11 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/34/2020/07/2020-07-02_f3426d94.xml	2020-08-12 11:27:32.000000000 -0700
++++ tmp/title_version_34_2020-07-02T22:00:12-0400_preprocessed.xml	2020-08-12 11:31:30.000000000 -0700
+@@ -67555,7 +67555,7 @@
+ <HEAD>Review by the National Advisory Committee on Institutional Quality and Integrity</HEAD>
+
+
+-<DIV8 N="§ " TYPE="SECTION">
++<DIV8 N="§ 602.34" TYPE="SECTION">
+ <HEAD>§    Advisory Committee meetings.</HEAD>
+ <P>(a) Department staff submits a proposed schedule to the Chairperson of the Advisory Committee based on anticipated completion of staff analyses.
+ </P>
