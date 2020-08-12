@@ -1,0 +1,10 @@
+description: "Title 34 section 602.34 had it's identifier removed. This restores the correct id."
+tags: 'transcription'
+status: 'needs-review'
+issue_number: 270
+reference:
+
+patches:
+  '001':
+    start_date: '2020-07-02'
+    end_date: '2100-01-01'
