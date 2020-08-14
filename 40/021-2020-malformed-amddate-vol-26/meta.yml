@@ -1,0 +1,11 @@
+description: 'Patch malformed amendment date, section accidentally inserted inside date'
+tags: amendment-date
+status: needs-review
+issue_number: 273
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2020-08-13'
+    end_date:   '2100-01-01'
