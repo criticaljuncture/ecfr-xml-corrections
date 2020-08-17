@@ -1,0 +1,10 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/29/2017/01/2017-01-03_58f48a6a.xml	2020-08-17 11:56:21.000000000 -0700
++++ tmp/title_version_29_2017-01-03T00:00:00-0500_preprocessed.xml	2020-08-17 12:11:13.000000000 -0700
+@@ -39230,7 +39230,7 @@
+ </DIV6>
+
+
+-<DIV6 N="A" TYPE="SUBPART">
++<DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B - Procedures Upon Failure of Union To Take Appropriate Remedial Action Following Subpart A Procedures</HEAD>
+
