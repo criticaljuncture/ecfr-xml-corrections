@@ -1,0 +1,11 @@
+description: 'Title 7 Part 799 Subpart F was accidentally assigned an identifier and head tag of Subpart E. This fixes the identifier in both places.'
+tags: 'transcription-error'
+status: needs-review
+issue_number: 279
+fr_doc: https://www.federalregister.gov/documents/2016/08/03/2016-18075/environmental-policies-and-procedures-compliance-with-the-national-environmental-policy-act-and
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date:   '2100-01-01'
