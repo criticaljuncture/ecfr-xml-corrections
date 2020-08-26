@@ -1,0 +1,11 @@
+description: All subparts in Part 301 were assigned identifier '0'. These subparts don't have traditional identifers assigned in the head tag to extract, so instead we're going to remove this identifiers and rely on the missing identifier generator to create ids. 
+tags: amendment-date
+status: needs-approval
+issue_number: 283
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2100-01-01'

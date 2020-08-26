@@ -1,0 +1,191 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/26/2017/01/2017-01-03_206e0682.xml	2020-08-26 15:42:00.000000000 -0700
++++ tmp/title_version_26_2017-01-03T00:00:00-0500_preprocessed.xml	2020-08-26 15:46:36.000000000 -0700
+@@ -391351,7 +391351,7 @@
+ <HED>Editorial Note:</HED><PSPACE>In the text of this part, integral section references are to sections of the Internal Revenue Code of 1954; decimal section references are to the Code of Federal Regulations.
+ </PSPACE><P>References in the text to the “Code” are references to sections of the Internal Revenue Code of 1954.</P></EDNOTE>
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Information and Returns</HEAD>
+
+
+@@ -396564,7 +396564,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Time and Place for Paying Tax</HEAD>
+
+
+@@ -396805,7 +396805,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Assessment</HEAD>
+
+
+@@ -398716,7 +398716,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Collection</HEAD>
+
+
+@@ -400600,7 +400600,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Seizure of Property for Collection of Taxes</HEAD>
+
+
+@@ -402640,7 +402640,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Abatements, Credits, and Refunds</HEAD>
+
+
+@@ -403592,7 +403592,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Limitations</HEAD>
+
+
+@@ -404757,7 +404757,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Interest</HEAD>
+
+
+@@ -405264,7 +405264,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Additions to the Tax, Additional Amounts, and Assessable Penalties</HEAD>
+
+
+@@ -407297,7 +407297,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>General Provisions Relating to Stamps</HEAD>
+
+
+@@ -407379,7 +407379,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Jeopardy, Bankruptcy, and Receiverships</HEAD>
+
+
+@@ -407659,7 +407659,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Transferees and Fiduciaries</HEAD>
+
+
+@@ -407765,7 +407765,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Licensing</HEAD>
+
+
+@@ -407810,7 +407810,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Bonds</HEAD>
+
+
+@@ -407884,7 +407884,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Closing Agreements and Compromises</HEAD>
+
+
+@@ -408081,7 +408081,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Crimes, Other Offenses, and Forfeitures</HEAD>
+
+
+@@ -408489,7 +408489,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Other Offenses</HEAD>
+
+
+@@ -408594,7 +408594,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Judicial Proceedings</HEAD>
+
+
+@@ -411371,7 +411371,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Discovery of Liability and Enforcement of Title</HEAD>
+
+
+@@ -412767,7 +412767,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>Definitions</HEAD>
+
+
+@@ -415632,7 +415632,7 @@
+ </DIV6>
+
+
+-<DIV6 N="0" TYPE="SUBPART">
++<DIV6 N="" TYPE="SUBPART">
+ <HEAD>General Rules</HEAD>
+
+
