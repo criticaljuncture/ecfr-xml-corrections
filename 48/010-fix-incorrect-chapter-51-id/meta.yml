@@ -1,0 +1,13 @@
+description: Correct Title 48 incorrect Chapter 51 identifier
+tags: 'transcription'
+status: 'needs-review'
+fr_doc: 
+issue_number: 286
+
+patches:
+  '001':
+    start_date: '2019-07-17'
+    end_date: '2019-08-28'
+  '002':
+    start_date: '2019-08-30'
+    end_date: '2100-01-03'
