@@ -1,0 +1,11 @@
+description: 'Add trailing -suspended to subpart that should be marked as suspended'
+tags: 'transcription-error'
+status: 'approved'
+issue_number: 281
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-24'
+    end_date:   '2100-01-01'
