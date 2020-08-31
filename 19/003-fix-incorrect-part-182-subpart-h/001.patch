@@ -1,10 +1,24 @@
---- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/19/2020/07/2020-07-02T22:00:07-0400.xml	2020-07-30 14:22:26.000000000 -0700
-+++ tmp/title_version_19_2020-07-02T22:00:07-0400_preprocessed.xml	2020-07-30 14:23:20.000000000 -0700
-@@ -66043,7 +66043,7 @@
- </DIV5>
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/19/2020/07/2020-07-02_aa259e16.xml	2020-08-31 14:28:22.000000000 -0700
++++ tmp/title_version_19_2020-07-02T22:00:07-0400_preprocessed.xml	2020-08-31 14:54:44.000000000 -0700
+@@ -66040,10 +66040,10 @@
+
+ </DIV6>
+
+-</DIV5>
 
 
 -<DIV5 N="" TYPE="PART">
++
 +<DIV6 N="H" TYPE="SUBPART">
  <HEAD>Subpart H - Textile and Apparel Goods
+
+
+@@ -66055,7 +66055,7 @@
+ <HEAD>§§ 182.81-182.82   [Reserved]</HEAD>
+ </DIV8>
+
+-
++</DIV6>
+ <DIV6 N="I" TYPE="SUBPART">
+ <HEAD>Subpart I - Automotive Goods</HEAD>
 
