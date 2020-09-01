@@ -1,0 +1,11 @@
+description: 'Patch incorrect reserved range identifier in Title 12 Part 1223 that is colliding with active Subpart C.'
+tags: 'transcription-error'
+status: 'needs-approval'
+fr_doc:
+issue: 285
+reference:
+
+patches:
+  '001':
+    start_date: '2017-03-28' #520
+    end_date: '2100-01-01'
