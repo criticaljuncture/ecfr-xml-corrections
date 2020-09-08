@@ -1,0 +1,11 @@
+description: 'Title 49 Volume 6 had its amendment date removed. This adds an updated amendment date per the Fr document that apply these changes.'
+tags: 'amendment-date'
+status: needs-approval
+issue_number: 303
+fr_doc: https://www.federalregister.gov/documents/2020/09/01/2020-19334/federal-motor-vehicle-safety-standards-minimum-sound-requirements-for-hybrid-and-electric-vehicles
+reference:
+
+patches:
+  '001':
+    start_date: '2020-09-03'
+    end_date:   '2100-01-01'
