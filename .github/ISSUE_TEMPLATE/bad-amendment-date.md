@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-Title XXXX Volume XXXX amendment date is a [reverse | unparsable] amendment date.
-
 It changed changed from XXXX to XXXX.
 It should probably be XXXX
 
