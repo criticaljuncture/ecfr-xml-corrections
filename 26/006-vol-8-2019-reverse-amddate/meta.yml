@@ -1,0 +1,11 @@
+description: Patch Title 26 volumes 8 2020 reverse amddate
+tags: amendment-date
+status: needs-approval
+issue_number: 230
+fr_doc: https://www.federalregister.gov/documents/2020/09/04/2020-16955/nuclear-decommissioning-funds
+reference:
+
+patches:
+  '001':
+    start_date: '2020-09-09'
+    end_date: '2100-01-01'
