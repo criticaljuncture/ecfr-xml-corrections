@@ -1,0 +1,13 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/02/2017/01/2017-01-03_25104cb7.xml	2020-09-10 11:17:39.000000000 -0700
++++ tmp/title_version_2_2017-01-03T00:00:00-0500_preprocessed.xml	2020-09-10 11:46:06.000000000 -0700
+@@ -19213,8 +19213,8 @@
+ </DIV6>
+
+
+-<DIV6 N="F" TYPE="SUBPART">
+-<HEAD>Subpart F - Definitions</HEAD>
++<DIV6 N="B" TYPE="SUBPART">
++<HEAD>Subpart B - Definitions</HEAD>
+
+
+ <DIV8 N="§ 1401.205" TYPE="SECTION">
