@@ -1,6 +1,7 @@
-description: When 50 CFR  648.65 was turned into a reserved node an additional head tag was inserted. This removes this additional head tag in favor of the reserved tag because the node is empty. 
-tags: ['content']
+description: When 50 CFR  648.65 was turned into a reserved node an additional head tag was inserted. This removes this additional head tag in favor of the reserved tag because the node is empty.
+tags: 'transcription-error'
 status: 'needs-review'
+issue: 111
 
 patches:
   '001':
