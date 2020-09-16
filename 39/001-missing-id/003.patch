@@ -1,0 +1,11 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/39/2020/09/2020-09-14_8cfe93e9.xml	2020-09-16 09:56:54.000000000 -0700
++++ tmp/title_version_39_2020-09-14T19:40:08-0400_preprocessed.xml	2020-09-16 09:57:07.000000000 -0700
+@@ -69,7 +69,7 @@
+
+ </HED1></TEXT>
+
+-<DIV5 N="" TYPE="PART">
++<DIV5 N="1" TYPE="PART">
+ <HEAD>PART 1 - POSTAL POLICY (ARTICLE I)
+ </HEAD>
+ <AUTH>

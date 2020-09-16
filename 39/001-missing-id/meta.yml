@@ -1,4 +1,4 @@
-description: Part 1 is missing an identifier for two xml titles
+description: Part 1 seems to occaisonally have its Part 1 identifier missing. 
 tags: 'transcription-error'
 status: 'needs-review'
 
@@ -9,3 +9,6 @@ patches:
   '002':
     start_date: '2019-09-13'
     end_date: '2019-11-23'
+  '003':
+    start_date: '2020-09-14'
+    end_date: '2100-01-01'
