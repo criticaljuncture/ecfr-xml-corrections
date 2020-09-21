@@ -1,0 +1,10 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/07/2017/01/2017-01-03_446c12d5.xml	2020-09-21 10:12:12.000000000 -0700
++++ tmp/title_version_7_2017-01-03T00:00:00-0500_preprocessed.xml	2020-09-21 10:36:17.000000000 -0700
+@@ -476106,7 +476106,7 @@
+ </DIV3>
+
+
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="XLI" TYPE="CHAPTER">
+ <HEAD>CHAPTER XLI [RESERVED]
+
