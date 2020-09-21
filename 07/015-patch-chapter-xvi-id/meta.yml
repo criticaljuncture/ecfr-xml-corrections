@@ -1,0 +1,14 @@
+description: 'Fix Title 7 Chapter XVI incorrect identifiers'
+tags: 'transcription-error'
+status: needs-review
+issue_number: 317
+fr_doc: 
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date:   '2020-01-23'
+  '002':
+    start_date: '2020-01-27'
+    end_date:   '2100-01-01'
