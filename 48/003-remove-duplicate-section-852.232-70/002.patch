@@ -1,0 +1,107 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/48/2020/09/2020-09-25_d6b1728e.xml	2020-09-28 13:21:49.000000000 -0700
++++ tmp/title_version_48_2020-09-25T18:40:18-0400_preprocessed.xml	2020-09-28 13:24:36.000000000 -0700
+@@ -183691,104 +183691,6 @@
+ <P>(6)(i) The Contractor shall at the time of contract award furnish the total cost of the guarantee period services in accordance with specification section(s) covering guarantee period services. The Contractor shall submit, within 15 calendar days of receipt of the notice to proceed, a guarantee period performance program that shall include an itemized accounting of the number of work-hours required to perform the guarantee period service on each piece of equipment. The Contractor shall also submit the established salary costs, including employee fringe benefits, and what the Contractor reasonably expects to pay over the guarantee period, all of which will be subject to the Contracting Officer's approval.
+ </P>
+ <P>(ii) The cost of the guarantee period service shall be prorated on an annual basis and paid in equal monthly payments by VA during the period of guarantee. In the event the installer does not perform satisfactorily during this period, all payments may be withheld and the Contracting Officer shall inform the Contractor of the unsatisfactory performance, allowing the Contractor 10 days to correct deficiencies and comply with the contract. The guarantee period service is subject to those provisions as set forth in the Payments and Default clauses.</P></EXTRACT>
+-<EXTRACT>
+-<CITA TYPE="N">[83 FR 49307, Oct. 1, 2018]
+-
+-
+-</CITA></EXTRACT>
+-</DIV8>
+-
+-
+-<DIV8 N="852.232-70" TYPE="SECTION">
+-<HEAD>852.232-70   Payments Under Fixed-Price Construction Contracts (Without NAS-CPM).</HEAD>
+-<P>As prescribed in 832.111-70, insert the following clause in contracts that do not contain a section entitled “Network Analysis System - Critical Path”
+-</P>
+-<EXTRACT>
+-<HD1>Payments Under Fixed-Price Construction Contracts (Without NAS-CPM) (NOV 2018)
+-</HD1>
+-<P>The clause FAR 52.232-5, Payments Under Fixed-Price Construction Contracts, is implemented as follows:
+-</P>
+-<P>(a) <I>Retainage.</I> (1) The Contracting Officer may retain funds - 
+-</P>
+-<P>(i) Where performance under the contract has been determined to be deficient or the Contractor has performed in an unsatisfactory manner in the past; or
+-</P>
+-<P>(ii) As the contract nears completion, to ensure that deficiencies will be corrected and that completion is timely.
+-</P>
+-<P>(2) Examples of deficient performance justifying a retention of funds include, but are not restricted to, the following - 
+-</P>
+-<P>(i) Unsatisfactory progress as determined by the Contracting Officer;
+-</P>
+-<P>(ii) Failure to meet schedule in Schedule of Work Progress;
+-</P>
+-<P>(iii) Failure to present submittals in a timely manner; or
+-</P>
+-<P>(iv) Failure to comply in good faith with approved subcontracting plans, certifications, or contract requirements.
+-</P>
+-<P>(3) Any level of retention shall not exceed 10 percent either where there is determined to be unsatisfactory performance, or when the retainage is to ensure satisfactory completion. Retained amounts shall be paid promptly upon completion of all contract requirements, but nothing contained in this paragraph (a)(3) shall be construed as limiting the Contracting Officer's right to withhold funds under other provisions of the contract or in accordance with the general law and regulations regarding the administration of Government contracts.
+-</P>
+-<P>(b) The Contractor shall submit a schedule of cost to the Contracting Officer for approval within 30 calendar days after date of receipt of notice to proceed. Such schedule will be signed and submitted in triplicate. The approved cost schedule will be one of the bases for determining progress payments to the Contractor for work completed. This schedule shall show cost by the work activity/event for each building or unit of the contract, as instructed by the resident engineer.
+-</P>
+-<P>(1) The work activities/events shall be subdivided into as many sub-activities/events as are necessary to cover all component parts of the contract work.
+-</P>
+-<P>(2) Costs as shown on this schedule must be true costs and the resident engineer may require the Contractor to submit the original estimate sheets or other information to substantiate the detailed makeup of the schedule.
+-</P>
+-<P>(3) The sums of the sub-activities/events, as applied to each work activity/event, shall equal the total cost of such work activity/event. The total cost of all work activities/events shall equal the contract price.
+-</P>
+-<P>(4) Insurance and similar items shall be prorated and included in the cost of each branch of the work.
+-</P>
+-<P>(5) The cost schedule shall include separate cost information for the systems listed in the table in this paragraph (b)(5). The percentages listed in the following table are proportions of the cost listed in the Contractor's cost schedule and identify, for payment purposes, the value of the work to adjust, correct and test systems after the material has been installed. Payment of the listed percentages will be made only after the Contractor has demonstrated that each of the systems is substantially complete and operates as required by the contract.
+-</P>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Value of Adjusting, Correcting, and Testing System
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">System
+-</TH><TH class="gpotbl_colhed" scope="col">Percent
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Pneumatic tube system</TD><TD align="right" class="gpotbl_cell">10
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Incinerators (medical waste and trash)</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sewage treatment plant equipment</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Water treatment plant equipment</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Washers (dish, cage, glass, etc.)</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sterilizing equipment</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Water distilling equipment</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Prefab temperature rooms (cold, constant temperature)</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Entire air-conditioning system (Specified under 600 Sections)</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Entire boiler plant system (Specified under 700 Sections)</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">General supply conveyors</TD><TD align="right" class="gpotbl_cell">10
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Food service conveyors</TD><TD align="right" class="gpotbl_cell">10
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Pneumatic soiled linen and trash system</TD><TD align="right" class="gpotbl_cell">10
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Elevators and dumbwaiters</TD><TD align="right" class="gpotbl_cell">10
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Materials transport system</TD><TD align="right" class="gpotbl_cell">10
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Engine-generator system</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Primary switchgear</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Secondary switchgear</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fire alarm system</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Nurse call system</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Intercom system</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Radio system</TD><TD align="right" class="gpotbl_cell">5
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">TV (entertainment) system</TD><TD align="right" class="gpotbl_cell">5</TD></TR></TABLE></DIV></DIV>
+-<P>(c) In addition to this cost schedule, the Contractor shall submit such unit costs as may be specifically requested. The unit costs shall be those used by the Contractor in preparing its bid and will not be binding as pertaining to any contract changes.
+-</P>
+-<P>(d) The Contracting Officer will consider for monthly progress payments material and/or equipment procured by the Contractor and stored on the construction site, as space is available, or at a local approved location off the site, under such terms and conditions as the Contracting Officer approves, including but not limited to the following - 
+-</P>
+-<P>(1) The materials or equipment are in accordance with the contract requirements and/or approved samples and shop drawings;
+-</P>
+-<P>(2) The materials and/or equipment are approved by the resident engineer;
+-</P>
+-<P>(3) The materials and/or equipment are stored separately and are readily available for inspection and inventory by the resident engineer;
+-</P>
+-<P>(4) The materials and/or equipment are protected against weather, theft and other hazards and are not subjected to deterioration; and
+-</P>
+-<P>(5) The Contractor obtains the concurrence of its surety for off-site storage.
+-</P>
+-<P>(e) The Government reserves the right to withhold payment until samples, shop drawings, engineer's certificates, additional bonds, payrolls, weekly statements of compliance, proof of title, nondiscrimination compliance reports, or any other requirements of this contract, have been submitted to the satisfaction of the Contracting Officer.
+-</P>
+-<P>(f) The Contracting Officer will notify the Contractor in writing within 10 calendar-days of exercising retainage against any payment in accordance with FAR clause 52.232-5(e). The notice shall disclose the amount of the retainage in value and percent retained from the payment, and provide explanation for the retainage.</P></EXTRACT>
+-<HD3>(End of clause)
+-</HD3>
+-<P><I>Alternate I (Nov 2018).</I> If the specifications include guarantee period services, the Contracting Officer shall include the following paragraphs as additions to paragraph (b) of the basic clause:
+-</P>
+-<EXTRACT>
+-<P>(6)(i) The Contractor shall at the time of contract award furnish the total cost of the guarantee period services in accordance with specification section(s) covering guarantee period services. The Contractor shall submit, within 15 calendar days of receipt of the notice to proceed, a guarantee period performance program that shall include an itemized accounting of the number of work-hours required to perform the guarantee period service on each piece of equipment. The Contractor shall also submit the established salary costs, including employee fringe benefits, and what the Contractor reasonably expects to pay over the guarantee period, all of which will be subject to the Contracting Officer's approval.
+-</P>
+-<P>(ii) The cost of the guarantee period service shall be prorated on an annual basis and paid in equal monthly payments by VA during the period of guarantee. In the event the installer does not perform satisfactorily during this period, all payments may be withheld and the Contracting Officer shall inform the Contractor of the unsatisfactory performance, allowing the Contractor 10 days to correct deficiencies and comply with the contract. The guarantee period service is subject to those provisions as set forth in the Payments and Default clauses.</P></EXTRACT>
+ <CITA TYPE="N">[83 FR 49307, Oct. 1, 2018]
+ 
+ 

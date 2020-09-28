@@ -1,8 +1,0 @@
-description: When section 852.232-70 was initially inserted as an active section it was inserted twice.
-tags: 'content-error'
-status: 'needs-review'
-
-patches:
-  '001':
-    start_date: '2018-11-01'
-    end_date: '2100-01-01'
