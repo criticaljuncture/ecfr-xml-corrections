@@ -1,0 +1,11 @@
+description: 'Part 1779 was removed and reserved but no identifier was left behind by the editor'
+tags: 'structural-error'
+status: needs-review
+issue_number: 
+fr_doc: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111132571/comments
+
+patches:
+  '001':
+    start_date: '2020-10-02'
+    end_date:   '2100-01-01'
