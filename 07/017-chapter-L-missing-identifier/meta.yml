@@ -8,4 +8,7 @@ reference:
 patches:
   '001':
     start_date: '2020-10-02'
-    end_date:   '2100-01-01'
+    end_date: '2020-10-06'
+  '002':
+    start_date: '2020-10-07'
+    end_date: '2100-01-01'
