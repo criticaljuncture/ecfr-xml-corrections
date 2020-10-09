@@ -1,0 +1,11 @@
+description: 'Editor updated the amendment date but not the year.'
+tags: 'transcription-error'
+status: needs-review
+issue_number:
+fr_doc: 85 FR 63418
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111149683/comments
+
+patches:
+  '001':
+    start_date: '2020-10-08'
+    end_date:   '2100-01-01'
