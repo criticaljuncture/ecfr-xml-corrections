@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/40/2019/03/2019-03-20_5fbf3867.xml	2020-10-13 14:01:59.801246906 -0400
++++ tmp/title_version_40_2019-03-20T20:30:14-0400_preprocessed.xml	2020-10-13 14:16:20.423382025 -0400
+@@ -429716,7 +429716,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="" TYPE="APPENDIX">
++<DIV9 N="Table 6" TYPE="APPENDIX">
+ <HEAD>Table 6 - To Subpart OOOO of Part 63 - List of Hazardous Air Pollutants That Must Be Counted Toward Total Organic HAP Content if Present at 0.1 Percent or More by Mass
+ </HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Chemical name
