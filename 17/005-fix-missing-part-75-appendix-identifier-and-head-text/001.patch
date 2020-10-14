@@ -1,0 +1,13 @@
+--- /home/app/data/titles/preprocessed/xml/17/2020/01/2020-01-07_90ddb8b9.xml	2020-10-14 12:37:32.851344214 -0400
++++ tmp/title_version_17_2020-01-07T03:30:06-0500_preprocessed.xml	2020-10-14 12:39:56.023526026 -0400
+@@ -39273,8 +39273,8 @@
+ 
+ 
+ 
+-<DIV9 N="" TYPE="APPENDIX">
+-<HEAD>Reporting and Recordkeeping Requirements for Covered Trading Activities
++<DIV9 N="Appendix A" TYPE="APPENDIX">
++<HEAD>Appendix A to Part 75 - Reporting and Recordkeeping Requirements for Covered Trading Activities
+ </HEAD>
+ <HD1>I. Purpose
+ </HD1>
