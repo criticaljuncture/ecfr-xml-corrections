@@ -1,0 +1,11 @@
+description: Editor appears to have entered the wrong amddate for the XREF that was removed
+tags: trascription-error
+status: needs-review
+issue_number:
+fr_doc: 2017-09472
+reference: 
+
+patches:
+  '001':
+    start_date: '2017-07-12'
+    end_date:   '2017-07-15'
