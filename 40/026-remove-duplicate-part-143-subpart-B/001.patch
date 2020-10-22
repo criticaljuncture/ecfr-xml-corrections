@@ -1,0 +1,278 @@
+--- /home/app/data/titles/preprocessed/xml/40/2020/10/2020-10-02_e6670d55.xml	2020-10-21 19:18:55.738764326 -0400
++++ tmp/title_version_40_2020-10-02T22:21:26-0400_preprocessed.xml	2020-10-21 19:36:29.356836351 -0400
+@@ -839980,275 +839980,6 @@
+ 
+ </DIV6>
+ 
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B - Use of Lead Free Pipes, Fittings, Fixtures, Solder, and Flux for Drinking Water</HEAD>
+-
+-
+-<DIV8 N="§  143.10" TYPE="SECTION">
+-<HEAD>§  143.10   Applicability and scope.</HEAD>
+-<P>(a) This subpart establishes regulations pertaining to pipes, pipe or plumbing fittings, or fixtures, solder and flux, pursuant to, <I>inter alia,</I> sections 1417 and 1461 of the Safe Drinking Water Act (42 U.S.C. 300g-6 and 300j-21). It applies to any person who introduces these products into commerce, such as manufacturers, importers, wholesalers, distributors, re-sellers, and retailers. It also applies to any person who uses these products in the installation or repair of:
+-</P>
+-<P>(1) A public water system; or
+-</P>
+-<P>(2) A residential or nonresidential facility providing water for human consumption.
+-</P>
+-<P>(b) Reserved.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.11" TYPE="SECTION">
+-<HEAD>§  143.11   Definitions.</HEAD>
+-<P>The following definitions apply to this subpart:
+-</P>
+-<P><I>Accredited third party certification body</I> means those bodies that are accredited by the American National Standards Institute (ANSI) to provide product certification to meet the lead free requirements of not more than a weighted average of 0.25 percent lead content when used with respect to the wetted surfaces, consistent with section 1417 of the Safe Drinking Water Act and §  143.12, such as certification to the NSF/ANSI 372 standard.
+-</P>
+-<P><I>Administrator</I> means the Administrator of the U.S. Environmental Protection Agency or his or her authorized representative.
+-</P>
+-<P><I>Affiliated</I> means a person or entity that directly or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person or entity specified. Affiliated persons or entities include but are not limited to: A parent company and all wholly or partially owned subsidiaries of a parent company, or two or more corporations or family partnerships that have overlap in ownership or control.
+-</P>
+-<P><I>Alloy</I> means a substance composed of two or more metals or of a metal and a nonmetal.
+-</P>
+-<P><I>Coating</I> means a thin layer of material such as paint, epoxy, zinc galvanization, or other material usually applied by spraying or in liquid form to coat internal surfaces of pipes, fittings, or fixtures.
+-</P>
+-<P><I>Custom fabricated product</I> means a product that:
+-</P>
+-<P>(1) Is manufactured on a case-by-case basis to accommodate the unique needs of a single customer;
+-</P>
+-<P>(2) Does not have a Universal Product Code (UPC) assigned to the product;
+-</P>
+-<P>(3) Is not stocked by and is not available through inventory from a manufacturer, importer, wholesaler, distributor, retailer, or other source for distribution; and
+-</P>
+-<P>(4) Is not cataloged in print or on the internet with a specific item number or code.
+-</P>
+-<P><I>Drinking water cooler</I> means any mechanical device, affixed to drinking water supply plumbing, which actively cools water for human consumption.
+-</P>
+-<P><I>Fitting</I> means a pipe fitting or plumbing fitting.
+-</P>
+-<P><I>Fixture</I> means a receptacle or device that is connected to a water supply system or discharges to a drainage system or both. Fixtures used for potable uses shall include but are not limited to:
+-</P>
+-<P>(1) Drinking water coolers, drinking water fountains, drinking water bottle fillers, dishwashers;
+-</P>
+-<P>(2) Plumbed in devices, such as point-of-use treatment devices, coffee makers, and refrigerator ice and water dispensers; and
+-</P>
+-<P>(3) Water heaters, water meters, water pumps, and water tanks, unless such fixtures are not used for potable uses.
+-</P>
+-<P><I>Flux</I> means a substance used for helping to melt or join metals such as by removal of oxides and other coatings or residues from the metals before joining by using solder or other means.
+-</P>
+-<P><I>Importer</I> means any person who introduces into commerce any pipe, any pipe or plumbing fitting or fixture, or any solder or flux entering the United States; or any “importer” as defined in 19 CFR 101.1; or both.
+-</P>
+-<P><I>Introduce into commerce or introduction into commerce</I> means the sale or distribution of products or offering products for sale or distribution in the United States.
+-</P>
+-<P><I>Liner</I> means a rigid lining such as a plastic or copper sleeve that is:
+-</P>
+-<P>(1) Sealed with a permanent barrier to exclude lead-bearing surfaces from water contact; and
+-</P>
+-<P>(2) Of sufficient thickness and otherwise having physical properties necessary to prevent erosion and cracking for the expected useful life of the product.
+-</P>
+-<P><I>Manufacturer</I> means a person or entity who:
+-</P>
+-<P>(1) Processes or makes a product; or
+-</P>
+-<P>(2) Has products processed or made under a contractual arrangement for distribution, using the person's or entity's brand name or trademark.
+-</P>
+-<P><I>Nonpotable services</I> means all product uses and applications that are not potable uses.
+-</P>
+-<P><I>Person</I> means an individual; corporation; company; association; partnership; municipality; or State, federal, or Tribal agency (including officers, employees, and agents of any corporation, company, association, municipality, State, Tribal, or federal agency).
+-</P>
+-<P><I>Pipe</I> means a conduit, conductor, tubing, or hose and may also include permanently attached end fittings.
+-</P>
+-<P><I>Pipe fitting</I> means any piece (such as a coupling, elbow, or gasket) used for connecting pipe lengths together or to connect other plumbing pieces together or to change direction.
+-</P>
+-<P><I>Plumbing fitting</I> means a plumbing component that controls the volume and/or directional flow of water, such as kitchen faucets, bathroom lavatory faucets, manifolds, and valves.
+-</P>
+-<P><I>Point-of-use treatment device</I> means point-of-use treatment device as defined in §  141.2 of this chapter.
+-</P>
+-<P><I>Potable uses,</I> for purposes only of this subpart, means services or applications that provide water for human ingestion, such as for drinking, cooking, food preparation, dishwashing, teeth brushing, or maintaining oral hygiene.
+-</P>
+-<P><I>Product</I> means a pipe, fitting, or fixture.
+-</P>
+-<P><I>Public water system</I> means a public water system as defined in §  141.2 of this chapter.
+-</P>
+-<P><I>Solder</I> means a type of metal that is used to join metal parts such as sections of pipe, without melting the existing metal in the parts to be joined. Solder is usually sold or distributed in the form of wire rolls or bars.
+-</P>
+-<P><I>State</I> means state as defined in § 142.2 of this chapter.
+-</P>
+-<P><I>United States</I> includes its commonwealths, districts, States, Tribes, and Territories.
+-</P>
+-<P><I>Water distribution main</I> means a pipe, typically found under or adjacent to a roadway, that supplies water to buildings via service lines.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.12" TYPE="SECTION">
+-<HEAD>§  143.12   Definition of lead free and calculation methodology.</HEAD>
+-<P>(a) “Lead free” for the purposes of this subpart means:
+-</P>
+-<P>(1) Not containing more than 0.2 percent lead when used with respect to solder and flux; and
+-</P>
+-<P>(2) Not more than a weighted average of 0.25 percent lead when used with respect to the wetted surfaces of pipes, pipe fittings, plumbing fittings, and fixtures.
+-</P>
+-<P>(b) The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture is calculated by using the following formula: For each wetted component, the percentage of lead in the component is multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component is added together, and the sum of these weighted percentages constitutes the weighted average lead content of the product. The lead content of the material used to produce wetted components is used to determine compliance with paragraph (a)(2) of this section. For lead content of materials that are provided as a range, the maximum content of the range must be used.
+-</P>
+-<P>(c) If a coating, as defined in §  143.11, is applied to the internal surfaces of a pipe, fitting or fixture component, the maximum lead content of both the coating and the alloy must be used to calculate the lead content of the component.
+-</P>
+-<P>(d) If a liner, as defined in §  143.11, is manufactured into a pipe, fitting or fixture, the maximum lead content of the liner must be used to calculate the lead content of the component.
+-</P>
+-<P>(e) If a fixture contains any media (<I>e.g.,</I> activated carbon, ion exchange resin) contained in filters, the media are not to be used in determining the “total wetted surface area of the entire product” in paragraph (b) of this section.
+-</P>
+-<P>(f) In addition to the definitions of “lead free” in paragraphs (a) through (e) of this section, no drinking water cooler, which contains any solder, flux, or storage tank interior surface, which may come into contact with drinking water, is lead free if the solder, flux, or storage tank interior surface contains more than 0.2 percent lead. Drinking water coolers must be manufactured such that each individual part or component that may come in contact with drinking water shall not contain more than 8 percent lead while still meeting the maximum 0.25 percent weighted average lead content of the wetted surfaces of the entire product.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.13" TYPE="SECTION">
+-<HEAD>§  143.13   Use prohibitions.</HEAD>
+-<P>(a) No person may use any pipe, any pipe or plumbing fitting or fixture, any solder or any flux that is not lead free as defined in §  143.12 in the installation or repair of:
+-</P>
+-<P>(1) Any public water system; or
+-</P>
+-<P>(2) Any plumbing in a residential or nonresidential facility providing water for human consumption.
+-</P>
+-<P>(b) Paragraph (a) of this section shall not apply to leaded joints necessary for the repair of cast iron pipes.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.14" TYPE="SECTION">
+-<HEAD>§  143.14   State enforcement of use prohibitions.</HEAD>
+-<P>As a condition of receiving a full allotment of Public Water System Supervision grants under section 1443(a) of the Safe Drinking Water Act, States must enforce the requirements of section 1417(a)(1) of the Safe Drinking Water Act and §  143.13 through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.15" TYPE="SECTION">
+-<HEAD>§  143.15   Introduction into commerce prohibitions.</HEAD>
+-<P>(a) No person may introduce into commerce any pipe, or any pipe or plumbing fitting or fixture, that is not lead free, except for a pipe that is used in manufacturing or industrial processing;
+-</P>
+-<P>(b) No person engaged in the business of selling plumbing supplies in the United States, except manufacturers, may sell solder or flux that is not lead free; and
+-</P>
+-<P>(c) No person may introduce into commerce any solder or flux that is not lead free, unless the solder or flux bears a prominent label stating that it is illegal to use the solder or flux in the installation or repair of any plumbing providing water for human consumption.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.16" TYPE="SECTION">
+-<HEAD>§  143.16   Exemptions.</HEAD>
+-<P>The prohibitions in §§  143.13 and 143.15 and the product certification requirements in § 143.19 shall not apply to the products listed in paragraphs (a) through (c) of this section:
+-</P>
+-<P>(a) Pipes, pipe fittings, plumbing fittings, or fixtures, including backflow preventers, that are used exclusively for nonpotable services such as manufacturing, industrial processing, irrigation, outdoor watering, or any other uses where the water is not anticipated to be used for human consumption. Additional products that could be “used exclusively for nonpotable services” include:
+-</P>
+-<P>(1) Products that are clearly labeled, on the product, package, or tag with a phrase such as: “Not for use with water for human consumption” or another phrase that conveys the same meaning in plain language;
+-</P>
+-<P>(2) Products that are incapable of use in potable services (<I>e.g.,</I> physically incompatible) with other products that would be needed to convey water for potable uses; or
+-</P>
+-<P>(3) Products that are plainly identifiable and marketed as being solely for a use other than the conveyance of water (these other uses include conveyance of air, chemicals other than water, hydraulic fluids, refrigerants, gasses, or other non-water fluids).
+-</P>
+-<P>(b) Toilets, bidets, urinals, fill valves, flushometer valves, tub fillers, shower valves, fire hydrants, service saddles, and water distribution main gate valves (provided that such valves are 2 inches in diameter or larger).
+-</P>
+-<P>(c) Clothes washing machines, emergency drench showers, emergency face wash equipment, eyewash devices, fire suppression sprinklers, steam capable clothes dryers, and sump pumps.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 143.17" TYPE="SECTION">
+-<HEAD>§ 143.17   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.18" TYPE="SECTION">
+-<HEAD>§  143.18   Required labeling of solder and flux that is not lead free.</HEAD>
+-<P>Solder and flux that is not “lead free” as defined in § 143.12(a)(1) must bear a prominent label stating that it is illegal to use the solder or flux in the installation or repair of any plumbing providing water for human consumption.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.19" TYPE="SECTION">
+-<HEAD>§  143.19   Required certification of products.</HEAD>
+-<P>(a) Manufacturers or importers that introduce into commerce products that must meet the lead free requirements of section 1417 of the Safe Drinking Water Act and § 143.12 must ensure, except as provided in paragraphs (a)(1) through (3) of this section, that the products are certified to be in compliance as specified in paragraphs (b) and (c) of this section by September 1, 2023, or prior to product introduction into commerce, whichever occurs later. Such manufacturers or importers must maintain documentation to substantiate the certification for at least 5 years from the date of the last sale of the product by the manufacturer or importer.
+-</P>
+-<P>(1) Product components of assembled pipes, fittings, or fixtures do not need to be individually certified if the entire product in its final assembled form is lead free certified.
+-</P>
+-<P>(2) Direct replacement parts for previously installed lead free certified products do not need to be individually certified if the weighted average lead content of wetted surface area for the part does not exceed such lead content of the original part.
+-</P>
+-<P>(3) Dishwashers do not need to be certified.
+-</P>
+-<P>(b) Certification of products must be obtained by manufacturers or importers from an accredited third party certification body, except as provided in paragraph (c) of this section. The manufacturer or importer must keep records for all products certified by an accredited third party certification body that include, at a minimum, documentation of certification, of dates of certification, and of expiration. This documentation must be provided upon request to the Administrator as specified in § 143.20(b).
+-</P>
+-<P>(c) Products may be self-certified by manufacturers or importers as provided in paragraph (c)(1) or (c)(2) of this section. Such manufacturers or importers electing to self-certify products must comply with paragraphs (d) through (g) of this section.
+-</P>
+-<P>(1) Manufacturers having fewer than 10 employees, or importers entering products purchased from or manufactured by manufacturers having fewer than 10 employees, may elect to self-certify products in lieu of obtaining certification from an accredited third party certification body. The number of employees includes any persons employed by the manufacturer and any of its affiliated entities. The number of employees must be calculated by averaging the number of persons employed, regardless of part-time, full-time, or temporary status, by an entity and all of its affiliated entities for each pay period over the entity's latest 12 calendar months or averaged over the number of months in existence if less than 12 months. Any such firms that subsequently expand employment to 10 or more employees, based on the most recent 12-month average number of persons employed, are no longer eligible to self-certify products and must obtain third party certification within 12 months of having 10 or more employees.
+-</P>
+-<P>(2) Manufacturers or importers may elect to self-certify any custom fabricated product in lieu of obtaining certification from an ANSI accredited third party certification body, regardless of the number of persons employed by the manufacturer.
+-</P>
+-<P>(d) In order for eligible manufacturers or importers to self-certify products, such manufacturers or importers must attest that products are in compliance with the definition of “lead free” in § 143.12 by developing and maintaining a “certificate of conformity.” The certificate of conformity must be:
+-</P>
+-<P>(1) Signed by a responsible corporate officer; a general partner or proprietor; or an authorized representative of a responsible corporate officer, general partner, or proprietor; and
+-</P>
+-<P>(2) Posted to a website with continuing public access in the United States, unless it is distributed by other means (<I>e.g.,</I> electronically or in hard copy) with the product through the distribution channel for final delivery to the end use installer of the product.
+-</P>
+-<P>(e) The certificate of conformity must be in English and include:
+-</P>
+-<P>(1) Contact information for the manufacturer or importer to include:
+-</P>
+-<P>(i) The entity or proprietor name;
+-</P>
+-<P>(ii) Street and mailing addresses;
+-</P>
+-<P>(iii) Phone number; and
+-</P>
+-<P>(iv) Email address;
+-</P>
+-<P>(2) For products imported into the United States, the contact information must also be included for the manufacturer;
+-</P>
+-<P>(3) A brief listing of the products to include, when applicable, unique identifying information such as model names and numbers;
+-</P>
+-<P>(4) A statement attesting that the products meet the lead free requirements of the Safe Drinking Water Act and 40 CFR part 143, subpart B, and also that the manufacturer or importer is eligible to self-certify the product consistent with this regulation;
+-</P>
+-<P>(5) A statement indicating how the manufacturer or importer verified conformance with the Safe Drinking Water Act and 40 CFR part 143, subpart B; and
+-</P>
+-<P>(6) The signature, date, name, and position of the signatory; and, if the signatory is an authorized representative of a responsible corporate officer, a general partner, or a proprietor, the name and position of the officer, partner, or proprietor.
+-</P>
+-<P>(f) Manufacturers or importers that self-certify products must maintain, at a primary place of business within the United States, certificates of conformity and sufficient documentation to confirm that products meet the lead free requirements of this subpart. Sufficient documentation may include detailed schematic drawings of the products indicating dimensions, records of calculations of the weighted average lead content of the product, documentation of the lead content of materials used in manufacture, and other documentation used in verifying the lead content of a plumbing device. This documentation and certificates of conformity must be provided upon request to the Administrator as specified in § 143.20(b) and must be maintained for at least five (5) years after the last sale of the product by the manufacturer or importer.
+-</P>
+-<P>(g) The certificate of conformity and documentation must be completed prior to a product's introduction into commerce.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§  143.20" TYPE="SECTION">
+-<HEAD>§  143.20   Compliance provisions.</HEAD>
+-<P>(a) Noncompliance with the Safe Drinking Water Act or this subpart may be subject to enforcement. Enforcement actions may include seeking injunctive or declaratory relief, civil penalties, or criminal penalties.
+-</P>
+-<P>(b) The Administrator may, on a case-by-case basis, request any information, such as records deemed necessary to determine whether a person has acted or is acting in compliance with section 1417 of the Safe Drinking Water Act and this subpart. Information, such as records requested, must be provided to the Administrator at a time and in a format as may be reasonably determined by the Administrator.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+ </DIV5>
+ 
+ 
