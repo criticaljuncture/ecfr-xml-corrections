@@ -1,0 +1,23 @@
+--- tmp/title_version_49_2020-11-04T21:20:08-0500_preprocessed.xml	2020-11-13 14:32:43.431210525 -0500
++++ tmp/title_version_49_2020-11-12T21:00:23-0500_preprocessed.xml	2020-11-13 14:41:49.574559061 -0500
+@@ -257811,20 +257811,12 @@
+ <DIV5 N="572" TYPE="PART">
+ <HEAD>PART 572 - ANTHROPOMORPHIC TEST DEVICES
+ </HEAD>
+-
+-<DIV6 N="W" TYPE="SUBPART">
+-<HEAD>Subpart W - XXX</HEAD>
+-
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>49 U.S.C. 322, 30111, 30115, 30117 and 30166; delegation of authority at 49 CFR 1.95
+-
+-
+ </PSPACE></AUTH>
+ <EDNOTE>
+ <HED>Editorial Notes:</HED><PSPACE>1. For compliance provisions relating to a vehicle's conformance with the performance requirements of Standard No. 208 (§ 571.208) relating to the part 572 test dummy, see the “Effective Date Note” at subpart E of this part.
+ </PSPACE><P>2. Nomenclature changes to part 572 appear at 69 FR 18803, Apr. 9, 2004.</P></EDNOTE>
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - General</HEAD>

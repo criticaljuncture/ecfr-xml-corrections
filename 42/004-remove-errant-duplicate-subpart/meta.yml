@@ -1,0 +1,11 @@
+description: A coding error in the SGML led to portions of the ToC becoming part of the content in the XML - this removes those based on fix from OFR
+tags: 'sgml-error'
+status: 'approved'
+issue_number: 
+fr_doc: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111305856/comments
+
+patches:
+  '001':
+    start_date: '2020-11-09'
+    end_date: '2020-11-10'

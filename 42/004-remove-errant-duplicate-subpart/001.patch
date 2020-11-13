@@ -1,0 +1,27 @@
+--- tmp/title_version_42_2020-11-10T21:00:12-0500_preprocessed.xml	2020-11-13 14:01:21.779554859 -0500
++++ tmp/title_version_42_2020-11-12T21:00:37-0500_preprocessed.xml	2020-11-13 14:02:20.670913723 -0500
+@@ -151679,15 +151679,6 @@
+ <DIV5 N="433" TYPE="PART">
+ <HEAD>PART 433 - STATE FISCAL ADMINISTRATION
+ </HEAD>
+-
+-<DIV6 N="G" TYPE="SUBPART">
+-<HEAD>Subpart G - Temporary FMAP Increase During the Public Health Emergency for COVID-19</HEAD>
+-
+-<SECTNO>433.400</SECTNO>
+-<SUBJECT>Continued enrollment for temporary FMAP increase.
+-
+-
+-</SUBJECT>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>Sec. 1102 of the Social Security Act, (42 U.S.C. 1302).
+ </PSPACE></AUTH>
+@@ -151705,8 +151696,6 @@
+ </P>
+ </DIV8>
+ 
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - Federal Matching and General Administration Provisions</HEAD>
