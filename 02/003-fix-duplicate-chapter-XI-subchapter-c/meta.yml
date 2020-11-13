@@ -1,0 +1,11 @@
+description: When Chapter XI Subchapter C was updated the old one got left in place. OFR fixed this as a release the next day but bumped the amendment date even though it was non-substantive. This applies the change sans amendment date, we then removed the updated content version as it isn't needed.
+tags: 'transcription-error'
+status: 'approved'
+fr_doc: 
+issue: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111202412/comments
+
+patches:
+  '001':
+    start_date: '2020-10-20'
+    end_date: '2020-10-20'
