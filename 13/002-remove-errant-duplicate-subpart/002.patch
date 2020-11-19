@@ -1,0 +1,27 @@
+--- tmp/title_version_13_2020-11-09T21:00:04-0500_preprocessed.xml	2020-11-13 14:48:31.669746881 -0500
++++ tmp/title_version_13_2020-11-12T21:00:05-0500_preprocessed.xml	2020-11-13 14:49:04.647646292 -0500
+@@ -26288,15 +26288,6 @@
+ <DIV5 N="125" TYPE="PART">
+ <HEAD>PART 125 - GOVERNMENT CONTRACTING PROGRAMS
+ </HEAD>
+-
+-<DIV6 N="F" TYPE="SUBPART">
+-<HEAD>Subpart F - XXX</HEAD>
+-
+-<SECTNO>125.100</SECTNO>
+-<SUBJECT>xxx
+-
+-
+-</SUBJECT>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>15 U.S.C. 632(p), (q), 634(b)(6), 637, 644, 657(f), and 657r.
+ </PSPACE>
+@@ -27483,8 +27474,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - Definitions for the Service-Disabled Veteran-Owned Small Business Concern Program</HEAD>
