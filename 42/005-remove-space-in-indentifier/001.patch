@@ -1,0 +1,13 @@
+--- /home/app/data/titles/preprocessed/xml/42/2020/04/2020-04-22_05bff78e.xml	2020-11-23 19:13:22.274586691 -0500
++++ tmp/title_version_42_2020-04-22T02:00:05-0400_preprocessed.xml	2020-11-23 19:13:47.946749009 -0500
+@@ -8323,8 +8323,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 24. 8" TYPE="SECTION">
+-<HEAD>§ 24. 8   Removal from the Service.</HEAD>
++<DIV8 N="§ 24.8" TYPE="SECTION">
++<HEAD>§ 24.8   Removal from the Service.</HEAD>
+ <P>(a) A member of the Service may be subject to disciplinary action, including removal from the Service, for substandard performance of duty as a member of the service, for misconduct, for reasons of national security or for other reasons as determined by the Secretary.
+ </P>
+ <P>(b) A member for whom disciplinary action is proposed is entitled to:
