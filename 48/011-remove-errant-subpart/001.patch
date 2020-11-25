@@ -1,0 +1,41 @@
+--- /home/app/data/titles/preprocessed/xml/48/2019/08/2019-08-14_f7a86000.xml	2020-11-24 19:58:39.972133034 -0500
++++ tmp/title_version_48_2019-08-14T20:00:20-0400_preprocessed.xml	2020-11-24 20:00:22.882127718 -0500
+@@ -4699,29 +4699,6 @@
+ 
+ </HEAD>
+ 
+-<DIV6 N="4.21" TYPE="SUBPART">
+-<HEAD>Subpart 4.21 - Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment</HEAD>
+-
+-<SECTNO>4.2100</SECTNO>
+-<SUBJECT>Scope of subpart.
+-</SUBJECT>
+-<SECTNO>4.2101</SECTNO>
+-<SUBJECT>Definitions.
+-</SUBJECT>
+-<SECTNO>4.2102</SECTNO>
+-<SUBJECT>Prohibition.
+-</SUBJECT>
+-<SECTNO>4.2103</SECTNO>
+-<SUBJECT>Procedures.
+-</SUBJECT>
+-<SECTNO>4.2104</SECTNO>
+-<SUBJECT>Waivers.
+-</SUBJECT>
+-<SECTNO>4.2105</SECTNO>
+-<SUBJECT>Solicitation provision and contract clause.
+-
+-
+-</SUBJECT>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>40 U.S.C. 121(c); 10 U.S.C. chapter 137; and 51 U.S.C. 20113.
+ </PSPACE></AUTH>
+@@ -4756,8 +4733,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+ 
+ <DIV6 N="4.1" TYPE="SUBPART">
+ <HEAD>Subpart 4.1 - Contract Execution</HEAD>

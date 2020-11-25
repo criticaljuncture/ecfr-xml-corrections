@@ -1,0 +1,14 @@
+description: Remove errant SGML toc items that bled through into XML creating a duplicate subpart
+tags: 'sgml-error'
+status: 'needs-review'
+fr_doc: 
+issue_number: #319
+
+patches:
+  '001':
+    start_date: '2019-08-14'
+    end_date: '2019-12-06'
+  '002':
+    start_date: '2019-12-07'
+    end_date: '2020-04-09'
+
