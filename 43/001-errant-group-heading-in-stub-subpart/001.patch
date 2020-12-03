@@ -1,0 +1,25 @@
+--- /home/app/data/titles/preprocessed/xml/43/2020/11/2020-11-30_25b66626.xml	2020-12-02 19:50:57.164900533 -0500
++++ tmp/title_version_43_2020-11-30T21:00:08-0500_preprocessed.xml	2020-12-02 19:53:46.538772600 -0500
+@@ -45966,6 +45966,7 @@
+ 
+ 
+ </P>
++<HED1>Group 2600 - Disposition; Grants </HED1>
+ </DIV8>
+ 
+ </DIV7>
+@@ -45978,14 +45979,6 @@
+ 
+ <XREF ID="20201127">Link to an amendment published at 85 FR 75887, Nov. 27, 2020.</XREF>
+ 
+-<DIV8 N=" " TYPE="SECTION">
+-<HEAD>     </HEAD>
+-<HED1>Group 2600 - Disposition; Grants 
+-
+-
+-</HED1>
+-</DIV8>
+-
+ </DIV6>
+ 
+ </DIV5>
