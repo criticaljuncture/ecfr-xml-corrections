@@ -1,0 +1,30 @@
+--- /Users/brandoncarag/Desktop/Critical_Juncture/ecfr-versioner/data/titles/preprocessed/xml/43/2020/12/2020-12-14_b27efdcf.xml	2020-12-15 14:03:57.000000000 -0800
++++ tmp/title_version_43_2020-12-14T21:20:09-0500_preprocessed.xml	2020-12-15 14:08:55.000000000 -0800
+@@ -45966,6 +45966,7 @@
+ 
+ 
+ </P>
++<HED1>Group 2600 - Disposition; Grants </HED1>
+ </DIV8>
+ 
+ </DIV7>
+@@ -45978,19 +45979,12 @@
+ 
+ <XREF ID="20201127">Link to an amendment published at 85 FR 75887, Nov. 27, 2020.</XREF>
+ 
+-<DIV8 N=" " TYPE="SECTION">
+-<HEAD>     </HEAD>
+ <XREF ID="20201211">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+ <XREF ID="20201211">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+ <XREF ID="20201211">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+ <XREF ID="20201211">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+ <XREF ID="20201211">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+ <XREF ID="20201211">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+-<HED1>Group 2600 - Disposition; Grants 
+-
+-
+-</HED1>
+-</DIV8>
+ 
+ </DIV6>
+ 

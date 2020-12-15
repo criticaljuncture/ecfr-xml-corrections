@@ -1,0 +1,9 @@
+description: 'XREF for new subpart moved Group 2600 heading from end of prior part into the new subpart, errantly creating an empty section.  The logic here is fundamentally the same as Patch 001, but needed to be modified slightly to accommodate the addition of several XREF references that were causing the first patch to fail'
+tags: 'sgml-error'
+status: 'needs-review'
+reference: 'https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111387775/comments'
+
+patches:
+  '002':
+    start_date: '2020-12-13'
+    end_date: '2100-01-01'
