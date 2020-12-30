@@ -1,0 +1,11 @@
+description: Malformed amendment date
+tags: 'amendment-date'
+status: 'needs-approval'
+issue_number:
+fr_doc: https://www.federalregister.gov/documents/2020/12/22/2020-26346/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-ice
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111501512/comments
+
+patches:
+  '001':
+    start_date: '2020-12-23'
+    end_date: '2099-12-31'
