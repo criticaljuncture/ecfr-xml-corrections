@@ -1,0 +1,11 @@
+description: Amendment date suspected to be moved due to late addition of Christmas Eve as a holiday.
+tags: ['amendment-date']
+status: needs-approval
+fr_doc:
+issue:
+reference: https://www.federalregister.gov/documents/2020/12/16/2020-27807/providing-for-the-closing-of-executive-departments-and-agencies-of-the-federal-government-on
+
+patches:
+  '001':
+    start_date: '2020-12-29'
+    end_date: '2099-12-31'
