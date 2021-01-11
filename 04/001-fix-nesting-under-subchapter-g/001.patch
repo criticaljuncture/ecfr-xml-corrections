@@ -1,6 +1,6 @@
---- /root/cj/ecfr-versioner/data/titles/preprocessed/xml/04/2018/05/2018-05-03_1a1cb5f3.xml	2021-01-11 15:59:17.745478340 +0000
-+++ tmp/title_version_4_2018-05-03T01:00:00-0400_preprocessed.xml	2021-01-11 17:07:10.807844380 +0000
-@@ -5072,14 +5072,14 @@
+--- /root/cj/ecfr-versioner/data/titles/preprocessed/xml/04/2018/05/2018-05-03_1a1cb5f3.xml	2021-01-11 17:25:20.212227403 +0000
++++ tmp/title_version_4_2018-05-03T01:00:00-0400_preprocessed.xml	2021-01-11 17:26:19.982275487 +0000
+@@ -5072,15 +5072,15 @@
  
  
  </HEAD>
@@ -12,9 +12,10 @@
  
  
  </HEAD>
+ </DIV5>
 +</DIV4>
 +
 +
- </DIV5>
  
  </DIV3>
+ 
