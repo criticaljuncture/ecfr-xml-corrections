@@ -1,6 +1,7 @@
 description: Correct nesting of Parts that should appear under Subchapter G
 tags: 'structural'
 status: 'needs-approval'
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111360121/comments
 
 patches:
   '001':
