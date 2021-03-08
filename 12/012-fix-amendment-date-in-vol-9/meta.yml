@@ -1,4 +1,4 @@
-description: Amendment date suspected to be moved due to late addition of Christmas Eve as a holiday.
+description: Editor should have used latest date as amendment date when more than one effective date is being codified.
 tags: ['amendment-date']
 status: needs-approval
 fr_doc:
@@ -8,4 +8,4 @@ reference: https://www.federalregister.gov/documents/2020/12/16/2020-27807/provi
 patches:
   '001':
     start_date: '2020-12-29'
-    end_date: '2099-12-31'
+    end_date: '2020-12-29'
