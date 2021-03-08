@@ -7,3 +7,6 @@ patches:
   '001':
     start_date: '2020-11-28'
     end_date: '2020-12-04'
+  '002':
+    start_date: '2020-12-13'
+    end_date: '2020-12-28'
