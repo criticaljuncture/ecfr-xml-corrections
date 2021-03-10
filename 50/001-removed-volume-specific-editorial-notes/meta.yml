@@ -14,4 +14,10 @@ patches:
     end_date: '2020-12-22'
   '004':
     start_date: '2020-12-23'
-    end_date: '2099-12-31'
+    end_date: '2021-01-18'
+  '005':
+    start_date: '2020-01-19'
+    end_date: '2021-01-20'
+  '006':
+    start_date: '2021-01-20'
+    end_date: '2100-01-01'
