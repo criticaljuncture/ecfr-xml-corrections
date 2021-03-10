@@ -5,4 +5,4 @@ status: 'approved'
 patches:
   '001':
     start_date: '2017-10-25'
-    end_date: '2100-01-01'
+    end_date: '2021-01-20'
