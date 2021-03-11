@@ -1,0 +1,11 @@
+description: Editor accidentally included an upcoming change that wasn't yet effective in some other changes they were making
+tags: content
+status: approved
+issue_number:
+fr_doc: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111819325
+
+patches:
+  '001':
+    start_date: '2021-01-19'
+    end_date: '2021-01-19'
