@@ -1,8 +1,12 @@
 description: Title 37 has two sets of blank subchapters that are used to wrap content in a weird order into unique Subchapter As. This removes these tags and wraps all of content in Parts 1-90 in a singe Subchapter A tag.
 tags: 'structural'
 status: 'needs-review'
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111804623
 
 patches:
   '001':
     start_date: '2017-01-03'
+    end_date: '2021-03-01'
+  '002':
+    start_date: '2021-03-02'
     end_date: '2100-01-01'

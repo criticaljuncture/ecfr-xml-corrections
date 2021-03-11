@@ -1,0 +1,30 @@
+--- /home/app/data/titles/preprocessed/xml/37/2021/03/2021-03-02_f8e97c0a.xml	2021-03-11 15:22:54.620603415 -0500
++++ tmp/title_version_37_2021-03-02_f8e97c0a_preprocessed.xml	2021-03-11 17:27:04.623892434 -0500
+@@ -14744,11 +14744,9 @@
+ </DIV4>
+ 
+ 
+-<DIV4 N="" TYPE="SUBCHAP">
+-<HEAD> 
+ 
+ <HED1>PART 1 - RULES OF PRACTICE IN PATENT CASES
+-</HED1></HEAD>
++</HED1>
+ <EDNOTE>
+ <HED>Editorial Note:</HED><PSPACE>Part 1 is placed in the separate grouping of parts pertaining to patents regulations.</PSPACE></EDNOTE>
+ <HED1><I>TRADEMARKS</I>
+@@ -22949,13 +22947,11 @@
+ </DIV4>
+ 
+ 
+-<DIV4 N="" TYPE="SUBCHAP">
+-<HEAD> 
+ 
+ <HED1><I>PRACTICE BEFORE THE PATENT AND TRADEMARK OFFICE</I>
+ 
+ 
+-</HED1></HEAD>
++</HED1>
+ 
+ <DIV5 N="10" TYPE="PART">
+ <HEAD>PART 10 [RESERVED]
