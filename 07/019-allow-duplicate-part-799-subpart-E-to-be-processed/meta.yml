@@ -1,0 +1,11 @@
+description: The agency inadvertantly inserted two 7 CFR 799 Subpart E - removing the identifier so that our MissingIdentifierUpdater preprocessor will generate one based on the hierarchy
+tags: 'content-error'
+status: needs-approval
+issue_number: 
+fr_doc: 2016-18075
+reference: 
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date:   '2100-01-01'
