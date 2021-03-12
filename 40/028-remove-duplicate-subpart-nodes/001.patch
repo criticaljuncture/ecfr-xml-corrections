@@ -1,0 +1,132 @@
+--- /home/app/data/titles/preprocessed/xml/40/2020/09/2020-09-14_9d53f8c6.xml	2021-03-12 14:23:34.295718758 -0500
++++ tmp/title_version_40_2020-09-14_9d53f8c6_preprocessed.xml	2021-03-12 17:50:52.391519237 -0500
+@@ -783907,129 +783907,6 @@
+ 
+ </DIV6>
+ 
+-
+-<DIV6 N="C" TYPE="SUBPART">
+-<HEAD>Subpart C - Certification by the Administrator</HEAD>
+-
+-
+-<DIV8 N="§ 121.21" TYPE="SECTION">
+-<HEAD>§ 121.21   When Administrator certifies.</HEAD>
+-<P>Certification by the Administrator that the discharge resulting from an activity requiring a license or permit will not violate applicable water quality standards will be required where: 
+-</P>
+-<P>(a) Standards have been promulgated, in whole or in part, by the Administrator pursuant to section 10(c)(2) of the Act: <I>Provided, however,</I> That the Administrator will certify compliance only with respect to those water quality standards promulgated by him; or 
+-</P>
+-<P>(b) Water quality standards have been established, but no State or interstate agency has authority to give such a certification. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 121.22" TYPE="SECTION">
+-<HEAD>§ 121.22   Applications.</HEAD>
+-<P>An applicant for certification from the Administrator shall submit to the Regional Administrator a complete description of the discharge involved in the activity for which certification is sought, with a request for certification signed by the applicant. Such description shall include the following: 
+-</P>
+-<P>(a) The name and address of the applicant; 
+-</P>
+-<P>(b) A description of the facility or activity, and of any discharge into navigable waters which may result from the conduct of any activity including, but not limited to, the construction or operation of the facility, including the biological, chemical, thermal, and other characteristics of the discharge, and the location or locations at which such discharge may enter navigable waters; 
+-</P>
+-<P>(c) A description of the function and operation of equipment or facilities to treat wastes or other effluents which may be discharged, including specification of the degree of treatment expected to be attained; 
+-</P>
+-<P>(d) The date or dates on which the activity will begin and end, if known, and the date or dates on which the discharge will take place; 
+-</P>
+-<P>(e) A description of the methods and means being used or proposed to monitor the quality and characteristics of the discharge and the operation of equipment or facilities employed in the treatment or control of wastes or other effluents. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 121.23" TYPE="SECTION">
+-<HEAD>§ 121.23   Notice and hearing.</HEAD>
+-<P>The Regional Administrator will provide public notice of each request for certification by mailing to State, County, and municipal authorities, heads of State agencies responsible for water quality improvement, and other parties known to be interested in the matter, including adjacent property owners and conservation organizations, or may provide such notice in a newspaper of general circulation in the area in which the activity is proposed to be conducted if the Regional Administrator deems mailed notice to be impracticable. Interested parties shall be provided an opportunity to comment on such request in such manner as the Regional Administrator deems appropriate. All interested and affected parties will be given reasonable opportunity to present evidence and testimony at a public hearing on the question whether to grant or deny certification if the Regional Administrator determines that such a hearing is necessary or appropriate. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 121.24" TYPE="SECTION">
+-<HEAD>§ 121.24   Certification.</HEAD>
+-<P>If, after considering the complete description, the record of a hearing, if any, held pursuant to § 121.23, and such other information and data as the Regional Administrator deems relevant, the Regional Administrator determines that there is reasonable assurance that the proposed activity will not result in a violation of applicable water quality standards, he shall so certify. If the Regional Administrator determines that no water quality standards are applicable to the waters which might be affected by the proposed activity, he shall so notify the applicant and the licensing or permitting agency in writing and shall provide the licensing or permitting agency with advice, suggestions, and recommendations with respect to conditions to be incorporated in any license or permit to achieve compliance with the purpose of this Act. In such case, no certification shall be required. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 121.25" TYPE="SECTION">
+-<HEAD>§ 121.25   Adoption of new water quality standards.</HEAD>
+-<P>(a) In any case where: 
+-</P>
+-<P>(1) A license or permit was issued without certification due to the absence of applicable water quality standards; and 
+-</P>
+-<P>(2) Water quality standards applicable to the waters into which the licensed or permitted activity may discharge are subsequently established; and 
+-</P>
+-<P>(3) The Administrator is the certifying agency because: 
+-</P>
+-<P>(i) No State or interstate agency has authority to certify; or 
+-</P>
+-<P>(ii) Such new standards were promulgated by the Administrator pursuant to section 10(c)(2) of the Act; and 
+-</P>
+-<P>(4) The Regional Administrator determines that such uncertified activity is violating water quality standards; 
+-</P>
+-<FP>Then the Regional Administrator shall notify the licensee or permittee of such violation, including his recommendations as to actions necessary for compliance. If the licensee or permittee fails within 6 months of the date of such notice to take action which in the opinion of the Regional Administrator will result in compliance with applicable water quality standards, the Regional Administrator shall notify the licensing or permitting agency that the licensee or permittee has failed, after reasonable notice, to comply with such standards and that suspension of the applicable license or permit is required by section 21(b)(9)(B) of the Act. 
+-</FP>
+-<P>(b) Where a license or permit is suspended pursuant to paragraph (a) of this section, and where the licensee or permittee subsequently takes action which in the Regional Administrator's opinion will result in compliance with applicable water quality standards, the Regional Administrator shall then notify the licensing or permitting agency that there is reasonable assurance that the licensed or permitted activity will comply with applicable water quality standards. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 121.26" TYPE="SECTION">
+-<HEAD>§ 121.26   Inspection of facility or activity before operation.</HEAD>
+-<P>Where any facility or activity has received certification pursuant to § 121.24 in connection with the issuance of a license or permit for construction, and where such facility or activity is not required to obtain an operating license or permit, the Regional Administrator or his representative, prior to the initial operation of such facility or activity, shall be afforded the opportunity to inspect such facility or activity for the purpose of determining if the manner in which such facility or activity will be operated or conducted will violate applicable water quality standards. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 121.27" TYPE="SECTION">
+-<HEAD>§ 121.27   Notification to licensing or permitting agency.</HEAD>
+-<P>If the Regional Administrator, after an inspection pursuant to § 121.26, determines that operation of the proposed facility or activity will violate applicable water quality standards, he shall so notify the applicant and the licensing or permitting agency, including his recommendations as to remedial measures necessary to bring the operation of the proposed facility into compliance with such standards. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 121.28" TYPE="SECTION">
+-<HEAD>§ 121.28   Termination of suspension.</HEAD>
+-<P>Where a licensing or permitting agency, following a public hearing, suspends a license or permit after receiving the Regional Administrator's notice and recommendation pursuant to § 121.27, the applicant may submit evidence to the Regional Administrator that the facility or activity or the operation or conduct thereof has been modified so as not to violate water quality standards. If the Regional Administrator determines that water quality standards will not be violated, he shall so notify the licensing or permitting agency. 
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="D" TYPE="SUBPART">
+-<HEAD>Subpart D - Consultations</HEAD>
+-
+-
+-<DIV8 N="§ 121.30" TYPE="SECTION">
+-<HEAD>§ 121.30   Review and advice.</HEAD>
+-<P>The Regional Administrator may, and upon request shall, provide licensing and permitting agencies with determinations, definitions and interpretations with respect to the meaning and content of water quality standards where they have been federally approved under section 10 of the Act, and findings with respect to the application of all applicable water quality standards in particular cases and in specific circumstances relative to an activity for which a license or permit is sought. The Regional Administrator may, and upon request shall, also advise licensing and permitting agencies as to the status of compliance by dischargers with the conditions and requirements of applicable water quality standards. In cases where an activity for which a license or permit is sought will affect water quality, but for which there are no applicable water quality standards, the Regional Administrator may advise licensing or permitting agencies with respect to conditions of such license or permit to achieve compliance with the purpose of the Act. 
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+ </DIV5>
+ 
+ 

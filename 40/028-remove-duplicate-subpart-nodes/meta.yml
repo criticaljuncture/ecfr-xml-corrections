@@ -1,0 +1,11 @@
+description: When applying the changes from the effective FR doc the editor did not remove the old subparts resulting in duplicates
+tags: content-error
+status: needs-review
+issue_number:
+fr_doc: 2020-12081
+reference: 
+
+patches:
+  '001':
+    start_date: '2020-09-14'
+    end_date: '2020-09-29'
