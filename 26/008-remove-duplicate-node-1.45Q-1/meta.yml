@@ -1,0 +1,11 @@
+description: Editor inserted a duplicate copy of 1.45Q-1 when making the modifications, this removes one of them
+tags: duplicate-node
+status: needs-approval
+issue_number:
+fr_doc: 
+reference:
+
+patches:
+  '001':
+    start_date: '2021-01-19'
+    end_date: '2021-01-23'
