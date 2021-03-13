@@ -1,0 +1,8 @@
+description: This fixes subpart labels that don't follow the expected form and thus cause issues when preprocessing and generating toc labels
+tags: 'content-error'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2015-01-01'
+    end_date: '2100-01-01'
