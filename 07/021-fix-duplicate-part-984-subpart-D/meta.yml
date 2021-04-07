@@ -1,0 +1,11 @@
+description: Part 984 had part of table of contents bleed into the content creating a duplicate
+tags: 'structural-error'
+status: approved
+issue_number: 
+fr_doc: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111915142
+
+patches:
+  '001':
+    start_date: '2021-03-30'
+    end_date:   '2021-03-30'

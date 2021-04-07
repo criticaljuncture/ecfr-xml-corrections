@@ -1,0 +1,25 @@
+--- /home/app/data/titles/preprocessed/xml/07/2021/03/2021-03-30_a6ebf263.xml	2021-04-07 14:49:48.513056049 -0400
++++ tmp/title_version_7_2021-03-30_a6ebf263_preprocessed.xml	2021-04-07 14:50:30.635492882 -0400
+@@ -258157,22 +258157,11 @@
+ <DIV5 N="984" TYPE="PART">
+ <HEAD>PART 984 - WALNUTS GROWN IN CALIFORNIA
+ </HEAD>
+-
+-<DIV6 N="D" TYPE="SUBPART">
+-<HEAD>Subpart D xxx</HEAD>
+-
+-<SECTNO> </SECTNO>
+-<SUBJECT> 
+-
+-
+-</SUBJECT>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>7 U.S.C. 601-674.
+ 
+ 
+ </PSPACE></AUTH>
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - Order Regulating Handling</HEAD>
