@@ -1,0 +1,12 @@
+--- /home/app/data/titles/preprocessed/xml/48/2020/11/2020-11-24_fc05cd3f.xml	2021-04-07 15:02:49.978414975 -0400
++++ tmp/title_version_48_2020-11-24_fc05cd3f_preprocessed.xml	2021-04-07 15:04:57.277803803 -0400
+@@ -14263,8 +14263,7 @@
+ 
+ 
+ <DIV8 N="10.002" TYPE="SECTION">
+-<HEAD>10.002   Procedures.
+-]</HEAD>
++<HEAD>10.002   Procedures.</HEAD>
+ <P>(a) Acquisitions begin with a description of the Government's needs stated in terms sufficient to allow conduct of market research.
+ </P>
+ <P>(b) Market research is then conducted to determine if commercial items or nondevelopmental items are available to meet the Government's needs or could be modified to meet the Government's needs.

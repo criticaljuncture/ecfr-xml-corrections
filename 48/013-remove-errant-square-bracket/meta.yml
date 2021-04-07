@@ -1,0 +1,11 @@
+description: An errant ']' was inserted into head as part of the removal of a XREF tag
+tags: 'content'
+status: 'approved'
+fr_doc: 
+issue_number: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/111915308
+
+patches:
+  '001':
+    start_date: '2020-11-24'
+    end_date: '2021-03-17'
+
