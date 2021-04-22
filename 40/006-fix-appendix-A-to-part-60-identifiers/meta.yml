@@ -1,8 +1,0 @@
-description: Appendix identifiers incorrect - they are missing the dashed portion
-tags: 'structural, transcription-error'
-status: 'needs-approval'
-
-patches:
-  '001':
-    start_date: '2017-01-03'
-    end_date: '2100-01-01'
