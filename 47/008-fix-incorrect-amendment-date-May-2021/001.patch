@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/47/2021/05/2021-05-07_a7f2c26b.xml	2021-05-11 12:19:44.918964918 -0400
++++ tmp/title_version_47_2021-05-07_a7f2c26b_preprocessed.xml	2021-05-11 12:21:25.392836234 -0400
+@@ -34,7 +34,7 @@
+ <TEXT>
+ <BODY>
+ <ECFRBRWS>
+-<AMDDATE>May 7, 2021
++<AMDDATE>May 6, 2021
+ </AMDDATE>
+ 
+ <DIV1 N="1" TYPE="TITLE">

@@ -1,0 +1,11 @@
+description: Editor entered the incorrect day for the amendment date
+tags: 'amendment-date'
+status: 'approved'
+issue_number: 327
+fr_doc: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/112086879/comments
+
+patches:
+  '001':
+    start_date: '2021-05-07'
+    end_date: '2021-05-07'
