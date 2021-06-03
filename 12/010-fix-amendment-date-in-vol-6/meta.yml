@@ -8,4 +8,9 @@ reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-regi
 patches:
   '001':
     start_date: '2019-03-09'
+    end_date: '2019-03-14 17:00:00'
+  # editor fixes for one day then loses the fix for a day
+  '002':
+    start_date: '2019-03-19'
     end_date: '2019-03-19'
+
