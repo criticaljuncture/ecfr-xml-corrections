@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/05/2017/01/2017-01-03_bd5b6e23.xml	2021-06-30 12:38:04.000000000 -0500
++++ tmp/title_version_5_2017-01-03_bd5b6e23_preprocessed.xml	2021-06-30 12:37:51.000000000 -0500
+@@ -12681,7 +12681,7 @@
+ </P>
+ <P>(c) Promote, demote, or reassign an employee serving under an overseas limited appointment of indefinite duration or an overseas limited term appointment to another position to which an initial appointment under § 301.201, § 301.202, or § 301.203 of this chapter is authorized; 
+ </P>
+-<P>(d) Promote, demote, or reassign (1) a status quo employee and (2) an employee serving under an indefinite appointment in a competitive position, except that this authority may not be used to move an employee: 
++<P ecfr-split-paragraph="never">(d) Promote, demote, or reassign (1) a status quo employee and (2) an employee serving under an indefinite appointment in a competitive position, except that this authority may not be used to move an employee: 
+ </P>
+ <P>(i) From a position in which an initial overseas limited appointment is authorized to another position; or 
+ </P>
