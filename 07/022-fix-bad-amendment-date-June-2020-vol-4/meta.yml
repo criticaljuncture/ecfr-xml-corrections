@@ -1,0 +1,11 @@
+description: Volume 4 amendment date had a duplicate day value causing the date parser to see it as a future date
+tags: 'amendment-date'
+status: needs-approval
+issue_number: 
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2021-07-01'
+    end_date:   '2100-01-01'

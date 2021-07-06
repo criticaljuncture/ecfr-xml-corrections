@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/07/2021/07/2021-07-01_6687b7ee.xml	2021-07-06 17:12:40.231420873 -0400
++++ tmp/title_version_7_2021-07-01_6687b7ee_preprocessed.xml	2021-07-06 17:17:06.835035831 -0400
+@@ -97531,7 +97531,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>June 30 30, 2021
++<AMDDATE>June 30, 2021
+ </AMDDATE>
+ 
+ <DIV1 N="4" TYPE="TITLE">
