@@ -1,6 +1,6 @@
---- /Users/brandoncarag/Desktop/Critical_Juncture/ecfr-versioner/data/titles/preprocessed/xml/50/2020/12/2020-12-23_54b0b7b2.xml	2020-12-30 11:51:12.000000000 -0800
-+++ tmp/title_version_50_2020-12-23T21:00:15-0500_preprocessed.xml	2020-12-30 13:37:32.000000000 -0800
-@@ -21007,8 +21007,8 @@
+--- /home/app/data/titles/preprocessed/xml/50/2020/12/2020-12-20_ade7be9e.xml	2021-08-18 16:31:08.018824265 -0400
++++ tmp/title_version_50_2020-12-20_ade7be9e_preprocessed.xml	2021-08-18 16:38:51.533681053 -0400
+@@ -20996,8 +20996,8 @@
  
  </CITA>
  <EDNOTE>
@@ -11,26 +11,27 @@
  </DIV8>
  
  </DIV6>
-@@ -21068,8 +21068,6 @@
+@@ -21056,9 +21056,6 @@
+ <DIV6 N="I" TYPE="SUBPART">
  <HEAD>Subpart I - Interagency Cooperation (Continued)</HEAD>
  
- <XREF ID="20201218">Link to an amendment published at 85 FR 82388, Dec. 18, 2020.</XREF>
 -<EDNOTE>
 -<HED>Editorial Note:</HED><PSPACE>Paragraph (a) of § 17.95 appears in 50 Part 17, §§ 17.1 to 17.95(a).</PSPACE></EDNOTE>
- 
+-
  <DIV8 N="§ 17.95" TYPE="SECTION">
  <HEAD>§ 17.95   Critical habitat - fish and wildlife. (Continued)</HEAD>
-@@ -43056,8 +43054,7 @@
+ <P>(b) <I>Birds.</I>
+@@ -43044,8 +43041,7 @@
  <CITA TYPE="N">[42 FR 47840, Sept. 22, 1977]
  </CITA>
  <EDNOTE>
--<HED>Editorial Notes:</HED><PSPACE>1. The remainder of § 17.95 appears in 50 part 17, § 17.95(c) to § 17.95(e) and 50 part 17, § 17.95(f) to end of § 17.95.
+-<HED>Editorial Notes:</HED><PSPACE>1. The remainder of § 17.95 appears in 50 Part 17, § 17.95(c) to § 17.95(e) and 50 Part 17, § 17.95(f) to end of § 17.95.
 -</PSPACE><P>2. For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></P></EDNOTE>
-+<HED>Editorial Notes:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></P></EDNOTE>
++<HED>Editorial Notes:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></PSPACE></EDNOTE>
  </DIV8>
  
  </DIV6>
-@@ -43114,9 +43111,6 @@
+@@ -43102,9 +43098,6 @@
  <DIV6 N="I" TYPE="SUBPART">
  <HEAD>Subpart I - Interagency Cooperation (Continued)</HEAD>
  
@@ -40,13 +41,24 @@
  <DIV8 N="§ 17.95" TYPE="SECTION">
  <HEAD>§ 17.95   Critical habitat - fish and wildlife. (Continued)</HEAD>
  <XREF ID="20200930">Link to an amendment published at 85 FR 61631, Sept. 30, 2020.</XREF>
-@@ -53475,9 +53469,6 @@
+@@ -53405,8 +53398,8 @@
+ <CITA TYPE="N">[42 FR 47840, Sept. 22, 1977]
+ </CITA>
+ <EDNOTE>
+-<HED>Editorial Notes:</HED><PSPACE>1. For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I>
+-</PSPACE><P>2. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.</P></EDNOTE>
++<HED>Editorial Notes:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I>
++</PSPACE></EDNOTE>
+ </DIV8>
+ 
+ </DIV6>
+@@ -77807,9 +77800,6 @@
  <DIV6 N="I" TYPE="SUBPART">
  <HEAD>Subpart I - Interagency Cooperation (Continued)</HEAD>
  
 -<EDNOTE>
--<HED>Editorial Note:</HED><PSPACE>Paragraphs (a)-(e) of § 17.95 appear in 50 Part 17, §§ 17.1 to 17.95(a), 50 Part 17, § 17.95(b), and 50 Part 17, § 17.95(c) to § 17.95(e).</PSPACE></EDNOTE>
+-<HED>Editorial Note:</HED><PSPACE>Paragraphs (a)-(h) of § 17.99 appear in 50 Part 17, §§ 17.99(a) to 17.99(h).</PSPACE></EDNOTE>
 -
- <DIV8 N="§ 17.95" TYPE="SECTION">
- <HEAD>§ 17.95   Critical habitat - fish and wildlife. (Continued)</HEAD>
- <XREF ID="20201218">Link to an amendment published at 85 FR 82388, Dec. 18, 2020.</XREF>
+ <DIV8 N="§ 17.99" TYPE="SECTION">
+ <HEAD>§ 17.99   Critical habitat; plants on the Hawaiian Islands. (Continued)</HEAD>
+ <P>(i) <I>Oahu.</I> Critical habitat units are described below. Maps were created in GIS, with coordinates in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Internet site, <I>http://www.fws.gov/pacificislands</I>; at <I>http://www.regulations.gov</I> at Docket No. FWS-R1-ES-2010-0043; and at the field office responsible for the designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, other paved areas, lawns, and other urban landscaped areas, existing trails, campgrounds and their immediate surrounding landscaped area, scenic lookouts, remote helicopter landing sites, and existing fences are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
