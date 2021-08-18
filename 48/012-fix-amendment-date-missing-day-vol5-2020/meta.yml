@@ -1,11 +1,10 @@
 description: Editor didn't enter the day for an amendment date change in vol 5. Addition XREF tags were the only change - used that date for the missing day.
 tags: 'amendment-date'
 status: 'needs-review'
-fr_doc: 
+fr_doc:
 issue_number:
 
 patches:
   '001':
     start_date: '2020-03-26'
-    end_date: '2020-04-27'
-
+    end_date: '2020-03-27'
