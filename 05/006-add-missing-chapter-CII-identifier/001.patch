@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/05/2021/06/2021-06-07_f076057c.xml	2021-08-18 18:25:48.375016907 -0400
++++ tmp/title_version_5_2021-06-07_f076057c_preprocessed.xml	2021-08-18 18:29:34.984369610 -0400
+@@ -141895,7 +141895,7 @@
+ </DIV3>
+ 
+ 
+-<DIV3 N="" TYPE="CHAPTER">
++<DIV3 N="CII" TYPE="CHAPTER">
+ <HED>CHAPTER CII - U.S. OFFICE OF SPECIAL COUNSEL
+ 
+ 

@@ -1,0 +1,11 @@
+description: Add missing Chapter identifier that caused problems rendering ToC
+tags: structural
+status: needs-approval
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2021-06-07'
+    end_date: '2021-06-07'
