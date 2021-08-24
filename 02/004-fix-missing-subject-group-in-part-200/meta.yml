@@ -1,0 +1,8 @@
+description: A subject group tag got coded in a way that meant it no longer appeared in the XML as expected
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2020-11-13'
+    end_date: '2100-01-01'

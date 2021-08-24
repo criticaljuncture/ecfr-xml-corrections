@@ -1,0 +1,18 @@
+--- /home/app/data/titles/preprocessed/xml/02/2020/11/2020-11-13_098f43ae.xml	2021-08-24 13:49:28.231276110 -0400
++++ tmp/title_version_2_2020-11-13_098f43ae_preprocessed.xml	2021-08-24 13:56:11.999242480 -0400
+@@ -8453,12 +8453,11 @@
+ <HEAD>§ 200.316   Property trust relationship.</HEAD>
+ <P>Real property, equipment, and intangible property, that are acquired or improved with a Federal award must be held in trust by the non-Federal entity as trustee for the beneficiaries of the project or program under which the property was acquired or improved. The Federal awarding agency may require the non-Federal entity to record liens or other appropriate notices of record to indicate that personal or real property has been acquired or improved with a Federal award and that use and disposition conditions apply to the property.
+ </P>
+-<HD2>Procurement Standards
+-
+-
+-</HD2>
+ </DIV8>
++</DIV7>
+ 
++<DIV7 N="29" TYPE="SUBJGRP">
++<HEAD>Procurement Standards</HEAD>
+ 
+ <DIV8 N="§ 200.317" TYPE="SECTION">
+ <HEAD>§ 200.317   Procurements by states.</HEAD>
