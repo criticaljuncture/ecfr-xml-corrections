@@ -1,0 +1,11 @@
+description: Editor did not increment year when updating amendment date
+tags: 'amendment-date'
+status:  'approved'
+issue_number:
+fr_doc:
+reference: https://ofr.zendesk.com/agent/tickets/5315
+
+patches:
+  '001':
+    start_date: '2019-05-17'
+    end_date: '2019-07-11'
