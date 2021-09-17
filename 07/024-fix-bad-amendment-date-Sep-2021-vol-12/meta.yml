@@ -1,0 +1,11 @@
+description: Volume 7 amendment date change was missing a day
+tags: 'amendment-date'
+status: needs-approval
+issue_number:
+fr_doc: https://www.federalregister.gov/d/2021-14358
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/112644744
+
+patches:
+  '001':
+    start_date: '2021-09-08'
+    end_date:   '2100-01-01'
