@@ -1,4 +1,4 @@
-description: Add missing Chapter identifier that caused problems rendering ToC
+description: Add missing Chapter identifier and correct HEAD tag that caused problems rendering ToC
 tags: structural
 status: needs-approval
 issue_number:
