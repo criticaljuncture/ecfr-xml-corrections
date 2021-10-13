@@ -1,0 +1,11 @@
+description: A cross reference for the subchapter (title change) was marked up as an empty part
+tags: 'structural'
+status: 'needs-review'
+fr_doc:
+issue_number:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-10-30'
+    end_date: '2020-12-17'

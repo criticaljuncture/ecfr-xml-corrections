@@ -1,0 +1,14 @@
+--- /home/app/data/titles/preprocessed/xml/09/2020/10/2020-10-30_37979143.xml	2021-10-13 18:31:59.312043689 -0400
++++ tmp/title_version_9_2020-10-30_37979143_preprocessed.xml	2021-10-13 18:36:06.470297837 -0400
+@@ -65945,11 +65945,7 @@
+ <HEAD>SUBCHAPTER E - REGULATORY REQUIREMENTS UNDER THE FEDERAL MEAT INSPECTION ACT AND THE POULTRY PRODUCTS INSPECTION ACT
+ </HEAD>
+ 
+-<DIV5 N="" TYPE="PART">
+-<HEAD>Subchapter heading revised
+-</HEAD>
+ <XREF ID="20201029" REFID="45">Link to an amendment published at 85 FR 68672, Oct. 29, 2020.</XREF>
+-</DIV5>
+ 
+ 
+ <DIV5 N="412" TYPE="PART">
