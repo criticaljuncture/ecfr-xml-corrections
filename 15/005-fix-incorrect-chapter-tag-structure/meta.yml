@@ -1,0 +1,8 @@
+description: Chapter XV was marked up as XX with an HED tag instead of a HEAD tag for one day
+tags: 'structural'
+status: 'needs-approval'
+
+patches:
+  '001':
+    start_date: '2021-05-04'
+    end_date: '2021-05-04'
