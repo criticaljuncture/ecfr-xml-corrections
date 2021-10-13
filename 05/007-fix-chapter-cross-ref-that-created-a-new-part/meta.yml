@@ -1,0 +1,11 @@
+description: Chapter XXXIII had a cross reference added (changing chapter name) that created a new part without an identifier
+tags: structural
+status: needs-approval
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2019-08-27'
+    end_date: '2019-11-01'
