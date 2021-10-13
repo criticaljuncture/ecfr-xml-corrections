@@ -1,0 +1,11 @@
+description: When the cross ref for an upcoming part was inserted it was not marked up correctly for one day
+tags: 'structural'
+status: 'needs-approval'
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-10-01'
+    end_date: '2020-10-01'

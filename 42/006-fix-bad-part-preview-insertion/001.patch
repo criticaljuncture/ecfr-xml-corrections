@@ -1,0 +1,19 @@
+--- /home/app/data/titles/preprocessed/xml/42/2020/10/2020-10-01_a4ab75f2.xml	2021-10-13 13:26:43.859442958 -0400
++++ tmp/title_version_42_2020-10-01_a4ab75f2_preprocessed.xml	2021-10-13 13:36:35.845232051 -0400
+@@ -224941,13 +224941,10 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="600" TYPE="PART">
+-<SUBJECT>PART 512 - XXX
+-
++<DIV5 N="512" TYPE="PART">
++<HEAD>PART 512 - XXX
++</HEAD>
+ <XREF ID="20200929" REFID="32">Link to an amendment published at 85 FR 61362, Sept. 29, 2020.</XREF>
+-
+-
+-</SUBJECT>
+ </DIV5>
+ 
+ </DIV4>
