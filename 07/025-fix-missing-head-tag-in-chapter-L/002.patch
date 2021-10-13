@@ -1,0 +1,12 @@
+--- /home/app/data/titles/preprocessed/xml/07/2020/10/2020-10-05_f1727e66.xml	2021-10-13 14:12:49.126283884 -0400
++++ tmp/title_version_7_2020-10-05_f1727e66_preprocessed.xml	2021-10-13 14:13:52.661903212 -0400
+@@ -492204,8 +492204,7 @@
+ 
+ 
+ <DIV3 N="L" TYPE="CHAPTER">
+-<HED>Chapter L - Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service, Department of Agriculture
+-</HED>
++<HEAD> CHAPTER L - RURAL BUSINESS-COOPERATIVE SERVICE, RURAL HOUSING SERVICE, AND RURAL UTILITIES SERVICE, DEPARTMENT OF AGRICULTURE </HEAD>
+ 
+ <DIV5 N="5001" TYPE="PART">
+ <HEAD>PART 5001 - GUARANTEED LOANS

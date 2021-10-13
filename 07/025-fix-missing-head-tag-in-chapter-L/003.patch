@@ -1,0 +1,12 @@
+--- /home/app/data/titles/preprocessed/xml/07/2020/11/2020-11-18_e4dd8572.xml	2021-10-13 14:19:19.232466644 -0400
++++ tmp/title_version_7_2020-11-18_e4dd8572_preprocessed.xml	2021-10-13 14:19:48.562131004 -0400
+@@ -491903,9 +491903,6 @@
+ 
+ 
+ <DIV3 N="L" TYPE="CHAPTER">
+-<HED>Chapter L - Rural Business-Cooperative Service, Rural Housing Service, and Rural Utilities Service, Department of Agriculture
+-</HED>
+-
+ <HEAD> CHAPTER L - RURAL BUSINESS-COOPERATIVE SERVICE, RURAL HOUSING SERVICE, AND RURAL UTILITIES SERVICE, DEPARTMENT OF AGRICULTURE </HEAD>
+ 
+ <DIV5 N="5001" TYPE="PART">
