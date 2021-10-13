@@ -1,0 +1,11 @@
+description: Part 90 is removed and reserved but the markup contains a completely empty part with no data instead of a reserved item. This is fixed a few days later by the editor
+tags: 'content'
+status: needs-approval
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-11-06'
+    end_date:   '2020-11-18'
