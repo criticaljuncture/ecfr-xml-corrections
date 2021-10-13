@@ -1,0 +1,11 @@
+description: Section 89.506 lost some markup causing it to be marked up as a duplicate 89.507 and stranding some content outside of a section entirely
+tags: content-error
+status: needs-review
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2019-10-01'
+    end_date: '2019-10-01'

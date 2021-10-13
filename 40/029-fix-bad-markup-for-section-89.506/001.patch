@@ -1,0 +1,21 @@
+--- /home/app/data/titles/preprocessed/xml/40/2019/10/2019-10-01_a64374a6.xml	2021-10-13 14:47:45.910748252 -0400
++++ tmp/title_version_40_2019-10-01_a64374a6_preprocessed.xml	2021-10-13 14:50:15.251341355 -0400
+@@ -684716,8 +684716,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 89.507" TYPE="SECTION">
+-</DIV8>
++<DIV8 N="§ 89.506" TYPE="SECTION">
++<HEAD>§ 89.506   Right of entry and access.</HEAD>
+ 
+ <P>(a) To allow the Administrator to determine whether a manufacturer is complying with the provisions of this subpart and a test order issued thereunder, EPA enforcement officers or EPA authorized representatives may enter during operating hours and upon presentation of credentials any of the following places: 
+ </P>
+@@ -684757,6 +684757,7 @@
+ 
+ 
+ </CITA>
++</DIV8>
+ 
+ <DIV8 N="§ 89.507" TYPE="SECTION">
+ <HEAD>§ 89.507   Sample selection.</HEAD>
