@@ -1,0 +1,8 @@
+description: Part 1140 was reserved but is missing some data that caused it to be missing an identifier in the XML
+tags: 'structural'
+status: 'needs-review'
+
+patches:
+  '001':
+    start_date: '2020-10-22'
+    end_date: '2020-10-22'
