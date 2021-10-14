@@ -1,0 +1,11 @@
+description: Title 43 failed to close the markup of the HEAD tag of Subchapter H, causing HED1s to appear in HEAD. Patch closes HEAD and wraps HED1s in TEXT.
+tags: structural
+status: needs-approval
+issue_number: ecfr-versioner/issues/573
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2021-06-09'
+    end_date: '2100-01-01'

@@ -1,0 +1,21 @@
+--- data/titles/source/xml/43/2021/06/2021-06-10_6f904396.xml	2021-10-14 08:28:22.302361791 -0700
++++ 2021-06-10_6f904396.xml	2021-10-14 10:02:02.036643833 -0700
+@@ -100610,7 +100610,8 @@
+ <HEAD>SUBCHAPTER H - RECREATION PROGRAMS
+ 
+ 
+-
++</HEAD>
++<TEXT>
+ <HED1>Group 8100 - Cultural Resource Management [Reserved]
+ 
+ 
+@@ -100618,7 +100619,7 @@
+ <HED1>Group 8200 - Natural History Resource Management
+ 
+ 
+-</HED1></HEAD>
++</HED1></TEXT>
+ 
+ <DIV5 N="8200" NODE="43:2.1.1.8.111" TYPE="PART">
+ <HEAD>PART 8200 - PROCEDURES
