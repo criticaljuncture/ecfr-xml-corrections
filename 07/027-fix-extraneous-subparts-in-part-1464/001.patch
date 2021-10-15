@@ -1,0 +1,148 @@
+--- /home/app/data/titles/preprocessed/xml/07/2020/02/2020-02-14_4cfb84d0.xml	2021-10-14 15:27:28.522145549 -0400
++++ tmp/title_version_7_2020-02-14_4cfb84d0_preprocessed.xml	2021-10-14 15:35:49.387551857 -0400
+@@ -336143,145 +336143,15 @@
+ 
+ <DIV5 N="1464" TYPE="PART">
+ <HEAD>PART 1464 - REGIONAL CONSERVATION PARTNERSHIP PROGRAM
+-
+-
+ </HEAD>
+-
+-<DIV6 N="A" TYPE="SUBPART">
+-<HEAD>Subpart A - General Provisions</HEAD>
+-
+-<SECHD>Sec.
+-</SECHD>
+-<SECTNO>1464.1
+-</SECTNO>
+-<SUBJECT>Applicability.
+-</SUBJECT>
+-<SECTNO>1464.2
+-</SECTNO>
+-<SUBJECT>Administration.
+-</SUBJECT>
+-<SECTNO>1464.3
+-</SECTNO>
+-<SUBJECT>Definitions.
+-</SUBJECT>
+-<SECTNO>1464.4
+-</SECTNO>
+-<SUBJECT>Funding pool allocations.
+-</SUBJECT>
+-<SECTNO>1464.5
+-</SECTNO>
+-<SUBJECT>Program requirements.
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B - Partnership Agreements</HEAD>
+-
+-<SECTNO>1464.20
+-</SECTNO>
+-<SUBJECT>Proposal procedures.
+-</SUBJECT>
+-<SECTNO>1464.21
+-</SECTNO>
+-<SUBJECT>Ranking considerations and proposal selection.
+-</SUBJECT>
+-<SECTNO>1464.22
+-</SECTNO>
+-<SUBJECT>Partnership agreements.
+-</SUBJECT>
+-<SECTNO>1464.23
+-</SECTNO>
+-<SUBJECT>Funding.
+-</SUBJECT>
+-<SECTNO>1464.24
+-</SECTNO>
+-<SUBJECT>Modifications, noncompliance, termination, and remedies.
+-</SUBJECT>
+-<SECTNO>1464.25
+-</SECTNO>
+-<SUBJECT>Alternative funding arrangements or grant agreements.
+-</SUBJECT>
+-<SECTNO>1464.26
+-</SECTNO>
+-<SUBJECT>Supplemental agreements.
+-</SUBJECT>
+-<SECTNO>1464.27
+-</SECTNO>
+-<SUBJECT>Third-party contracts or agreements.
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="C" TYPE="SUBPART">
+-<HEAD>Subpart C - Program Contracts</HEAD>
+-
+-<SECTNO>1464.30
+-</SECTNO>
+-<SUBJECT>Application for contracts and selecting applications for funding.
+-</SUBJECT>
+-<SECTNO>1464.31
+-</SECTNO>
+-<SUBJECT>Program contract requirements.
+-</SUBJECT>
+-<SECTNO>1464.32
+-</SECTNO>
+-<SUBJECT>Modifications and transfers of land.
+-</SUBJECT>
+-<SECTNO>1464.33
+-</SECTNO>
+-<SUBJECT>Violations and remedies.
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="D" TYPE="SUBPART">
+-<HEAD>Subpart D - General Administration</HEAD>
+-
+-<SECTNO>1464.40
+-</SECTNO>
+-<SUBJECT>Appeals.
+-</SUBJECT>
+-<SECTNO>1464.41
+-</SECTNO>
+-<SUBJECT>Compliance with regulatory measures.
+-</SUBJECT>
+-<SECTNO>1464.42
+-</SECTNO>
+-<SUBJECT>Access to agricultural operation or tract.
+-</SUBJECT>
+-<SECTNO>1464.43
+-</SECTNO>
+-<SUBJECT>Equitable relief.
+-</SUBJECT>
+-<SECTNO>1464.44
+-</SECTNO>
+-<SUBJECT>Offsets and assignments.
+-</SUBJECT>
+-<SECTNO>1464.45
+-</SECTNO>
+-<SUBJECT>Misrepresentation and scheme or device.
+-</SUBJECT>
+-<SECTNO>1464.46
+-</SECTNO>
+-<SUBJECT>Environmental credits for conservation improvements.
+-
+-
+-</SUBJECT>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>15 U.S.C. 714b and 714c; 16 U.S.C. 3871 <I>et seq.</I>
+-
+-
+ </PSPACE></AUTH>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>85 FR 8137, Feb. 13, 2020,  unless otherwise noted.
+ 
+ 
+-
+-
+ </PSPACE></SOURCE>
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - General Provisions</HEAD>
