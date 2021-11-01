@@ -1,0 +1,11 @@
+description: The FR doc below added a new subpart E and mis-designated setion 217.45 as 217.95 creating a duplicate - this allows us to handle it
+tags: 'structural'
+status: 'needs-approval'
+issue_number:
+fr_doc: https://www.federalregister.gov/documents/2020/08/17/2020-15404/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to#sectno-citation-217.95
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/112834768/
+
+patches:
+  '001':
+    start_date: '2021-01-06'
+    end_date: '2100-01-01'
