@@ -1,0 +1,11 @@
+description: Section 165.519 was inserted twice, once incorrectly before section 165.120 - this removes that extraneous entry. Editor fixes a few issues later.
+tags: 'duplicate-content'
+status: 'needs-approval'
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2021-09-17'
+    end_date: '2021-09-28'
