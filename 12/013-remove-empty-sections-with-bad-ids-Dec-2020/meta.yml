@@ -1,0 +1,11 @@
+description: This issue of Title 12 contained numerous sections without content and N="." identifiers - this removes them
+tags: 'content'
+status: needs-approval
+fr_doc:
+issue:
+reference:
+
+patches:
+  '001':
+    start_date: '2020-12-23'
+    end_date: '2020-12-23'
