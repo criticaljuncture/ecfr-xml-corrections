@@ -1,0 +1,11 @@
+description: When doing other cleanup the editor accidentally changed Table 1e to be a second Table 1d - this reverts that
+tags: 'content'
+status: 'approved'
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/112840243
+
+patches:
+  '001':
+    start_date: '2019-12-21'
+    end_date: '2020-01-17 13:00:00'
