@@ -1,0 +1,11 @@
+description: When codifying 2020-27580 the editor accidently replaced 5461.1 with the new 5463.1 (creating a duplicate). This removes the duplicate and OFR will be adding a correction to the eCFR corrections table to fix the missing 5461.1
+tags: content
+status:
+issue_number:
+fr_doc: 2020-27580
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/112835162
+
+patches:
+  '001':
+    start_date: '2021-01-23'
+    end_date: '2021-10-27'

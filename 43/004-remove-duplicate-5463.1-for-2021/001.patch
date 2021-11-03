@@ -1,0 +1,22 @@
+--- /home/app/data/titles/preprocessed/xml/43/2021/01/2021-01-23_cb011bb4.xml	2021-11-01 18:59:13.025490899 -0400
++++ tmp/title_version_43_2021-01-23_cb011bb4_preprocessed.xml	2021-11-03 13:48:25.734724280 -0400
+@@ -99736,19 +99736,6 @@
+ <HEAD>Subpart 5461 - Contract Payments</HEAD>
+ 
+ 
+-<DIV8 N="§ 5463.1" TYPE="SECTION">
+-<HEAD>§ 5463.1   Time for cutting and removal.</HEAD>
+-<P>Time for cutting and removal of timber or other vegetative resources sold shall not exceed a period of forty-eight months such time for cutting and removal may be extended as provided in 43 CFR part 5470, subpart 5473.
+-</P>
+-<CITA TYPE="N">[85 FR 82375, Dec. 18, 2020]
+-
+-
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 5461.2" TYPE="SECTION">
+ <HEAD>§ 5461.2   Required payment schedule.</HEAD>
+ <P>(a)(1) For sales of less than $500,000, installment payments shall not be less than 10 percent of the total purchase price. For sales of $500,000 or more, installment payments shall be $50,000. 
