@@ -1,0 +1,11 @@
+description: When applying 2019-09622 the editor did not redesignate all specified sections resulting in a duplicate section 460.23. This allows us to process the section until the eCFR correction was issued and corrected the problem
+tags: content
+status: needs-review
+issue_number:
+fr_doc: 2019-09622
+reference: https://www.ecfr.gov/corrections/2020
+
+patches:
+  '001':
+    start_date: '2020-05-14'
+    end_date: '2020-06-03'

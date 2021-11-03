@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/16/2020/05/2020-05-14_8c096b57.xml	2021-11-02 17:14:19.141441724 -0400
++++ tmp/title_version_16_2020-05-14_8c096b57_preprocessed.xml	2021-11-03 15:35:28.114992045 -0400
+@@ -22100,7 +22100,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 460.23" TYPE="SECTION">
++<DIV8 N="ECFRb94bb24b55516fa" TYPE="SECTION">
+ <HEAD>§ 460.23   Other laws, rules, and orders.</HEAD>
+ <P>(a) If an outstanding FTC Cease and Desist Order applies to you but differs from the rules given here, you can petition to amend to order.
+ </P>
