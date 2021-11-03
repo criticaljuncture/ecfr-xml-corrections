@@ -1,0 +1,324 @@
+--- /home/app/data/titles/preprocessed/xml/50/2019/04/2019-04-11_4eb6d746.xml	2021-11-03 18:50:32.731076167 -0400
++++ tmp/title_version_50_2019-04-11_4eb6d746_preprocessed.xml	2021-11-03 18:59:56.792631231 -0400
+@@ -130700,321 +130700,6 @@
+ <HEAD>PART 217 - REGULATIONS GOVERNING THE TAKE OF MARINE MAMMALS INCIDENTAL TO SPECIFIED ACTIVITIES
+ </HEAD>
+ 
+-<DIV6 N="H" TYPE="SUBPART">
+-<HEAD>Subpart H - Taking of Marine Mammals Incidental to Space Vehicle and Missile Launches</HEAD>
+-
+-<SECTNO>217.70</SECTNO>
+-<SUBJECT>Specified activity and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.71</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.72</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.73</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.74</SECTNO>
+-<SUBJECT>Mitigation.
+-</SUBJECT>
+-<SECTNO>217.75</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.76</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.77</SECTNO>
+-<SUBJECT>Renewals and modifications of Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.78-217.79</SECTNO>
+-<SUBJECT>[Reserved]
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="I" TYPE="SUBPART">
+-<HEAD>Subpart I - Taking of Marine Mammals Incidental to Naval Explosive Ordnance Disposal School Training Operations</HEAD>
+-
+-<SECTNO>217.80</SECTNO>
+-<SUBJECT>Specified activity and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.81</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.82</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.83</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.84</SECTNO>
+-<SUBJECT>Mitigation.
+-</SUBJECT>
+-<SECTNO>217.85</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.86</SECTNO>
+-<SUBJECT>Applications for Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.87</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.88</SECTNO>
+-<SUBJECT>Renewal and review of Letters of Authorization and adaptive management.
+-</SUBJECT>
+-<SECTNO>217.89</SECTNO>
+-<SUBJECT>Modifications of Letters of Authorization.
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="J" TYPE="SUBPART">
+-<HEAD>Subpart J - Taking and Importing Marine Mammals; U.S. Navy's Submarine Base New London Pier Construction</HEAD>
+-
+-<SECTNO>217.90</SECTNO>
+-<SUBJECT>Specified activity and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.91</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.92</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.93</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.94</SECTNO>
+-<SUBJECT>Mitigation requirements.
+-</SUBJECT>
+-<SECTNO>217.95</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.96</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.97</SECTNO>
+-<SUBJECT>Renewals and modifications of Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.98-217.99</SECTNO>
+-<SUBJECT>[Reserved]
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="K" TYPE="SUBPART">
+-<HEAD>Subpart K [Reserved]</HEAD>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="L" TYPE="SUBPART">
+-<HEAD>Subpart L - Taking Marine Mammals Incidental to Conducting Precision Strike Weapon and Air-to-Surface Gunnery Missions at Eglin Gulf Test and Training Range (EGTTR) in the Gulf of Mexico</HEAD>
+-
+-<SECTNO>217.110</SECTNO>
+-<SUBJECT>Specified activity and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.111</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.112</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.113</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.114</SECTNO>
+-<SUBJECT>Mitigation.
+-</SUBJECT>
+-<SECTNO>217.115</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.116</SECTNO>
+-<SUBJECT>Applications for Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.117</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.118</SECTNO>
+-<SUBJECT>Renewals and Modifications of Letters of Authorization.
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="M" TYPE="SUBPART">
+-<HEAD>Subpart M [Reserved]</HEAD>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="N" TYPE="SUBPART">
+-<HEAD>Subpart N - Taking Marine Mammals Incidental to Seismic Surveys in Cook Inlet, Alaska</HEAD>
+-
+-<SECTNO>217.130</SECTNO>
+-<SUBJECT>Specified activity and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.131</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.132</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.133</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.134</SECTNO>
+-<SUBJECT>Mitigation requirements.
+-</SUBJECT>
+-<SECTNO>217.135</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.136</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.137</SECTNO>
+-<SUBJECT>Renewals and modifications of Letters of Authorization and Adaptive Management.
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="O-T" TYPE="SUBPART">
+-<HEAD>Subparts O-T [Reserved]</HEAD>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="U" TYPE="SUBPART">
+-<HEAD>Subpart U - Taking Of Marine Mammals Incidental to The Port of Anchorage Marine Terminal Redevelopment Project</HEAD>
+-
+-<SECTNO>217.200</SECTNO>
+-<SUBJECT>Specified activities and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.201</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.202</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.203</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.204</SECTNO>
+-<SUBJECT>Mitigation.
+-</SUBJECT>
+-<SECTNO>217.205</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.206</SECTNO>
+-<SUBJECT>Applications for Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.207</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.208</SECTNO>
+-<SUBJECT>Renewal of Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.209</SECTNO>
+-<SUBJECT>Modifications of Letters of Authorization.
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="W" TYPE="SUBPART">
+-<HEAD>Subpart W [Reserved]</HEAD>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="X" TYPE="SUBPART">
+-<HEAD>Subpart X - Taking Marine Mammals Incidental to Rehabilitation of the Jetty System at the Mouth of the Columbia River in Oregon and Washington</HEAD>
+-
+-<SECTNO>217.230</SECTNO>
+-<SUBJECT>Specified activity and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.231</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.232</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.233</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.234</SECTNO>
+-<SUBJECT>Mitigation requirements.
+-</SUBJECT>
+-<SECTNO>217.235</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.236</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.237</SECTNO>
+-<SUBJECT>Renewals and modifications of Letters of Authorization.
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="Y" TYPE="SUBPART">
+-<HEAD>Subpart Y [Reserved]</HEAD>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="Z" TYPE="SUBPART">
+-<HEAD>Subpart Z - Taking Marine Mammals Incidental to Navy Waterfront Construction Activities at Naval Submarine Base Kings Bay</HEAD>
+-
+-<SECTNO>217.250</SECTNO>
+-<SUBJECT>Specified activity and specified geographical region.
+-</SUBJECT>
+-<SECTNO>217.251</SECTNO>
+-<SUBJECT>Effective dates.
+-</SUBJECT>
+-<SECTNO>217.252</SECTNO>
+-<SUBJECT>Permissible methods of taking.
+-</SUBJECT>
+-<SECTNO>217.253</SECTNO>
+-<SUBJECT>Prohibitions.
+-</SUBJECT>
+-<SECTNO>217.254</SECTNO>
+-<SUBJECT>Mitigation requirements.
+-</SUBJECT>
+-<SECTNO>217.255</SECTNO>
+-<SUBJECT>Requirements for monitoring and reporting.
+-</SUBJECT>
+-<SECTNO>217.256</SECTNO>
+-<SUBJECT>Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.257</SECTNO>
+-<SUBJECT>Renewals and modifications of Letters of Authorization.
+-</SUBJECT>
+-<SECTNO>217.258-217.259</SECTNO>
+-<SUBJECT>[Reserved]
+-
+-
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="AA-XXX" TYPE="SUBPART">
+-<HEAD>Subpart AA-XXX [Reserved]</HEAD>
+-
+-</DIV6>
+-
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>16 U.S.C. 1361 <I>et seq.,</I> unless otherwise noted.
+ </PSPACE></AUTH>

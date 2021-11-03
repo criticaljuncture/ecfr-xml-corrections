@@ -1,0 +1,11 @@
+description: Some markup from the SGML contents tags bled over creating duplicate Subparts H through AA. This removes the non-content duplicates
+tags: 'sgml'
+status: 'needs-approval'
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2019-04-11'
+    end_date: '2019-04-11'
