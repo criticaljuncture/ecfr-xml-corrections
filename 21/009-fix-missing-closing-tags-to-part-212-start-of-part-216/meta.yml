@@ -1,0 +1,10 @@
+description: The last section in Part 212 (and subpart, part) are missing closing tags. Part 216 wasn't formatted correctly when it begins.
+tags: 'structural'
+status: 'needs-approval'
+issue_number:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2017-06-10'
