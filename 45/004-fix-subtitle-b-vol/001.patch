@@ -1,0 +1,13 @@
+--- /home/app/data/titles/preprocessed/xml/45/2017/01/2017-01-03_157fe476.xml	2021-11-04 16:59:24.522608091 -0400
++++ tmp/title_version_45_2017-01-03_157fe476_preprocessed.xml	2021-11-04 17:03:58.434627608 -0400
+@@ -109477,8 +109477,8 @@
+ 
+ 
+ </PG></CHAPTI></CFRTOC>
+-<DIV2 N="SUBTITLE B" TYPE="SUBTITLE">
+-<HEAD>SUBTITLE B - Regulations Relating to Public Welfare (Continued)
++<DIV2 N="Subtitle B" TYPE="SUBTITLE">
++<HEAD>Subtitle B - Regulations Relating to Public Welfare (Continued)
+ 
+ 
+ </HEAD>

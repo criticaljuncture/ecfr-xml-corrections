@@ -1,0 +1,11 @@
+description: Fix capitalization of Subtitle B in Vol 4 to match the others. This prevented the volume consolidator from working as expected
+tags: 'structural'
+status: 'needs-approval'
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2017-10-18'
