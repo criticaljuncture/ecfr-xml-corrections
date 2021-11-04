@@ -3,7 +3,7 @@ tags: 'transcription-error'
 status: 'approved'
 issue_number: 281
 fr_doc:
-reference:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/110907591/comments#413039068
 
 patches:
   '001':
