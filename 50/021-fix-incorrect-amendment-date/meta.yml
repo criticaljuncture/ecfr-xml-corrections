@@ -1,0 +1,9 @@
+description: Fix amendment date that was off by one day
+tags: 'amendment-date'
+status: 'approved'
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/112967200
+
+patches:
+  '001':
+    start_date: '2021-12-02'
+    end_date: '2021-12-04'
