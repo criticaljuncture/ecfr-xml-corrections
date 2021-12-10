@@ -1,18 +1,10 @@
---- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/47/2019/11/2019-11-13T20:00:12-0500.xml	2019-12-13 13:05:07.000000000 -0800
-+++ tmp/title_version_47_2019-11-13T20:00:12-0500_preprocessed.xml	2019-12-13 13:18:04.000000000 -0800
- 
-   
-@@ -70512,11 +70514,15 @@
- <CITA TYPE="N">[69 FR 6192, Feb. 10, 2004]
- 
- 
--
--
+--- /home/app/data/titles/preprocessed/xml/47/2019/11/2019-11-13_84c02ca8.xml	2021-12-10 14:31:33.021264162 -0500
++++ tmp/title_version_47_2019-11-13_84c02ca8_preprocessed.xml	2021-12-10 14:34:06.110175093 -0500
+@@ -70532,6 +70532,11 @@
  </CITA>
  </DIV8>
  
 +</DIV6>
-+
 +
 +<DIV6 N="G" TYPE="SUBPART">
 +<HEAD>Subpart G - Defined Terms and Eligibility</HEAD>
@@ -20,12 +12,11 @@
  <SOURCE>
  <HED>Source:</HED><PSPACE>84 FR 54979, Oct. 11, 2019, unless otherwise noted.
  
-@@ -71562,1052 +71568,10 @@
+@@ -71577,1052 +71582,10 @@
  
  
  
-+  
- 
+-
 -</P>
 -</DIV8>
 -
@@ -278,8 +269,9 @@
 -<P>(d) <I>Annual renewal.</I> The certification set forth in paragraph (c) of this section shall be renewed annually.
 -</P>
 -<CITA TYPE="N">[62 FR 32948, June 17, 1997, as amended at 70 FR 6373, Feb. 7, 2005; 78 FR 13984, Mar. 1, 2013]
--
--
++  
+ 
+ 
 -</CITA>
 -</DIV8>
 -
@@ -529,7 +521,7 @@
 -<P>(1) Connections eligible for support are only those that are between:
 -</P>
 -<P>(i) Eligible health care provider sites and off-site data centers or off-site administrative offices,
--</P>
+ </P>
 -<P>(ii) Two off-site data centers,
 -</P>
 -<P>(iii) Two off-site administrative offices,
@@ -551,7 +543,7 @@
 -
 -</CITA>
 -</DIV8>
- 
+-
 -
 -<DIV8 N="§ 54.638" TYPE="SECTION">
 -<HEAD>§ 54.638   Upfront payments.</HEAD>
@@ -583,7 +575,7 @@
 -<NOTE>
 -<HED>Note to paragraph (<E T="01">a</E>):</HED>
 -<P>The following are examples of ineligible expenses:
- </P>
+-</P>
 -<P>1. Costs associated with general computing, software, applications, and Internet content development are not supported, including the following:
 -</P>
 -<P>i. Computers, including servers, and related hardware (<I>e.g.,</I> printers, scanners, laptops), unless used exclusively for network management, maintenance, or other network operations;
@@ -805,7 +797,7 @@
 -
 -<DIV8 N="§ 54.643" TYPE="SECTION">
 -<HEAD>§ 54.643   Funding commitments.</HEAD>
--<XREF ID="20190219">Link to an amendment published at 84 FR 4732, Feb. 19, 2019.</XREF>
+-<XREF ID="20190219" REFID="26">Link to an amendment published at 84 FR 4732, Feb. 19, 2019.</XREF>
 -<P>(a) Once a vendor is selected, applicants must submit a “Funding Request” (and supporting documentation) to provide information about the services, equipment, or facilities selected and certify that the services selected were the most cost-effective option of the offers received. The following information should be submitted to the Administrator with the Funding Request.
 -</P>
 -<P>(1) <I>Request for funding.</I> The applicant shall submit a request for funding (Form 462) to identify the service(s), equipment, or facilities; rates; vendor(s); and date(s) of vendor selection.
