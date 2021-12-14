@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/32/2020/07/2020-07-23_6b81d8ef.xml	2021-12-14 07:59:33.977413277 -0800
++++ tmp/title_version_32_2020-07-23_6b81d8ef_preprocessed.xml	2021-12-14 08:11:12.581216832 -0800
+@@ -547,8 +547,6 @@
+ 
+ </DIV2>
+ 
+-</DIV1>
+-
+ 
+ <DIV4 N="C" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER C - DoD GRANT AND AGREEMENT REGULATIONS
+@@ -39326,6 +39324,8 @@
+ 
+ </DIV4>
+ 
++</DIV1>
++
+ </ECFRBRWS>
+ <ECFRBRWS>
+ <AMDDATE>July 6, 2020

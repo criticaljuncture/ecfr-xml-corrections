@@ -1,0 +1,11 @@
+description: Title version 14894 of Title 32 has closing DIV1 out of place prematurely ending volume 1.
+tags: structural
+status: needs-approval
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/562
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/562
+
+patches:
+  '001':
+    start_date: '2020-07-23'
+    end_date: '2020-07-23'
