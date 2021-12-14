@@ -1,0 +1,25 @@
+--- data/titles/preprocessed/xml/50/2020/03/2020-03-05_8423ee79.xml	2021-12-14 08:30:47.206101065 -0800
++++ tmp/title_version_50_2020-03-05_8423ee79_preprocessed.xml	2021-12-14 08:58:59.811826140 -0800
+@@ -42568,10 +42568,8 @@
+ <HEAD>§ 17.95   Critical habitat - fish and wildlife. (Continued)</HEAD>
+ <P>(c) <I>Reptiles.</I>
+ </P>
+-</DIV8>
+ 
+ <XREF ID="20200226" REFID="43">Link to an amendment published at 85 FR 11262, Feb. 26, 2020.</XREF>
+-</DIV6>
+ 
+ <EXTRACT>
+ <HD1>Culebra Island Giant Anole (<I>Anolis roosevetti</I>)
+@@ -52687,6 +52685,11 @@
+ <EDNOTE>
+ <HED>Editorial Notes:</HED><PSPACE>1. For <E T="04">Federal Register</E> citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I>
+ </PSPACE><P>2. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.</P></EDNOTE>
++
++</DIV8>
++
++</DIV6> 
++
+ </DIV5>
+ 
+ </DIV4>
