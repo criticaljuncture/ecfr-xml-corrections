@@ -1,9 +1,10 @@
---- /home/app/data/titles/preprocessed/xml/13/2020/11/2020-11-03_141455a2.xml	2020-11-19 13:27:41.935937945 -0500
-+++ tmp/title_version_13_2020-11-03T21:00:04-0500_preprocessed.xml	2020-11-19 13:29:18.165441138 -0500
-@@ -26743,14 +26743,6 @@
+--- tmp/title_version_13_2020-11-09T21:00:04-0500_preprocessed.xml	2020-11-13 14:48:31.669746881 -0500
++++ tmp/title_version_13_2020-11-12T21:00:05-0500_preprocessed.xml	2020-11-13 14:49:04.647646292 -0500
+@@ -26288,15 +26288,6 @@
+ <DIV5 N="125" TYPE="PART">
  <HEAD>PART 125 - GOVERNMENT CONTRACTING PROGRAMS
  </HEAD>
- 
+-
 -<DIV6 N="F" TYPE="SUBPART">
 -<HEAD>Subpart F - XXX</HEAD>
 -
@@ -11,11 +12,11 @@
 -<SUBJECT>xxx
 -
 -
--
- 
- </SUBJECT>
+-</SUBJECT>
  <AUTH>
-@@ -27938,8 +27930,6 @@
+ <HED>Authority:</HED><PSPACE>15 U.S.C. 632(p), (q), 634(b)(6), 637, 644, 657(f), and 657r.
+ </PSPACE>
+@@ -27483,8 +27474,6 @@
  </CITA>
  </DIV8>
  
