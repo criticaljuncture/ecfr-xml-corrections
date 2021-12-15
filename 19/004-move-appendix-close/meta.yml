@@ -1,0 +1,11 @@
+description: Appendix and subpart closed before end table
+tags: structural
+status: needs-review
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/562
+fr_doc: 85 FR 39693
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/562
+
+patches:
+  '001':
+    start_date: '2020-07-01'
+    end_date: '2020-10-16'

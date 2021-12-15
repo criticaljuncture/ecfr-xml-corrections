@@ -1,0 +1,25 @@
+--- /home/app/data/titles/preprocessed/xml/19/2020/07/2020-07-02_aa259e16.xml	2021-12-15 12:09:47.139341953 -0800
++++ tmp/title_version_19_2020-07-02_aa259e16_preprocessed.xml	2021-12-15 12:11:25.622750176 -0800
+@@ -69477,10 +69477,6 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">8708.80</TD><TD align="left" class="gpotbl_cell">Suspension systems and parts thereof (including shock absorbers).
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">8708.94</TD><TD align="left" class="gpotbl_cell">Steering wheels, steering columns, and steering boxes; parts thereof.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ex 8708.99</TD><TD align="left" class="gpotbl_cell">Chassis frames.</TD></TR></TABLE></DIV></DIV>
+-</DIV9>
+-
+-</DIV6>
+-
+ <EXTRACT>
+ <P>The following table sets out the parts and components applicable to Table A.2 and their related tariff provisions, to facilitate implementation of the core parts requirement pursuant to Article 3.7 of the Appendix to the Annex 4-B of the Agreement.
+ </P>
+@@ -71537,6 +71533,11 @@
+ <P>(b) with respect to the territory of Mexico, <I>Los Principios de Contabilidad Generalmente Aceptados,</I> issued by the <I>Instituto Mexicano de Contadores Públicos A.C. (IMCP),</I> including the <I>boletines complementarios,</I> as updated from time to time; and
+ </P>
+ <P>(c) with respect to the territory of the United States, Financial Accounting Standards Board (FASB) Accounting Standards Codification and any interpretive guidance recognized by the American Institute of Certified Public Accountants (AICPA).</P></EXTRACT>
++
++</DIV9>
++
++</DIV6>
++
+ </DIV5>
+ 
+ 
