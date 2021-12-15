@@ -1,0 +1,28 @@
+--- /home/app/data/titles/preprocessed/xml/32/2020/07/2020-07-29_6be84175.xml	2021-12-14 17:57:35.239123740 -0800
++++ tmp/title_version_32_2020-07-29_6be84175_preprocessed.xml	2021-12-14 17:58:20.442842796 -0800
+@@ -38522,12 +38522,6 @@
+ </HEAD>
+ </DIV4>
+ 
+-</DIV3>
+-
+-</DIV2>
+-
+-</DIV1>
+-
+ 
+ <DIV4 N="L" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER L - ENVIRONMENT 
+@@ -39328,6 +39322,12 @@
+ 
+ </DIV4>
+ 
++</DIV3>
++
++</DIV2>
++
++</DIV1>
++
+ </ECFRBRWS>
+ <ECFRBRWS>
+ <AMDDATE>July 6, 2020
