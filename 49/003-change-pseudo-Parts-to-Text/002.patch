@@ -1,6 +1,6 @@
---- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/49/2018/04/2018-04-23.xml	2019-07-08 14:39:26.000000000 -0700
-+++ tmp/title_version_49_2018-04-23T01:00:00-0400_preprocessed.xml	2019-07-08 14:42:51.000000000 -0700
-@@ -285435,12 +285435,10 @@
+--- /home/app/data/titles/preprocessed/xml/49/2018/04/2018-04-23_e1009d11.xml	2021-12-17 20:00:05.023826929 -0500
++++ tmp/title_version_49_2018-04-23_e1009d11_preprocessed.xml	2021-12-17 20:03:24.943478976 -0500
+@@ -285438,12 +285438,10 @@
  
  </HEAD>
  
@@ -17,7 +17,7 @@
  
  
  <DIV5 N="1000" TYPE="PART">
-@@ -288834,12 +288832,10 @@
+@@ -288837,12 +288835,10 @@
  </DIV5>
  
  
@@ -34,7 +34,7 @@
  
  
  <DIV5 N="1021" TYPE="PART">
-@@ -289048,12 +289044,10 @@
+@@ -289051,12 +289047,10 @@
  </DIV5>
  
  
@@ -51,7 +51,7 @@
  
  
  <DIV5 N="1033" TYPE="PART">
-@@ -289827,12 +289821,10 @@
+@@ -289830,12 +289824,10 @@
  </DIV5>
  
  
@@ -68,7 +68,7 @@
  
  
  <DIV5 N="1090" TYPE="PART">
-@@ -289904,12 +289896,10 @@
+@@ -289907,12 +289899,10 @@
  
  </HEAD>
  
@@ -85,7 +85,7 @@
  
  
  <DIV5 N="1100" TYPE="PART">
-@@ -293754,12 +293744,10 @@
+@@ -293757,12 +293747,10 @@
  </DIV5>
  
  
@@ -102,7 +102,7 @@
  
  
  <DIV5 N="1130" TYPE="PART">
-@@ -294243,12 +294231,10 @@
+@@ -294246,12 +294234,10 @@
  </DIV5>
  
  
@@ -119,7 +119,7 @@
  
  
  <DIV5 N="1150-1159" TYPE="PART">
-@@ -298085,12 +298071,10 @@
+@@ -298088,12 +298074,10 @@
  </DIV5>
  
  
@@ -136,7 +136,7 @@
  
  
  <DIV5 N="1177-1179" TYPE="PART">
-@@ -298330,12 +298314,10 @@
+@@ -298333,12 +298317,10 @@
  </DIV5>
  
  
@@ -153,7 +153,7 @@
  
  
  <DIV5 N="1180" TYPE="PART">
-@@ -299620,12 +299602,10 @@
+@@ -299623,12 +299605,10 @@
  
  </HEAD>
  
@@ -170,7 +170,7 @@
  
  
  <DIV5 N="1200" TYPE="PART">
-@@ -308985,15 +308965,13 @@
+@@ -308988,15 +308968,13 @@
  </DIV5>
  
  
@@ -189,31 +189,32 @@
  
  
  <DIV5 N="1241" TYPE="PART">
-@@ -312360,26 +312338,22 @@
- 
+@@ -312364,14 +312342,13 @@
  </DIV5>
  
--
+ 
 -<DIV5 N="1260" TYPE="PART">
 -<HEAD>PARTS 1260-1269 - VALUATION
 -</HEAD>
 +<TEXT>
 +  <HED1>PARTS 1260-1269 - VALUATION</HED1>
- <XREF ID="20180419">Link to an amendment published at 83 FR 17300, Apr. 19, 2018.</XREF>
+ <XREF ID="20180419" REFID="13">Link to an amendment published at 83 FR 17300, Apr. 19, 2018.</XREF>
  <NOTE>
  <HED>Note:</HED>
  <P>The report forms prescribed by parts 1260-1269 are available upon request from the Office of Economics, Environmental Analysis, and Administration, Surface Transportation Board, Washington, DC 20423-0001.</P></NOTE>
 -</DIV5>
--
--
 +</TEXT>
  
+ 
+ <DIV5 N="1260" TYPE="PART">
+@@ -312381,12 +312358,10 @@
+ </DIV5>
  
  
 -<DIV5 N="1280-1299" TYPE="PART">
 -<HEAD>PARTS 1280-1299 - CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
- 
- 
+-
+-
 -</HEAD>
 -</DIV5>
 +<TEXT>
