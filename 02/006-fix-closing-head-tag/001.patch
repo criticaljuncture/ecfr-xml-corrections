@@ -1,0 +1,18 @@
+--- /home/app/data/titles/preprocessed/xml/02/2021/03/2021-03-08_a6c1505e.xml	2021-12-20 14:20:59.513562157 -0800
++++ tmp/title_version_2_2021-03-08_a6c1505e_preprocessed.xml	2021-12-20 14:21:30.597362791 -0800
+@@ -18024,13 +18024,13 @@
+ <HEAD> CHAPTER XI - DEPARTMENT OF DEFENSE</HEAD>
+ 
+ <DIV4 N="A" TYPE="SUBCHAP">
+-<HEAD>Subchapter A - General Matters and Definitions
++<HEAD>Subchapter A - General Matters and Definitions</HEAD>
+ 
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>85 FR 51160, Aug. 19, 2020, unless otherwise noted.
+ 
+ 
+-</PSPACE></SOURCE></HEAD>
++</PSPACE></SOURCE>
+ 
+ <DIV5 N="1100-1103" TYPE="PART">
+ <HEAD>PARTS 1100-1103 [RESERVED]
