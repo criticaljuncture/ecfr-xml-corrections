@@ -1,0 +1,60 @@
+--- /home/app/data/titles/preprocessed/xml/39/2021/03/2021-03-18_93c0712e.xml	2021-12-20 10:31:47.239270620 -0800
++++ tmp/title_version_39_2021-03-18_93c0712e_preprocessed.xml	2021-12-20 10:34:33.522214402 -0800
+@@ -62,11 +62,11 @@
+ 
+ <DIV4 N="A" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER A - THE BOARD OF GOVERNORS OF THE U.S. POSTAL SERVICE 
++</HEAD>
+ 
+ <HED1>Bylaws of the Board of Governors
+ 
+-
+-</HED1></HEAD>
++</HED1>
+ 
+ <DIV5 N="1" TYPE="PART">
+ <HEAD>PART 1 - POSTAL POLICY (ARTICLE I)
+@@ -1079,13 +1079,13 @@
+ 
+ <DIV4 N="C" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER C - POST OFFICE SERVICES [DOMESTIC MAIL] 
+-
++</HEAD>
+ 
+ 
+ <HED1>General Information on Postal Service 
+ 
+ 
+-</HED1></HEAD>
++</HED1>
+ 
+ <DIV5 N="111" TYPE="PART">
+ <HEAD>PART 111 - GENERAL INFORMATION ON POSTAL SERVICE
+@@ -11238,11 +11238,11 @@
+ 
+ <DIV4 N="N" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER N - PROCEDURES 
+-
++</HEAD>
+ <HED1>Rules of Procedure Before the Office of General Counsel 
+ 
+ 
+-</HED1></HEAD>
++</HED1>
+ 
+ <DIV5 N="912" TYPE="PART">
+ <HEAD>PART 912 - PROCEDURES TO ADJUDICATE CLAIMS FOR PERSONAL INJURY OR PROPERTY DAMAGE ARISING OUT OF THE OPERATION OF THE U.S. POSTAL SERVICE
+@@ -11565,11 +11567,11 @@
+
+ <DIV5 N="916" TYPE="PART">
+ <HEAD>PART 916 [RESERVED]
++</HEAD>
+
+ <HED1>Rules of Procedure Before the Mail Processing Department
+
+-
+-</HED1></HEAD>
++</HED1>
+ </DIV5>
+ 
+ 
