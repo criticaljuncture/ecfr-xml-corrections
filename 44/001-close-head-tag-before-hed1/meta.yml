@@ -1,0 +1,11 @@
+description: OFR removal of TEXT tags caused HED1 to appear within HEADs
+tags: structural
+status: needs-review
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/590
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/590
+
+patches:
+  '001':
+    start_date: '2021-06-12'
+    end_date: '2100-01-01'
