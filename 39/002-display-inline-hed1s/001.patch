@@ -1,0 +1,156 @@
+--- /home/app/data/titles/preprocessed/xml/39/2017/01/2017-01-03_cd192a96.xml	2022-01-04 09:50:07.882957772 -0800
++++ tmp/title_version_39_2017-01-03_cd192a96_preprocessed.xml	2022-01-04 09:54:35.469277174 -0800
+@@ -63,11 +63,11 @@
+ <DIV4 N="A" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER A - THE BOARD OF GOVERNORS OF THE U.S. POSTAL SERVICE 
+ </HEAD>
+-<TEXT>
++
+ <HED1>Bylaws of the Board of Governors
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="1" TYPE="PART">
+ <HEAD>PART 1 - POSTAL POLICY (ARTICLE I)
+@@ -1027,11 +1027,11 @@
+ 
+ 
+ </HEAD>
+-<TEXT>
++
+ <HED1>General Information on Postal Service 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="111" TYPE="PART">
+ <HEAD>PART 111 - GENERAL INFORMATION ON POSTAL SERVICE
+@@ -1927,11 +1927,11 @@
+ </P>
+ </DIV8>
+ 
+-<TEXT>
++
+ <HED1>Inspection Service Requirements
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ </DIV5>
+ 
+ 
+@@ -3821,11 +3821,11 @@
+ </CITA>
+ </DIV8>
+ 
+-<TEXT>
++
+ <HED1>Post Office Organization and Administration 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ </DIV5>
+ 
+ 
+@@ -4240,11 +4240,11 @@
+ </CITA>
+ </DIV8>
+ 
+-<TEXT>
++
+ <HED1>General Postal Administration
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ </DIV5>
+ 
+ 
+@@ -4568,11 +4568,11 @@
+ </CITA>
+ </DIV8>
+ 
+-<TEXT>
++
+ <HED1>Records and Information 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ </DIV5>
+ 
+ 
+@@ -6722,11 +6722,11 @@
+ </P>
+ </DIV8>
+ 
+-<TEXT>
++
+ <HED1>Damage to or Destruction of Firm Mailings 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ </DIV5>
+ 
+ 
+@@ -11133,11 +11133,11 @@
+ <DIV4 N="N" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER N - PROCEDURES 
+ </HEAD>
+-<TEXT>
++
+ <HED1>Rules of Procedure Before the Office of General Counsel 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="912" TYPE="PART">
+ <HEAD>PART 912 - PROCEDURES TO ADJUDICATE CLAIMS FOR PERSONAL INJURY OR PROPERTY DAMAGE ARISING OUT OF THE OPERATION OF THE U.S. POSTAL SERVICE
+@@ -11463,11 +11463,11 @@
+ </HEAD>
+ </DIV5>
+ 
+-<TEXT>
++
+ <HED1>Rules of Procedure Before the Mail Processing Department
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="927" TYPE="PART">
+ <HEAD>PART 927 - RULES OF PROCEDURE RELATING TO FINES, DEDUCTIONS, AND DAMAGES 
+@@ -11544,11 +11544,11 @@
+ </CITA>
+ </DIV8>
+ 
+-<TEXT>
++
+ <HED1>Rules of Procedure Before the Postal Inspection Service 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ </DIV5>
+ 
+ 
+@@ -11680,11 +11680,11 @@
+ </CITA>
+ </DIV8>
+ 
+-<TEXT>
++
+ <HED1>Rules of Procedure Before the Judicial Officer
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ </DIV5>
+ 
+ 
