@@ -1,0 +1,115 @@
+--- /home/app/data/titles/preprocessed/xml/37/2017/01/2017-01-03_ba79533d.xml	2022-01-04 08:34:02.480333996 -0800
++++ tmp/title_version_37_2017-01-03_ba79533d_preprocessed.xml	2022-01-04 08:40:04.470019189 -0800
+@@ -78,11 +78,10 @@
+ <DIV4 N="A" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER A - GENERAL
+ </HEAD>
+-<TEXT>
+ <HED1><I>PATENTS</I>
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="1" TYPE="PART">
+ <HEAD>PART 1 - RULES OF PRACTICE IN PATENT CASES
+@@ -9401,10 +9400,6 @@
+ 
+ 
+ </P>
+-<HED1>PART 2 - RULES OF PRACTICE IN TRADEMARK CASES
+-</HED1>
+-<EDNOTE>
+-<HED>Editorial Note:</HED><PSPACE>Part 2 is placed in the separate grouping of parts pertaining to trademarks regulations.</PSPACE></EDNOTE>
+ </DIV8>
+ 
+ </DIV7>
+@@ -9413,6 +9408,12 @@
+ 
+ </DIV5>
+ 
++<TEXT>
++<HED1>PART 2 - RULES OF PRACTICE IN TRADEMARK CASES
++</HED1>
++<EDNOTE>
++<HED>Editorial Note:</HED><PSPACE>Part 2 is placed in the separate grouping of parts pertaining to trademarks regulations.</PSPACE></EDNOTE>
++</TEXT>
+ 
+ <DIV5 N="3" TYPE="PART">
+ <HEAD>PART 3 - ASSIGNMENT, RECORDING AND RIGHTS OF ASSIGNEE
+@@ -10295,6 +10296,10 @@
+ <HEAD>§§ 5.31-5.33   [Reserved]</HEAD>
+ </DIV8>
+ 
++</DIV7>
++
++</DIV5>
++
+ <TEXT>
+ <HED1>PART 6 - CLASSIFICATION OF GOODS AND SERVICES UNDER THE TRADEMARK ACT
+ </HED1>
+@@ -10304,9 +10309,6 @@
+ </HED1>
+ <EDNOTE>
+ <HED>Editorial Note:</HED><PSPACE>Part 7 is placed in the separate grouping of parts pertaining to trademarks regulations.</PSPACE></EDNOTE></TEXT>
+-</DIV7>
+-
+-</DIV5>
+ 
+ <SUBCHIND>
+ <HED>INDEX I - RULES RELATING TO PATENTS
+@@ -14421,11 +14423,11 @@
+ </HED1>
+ <EDNOTE>
+ <HED>Editorial Note:</HED><PSPACE>Part 1 is placed in the separate grouping of parts pertaining to patents regulations.</PSPACE></EDNOTE></TEXT>
+-<TEXT>
++
+ <HED1><I>TRADEMARKS</I>
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="2" TYPE="PART">
+ <HEAD>PART 2 - RULES OF PRACTICE IN TRADEMARK CASES
+@@ -18328,6 +18330,13 @@
+ 
+ 
+ </P>
++</DIV8>
++
++</DIV7>
++
++</DIV5>
++
++<TEXT>
+ <HED1>PART 3 - ASSIGNMENT, RECORDING AND RIGHTS OF ASSIGNEE
+ </HED1>
+ <EDNOTE>
+@@ -18340,12 +18349,7 @@
+ </HED1>
+ <EDNOTE>
+ <HED>Editorial Note:</HED><PSPACE>Part 5 is placed in the separate grouping of parts pertaining to patents regulations.</PSPACE></EDNOTE>
+-</DIV8>
+-
+-</DIV7>
+-
+-</DIV5>
+-
++</TEXT>
+ 
+ <DIV5 N="6" TYPE="PART">
+ <HEAD>PART 6 - CLASSIFICATION OF GOODS AND SERVICES UNDER THE TRADEMARK ACT
+@@ -22324,11 +22328,10 @@
+ </PT></SUBCHIND>
+ 
+ 
+-<TEXT>
+ <HED1><I>PRACTICE BEFORE THE PATENT AND TRADEMARK OFFICE</I>
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="10" TYPE="PART">
+ <HEAD>PART 10 [RESERVED]

@@ -1,0 +1,14 @@
+description: Correct HED1 tag for display in TOC and not as part of previous tag grouping
+tags: structural
+status: needs-review
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/590
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/590, https://www.notion.so/criticaljuncture/Versioner-Documenting-Special-Cases-23b87ca0e6d04e70bccc0528f944c135
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2021-03-01 21:00:11 -0500'
+  '002':
+    start_date: '2021-03-02 00:40:04 -0500'
+    end_date: '2100-01-01'
