@@ -1,0 +1,628 @@
+--- /home/app/data/titles/preprocessed/xml/43/2020/12/2020-12-14_b27efdcf.xml	2022-01-04 17:16:50.580816341 -0800
++++ tmp/title_version_43_2020-12-14_b27efdcf_preprocessed.xml	2022-01-04 17:22:23.026765133 -0800
+@@ -38836,10 +38836,6 @@
+ 
+ 
+ </CITA>
+-<HED1>Group 1700 - Program Management 
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -38847,6 +38843,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 1700 - Program Management 
++
++
++</HED1>
+ <DIV5 N="1780" TYPE="PART">
+ <HEAD>PART 1780 - COOPERATIVE RELATIONS 
+ </HEAD>
+@@ -39266,10 +39266,6 @@
+ 
+ 
+ </CITA>
+-<HED1>Group 1800 - Public Administrative Procedures 
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -39277,6 +39273,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 1800 - Public Administrative Procedures 
++
++
++</HED1>
+ <DIV5 N="1810" TYPE="PART">
+ <HEAD>PART 1810 - INTRODUCTION AND GENERAL GUIDANCE 
+ </HEAD>
+@@ -40503,11 +40503,11 @@
+ <DIV4 N="B" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER B - LAND RESOURCE MANAGEMENT (2000) 
+ </HEAD>
+-<TEXT>
++
+ <HED1>Group 2000 - Land Resource Management; General 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="2090" TYPE="PART">
+ <HEAD>PART 2090 - SPECIAL LAWS AND RULES 
+@@ -40968,21 +40968,21 @@
+ 
+ 
+ </P>
+-<HED1>Group 2100 - Acquisitions 
++</DIV8>
+ 
++</DIV6>
+ 
+-</HED1>
+-<HED1>Group 2200 - Exchanges
++</DIV5>
+ 
+ 
+-</HED1>
+-</DIV8>
++<HED1>Group 2100 - Acquisitions 
+ 
+-</DIV6>
+ 
+-</DIV5>
++</HED1>
++<HED1>Group 2200 - Exchanges
+ 
+ 
++</HED1>
+ <DIV5 N="2200" TYPE="PART">
+ <HEAD>PART 2200 - EXCHANGES: GENERAL PROCEDURES
+ </HEAD>
+@@ -41693,10 +41693,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 2300 - Withdrawals
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -41704,6 +41700,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 2300 - Withdrawals
++
++
++</HED1>
+ <DIV5 N="2300" TYPE="PART">
+ <HEAD>PART 2300 - LAND WITHDRAWALS 
+ </HEAD>
+@@ -42538,10 +42538,6 @@
+ 
+ 
+ </CITA>
+-<HED1>Group 2400 - Land Classification 
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -42549,6 +42545,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 2400 - Land Classification 
++
++
++</HED1>
+ <DIV5 N="2400" TYPE="PART">
+ <HEAD>PART 2400 - LAND CLASSIFICATION 
+ </HEAD>
+@@ -43256,6 +43256,13 @@
+ 
+ 
+ </CITA>
++</DIV8>
++
++</DIV6>
++
++</DIV5>
++
++
+ <HED1>Group 2500 - Disposition; Occupancy and Use
+ </HED1>
+ <NOTE>
+@@ -43265,13 +43272,6 @@
+ 
+ 
+ </CITA>
+-</DIV8>
+-
+-</DIV6>
+-
+-</DIV5>
+-
+-
+ <DIV5 N="2520" TYPE="PART">
+ <HEAD>PART 2520 - DESERT-LAND ENTRIES 
+ </HEAD>
+@@ -45986,10 +45986,6 @@
+ <XREF ID="20201211" REFID="33">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+ <XREF ID="20201211" REFID="34">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+ <XREF ID="20201211" REFID="34a">Link to a correction published at 85 FR 79892, Dec. 11, 2020.</XREF>
+-<HED1>Group 2600 - Disposition; Grants 
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -45997,6 +45993,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 2600 - Disposition; Grants 
++
++
++</HED1>
+ <DIV5 N="2610" TYPE="PART">
+ <HEAD>PART 2610 - CAREY ACT GRANTS
+ </HEAD>
+@@ -48221,13 +48221,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 2700 - Disposition; Sales
+-</HED1>
+-<NOTE>
+-<HED>Note:</HED>
+-<P>The information collection requirements contained in parts 2720 and 2740 of Group 2700 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance numbers 1004-0153 and 1004-0012, respectively. The information is being collected to permit the authorized officer to determine if disposition of Federally-owned mineral interests should be made and to determine if disposition of public lands should be made for recreation and public purposes. This information will be used to make these determinations. A response is required to obtain a benefit. 
+-</P>
+-<FP>(See 51 FR 9657, Mar. 20, 1986)</FP></NOTE>
+ </DIV8>
+ 
+ </DIV6>
+@@ -48235,6 +48228,13 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 2700 - Disposition; Sales
++</HED1>
++<NOTE>
++<HED>Note:</HED>
++<P>The information collection requirements contained in parts 2720 and 2740 of Group 2700 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance numbers 1004-0153 and 1004-0012, respectively. The information is being collected to permit the authorized officer to determine if disposition of Federally-owned mineral interests should be made and to determine if disposition of public lands should be made for recreation and public purposes. This information will be used to make these determinations. A response is required to obtain a benefit. 
++</P>
++<FP>(See 51 FR 9657, Mar. 20, 1986)</FP></NOTE>
+ <DIV5 N="2710" TYPE="PART">
+ <HEAD>PART 2710 - SALES: FEDERAL LAND POLICY AND MANAGEMENT ACT 
+ </HEAD>
+@@ -49318,10 +49318,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 2800 - Use; Rights-of-Way
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -49329,6 +49325,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 2800 - Use; Rights-of-Way
++
++
++</HED1>
+ <DIV5 N="2800" TYPE="PART">
+ <HEAD>PART 2800 - RIGHTS-OF-WAY UNDER THE FEDERAL LAND POLICY AND MANAGEMENT ACT
+ </HEAD>
+@@ -54283,10 +54283,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 2900 - Use; Leases and Permits 
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -54294,6 +54290,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 2900 - Use; Leases and Permits 
++
++
++</HED1>
+ <DIV5 N="2910" TYPE="PART">
+ <HEAD>PART 2910 - LEASES 
+ </HEAD>
+@@ -69036,6 +69036,13 @@
+ 
+ 
+ </P>
++</DIV8>
++
++</DIV7>
++
++</DIV5>
++
++
+ <HED1>Group 3200 - Geothermal Resources Leasing
+ </HED1>
+ <NOTE>
+@@ -69045,13 +69052,6 @@
+ <P>Public reporting burden for this information is estimated to average 1.6 hours per response, including the time for reviewing insstructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Division of Information Resources Management, Bureau of Land Management, 1800 C Street, NW., Premier Building, Room 208, Washington DC 20240; and the Paperwork Reduction Project (1004-0160), Office of Management and Budget, Washington, DC 20503.
+ </P>
+ <FP>(See 54 FR 13885, Apr. 6, 1989 and 55 FR 26443, June 28, 1990)</FP></NOTE>
+-</DIV8>
+-
+-</DIV7>
+-
+-</DIV5>
+-
+-
+ <DIV5 N="3200" TYPE="PART">
+ <HEAD>PART 3200 - GEOTHERMAL RESOURCE LEASING 
+ </HEAD>
+@@ -75170,10 +75170,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 3400 - Coal Management
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -75181,6 +75177,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 3400 - Coal Management
++
++
++</HED1>
+ <DIV5 N="3400" TYPE="PART">
+ <HEAD>PART 3400 - COAL MANAGEMENT: GENERAL
+ </HEAD>
+@@ -84506,11 +84506,6 @@
+ 
+ 
+ </CITA>
+-<HED1>Group 3600 - Mineral Materials Disposal
+-</HED1>
+-<NOTE>
+-<HED>Note:</HED>
+-<P>The information collection requirements contained in parts 3600, 3610 and 3620 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 <I>et seq.</I> and assigned clearance number 1004-0103. The information is being collected to allow the authorized officer to determine if the applicant is qualified to purchase or have free use of mineral materials on the public lands. The obligation to respond is required to obtain a benefit.</P></NOTE>
+ </DIV8>
+ 
+ </DIV6>
+@@ -84518,6 +84513,11 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 3600 - Mineral Materials Disposal
++</HED1>
++<NOTE>
++<HED>Note:</HED>
++<P>The information collection requirements contained in parts 3600, 3610 and 3620 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 <I>et seq.</I> and assigned clearance number 1004-0103. The information is being collected to allow the authorized officer to determine if the applicant is qualified to purchase or have free use of mineral materials on the public lands. The obligation to respond is required to obtain a benefit.</P></NOTE>
+ <DIV5 N="3600" TYPE="PART">
+ <HEAD>PART 3600 - MINERAL MATERIALS DISPOSAL 
+ </HEAD>
+@@ -85806,13 +85806,6 @@
+ 
+ 
+ </CITA>
+-<HED1>Group 3700 - Multiple Use; Mining 
+-</HED1>
+-<NOTE>
+-<HED>Note:</HED>
+-<P>The information collection requirements contained in part 3730 of Group 3700 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1004-0110. The information is being collected to permit the authorized officer to determine whether an applicant is qualified to hold a lease for the exploration, development and utilization of minerals on all public lands withdrawn for power development. The information will be used to make this determination. A response is required to obtain a benefit.
+-</P>
+-<FP>(See 48 FR 40890, Sept. 12, 1983)</FP></NOTE>
+ </DIV8>
+ 
+ </DIV6>
+@@ -85820,6 +85813,13 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 3700 - Multiple Use; Mining 
++</HED1>
++<NOTE>
++<HED>Note:</HED>
++<P>The information collection requirements contained in part 3730 of Group 3700 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1004-0110. The information is being collected to permit the authorized officer to determine whether an applicant is qualified to hold a lease for the exploration, development and utilization of minerals on all public lands withdrawn for power development. The information will be used to make this determination. A response is required to obtain a benefit.
++</P>
++<FP>(See 48 FR 40890, Sept. 12, 1983)</FP></NOTE>
+ <DIV5 N="3710" TYPE="PART">
+ <HEAD>PART 3710 - PUBLIC LAW 167; ACT OF JULY 23, 1955 
+ </HEAD>
+@@ -87186,13 +87186,6 @@
+ 
+ 
+ </CITA>
+-<HED1>Group 3800 - Mining Claims Under the General Mining Laws 
+-</HED1>
+-<NOTE>
+-<HED>Note:</HED>
+-<P>The information collection requirements contained in parts 3800, 3810, 3820, 3830, 3860 and 3870 of Group 3800 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance numbers 1004-0025, 1004-0104, 1004-0110 and 1004-0114. The information is being collected to permit the authorized officer to review certain proposed mining activities to ensure that they provide adequate protection of the public lands and their resources. The information will be used to make this determination. A response is required to obtain a benefit.
+-</P>
+-<FP>(See 48 FR 40890, Sept. 12, 1983)</FP></NOTE>
+ </DIV8>
+ 
+ </DIV6>
+@@ -87200,6 +87193,13 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 3800 - Mining Claims Under the General Mining Laws 
++</HED1>
++<NOTE>
++<HED>Note:</HED>
++<P>The information collection requirements contained in parts 3800, 3810, 3820, 3830, 3860 and 3870 of Group 3800 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance numbers 1004-0025, 1004-0104, 1004-0110 and 1004-0114. The information is being collected to permit the authorized officer to review certain proposed mining activities to ensure that they provide adequate protection of the public lands and their resources. The information will be used to make this determination. A response is required to obtain a benefit.
++</P>
++<FP>(See 48 FR 40890, Sept. 12, 1983)</FP></NOTE>
+ <DIV5 N="3800" TYPE="PART">
+ <HEAD>PART 3800 - MINING CLAIMS UNDER THE GENERAL MINING LAWS 
+ </HEAD>
+@@ -95287,7 +95287,7 @@
+ <DIV4 N="D" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER D - RANGE MANAGEMENT (4000)
+ </HEAD>
+-<TEXT>
++
+ <HED1>Group 4100 - Grazing Administration 
+ </HED1>
+ <NOTE>
+@@ -95296,7 +95296,7 @@
+ <CITA TYPE="N">[48 FR 40890, Sept. 12, 1983]
+ 
+ 
+-</CITA></TEXT>
++</CITA>
+ 
+ <DIV5 N="4100" TYPE="PART">
+ <HEAD>PART 4100 - GRAZING ADMINISTRATION - EXCLUSIVE OF ALASKA 
+@@ -96943,10 +96943,6 @@
+ 
+ 
+ </CITA>
+-<HED1>Group 4200 - Grazing Administration; Alaska; Livestock
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -96954,6 +96950,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 4200 - Grazing Administration; Alaska; Livestock
++
++
++</HED1>
+ <DIV5 N="4200" TYPE="PART">
+ <HEAD>PART 4200 - GRAZING ADMINISTRATION; ALASKA; LIVESTOCK
+ </HEAD>
+@@ -96971,6 +96971,11 @@
+ 
+ 
+ </CITA>
++</DIV8>
++
++</DIV5>
++
++
+ <HED1>Group 4300 - Grazing Administration; Alaska; Reindeer; General
+ </HED1>
+ <NOTE>
+@@ -96978,11 +96983,6 @@
+ <P>The information collection requirements contained in subpart 4320 of Group 4300 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1004-0024. The information is being collected to permit the authorized officer to determine whether an application to utilize the public lands in Alaska for reindeer grazing should be granted. The information will be used to make this determination. The obligation to respond is required to obtain a benefit.
+ </P>
+ <FP>[48 FR 40890, Sept. 12, 1983]</FP></NOTE>
+-</DIV8>
+-
+-</DIV5>
+-
+-
+ <DIV5 N="4300" TYPE="PART">
+ <HEAD>PART 4300 - GRAZING ADMINISTRATION; ALASKA; REINDEER; GENERAL
+ 
+@@ -97460,10 +97460,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 4600 - Leases
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV7>
+@@ -97471,6 +97467,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 4600 - Leases
++
++
++</HED1>
+ <DIV5 N="4600" TYPE="PART">
+ <HEAD>PART 4600 - LEASES OF GRAZING LAND - PIERCE ACT 
+ </HEAD>
+@@ -97619,6 +97619,13 @@
+ 
+ 
+ </CITA>
++</DIV8>
++
++</DIV6>
++
++</DIV5>
++
++
+ <HED1>Group 4700 - Wild Free-Roaming Horse and Burro Management
+ </HED1>
+ <NOTE>
+@@ -97628,13 +97635,6 @@
+ <P>Public reporting burden for this information is estimated to average 0.165 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to the Information Collection Clearance Officer, Division of Information Resources Management, Bureau of Land Management (770), 1849 C Street NW., Washington, DC 20240, and the Office of Management and Budget, Paperwork Reduction Project 1004-0042, Washington, DC 20503.
+ </P>
+ <FP>[51 FR 7414, Mar. 3. 1986, as amended at 56 FR 786, Jan. 9, 1991]</FP></NOTE>
+-</DIV8>
+-
+-</DIV6>
+-
+-</DIV5>
+-
+-
+ <DIV5 N="4700" TYPE="PART">
+ <HEAD>PART 4700 - PROTECTION, MANAGEMENT, AND CONTROL OF WILD FREE-ROAMING HORSES AND BURROS
+ </HEAD>
+@@ -98247,11 +98247,11 @@
+ 
+ 
+ </HEAD>
+-<TEXT>
++
+ <HED1>Group 5000 - Forest Management General 
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="5000" TYPE="PART">
+ <HEAD>PART 5000 - ADMINISTRATION OF FOREST MANAGEMENT DECISIONS
+@@ -98395,15 +98395,15 @@
+ 
+ 
+ </P>
+-<HED1>Group 5400 - Sales of Forest Products
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV5>
+ 
+ 
++<HED1>Group 5400 - Sales of Forest Products
++
++
++</HED1>
+ <DIV5 N="5400" TYPE="PART">
+ <HEAD>PART 5400 - SALES OF FOREST PRODUCTS; GENERAL 
+ </HEAD>
+@@ -99299,10 +99299,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 5500 - Nonsale Disposals
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -99310,6 +99306,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 5500 - Nonsale Disposals
++
++
++</HED1>
+ <DIV5 N="5500" TYPE="PART">
+ <HEAD>PART 5500 - NONSALE DISPOSALS; GENERAL 
+ </HEAD>
+@@ -100212,7 +100212,7 @@
+ 
+ 
+ </HEAD>
+-<TEXT>
++
+ <HED1>Group 8100 - Cultural Resource Management [Reserved]
+ 
+ 
+@@ -100220,7 +100220,7 @@
+ <HED1>Group 8200 - Natural History Resource Management
+ 
+ 
+-</HED1></TEXT>
++</HED1>
+ 
+ <DIV5 N="8200" TYPE="PART">
+ <HEAD>PART 8200 - PROCEDURES
+@@ -101226,28 +101226,28 @@
+ 
+ 
+ </P>
+-<HED1>Group 8600 - Environmental Education and Protection [Reserved]
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+ 
+ </DIV5>
+ 
++<HED1>Group 8600 - Environmental Education and Protection [Reserved]
++</HED1>
+ </DIV4>
+ 
+ 
+ <DIV4 N="I" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER I - TECHNICAL SERVICES (9000)
+ </HEAD>
+-<TEXT>
++
+ <HED1>Group 9100 - Engineering
+ </HED1>
+ <NOTE>
+ <HED>Note:</HED>
+ <P>The information collection requirements contained in part 9180 of Group 9100 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1004-0033. The information is being collected to permit the authorized officer to determine whether an application for survey of islands or other omitted lands that are part of the public lands should be granted. The information will be used to make this determination. A response is required to obtain a benefit.
+ </P>
+-<FP>[48 FR 40890, Sept. 12, 1983]</FP></NOTE></TEXT>
++<FP>[48 FR 40890, Sept. 12, 1983]</FP></NOTE>
+ 
+ <DIV5 N="9180" TYPE="PART">
+ <HEAD>PART 9180 - CADASTRAL SURVEY 
+@@ -101512,10 +101512,6 @@
+ 
+ 
+ </P>
+-<HED1>Group 9200 - Protection 
+-
+-
+-</HED1>
+ </DIV8>
+ 
+ </DIV6>
+@@ -101523,6 +101519,10 @@
+ </DIV5>
+ 
+ 
++<HED1>Group 9200 - Protection 
++
++
++</HED1>
+ <DIV5 N="9210" TYPE="PART">
+ <HEAD>PART 9210 - FIRE MANAGEMENT
+ </HEAD>
