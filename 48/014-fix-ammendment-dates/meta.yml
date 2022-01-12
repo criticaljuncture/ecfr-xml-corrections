@@ -1,0 +1,17 @@
+description: Title 48 issues with updating volume dates at beginning of year
+tags: structural
+status: approved
+issue_number: 
+fr_doc: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113109162/comments#424491426
+
+patches: 
+  '001':
+    start_date: '2022-01-06'
+    end_date: '2022-01-06'
+  '002':
+    start_date: '2022-01-07'
+    end_date: '2022-01-08'
+  '003':
+    start_date: '2022-01-09'
+    end_date: '2022-01-12'

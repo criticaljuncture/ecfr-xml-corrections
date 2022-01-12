@@ -1,0 +1,20 @@
+gi--- /home/app/data/titles/preprocessed/xml/48/2022/01/2022-01-12_0f4cebc1.xml	2022-01-12 15:36:49.511194128 -0800
++++ tmp/title_version_48_2022-01-12_0f4cebc1_preprocessed.xml	2022-01-12 15:37:48.766840177 -0800
+@@ -34,7 +34,7 @@
+ <TEXT>
+ <BODY>
+ <ECFRBRWS>
+-<AMDDATE>Dec. 30, 2021
++<AMDDATE>Jan. 6, 2022
+ </AMDDATE>
+ 
+ <DIV1 N="1" TYPE="TITLE">
+@@ -139241,7 +139241,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Jan. 10, 2021
++<AMDDATE>Jan. 10, 2022
+ </AMDDATE>
+ 
+ <DIV1 N="4" TYPE="TITLE">
