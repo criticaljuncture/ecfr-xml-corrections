@@ -1,0 +1,13 @@
+--- /home/app/data/titles/preprocessed/xml/14/2017/01/2017-01-03_e1e3ee3f.xml	2022-01-13 10:10:35.373927012 -0800
++++ tmp/title_version_14_2017-01-03_e1e3ee3f_preprocessed.xml	2022-01-13 10:20:19.250125973 -0800
+@@ -206435,8 +206435,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§§ ;1274.804" TYPE="SECTION">
+-<HEAD>§§ ;1274.804   [Reserved]</HEAD>
++<DIV8 N="§ 1274.804" TYPE="SECTION">
++<HEAD>§ 1274.804   [Reserved]</HEAD>
+ </DIV8>
+ 
+ </DIV6>
