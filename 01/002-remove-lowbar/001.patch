@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/01/2021/02/2021-02-23_6b836320.xml	2022-01-12 16:29:28.424358049 -0800
++++ tmp/title_version_1_2021-02-23_6b836320_preprocessed.xml	2022-01-12 16:29:49.624232242 -0800
+@@ -2065,7 +2065,7 @@
+ <P>When reference is made to material codified in the 1938 edition of the Code of Federal Regulations, or a supplement thereto, the following forms may be used, as appropriate: 
+ </P>
+ <EXTRACT>
+-<P>_lowbar;_ CFR, 1938 Ed., ___. 
++<P>___ CFR, 1938 Ed., ___. 
+ </P>
+ <P>___ CFR, 1943, Cum. Supp., ___. 
+ </P>
