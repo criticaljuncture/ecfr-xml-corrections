@@ -1,0 +1,15 @@
+--- /home/app/data/titles/preprocessed/xml/50/2022/01/2022-01-10_ded664ab.xml	2022-01-19 12:19:25.754510394 -0800
++++ tmp/title_version_50_2022-01-10_ded664ab_preprocessed.xml	2022-01-19 12:20:20.286164140 -0800
+@@ -93305,12 +93305,6 @@
+ <XREF ID="20220107" REFID="36">Link to an amendment published at 87 FR 882, Jan. 7, 2022.</XREF>
+ </DIV8>
+ 
+-
+-<DIV8 N="§ 22.12" TYPE="SECTION">
+-<HEAD>§ 22.12   xxx</HEAD>
+-<XREF ID="20220107" REFID="36">Link to an amendment published at 87 FR 882, Jan. 7, 2022.</XREF>
+-</DIV8>
+-
+ </DIV6>
+ 
+ 

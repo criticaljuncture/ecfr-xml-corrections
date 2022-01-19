@@ -1,0 +1,11 @@
+description: Title 50 contains a duplicated § 22.12. After communication with OFR the XREF only section was removed. 
+tags: structural
+status: approved
+issue_number: 
+fr_doc: 87 FR 884
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113115977/comments
+
+patches:
+  '001':
+    start_date: '2022-01-10'
+    end_date: '2022-01-16'
