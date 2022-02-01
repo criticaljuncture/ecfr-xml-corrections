@@ -1,0 +1,11 @@
+description: OFR made a non-substative update but also change the amendment date - this fixes that (the changes only affected upstream and did not result in changes to eCFR XML)
+tags: content-error
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113189657/comments#comments
+
+patches:
+  '001':
+    start_date: '2022-01-28'
+    end_date: '2100-01-01'
