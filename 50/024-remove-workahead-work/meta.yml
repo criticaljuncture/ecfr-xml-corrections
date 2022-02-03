@@ -1,0 +1,11 @@
+description: Title 50 contained a bit of workahead for following reorganization. Cause a duplicate hierarchy import problem
+tags: structural
+status: needs-review
+issue_number: 
+fr_doc: 
+reference: https://classic.basecamp.com/dhh/inbox/messages/1
+
+patches:
+  '001':
+    start_date: '2020-12-21T21:20:12-0500'
+    end_date: '2021-01-19T21:40:10-0500'
