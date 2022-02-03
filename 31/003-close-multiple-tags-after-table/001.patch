@@ -1,0 +1,20 @@
+--- /home/app/data/titles/preprocessed/xml/31/2018/03/2018-03-09_d904e87c.xml	2022-02-03 11:41:43.637465311 -0800
++++ tmp/title_version_31_2018-03-09_d904e87c_preprocessed.xml	2022-02-03 11:42:23.089229626 -0800
+@@ -54525,6 +54525,17 @@
+ 
+ 
+ </CITA>
++</DIV9>
++</DIV6>
++</DIV5>
++
++<DIV5 N="510" TYPE="PART">
++<HEAD>PART 510 - NORTH KOREA SANCTIONS REGULATIONS
++
++
++</HEAD>
++<XREF ID="20180305" REFID="130">Link to an amendment published at 83 FR 9187, Mar. 5, 2018.</XREF>
++
+ <CONTENTS>
+ <SUBPART>
+ <HED>Subpart A - Relation of This Part to Other Laws and Regulations

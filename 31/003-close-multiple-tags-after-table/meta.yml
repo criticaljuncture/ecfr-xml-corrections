@@ -1,0 +1,11 @@
+description: 5 Subparts (A-E) appeared duplicated because content in part 501 was not closed and part 510 not opened
+tags: structural
+status: needs-review
+issue_number: 
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2018-03-09'
+    end_date: '2018-03-09'
