@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/36/2022/02/2022-02-02_50ec96b3.xml	2022-02-03 05:50:26.461132242 -0800
++++ tmp/title_version_36_2022-02-02_50ec96b3_preprocessed.xml	2022-02-03 05:51:45.860639031 -0800
+@@ -34,7 +34,7 @@
+ <TEXT>
+ <BODY>
+ <ECFRBRWS>
+-<AMDDATE>February 1
++<AMDDATE>February 1, 2022
+ </AMDDATE>
+ 
+ <DIV1 N="1" TYPE="TITLE">
