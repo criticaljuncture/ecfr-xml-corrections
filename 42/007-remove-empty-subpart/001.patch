@@ -1,0 +1,14 @@
+--- /home/app/data/titles/preprocessed/xml/42/2018/11/2018-11-15_e30d3613.xml	2022-02-03 15:47:12.649720528 -0800
++++ tmp/title_version_42_2018-11-15_e30d3613_preprocessed.xml	2022-02-03 15:50:16.700597019 -0800
+@@ -196657,11 +196657,6 @@
+ <HEAD>PART 488 - SURVEY, CERTIFICATION, AND ENFORCEMENT PROCEDURES 
+ </HEAD>
+ 
+-<DIV6 N="K" TYPE="SUBPART">
+-<HEAD>Subparts K-L - XXX</HEAD>
+-
+-</DIV6>
+-
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>Secs. 1102, 1128l, 1864, 1865, 1871 and 1875 of the Social Security Act, unless otherwise noted (42 U.S.C 1302, 1320a-7j, 1395aa, 1395bb, 1395hh and 1395ll).
+ </PSPACE>

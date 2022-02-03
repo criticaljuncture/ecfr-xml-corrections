@@ -1,0 +1,14 @@
+description: Title 42 received on 2018-11-15 05:00:00 and 2019-11-13T06:30:07-0500 had a duplicated, out-of-order, empty, work-ahead subpart
+tags: structural
+status: needs-review
+issue_number: 
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    start_date: '2018-11-14'
+    end_date: '2018-11-15'
+  '002':
+    start_date: '2019-11-13T06:30:07-0500'
+    end_date: '2019-11-13T10:30:07-0500'

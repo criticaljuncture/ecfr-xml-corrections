@@ -1,0 +1,14 @@
+--- /home/app/data/titles/preprocessed/xml/42/2019/11/2019-11-13_100da6ee.xml	2022-02-03 15:32:28.887138468 -0800
++++ tmp/title_version_42_2019-11-13_100da6ee_preprocessed.xml	2022-02-03 15:36:23.497679627 -0800
+@@ -90815,11 +90815,6 @@
+ 
+ </HEAD>
+ 
+-<DIV6 N="P" TYPE="SUBPART">
+-<HEAD>Subpart P - XXX</HEAD>
+-
+-</DIV6>
+-
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>42 U.S.C. 1302, 1395hh, and 1395rr(b)(l).
+ 
