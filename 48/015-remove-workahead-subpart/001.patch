@@ -1,0 +1,14 @@
+--- /home/app/data/titles/preprocessed/xml/48/2018/06/2018-06-19_e72c7ff8.xml	2022-02-03 16:41:41.913591125 -0800
++++ tmp/title_version_48_2018-06-19_e72c7ff8_preprocessed.xml	2022-02-03 16:43:50.900798107 -0800
+@@ -4674,11 +4674,6 @@
+ <HEAD>PART 4 - ADMINISTRATIVE MATTERS
+ </HEAD>
+ 
+-<DIV6 N="4.20" TYPE="SUBPART">
+-<HEAD>Subpart 4.20 - XXX</HEAD>
+-
+-</DIV6>
+-
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>40 U.S.C. 121(c); 10 U.S.C. chapter 137; and 51 U.S.C. 20113.
+ </PSPACE></AUTH>
