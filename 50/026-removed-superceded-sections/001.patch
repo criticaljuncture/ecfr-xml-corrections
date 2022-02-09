@@ -1,0 +1,26 @@
+--- /home/app/data/titles/preprocessed/xml/50/2022/02/2022-02-08_a98dc511.xml	2022-02-09 14:06:41.323019276 -0500
++++ tmp/title_version_50_2022-02-08_a98dc511_preprocessed.xml	2022-02-09 14:09:29.570955876 -0500
+@@ -92501,11 +92501,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 21.42" TYPE="SECTION">
+-<HEAD>§ 21.42   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 21.150" TYPE="SECTION">
+ <HEAD>§ 21.150   Depredation order for blackbirds, cowbirds, crows, grackles, and magpies.</HEAD>
+ <P>(a) <I>Species covered.</I>
+@@ -92606,11 +92601,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 21.45" TYPE="SECTION">
+-<HEAD>§ 21.45   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 21.156" TYPE="SECTION">
+ <HEAD>§ 21.156   Depredation order for depredating California scrub jays and Steller's jays in Washington and Oregon.</HEAD>
+ <P>Landowners, sharecroppers, tenants, or their employees or agents actually engaged in the production of nut crops in Washington and Oregon may, without a permit, take California scrub jays (<I>Aphelocoma californica</I>) and Steller's jays (<I>Cyanocitta stelleri</I>) when found committing or about to commit serious depredations to nut crops on the premises owned or occupied by such persons: <I>Provided:</I>
