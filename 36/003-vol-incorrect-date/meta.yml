@@ -1,11 +1,11 @@
 description: Volume 1 of Title 36 has a date of 'February 1'
 tags: amendment-date
 status: needs-review
-issue_number: 
-fr_doc: 
+issue_number:
+fr_doc:
 reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113199230/comments
 
 patches:
   '001':
     start_date: '2022-02-01'
-    end_date: '2022-02-03'
+    end_date: '2022-02-02'
