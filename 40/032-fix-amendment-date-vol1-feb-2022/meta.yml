@@ -1,0 +1,11 @@
+description: Title 50 volume 1 had an amendment date after it's issue date
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc: 86 FR 70390
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113230210/comments
+
+patches:
+  '001':
+    start_date: '2022-02-09'
+    end_date: '2022-02-09'
