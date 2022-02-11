@@ -1,0 +1,11 @@
+description: Title 27 volume 1 has an new amendment date in previous year
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113232061/comments
+
+patches:
+  '001':
+    start_date: '2022-02-10'
+    end_date: '2022-02-11'
