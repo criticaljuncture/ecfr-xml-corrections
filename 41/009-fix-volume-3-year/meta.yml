@@ -1,0 +1,11 @@
+description: Title 41 volume 3 has an amendment date for the previous year
+tags: structural
+status: needs-review
+issue_number: 100
+fr_doc: 83993
+reference:
+
+patches:
+  '001':
+    start_date: '2021-04-27'
+    end_date: '2021-05-15'
