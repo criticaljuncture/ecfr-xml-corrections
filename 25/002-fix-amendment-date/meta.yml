@@ -1,0 +1,11 @@
+description: Title 25 had a mistaken amendment date.
+tags: structural
+status: needs-review
+issue_number: Feb. 19, 2020
+fr_doc: 85 FR 9369preview citation details, Feb. 19, 2020
+reference: TBD
+
+patches:
+  '001':
+    start_date: '2020-03-04'
+    end_date: '2021-02-03'
