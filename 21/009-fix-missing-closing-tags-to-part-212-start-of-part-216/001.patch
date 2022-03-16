@@ -1,48 +1,39 @@
---- /home/app/data/titles/preprocessed/xml/21/2017/01/2017-01-03_9b868f32.xml	2021-11-04 17:22:29.195572941 -0400
-+++ tmp/title_version_21_2017-01-03_9b868f32_preprocessed.xml	2021-11-04 17:30:24.527184967 -0400
-@@ -96045,37 +96045,24 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/21/2017/01/2017-01-03_9b868f32.xml	2022-03-16 10:38:58.000000000 -0700
++++ tmp/title_version_21_2017-01-03_9b868f32_preprocessed.xml	2022-03-16 10:43:00.000000000 -0700
+@@ -96044,11 +96044,18 @@
+ <P>(b) <I>Record quality.</I> All records, including those not stored at the inspected establishment, must be legible, stored to prevent deterioration or loss, and readily available for review and copying by FDA employees.
  </P>
  <P>(c) <I>Record retention period.</I> You must maintain all records and documentation referenced in this part for a period of at least 1 year from the date of final release, including conditional final release, of a PET drug product.
- 
-+</DIV8>
++</P>
 +
++</DIV8>
+ 
 +</DIV6>
  
 +</DIV5>
++
++<DIV5 N="216" TYPE="PART">
++<HEAD>PART 216 - HUMAN DRUG COMPOUNDING 
++</HEAD>
  
 -&gt;PART 216 - HUMAN DRUG COMPOUNDING 
 -</P>
--<CONTENTS>
--<SUBPART>
--<RESERVED>Subpart A - General Provisions [Reserved]
--
--
--</RESERVED></SUBPART>
--<SUBPART>
--<HED>Subpart B - Compounded Drug Products
--</HED>
--<SECHD>Sec.
--</SECHD>
--<SECTNO>216.23</SECTNO>
--<SUBJECT>[Reserved]
--</SUBJECT>
--<SECTNO>216.24</SECTNO>
--<SUBJECT>Drug products withdrawn or removed from the market for reasons of safety or effectiveness.</SUBJECT></SUBPART></CONTENTS>
-+
-+<DIV5 N="216" TYPE="PART">
-+<HEAD>PART 216 - HUMAN DRUG COMPOUNDING
-+</HEAD>
+ <CONTENTS>
+ <SUBPART>
+ <RESERVED>Subpart A - General Provisions [Reserved]
+@@ -96068,15 +96075,12 @@
  <AUTH>
  <HED>Authority:</HED><PSPACE>21 U.S.C. 351, 352, 353a, 353b, 355, and 371.
  </PSPACE></AUTH>
 -</DIV8>
--
+ 
  <SOURCE>
  <HED>Source:</HED><PSPACE>64 FR 10944, Mar. 8, 1999, unless otherwise noted.
  
  
  </PSPACE></SOURCE>
 -</DIV6>
- 
+-
  
  <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - General Provisions [Reserved]</HEAD>
