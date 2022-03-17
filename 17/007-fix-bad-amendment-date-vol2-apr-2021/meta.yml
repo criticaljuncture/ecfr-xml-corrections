@@ -1,0 +1,16 @@
+description: Title 17 contains extraneous information after the date for volume 2
+tags: structural
+status: needs-
+issue_number:
+fr_doc:
+reference:
+patches:
+  '001':
+    start_date: '2021-04-20'
+    end_date: '2021-04-22'
+  '002':
+    start_date: '2021-04-23'
+    end_date: '2021-04-27'
+  '003':
+    start_date: '2021-04-29'
+    end_date: '2021-05-01'

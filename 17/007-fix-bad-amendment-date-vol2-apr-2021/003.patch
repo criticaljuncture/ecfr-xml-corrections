@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/17/2021/04/2021-04-29_2071c52e.xml	2022-03-17 08:49:23.000000000 -0700
++++ tmp/title_version_17_2021-04-29_2071c52e_preprocessed.xml	2022-03-17 08:50:19.000000000 -0700
+@@ -33412,7 +33412,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Apr. 28, 2021[fm]
++<AMDDATE>Apr. 28, 2021
+ </AMDDATE>
+ 
+ <DIV1 N="2" TYPE="TITLE">
