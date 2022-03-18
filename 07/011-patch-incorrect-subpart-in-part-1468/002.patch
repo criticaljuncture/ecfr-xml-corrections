@@ -1,15 +1,22 @@
---- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/07/2020/01/2020-01-08T19:00:16-0500.xml	2020-05-13 15:21:58.000000000 -0700
-+++ tmp/title_version_7_2020-01-08T19:00:16-0500_preprocessed.xml	2020-05-13 15:26:01.000000000 -0700
-@@ -338792,10 +338792,10 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/07/2020/01/2020-01-11_2f92153f.xml	2022-03-18 16:26:46.000000000 -0700
++++ tmp/title_version_7_2020-01-11_2f92153f_preprocessed.xml	2022-03-18 16:27:54.000000000 -0700
+@@ -338793,10 +338793,8 @@
  
  
  </PSPACE></SOURCE>
 -</DIV5>
- 
+-
  
 -<DIV5 N="" TYPE="PART">
-+
 +<DIV6 N="A" TYPE="SUBPART">
  <HEAD>Subpart A - General Provisions
  
  
+@@ -339257,6 +339255,7 @@
+ </P>
+ </DIV8>
+ 
++</DIV6>
+ 
+ <DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B - Agricultural Land Easements</HEAD>
