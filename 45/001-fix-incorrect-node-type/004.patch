@@ -1,0 +1,38 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/45/2019/12/2019-12-21_cc597fe4.xml	2022-03-20 10:47:44.000000000 -0700
++++ tmp/title_version_45_2019-12-21_cc597fe4_preprocessed.xml	2022-03-20 10:58:53.000000000 -0700
+@@ -51,7 +51,7 @@
+ 
+ </PG></CHAPTI></CFRTOC>
+ 
+-<DIV3 N="A" TYPE="CHAPTER">
++<DIV2 N="A" TYPE="SUBTITLE">
+ 
+ <HEAD> Subtitle A - Department of Health and Human Services</HEAD>
+ 
+@@ -36679,7 +36679,7 @@
+ 
+ </DIV4>
+ 
+-</DIV3>
++</DIV2>
+ 
+ </DIV1>
+ 
+@@ -36702,7 +36702,7 @@
+ 
+ </PG></CHAPTI></CFRTOC>
+ 
+-<DIV3 N="A" TYPE="CHAPTER">
++<DIV2 N="A" TYPE="SUBTITLE">
+ 
+ <HEAD> Subtitle A - Department of Health and Human Services</HEAD>
+ 
+@@ -71583,7 +71583,7 @@
+ </PG></PUBYEAR>
+ <ALL>○
+ </ALL></LSA></CFRID></ALPHLIST></SUBJECT></TITLENO></SUBJECT></CHAPNO>
+-</DIV3>
++</DIV2>
+ 
+ </DIV1>
+ 
