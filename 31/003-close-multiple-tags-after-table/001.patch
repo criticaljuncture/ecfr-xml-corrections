@@ -1,11 +1,14 @@
---- /home/app/data/titles/preprocessed/xml/31/2018/03/2018-03-09_d904e87c.xml	2022-02-03 11:41:43.637465311 -0800
-+++ tmp/title_version_31_2018-03-09_d904e87c_preprocessed.xml	2022-02-03 11:42:23.089229626 -0800
-@@ -54525,6 +54525,17 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/31/2018/03/2018-03-09_d904e87c.xml	2022-03-20 09:29:04.000000000 -0700
++++ tmp/title_version_31_2018-03-09_d904e87c_preprocessed.xml	2022-03-20 09:38:17.000000000 -0700
+@@ -54525,6 +54525,21 @@
  
  
  </CITA>
++
 +</DIV9>
++
 +</DIV6>
++
 +</DIV5>
 +
 +<DIV5 N="510" TYPE="PART">
@@ -15,6 +18,18 @@
 +</HEAD>
 +<XREF ID="20180305" REFID="130">Link to an amendment published at 83 FR 9187, Mar. 5, 2018.</XREF>
 +
++
  <CONTENTS>
  <SUBPART>
  <HED>Subpart A - Relation of This Part to Other Laws and Regulations
+@@ -54836,10 +54851,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV9>
+-
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - Relation of This Part to Other Laws and Regulations</HEAD>
