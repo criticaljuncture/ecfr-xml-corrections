@@ -1,0 +1,11 @@
+description: Title 7 part 10 had a blank identifier
+tags: structural
+status: needs-review
+issue_number: 100
+fr_doc: 83993
+reference:
+
+patches:
+  '001':
+    start_date: '2020-07-15'
+    end_date: '2020-09-25'
