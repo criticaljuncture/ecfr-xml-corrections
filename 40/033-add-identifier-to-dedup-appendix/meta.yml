@@ -1,0 +1,11 @@
+description: Title 40 contained two appendices with the same name, on in wrong part
+tags: structural
+status: approved
+issue_number:
+fr_doc: 85 FR 49724
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113433623/comments
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2020-08-14'

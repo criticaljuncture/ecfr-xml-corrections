@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/40/2017/01/2017-01-03_b325ce4f.xml	2022-03-31 13:14:31.000000000 -0700
++++ tmp/title_version_40_2017-01-03_b325ce4f_preprocessed.xml	2022-03-31 13:24:19.000000000 -0700
+@@ -455567,7 +455567,7 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="" TYPE="APPENDIX">
++<DIV9 N="Table 8 to Subpart HHHHH of Part 63" TYPE="APPENDIX" PATCHED="true">
+ <HEAD>Table 8 to Subpart FFFF of Part 63 - Soluble Hazardous Air Pollutants
+ </HEAD>
+ <P>As specified in § 63.8020, the soluble HAP in wastewater that are subject to management and treatment requirements of this subpart are listed in the following table:
