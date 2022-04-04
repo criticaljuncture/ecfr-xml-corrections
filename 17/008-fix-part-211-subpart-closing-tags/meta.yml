@@ -1,0 +1,11 @@
+description: Title 17 part 211 subpart closing tags don't wrap tables
+tags: structural
+status: needs-review
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113446567/comments#426065471
+
+patches:
+  '001':
+    start_date: '2021-03-09'
+    end_date: '2100-01-01'
