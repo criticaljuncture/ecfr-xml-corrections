@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/49/2017/01/2017-01-03_4ae966b8.xml	2022-04-04 12:57:05.000000000 -0700
++++ tmp/title_version_49_2017-01-03_4ae966b8_preprocessed.xml	2022-04-04 12:57:23.000000000 -0700
+@@ -212215,7 +212215,7 @@
+ 
+ 
+ <DIV5 N="535" TYPE="PART">
+-<HEAD>PART 535 MEDIUM- AND HEAVY-DUTY VEHICLE FUEL EFFICIENCY PROGRAM
++<HEAD>PART 535 - MEDIUM- AND HEAVY-DUTY VEHICLE FUEL EFFICIENCY PROGRAM
+ </HEAD>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>49 U.S.C. 32902 and 30101; delegation of authority at 49 CFR 1.95.
