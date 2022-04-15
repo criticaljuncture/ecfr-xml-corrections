@@ -1,0 +1,11 @@
+--- /home/app/data/titles/preprocessed/xml/15/2022/04/2022-04-15_57cc9ff4.xml	2022-04-15 15:01:58.127033425 -0700
++++ tmp/title_version_15_2022-04-15_57cc9ff4_preprocessed.xml	2022-04-15 15:12:43.522159822 -0700
+@@ -34,7 +34,7 @@
+ <TEXT>
+ <BODY>
+ <ECFRBRWS>
+-<AMDDATE>Apr. 13, 2022
++<AMDDATE>Apr. 12, 2022
+ </AMDDATE>
+ 
+ <DIV1 N="1" TYPE="TITLE">
