@@ -1,0 +1,11 @@
+description: Title 50 volume 10's AMDDATE was not updated
+tags: structural
+status: needs-review
+issue_number: 2022-04-21
+fr_doc: 87 FR 23120
+reference:
+
+patches:
+  '001':
+    start_date: '2022-04-22'
+    end_date: '2022-04-22'
