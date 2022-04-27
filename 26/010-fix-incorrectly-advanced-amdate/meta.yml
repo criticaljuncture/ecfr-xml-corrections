@@ -1,0 +1,11 @@
+description: Title 26 volume 12 had a non-substantive change but AMDDATE was advanced
+tags: structural
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113538597/comments
+
+patches:
+  '001':
+    start_date: '2022-04-26'
+    end_date: '2022-04-26'
