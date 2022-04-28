@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/40/2022/04/2022-04-27_1ed95337.xml	2022-04-28 19:37:25.433710574 -0400
++++ tmp/title_version_40_2022-04-27_1ed95337_preprocessed.xml	2022-04-28 19:39:18.595456539 -0400
+@@ -975337,7 +975337,7 @@
+ <DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 302.4 - List of Hazardous Substances and Reportable Quantities
+ </P><P class="gpotbl_description">[All comments/notes are located at the end of the table.]
+ </P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Hazardous substance
+-</TH><TH class="gpotbl_colhed" scope="col">CASRN 
++</TH><TH class="gpotbl_colhed" scope="col" width="150">CASRN 
+ <sup>I</sup>
+ </TH><TH class="gpotbl_colhed" scope="col">Statutory
+ 
+@@ -976952,7 +976952,7 @@
+ 
+ 
+ </P>
+-<DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">CASRN
++<DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col" width="150">CASRN
+ </TH><TH class="gpotbl_colhed" scope="col">Hazardous substance
+ </TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">50-00-0</TD><TD align="left" class="gpotbl_cell">Formaldehyde.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">50-07-7</TD><TD align="left" class="gpotbl_cell">Azirino[2′,3′:3,4]pyrrolo[1,2-a]indole-4,7-dione,6-amino-8-[[(aminocarbonyl)oxy]methyl]-1,1a,2,8,8a, 8b-hexahydro-8a-methoxy-5-methyl-, [1aS-(1aalpha, 8beta,8aalpha,8balpha)]-.
