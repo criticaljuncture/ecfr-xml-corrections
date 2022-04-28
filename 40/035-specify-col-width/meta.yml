@@ -1,0 +1,8 @@
+description: 40 CFR 302.4 contains two tables where automatic width calculation is unacceptable; specifying specific width instead
+tags: structural
+reference: https://github.com/criticaljuncture/ecfr-renderer/issues/227
+
+patches:
+  '001':
+    start_date: '2017-01-03'
+    end_date: '2100-01-01'
