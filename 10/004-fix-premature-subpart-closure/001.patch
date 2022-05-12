@@ -1,0 +1,20 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/10/2019/05/2019-05-21_c79d4301.xml	2022-05-11 11:09:28.000000000 -0700
++++ tmp/title_version_10_2019-05-21_c79d4301_preprocessed.xml	2022-05-11 11:11:36.000000000 -0700
+@@ -117903,8 +117903,6 @@
+ <img src="http://www.ecfr.gov/graphics/er05ja17.259.gif"/>
+ </DIV9>
+ 
+-</DIV6>
+-
+ <TEXT>
+ <FP>where T<E T="52">off</E> and T<E T="52">on</E> are defined in section 4.2.1 of this appendix. Use the calculations given in section 4.2.3.3 of this appendix, and not the above, if:
+ </FP>
+@@ -124014,6 +124012,8 @@
+ </CITA>
+ </DIV9>
+ 
++</DIV6>
++
+ 
+ <DIV6 N="C" TYPE="SUBPART">
+ <HEAD>Subpart C - Energy and Water Conservation Standards</HEAD>
