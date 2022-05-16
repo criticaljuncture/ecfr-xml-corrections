@@ -1,0 +1,11 @@
+description: Title 47 volume 4 was incorrectly sent with a date of May 13, 2022 on Friday.
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/P113610130
+
+patches:
+  '001':
+    start_date: '2022-05-13'
+    end_date: '2022-05-14'
