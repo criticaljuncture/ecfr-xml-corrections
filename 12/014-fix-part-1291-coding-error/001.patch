@@ -1,0 +1,12 @@
+--- tmp/title_version_12_2022-05-24_c7ef13ad_preprocessed.xml	2022-05-27 11:50:40.000000000 -0700
++++ tmp/title_version_12_2022-05-26_7b29b7d6_preprocessed.xml	2022-05-27 11:49:58.000000000 -0700
+@@ -319390,6 +319390,9 @@
+ <DIV5 N="1291" TYPE="PART">
+ <HEAD>PART 1291 - FEDERAL HOME LOAN BANKS' AFFORDABLE HOUSING PROGRAM
+ </HEAD>
++<AUTH>
++<HED>Authority:</HED><PSPACE>12 U.S.C. 1430(j). 
++</PSPACE></AUTH>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>83 FR 61231, Nov. 28, 2018, unless otherwise noted.
+ 

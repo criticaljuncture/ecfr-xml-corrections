@@ -1,0 +1,11 @@
+description: The Part 1291 authority citation was nested within the coding for the print Table of Contents
+tags: structural
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/P113652066
+
+patches:
+  '001':
+    start_date: '2018-12-30'
+    end_date: '2022-05-25'
