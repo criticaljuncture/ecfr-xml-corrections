@@ -1,0 +1,10 @@
+description: Subparts closed early during TEXT removal
+status:  'approved'
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113698028
+
+patches:
+  '001':
+    start_date: '2021-03-15'
+    end_date: '2100-01-01'

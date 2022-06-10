@@ -1,0 +1,48 @@
+--- data/titles/preprocessed/xml/29/2021/03/2021-03-16_9abba8e6.xml	2022-06-10 11:49:04.000000000 -0500
++++ tmp/title_version_29_2021-03-16_9abba8e6_preprocessed.xml	2022-06-10 11:47:56.000000000 -0500
+@@ -231032,7 +231032,7 @@
+ <DIV6 N="D" TYPE="SUBPART">
+ <HEAD>Subpart D - Provisions Applicable to Both Reporting and Disclosure Requirements</HEAD>
+ 
+-</DIV6>
++
+ 
+ <APPRO TYPE="N">(The information collection requirements contained in subpart D were approved by the Office of Management and Budget under control number 1210-0016)
+ 
+@@ -231646,11 +231646,11 @@
+ </CITA>
+ </DIV8>
+ 
+-
++</DIV6>
+ <DIV6 N="E" TYPE="SUBPART">
+ <HEAD>Subpart E - Reporting Requirements</HEAD>
+ 
+-</DIV6>
++
+ 
+ <APPRO TYPE="N">(The information collection requirements contained in subpart E were approved by the Office of Management and Budget under control number 1210-0016)
+ 
+@@ -231763,11 +231763,11 @@
+ </CITA>
+ </DIV8>
+ 
+-
++</DIV6>
+ <DIV6 N="F" TYPE="SUBPART">
+ <HEAD>Subpart F - Disclosure Requirements</HEAD>
+ 
+-</DIV6>
++
+ 
+ <APPRO TYPE="N">(The information collection requirements contained in subpart F were approved by the Office of Management and Budget under control number 1210-0016)
+ 
+@@ -232383,7 +232383,7 @@
+ </P>
+ </DIV9>
+ 
+-
++</DIV6>
+ <DIV6 N="G" TYPE="SUBPART">
+ <HEAD>Subpart G - Recordkeeping Requirements</HEAD>
+ 
