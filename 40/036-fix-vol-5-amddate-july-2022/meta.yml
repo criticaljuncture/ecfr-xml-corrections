@@ -4,9 +4,8 @@ status: presumtively approved
 issue_number:
 fr_doc:
 reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113820768/comments
-Ken Payne approved in email to Andrew, subject "eCFR Issue", Wed, Jul 13, 2022 at 9:19 AM
 
 patches:
   '001':
-    start_date: '2022-07-12'
+    start_date: '2022-07-13'
     end_date: '2022-07-13'
