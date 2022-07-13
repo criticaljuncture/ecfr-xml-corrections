@@ -1,0 +1,20 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/40/2022/07/2022-07-12_3f60fcdc.xml	2022-07-12 21:24:55.000000000 -0700
++++ tmp/title_version_40_2022-07-12_3f60fcdc_preprocessed.xml	2022-07-12 21:26:10.000000000 -0700
+@@ -145352,7 +145352,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>July 110, 2022
++<AMDDATE>July 11, 2022
+ </AMDDATE>
+ 
+ <DIV1 N="5" TYPE="TITLE">
+@@ -888609,7 +888609,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>July 13, 2022
++<AMDDATE>July 11, 2022
+ </AMDDATE>
+ 
+ <DIV1 N="28" TYPE="TITLE">
