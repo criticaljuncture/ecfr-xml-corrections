@@ -1,0 +1,11 @@
+description: Title 40 has 4 incorrectly incremented AMDDATE for volume 3, 5, 28, 37
+tags: amddate
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113828202/comments
+
+patches:
+  '001':
+    start_date: '2022-07-13'
+    end_date: '2022-07-13'
