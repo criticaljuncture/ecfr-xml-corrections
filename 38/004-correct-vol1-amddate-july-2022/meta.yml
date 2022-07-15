@@ -1,0 +1,11 @@
+description: Title 38, volume 1 had the incorrect AMDDATE
+tags: amddate
+status: approved
+issue_number: July 13, 2022
+fr_doc: 87 FR 41601
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113832780/comments
+
+patches:
+  '001':
+    start_date: '2022-07-14'
+    end_date: '2122-07-14'
