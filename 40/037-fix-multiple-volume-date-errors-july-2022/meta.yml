@@ -3,7 +3,7 @@ tags: amddate
 status: approved
 issue_number:
 fr_doc:
-reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113828202/comments
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113828202/comments;https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113844752/comments#427898516
 
 patches:
   '001':
@@ -12,3 +12,6 @@ patches:
   '002':
     start_date: '2022-07-14'
     end_date: '2022-07-17'
+  '003':
+    start_date: '2022-07-18'
+    end_date: '2022-07-19'
