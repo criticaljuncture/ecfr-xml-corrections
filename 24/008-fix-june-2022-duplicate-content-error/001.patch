@@ -1,0 +1,13 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/24/2021/06/2021-06-12_34f45aa6.xml	2022-08-02 09:09:00.000000000 -0700
++++ tmp/title_version_24_2021-06-12_34f45aa6_preprocessed.xml	2022-08-02 09:09:40.000000000 -0700
+@@ -1859,8 +1859,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 5.151" TYPE="SECTION">
+-<HEAD>§ 5.151   xxx</HEAD>
++<DIV8 N="§ 5.152" TYPE="SECTION">
++<HEAD>§ 5.152   xxx</HEAD>
+ <XREF ID="20210610" REFID="13">Link to an amendment published at 86 FR 30791, June 10, 2021.</XREF>
+ </DIV8>
+ 
