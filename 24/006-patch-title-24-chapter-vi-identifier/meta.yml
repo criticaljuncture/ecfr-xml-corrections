@@ -2,10 +2,10 @@ description: 'Patch Title 24 Reserved Chapter VI identifier '
 tags: 'transcription-error'
 status: 'needs-approval'
 issue_number: 290
-fr_doc: 
+fr_doc:
 reference:
 
 patches:
   '001':
     start_date: '2017-01-03'
-    end_date: '2100-01-01'
+    end_date: '2022-08-02'
