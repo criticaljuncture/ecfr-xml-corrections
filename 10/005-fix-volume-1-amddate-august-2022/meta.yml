@@ -1,0 +1,11 @@
+description: Fix volume 1 amddate to match correction
+tags: structural
+status: needs-review
+issue_number: 100
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113920472/comments
+
+patches:
+  '001':
+    start_date: '2022-08-09'
+    end_date: '2022-08-10'
