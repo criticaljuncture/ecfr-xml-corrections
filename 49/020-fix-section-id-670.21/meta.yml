@@ -6,4 +6,4 @@ reference: https://github.com/criticaljuncture/ecfr-versioner/issues/740
 patches:
   '001':
     start_date: '2017-01-07'
-    end_date: '2100-01-01'
+    end_date: '2022-08-24'
