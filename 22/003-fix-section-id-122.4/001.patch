@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/22/2017/01/2017-01-05_74b8acb5.xml	2022-08-23 12:49:20.000000000 -0500
++++ tmp/title_version_22_2017-01-05_74b8acb5_preprocessed.xml	2022-08-23 12:49:46.000000000 -0500
+@@ -25635,7 +25635,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 122.4 `" TYPE="SECTION">
++<DIV8 N="§ 122.4" TYPE="SECTION">
+ <HEAD>§ 122.4
+ `   Notification of changes in information furnished by registrants.</HEAD>
+ <P>(a) A registrant must, within five days of the event, provide to the Directorate of Defense Trade Controls a written notification, signed by a senior officer (e.g., chief executive officer, president, secretary, partner, member, treasurer, general counsel), if:

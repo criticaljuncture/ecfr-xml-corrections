@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/17/2019/04/2019-04-30_8cb712a4.xml	2022-08-23 14:23:50.000000000 -0500
++++ tmp/title_version_17_2019-04-30_8cb712a4_preprocessed.xml	2022-08-23 14:25:02.000000000 -0500
+@@ -112821,7 +112821,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 242. 610T" TYPE="SECTION">
++<DIV8 N="§ 242.610T" TYPE="SECTION">
+ <HEAD>§ 242. 610T   Equity transaction fee pilot.</HEAD>
+ <P>(a) <I>Pilot pricing restrictions.</I> Notwithstanding § 242.610(c), on a pilot basis for the period specified in paragraph (c) of this section, in connection with a transaction in an NMS stock, a national securities exchange shall not:
+ </P>

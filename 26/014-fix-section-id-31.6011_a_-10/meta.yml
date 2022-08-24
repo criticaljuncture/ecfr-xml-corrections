@@ -1,0 +1,9 @@
+description: Fix section id for 26 CFR 31.6011(a)-10
+tags: structural
+status: needs-review
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/740
+
+patches:
+  '001':
+    start_date: '2016-12-30'
+    end_date: '2100-01-01'

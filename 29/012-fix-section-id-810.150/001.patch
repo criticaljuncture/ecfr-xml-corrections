@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/29/2020/07/2020-07-02_56b4d24a.xml	2022-08-23 20:20:27.000000000 -0500
++++ tmp/title_version_29_2020-07-02_56b4d24a_preprocessed.xml	2022-08-23 20:21:29.000000000 -0500
+@@ -75520,7 +75520,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="sect; 810.145" TYPE="SECTION">
++<DIV8 N="§ 810.145" TYPE="SECTION">
+ <HEAD>sect; 810.145   Currency exchange.</HEAD>
+ <P>The high-wage component of material and manufacturing expenditures (and assembly expenditures under § 810.300) is expressed in U.S. dollars - US$16 per hour. Rules governing currency exchange are set forth and addressed in the Uniform Regulations and regulations and/or guidance issued by the Department of the Treasury and/or CBP.
+ 

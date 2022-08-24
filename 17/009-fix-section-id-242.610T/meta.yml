@@ -1,0 +1,9 @@
+description: Fix section id for 17 CFR 242.610T
+tags: structural
+status: needs-review
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/740
+
+patches:
+  '001':
+    start_date: '2019-04-30'
+    end_date: '2019-10-23'

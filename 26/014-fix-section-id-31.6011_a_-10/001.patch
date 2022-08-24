@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/26/2017/01/2017-01-05_70a39cef.xml	2022-08-23 15:14:14.000000000 -0500
++++ tmp/title_version_26_2017-01-05_70a39cef_preprocessed.xml	2022-08-23 15:20:10.000000000 -0500
+@@ -361296,7 +361296,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 31.6011 (a)-10" TYPE="SECTION">
++<DIV8 N="§ 31.6011(a)-10" TYPE="SECTION">
+ <HEAD>§ 31.6011 (a)-10   Instructions to forms may waive filing requirement in case of no liability tax returns.</HEAD>
+ <P>Notwithstanding provisions in this part which require that a tax return be filed, the instructions to the form on which a return of tax is otherwise required by this part to be made may waive such requirement with respect to a particular class or classes of no liability tax returns. Returns in a class for which such requirement has been so waived need not be made.
+ </P>

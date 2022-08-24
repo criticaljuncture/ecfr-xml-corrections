@@ -1,0 +1,9 @@
+description: Fix section id for 31 CFR 551.316
+tags: structural
+status: needs-review
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/740
+
+patches:
+  '001':
+    start_date: '2021-04-29'
+    end_date: '2021-07-18'
