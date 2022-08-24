@@ -1,0 +1,9 @@
+description: Title 40 volume 26 AMDDATE typo
+tags: structural
+status: needs-review
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113968059/comments
+
+patches:
+  '001':
+    start_date: '2022-08-24'
+    end_date: '2022-08-24T15:10:39-0400'
