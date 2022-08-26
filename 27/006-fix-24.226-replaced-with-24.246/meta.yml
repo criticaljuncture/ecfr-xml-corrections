@@ -1,0 +1,11 @@
+description: 24.226 replaced with 24.246
+tags: structural
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113977112/comments#428542786
+
+patches:
+  '001':
+    start_date: '2022-08-25'
+    end_date: '2022-08-25'

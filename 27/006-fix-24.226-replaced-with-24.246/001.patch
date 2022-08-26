@@ -1,0 +1,496 @@
+--- data/titles/preprocessed/xml/27/2022/08/2022-08-25_791cf8c0.xml	2022-08-26 09:25:46.000000000 -0500
++++ tmp/title_version_27_2022-08-25_791cf8c0_preprocessed.xml	2022-08-26 09:59:46.000000000 -0500
+@@ -47747,198 +47747,15 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 24.246" TYPE="SECTION">
+-<HEAD>§ 24.246   Materials authorized for the treatment of wine and juice.</HEAD>
+-<P>(a) <I>Wine and juice.</I> Materials used in the process of filtering, clarifying, or purifying wine may remove cloudiness, precipitation, and undesirable odors and flavors, but the addition of any substance foreign to wine that changes the character of the wine, or the abstraction of ingredients so as to change the character of the wine, if not consistent with good commercial practice, is not permitted on bonded wine premises. The materials listed in this section are approved as being consistent with good commercial practice in the production, cellar treatment, or finishing of wine and, where applicable, in the treatment of juice, within the “Specific TTB limitation” of this section and subject to the following conditions:
+-</P>
+-<P>(1) If the U.S. Food and Drug Administration (FDA) informs TTB that a specified use or limitation of any material listed in this section is inconsistent with the food additive requirements under the Federal Food, Drug, and Cosmetic Act, the appropriate TTB officer may cancel or amend the approval for use of the material in the treatment of wine and juice in the production, cellar treatment, or finishing of wine; and
+-</P>
+-<P>(2) Where water is added to facilitate the solution or dispersal of a material, the volume of water added, whether the material is used singly or in combination with other water-based treating materials, may not total more than 1 percent of the volume of the treated wine or juice, or of both the wine and the juice, from which the wine is produced.
+-</P>
+-<P>(b) <I>Use in combination or in multiple lots.</I> Subject to the conditions specified in paragraph (a) of this section, a proprietor may use the materials listed in this section in combination, provided that each material is used for its specified use and in accordance with any limitation specified for that use. If a proprietor uses several lots that contain the same material, it is the proprietor's responsibility to ensure that the cumulative amount of the material does not exceed the limitation specified in this section for that material.
++<DIV8 N="§ 24.226" TYPE="SECTION">
++<HEAD>§ 24.226   Receipt or transfer of spirits.</HEAD>
++<P>When spirits are received at the bonded wine premises, the proprietor shall determine that the spirits are the same as described on the transfer record and follow the procedures prescribed by § 19.407 of this chapter. A copy of the transfer record, annotated to show any difference between the description of spirits and quantity received, will be maintained by the proprietor as a record of receipt. If spirits are to be transferred to a distilled spirits plant or to bonded wine premises, the proprietor shall use the transfer record and procedures prescribed by § 19.405 of this chapter.
+ </P>
+-<P>(c) <I>Formula wine.</I> In addition to the materials listed in this section, other materials may be used in formula wine if approved for such use.
+-</P>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 1 to Paragraph (<E T="01">c</E>) - Materials Authorized for Treatment of Wine and Juice
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Materials and use
+-</TH><TH class="gpotbl_colhed" scope="col">Specific TTB limitation
+-
+-
+-<br/>(if applicable)
+-</TH><TH class="gpotbl_colhed" scope="col">FDA reference
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Acacia (gum arabic): To clarify and stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 16 pounds per 1,000 gallons (1.9 g/L) of wine</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1330.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Acetaldehyde: For color stabilization of juice prior to concentration</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 300 ppm (300 mg/L), and the finished concentrate must have no detectable level of the material.
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Activated carbon:
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To assist precipitation during fermentation</TD><TD align="left" class="gpotbl_cell">27 CFR 24.176</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016, which states that the activated carbon must meet the specifications in the Food Chemicals Codex and be removed from the wine.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To clarify and purify wine</TD><TD align="left" class="gpotbl_cell">The amount used to clarify and purify wine must be included in the total amount of activated carbon used to remove excessive color from wine and/or juice. 27 CFR 24.241 and 24.242</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated January 26, 1979, which states that the activated carbon must meet the specifications in the Food Chemicals Codex and be removed from the wine.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To remove color from wine and/or juice from which wine is produced</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine, including the juice from which the wine was produced, must not exceed 25 pounds per 1000 gallons (3 g/L). If the amount necessary exceeds this limit, a notice is required pursuant to 27 CFR 24.242</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated January 26, 1979, which states that the activated carbon must meet the specifications in the Food Chemicals Codex and be removed from the wine.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Albumen (egg white): Fining agent for wine</TD><TD align="left" class="gpotbl_cell">May be prepared in a light brine 1 ounce (28.35 grams) potassium chloride, 2 pounds (907.2 grams) egg white, 1 gallon (3.785 L) of water. Usage of brine not to exceed 1.5 gallons per 1,000 gallons (1.5 milliliters per liter) of wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Alumino-silicates (hydrated) e.g., Bentonite (Wyoming clay) and Kaolin: To clarify and stabilize 
+-<sup>1</sup> wine or juice</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1155
+-
+-
+-<br/>FDA advisory opinion dated July 26, 1985.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ascorbic acid <E T="03">iso</E>-ascorbic acid (erythorbic acid): To prevent oxidation of color and flavor components of juice or wine</TD><TD align="left" class="gpotbl_cell">May be added to grapes, other fruit (including berries), and other primary wine making materials, or to the juice of such materials, or to the wine, within limitations which do not alter the class or type of the wine</TD><TD align="left" class="gpotbl_cell">21 CFR 182.3013 and 182.3041.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Bakers yeast mannoprotein: To stabilize 
+-<sup>1</sup> wine from the precipitation of potassium bitartrate crystals</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 3.3 pounds per 1000 gallons (400 mg/L) of wine</TD><TD align="left" class="gpotbl_cell">GRAS (generally recognized as safe) Notice No. GRN 000284.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Calcium carbonate (CaCO<E T="52">3</E>) (with or without calcium salts of tartaric and malic acids):
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To reduce the excess natural acids in high acid wine, or in juice prior to or during fermentation</TD><TD align="left" class="gpotbl_cell">The natural or fixed acids must not be reduced below 40 pounds per 1000 gallons (4.79 g/L)</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1069, 184.1099, and 184.1191.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">As a fining agent for cold stabilization</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 30 pounds per 1000 gallons (3.59 g/L) of wine.
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Calcium sulfate (gypsum): To lower pH in sherry wine</TD><TD align="left" class="gpotbl_cell">The sulfate content of the finished wine must not exceed 1.67 pounds per 1000 gallons (0.2 g/L), expressed as potassium sulfate. 27 CFR 24.214</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1230.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Carbon dioxide (including food grade dry ice): To stabilize 
+-<sup>1</sup> and preserve wine</TD><TD align="left" class="gpotbl_cell">See 27 CFR 24.245</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1240.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Casein, potassium salt of casein: To clarify wine</TD><TD align="left" class="gpotbl_cell">See 27 CFR 24.243</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Chitosan from <E T="03">Aspergillus niger:</E> To remove spoilage organisms such as <E T="03">Brettanomyces</E> from wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 0.04 pounds per 1 gallon (500 g/100 L) of wine</TD><TD align="left" class="gpotbl_cell">GRAS Notice No. GRN 000397.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Citric acid:
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in certain juice or wine</TD><TD align="left" class="gpotbl_cell">See 27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1033.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To stabilize 
+-<sup>1</sup> wine other than citrus wine</TD><TD align="left" class="gpotbl_cell">The amount of citric acid must not exceed 5.8 pounds per 1000 gallons (0.7 g/L). 27 CFR 24.244</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1033.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Copper sulfate: To remove hydrogen sulfide and/or mercaptans from wine</TD><TD align="left" class="gpotbl_cell">The quantity of copper sulfate (calculated as copper) added to wine must not exceed 6 ppm (6mg/L).
+-<sup>2</sup> The residual level of copper in the finished wine must not exceed 0.5 ppm (0.5 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 184.1261.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Defoaming agents (polyoxyethylene 40 monostearate, silicon dioxide, dimethylpoly-siloxane, sorbitan monostearate, glyceryl mono-oleate and glyceryl dioleate): To control foaming, fermentation adjunct</TD><TD align="left" class="gpotbl_cell">Defoaming agents which are 100 percent active may be used in amounts not exceeding 0.15 pounds per 1000 gallons (18 mg/L) of wine. Defoaming agents which are 30 percent active may be used in amounts not exceeding 0.5 pounds per 1000 gallons (60 mg/L) of wine. Silicon dioxide must be completely removed by filtration. The amount of silicon remaining in the wine must not exceed 10 ppm (10 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 173.340 and 184.1505.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dimethyl dicarbonate (DMDC): To sterilize and stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">DMDC may be added to wine in a cumulative amount not to exceed 200 ppm (200 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 172.133.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Enzymatic activity: Various enzymes and uses, as shown in the following entries:</TD><TD align="left" class="gpotbl_cell">The enzyme preparation used must be prepared from nontoxic and nonpathogenic microorganisms.
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (<E T="03">alpha</E>-Amylase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme activity must be derived from:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"><E T="03">Aspergillus niger, Aspergillus oryzae, Bacillus subtilis,</E> or barley malt; or
+-
+-
+-<br/>from <E T="03">Rhizopus oryzae;</E> or
+-
+-<br/>from <E T="03">Bacillus licheniformis.</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion of August 18, 1983.
+-
+-
+-<br/>21 CFR 173.130.
+-
+-<br/>21 CFR 184.1027.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (<E T="03">beta</E>-Amylase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme must be derived from barley malt</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (Glucoamylase, Amylogluco-sidase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme activity must be derived from <E T="03">Aspergillus niger, Aspergillus oryzae,</E> or
+-
+-
+-<br/>from <E T="03">Rhizopus oryzae,</E>
+-
+-<br/>or from<E T="03"> Rhizopus niveus.</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-
+-
+-<br/>21 CFR 173.130.
+-
+-<br/>21 CFR 173.110.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (pectinase, cellulase, hemicellulase): To facilitate separation of juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus aculeatus.</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 19, 1996.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Catalase: To clarify and stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus niger</E> or bovine liver</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-
+-
+-<br/>21 CFR 184.1034.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Cellulase: To clarify and stabilize 
+-<sup>1</sup> wine and facilitate separation of the juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus niger</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Cellulase (beta-glucanase): To clarify and filter wine and juice</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Trichoderma longibrachiatum</E> or<E T="03"> Trichoderma harzianum.</E></TD><TD align="left" class="gpotbl_cell">For beta-glucanase derived from <E T="03">Trichoderma longibrachiatum,</E> 21 CFR 184.1250.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">For beta-glucanase derived from <E T="03">Trichoderma harzianum,</E> GRAS Notice No. GRN 000149.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Glucose oxidase: To clarify and stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus niger</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion of August 18, 1983.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Lysozyme: To stabilize 
+-<sup>1</sup> wines from malolactic acid bacterial degradation</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 500 ppm (500 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 15, 1993.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Pectinase: To clarify and stabilize 
+-<sup>1</sup> wine and to facilitate separation of juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity used must be derived from <E T="03">Aspergillus niger</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (general): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from:
+-
+-
+-<br/><E T="03">Aspergillus niger</E> or <E T="03">Bacillus subtilis;</E> or
+-
+-<br/>from<E T="03"> Bacillus licheniformis</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-
+-
+-<br/>21 CFR 184.1027.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Bromelin): To reduce or remove heat labile proteins.</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from pineapple (<E T="03">Ananas comosus</E> (L.) or <E T="03">Ananas bracteatus</E> (L.))</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Ficin): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from fig (<E T="03">Ficus spp.</E>)</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1316.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Papain): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from papaya (<E T="03">Carica papaya</E> (L.))</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1585.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Pepsin): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from porcine or bovine stomachs</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1595, FDA advisory opinion dated August 18, 1983.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Trypsin): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from porcine or bovine pancreas</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Urease: To reduce levels of naturally occurring urea in wine to help prevent the formation of ethyl carbamate</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Lactobacillus fermentum.</E> Use is limited to not more than 200 ppm (200 mg/L) and must be filtered prior to final packaging.
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 184.1924.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ethyl maltol: To stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">Use authorized at a maximum level of 100 ppm (100 mg/L) in all standard wines except natural wine produced from <E T="03">Vitis vinifera</E> grapes.
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 1, 1986.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fermentation aids: To facilitate fermentation of juice and wine.
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Ammonium phosphate/diammonium phosphate (<E T="03">mono-</E> and <E T="03">di</E> basic)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 8 pounds per 1000 gallons (0.96 g/L)</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Biotin (vitamin B7)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 25 ppb (25 ng/mL).
+-<sup>3</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Calcium pantothenate (vitamin B5)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 1.5 ppm (1.5 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Folic acid (folate)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 100 ppb (100 ng/mL).
+-<sup>3</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Inositol (myo-inositol)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 2 ppm (2 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Magnesium sulfate</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 15 ppm (15 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Niacin (vitamin B3)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 1 ppm (1 mg/L).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Pyridoxine hydrochloride (vitamin B6)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 150 ppb (150 ng/mL).
+-<sup>3</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Soy flour (defatted)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 2 pounds per 1000 gallons (0.24 g/L) of wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Thiamine hydrochloride</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 0.005 pounds per 1000 gallons (0.6 mg/L) of wine or juice</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Yeast, autolyzed</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Yeast, cell wall/membranes of autolyzed yeast</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 3 pounds per 1000 gallons (0.36 g/L) of wine or juice</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ferrous sulfate: To clarify and stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 3 ounces per 1000 gallons (0.022 g/L) of wine</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1315.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fractionated potato protein isolates: Fining agent for wine</TD><TD align="left" class="gpotbl_cell">Use must not exceed 500 ppm 
+-<sup>2</sup> (50 g/hL) of wine</TD><TD align="left" class="gpotbl_cell">GRAS Notice No. GRN 000447.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fumaric acid:
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in grape wine</TD><TD align="left" class="gpotbl_cell">The fumaric acid content of the finished wine must not exceed 25 pounds per 1000 gallons (3 g/L). 27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 172.350.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The fumaric acid content of the finished wine must not exceed 25 pounds per 1000 gallons (3 g/L). 27 CFR 24.244</TD><TD align="left" class="gpotbl_cell">21 CFR 172.350.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Gelatin (food grade): To clarify juice or wine</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Granular cork: To smooth wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 10 pounds per 1000 gallons of wine (1.2 g/L)</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated February 25, 1985.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Isinglass: To clarify wine</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated February 25, 1985.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Lactic acid: To correct natural acid deficiencies in grape wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1061.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Malic acid: To correct natural acid deficiencies in juice or wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1069.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Malolactic bacteria: To stabilize 
+-<sup>1</sup> grape wine</TD><TD align="left" class="gpotbl_cell">Malolactic bacteria of the type <E T="03">Leuconostoc oenos</E> (<E T="03">Oenococcus oeni)</E> may be used in treating wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated February 25, 1985.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Maltol: To stabilize 
+-<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">Use authorized at a maximum level of 2 pounds per 1000 gallons (240 mg/L) in all standard wine except natural wine produced from <E T="03">Vitis vinifera</E> grapes</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 1, 1986.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Milk products (pasteurized whole, skim, or half-and-half):
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Fining agent for grape wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 2 parts of milk products per 1,000 parts (0.2 percent V/V) of wine
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To remove off flavors in wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 10 parts of milk products per 1,000 parts (1 percent V/V) of wine
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Nitrogen gas: To maintain pressure during filtering and bottling or canning of wine and to prevent oxidation of wine</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1540.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Oxygen and compressed air: Various uses in juice and wine</TD><TD align="left" class="gpotbl_cell">None
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Polyvinylpolypyrrolidone (PVPP): To clarify and stabilize 
+-<sup>1</sup> wine and to remove color from red wine or juice</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine, including the juice from which the wine was produced, must not exceed 60 pounds per 1000 gallons (7.19 g/L) and must be removed during filtration. PVPP may be used in a continuous or batch process</TD><TD align="left" class="gpotbl_cell">21 CFR 173.50.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Polyvinylpyrrolidone (PVP)/polyvinylimidazole (PVI) polymer (terpolymer of 1-vinylimidazole, 1-vinylpyrrolidone, and 1,2-divinylimidazolidinone; CAS 87865-40-5 (Chemical Abstracts Service Registration Number)): To remove heavy metal ions and sulfides from wine</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine must not exceed 6.7 pounds per 1000 gallons (80 g/hL) of wine</TD><TD align="left" class="gpotbl_cell">FDA FCN No. 000320.
+-<sup>4</sup>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium bitartrate: To stabilize 
+-<sup>1</sup> grape wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 35 pounds per 1000 gallons (4.19 g/L) of grape wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium carbonate and/or potassium bicarbonate: To reduce excess natural acidity in wine and in juice prior to or during fermentation</TD><TD align="left" class="gpotbl_cell">The natural or fixed acids must not be reduced below 0.668 ounces per gallon (5 g/L)</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1619 and 184.1613.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium citrate: pH control agent and sequestrant in the treatment of citrus wines</TD><TD align="left" class="gpotbl_cell">The amount of potassium citrate must not exceed 25 pounds per 1000 gallons (3 g/L) of finished wine. 27 CFR 24.182</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1625.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium meta-bisulfite: To sterilize and preserve wine</TD><TD align="left" class="gpotbl_cell">The sulfur dioxide content of the finished wine must not exceed the limitations prescribed in 27 CFR 4.22</TD><TD align="left" class="gpotbl_cell">21 CFR 182.3637.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Silica gel (colloidal silicon dioxide): To clarify wine or juice</TD><TD align="left" class="gpotbl_cell">Use must not exceed the equivalent of 20 pounds colloidal silicon dioxide at a 30 percent concentration per 1000 gallons (2.4 g/L) of wine. Silicon dioxide must be completely removed by filtration</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sodium carboxymethyl cellulose: To stabilize 
+-<sup>1</sup> wine by preventing tartrate precipitation</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">21 CFR 182.1745.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sorbic acid and potassium salt of sorbic acid (potassium sorbate): To sterilize and preserve wine; to inhibit mold growth and secondary fermentation</TD><TD align="left" class="gpotbl_cell">The finished wine must not contain more than 300 ppm (300 mg/L) of sorbic acid.
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 182.3089 and 182.3640.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sulfur dioxide: To sterilize and to preserve wine or juice</TD><TD align="left" class="gpotbl_cell">The sulfur dioxide content of the finished wine must not exceed the limitations prescribed in 27 CFR 4.22(b)(1)</TD><TD align="left" class="gpotbl_cell">21 CFR 182.3862.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Tannin:
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To adjust tannin content in apple juice or in apple wine</TD><TD align="left" class="gpotbl_cell">The residual amount of tannin must not exceed 24 pounds per 1000 gallons (3 g/L), calculated as gallic acid equivalents (GAE). Total tannin must not be increased by more than 150 ppm (150 mg/L; 0.150 g/L) by the addition of tannic acid (polygalloylglucose).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To clarify, or adjust tannin content of, juice or wine (other than apple)</TD><TD align="left" class="gpotbl_cell">The residual amount of tannin, calculated in GAE, must not exceed 6.4 GAE per 1000 gallons of wine (800 mg/L) in white wine and 24 pounds per 1000 gallons (3 g/L) in red wine. Only tannin which does not impart color may be used in the cellar treatment of juice or wine. Total tannin must not be increased by more than 150 ppm (150 mg/L; 0.150 g/L) by the addition of tannic acid (poly-galloylglucose).
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Tartaric acid (L-(+)-tartaric acid):
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in grape juice or wine and to reduce the pH of grape juice or wine where ameliorating material is used in the production of grape wine</TD><TD align="left" class="gpotbl_cell">Use as prescribed in 27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1099 and GRAS Notice No. GRN 000187.
+-</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
+-<sup>1</sup> To stabilize - To prevent or to retard unwanted alteration of chemical and/or physical properties.
+-</P><P class="gpotbl_note">
+-<sup>2</sup> Parts per million - 1 ppm = 0.128 ounces per 1000 gallons = 1 mg/L = 1000 ppb.
+-</P><P class="gpotbl_note">
+-<sup>3</sup> Parts per billion - 1ppb = 0.000128 ounces per 1000 gallons = 1 mg/1000L.
+-</P><P class="gpotbl_note">
+-<sup>4</sup> An effective food contact notification (FCN) applies only to the food contact substance that is the subject of the FCN and is applicable only to the manufacturer/supplier listed within the notification.</P></DIV></DIV>
+-<CITA TYPE="N">[T.D. TTB-185, 87 FR 51897, Aug. 24, 2022]
+-
+-
++<SECAUTH TYPE="N">(Sec. 201, Pub. L. 85-859, 72 Stat. 1382, as amended (26 U.S.C. 5373))
++</SECAUTH>
++<APPRO TYPE="N">(Approved by the Office of Management and Budget under control number 1512-0298)
++</APPRO>
++<CITA TYPE="N">[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. TTB-92, 76 FR 9171, Feb. 16, 2011]
+ 
+ 
+ </CITA>
+@@ -48232,107 +48049,195 @@
+ 
+ <DIV8 N="§ 24.246" TYPE="SECTION">
+ <HEAD>§ 24.246   Materials authorized for the treatment of wine and juice.</HEAD>
+-<P>(a) <I>Wine.</I> Materials used in the process of filtering, clarifying, or purifying wine may remove cloudiness, precipitation, and undesirable odors and flavors, but the addition of any substance foreign to wine which changes the character of the wine, or the abstraction of ingredients which will change its character, to the extent inconsistent with good commercial practice, is not permitted on bonded wine premises. The materials listed in this section are approved, as being consistent with good commercial practice in the production, cellar treatment, or finishing of wine, and where applicable in the treatment of juice, within the general limitations of this section: <I>Provided,</I> That:
++<P>(a) <I>Wine and juice.</I> Materials used in the process of filtering, clarifying, or purifying wine may remove cloudiness, precipitation, and undesirable odors and flavors, but the addition of any substance foreign to wine that changes the character of the wine, or the abstraction of ingredients so as to change the character of the wine, if not consistent with good commercial practice, is not permitted on bonded wine premises. The materials listed in this section are approved as being consistent with good commercial practice in the production, cellar treatment, or finishing of wine and, where applicable, in the treatment of juice, within the “Specific TTB limitation” of this section and subject to the following conditions:
++</P>
++<P>(1) If the U.S. Food and Drug Administration (FDA) informs TTB that a specified use or limitation of any material listed in this section is inconsistent with the food additive requirements under the Federal Food, Drug, and Cosmetic Act, the appropriate TTB officer may cancel or amend the approval for use of the material in the treatment of wine and juice in the production, cellar treatment, or finishing of wine; and
+ </P>
+-<P>(1) When the specified use or limitation of any material on this list is determined to be unacceptable by the U.S. Food and Drug Administration, the appropriate TTB officer may cancel or amend the approval for use of the material in the production, cellar treatment, or finishing of wine; and
++<P>(2) Where water is added to facilitate the solution or dispersal of a material, the volume of water added, whether the material is used singly or in combination with other water-based treating materials, may not total more than 1 percent of the volume of the treated wine or juice, or of both the wine and the juice, from which the wine is produced.
+ </P>
+-<P>(2) Where water is added to facilitate the solution or dispersal of a material, the volume of water added, whether the material is used singly or in combination with other water based treating materials, may not total more than one percent of the volume of the treated wine, juice, or both wine and juice, from which such wine is produced.
++<P>(b) <I>Use in combination or in multiple lots.</I> Subject to the conditions specified in paragraph (a) of this section, a proprietor may use the materials listed in this section in combination, provided that each material is used for its specified use and in accordance with any limitation specified for that use. If a proprietor uses several lots that contain the same material, it is the proprietor's responsibility to ensure that the cumulative amount of the material does not exceed the limitation specified in this section for that material.
+ </P>
+-<P>(b) <I>Formula wine.</I> In addition to the material listed in this section, other material may be used in formula wine if approved for such use.
++<P>(c) <I>Formula wine.</I> In addition to the materials listed in this section, other materials may be used in formula wine if approved for such use.
+ </P>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Materials Authorized for Treatment of Wine and Juice
++<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 1 to Paragraph (<E T="01">c</E>) - Materials Authorized for Treatment of Wine and Juice
+ </P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Materials and use
+-</TH><TH class="gpotbl_colhed" scope="col">Reference or limitation
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Acacia (gum arabic): To clarify and to stabilize wine</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 2 lbs/1000 gals. (0.24 g/L of wine. 21 CFR 184.1330 (GRAS) *See footnote below.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Acetaldehyde: For color stabilization of juice prior to concentration</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 300 ppm, and the finished concentrate must have no detectable level of the material. 21 CFR 182.60 (GRAS).
++</TH><TH class="gpotbl_colhed" scope="col">Specific TTB limitation
++
++
++<br/>(if applicable)
++</TH><TH class="gpotbl_colhed" scope="col">FDA reference
++</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Acacia (gum arabic): To clarify and stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 16 pounds per 1,000 gallons (1.9 g/L) of wine</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1330.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Acetaldehyde: For color stabilization of juice prior to concentration</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 300 ppm (300 mg/L), and the finished concentrate must have no detectable level of the material.
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Activated carbon:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To assist precipitation during fermentation</TD><TD align="left" class="gpotbl_cell">27 CFR 24.176. GRAS per FDA advisory opinion dated 1/26/79.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To clarify and to purify wine</TD><TD align="left" class="gpotbl_cell">The amount used to clarify and purify wine shall be included in the total amount of activated carbon used to remove excessive color in wine. 27 CFR 24.241 and 24.242 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To remove color in wine and/or juice from which the wine was produced</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine, including the juice from which the wine was produced, shall not exceed 25 lbs/1000 gal. (3.0 g/L). If the amount necessary exceeds this limit, a notice is required pursuant to 27 CFR 24.242 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Albumen (egg white): Fining agent for wine</TD><TD align="left" class="gpotbl_cell">May be prepared in a light brine 1 oz. (28.35 grams) potassium chloride, 2 lbs (907.2 grams) egg white, 1 gal. (3.785 L) of water. Usage not to exceed 1.5 gals. of solution per 1,000 gals. of wine. (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Alumino-silicates (hydrated) e.g., Bentonite (Wyoming clay) and Kaolin: To clarify and to stabilize wine or juice</TD><TD align="left" class="gpotbl_cell">21 CFR §§ 182.2727, 182.2729, 184.1155 (GRAS) and 186.1256. GRAS per FDA advisory opinion dated July 26, 1985.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ammonium phosphate (<E T="03">mono</E>- and <E T="03">di</E> basic): Yeast nutrient in wine production and to start secondary fermentation in the production of sparkling wine or sparkling hard cider</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 8 lbs. per 1000 gals. (0.96 g/L) of wine. 21 CFR 184.1141 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ascorbic acid <E T="03">iso</E>-ascorbic acid (erythorbic acid): To prevent oxidation of color and flavor components of juice and wine</TD><TD align="left" class="gpotbl_cell">May be added to grapes, other fruit (including berries), and other primary wine making materials, or to the juice of such materials, or to the wine, within limitations which do not alter the class or type of the wine. 21 CFR 182.3013 and 182.3041 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Calcium carbonate (with or without calcium salts of tartaric and malic acids):
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To reduce the excess natural acids in high acid wine, and in juice prior to or during fermentation.</TD><TD align="left" class="gpotbl_cell">The natural or fixed acids shall not be reduced below 5 g/L. 21 CFR 184.1069 and 184.1099, and 184.1191 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em"> A fining agent for cold stabilization.</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 30 lbs/1000 gals. (3.59 g/L) of wine.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Calcium pantothenate: Yeast nutrient to facilitate fermentation of apple wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 0.1 lb. per 25,000 gallons. 21 CFR 184.1212 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Calcium sulfate (gypsum): To lower pH in sherry wine.</TD><TD align="left" class="gpotbl_cell">The sulfate content of the finished wine shall not exceed 2.0g/L, expressed as potassium sulfate. 27 CFR 24.214. 21 CFR 184.1230 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Carbon dioxide (including food grade dry ice): To stabilize * * * and to preserve wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.245.
+-<br/>21 CFR 184.1240 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Casein, potassium salt of casein: To clarify wine</TD><TD align="left" class="gpotbl_cell">GRAS per FDA opinions of 02/23/60 and 08/25/61. 27 CFR 24.243.
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To assist precipitation during fermentation</TD><TD align="left" class="gpotbl_cell">27 CFR 24.176</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016, which states that the activated carbon must meet the specifications in the Food Chemicals Codex and be removed from the wine.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To clarify and purify wine</TD><TD align="left" class="gpotbl_cell">The amount used to clarify and purify wine must be included in the total amount of activated carbon used to remove excessive color from wine and/or juice. 27 CFR 24.241 and 24.242</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated January 26, 1979, which states that the activated carbon must meet the specifications in the Food Chemicals Codex and be removed from the wine.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To remove color from wine and/or juice from which wine is produced</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine, including the juice from which the wine was produced, must not exceed 25 pounds per 1000 gallons (3 g/L). If the amount necessary exceeds this limit, a notice is required pursuant to 27 CFR 24.242</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated January 26, 1979, which states that the activated carbon must meet the specifications in the Food Chemicals Codex and be removed from the wine.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Albumen (egg white): Fining agent for wine</TD><TD align="left" class="gpotbl_cell">May be prepared in a light brine 1 ounce (28.35 grams) potassium chloride, 2 pounds (907.2 grams) egg white, 1 gallon (3.785 L) of water. Usage of brine not to exceed 1.5 gallons per 1,000 gallons (1.5 milliliters per liter) of wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Alumino-silicates (hydrated) e.g., Bentonite (Wyoming clay) and Kaolin: To clarify and stabilize 
++<sup>1</sup> wine or juice</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1155
++
++
++<br/>FDA advisory opinion dated July 26, 1985.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ascorbic acid <E T="03">iso</E>-ascorbic acid (erythorbic acid): To prevent oxidation of color and flavor components of juice or wine</TD><TD align="left" class="gpotbl_cell">May be added to grapes, other fruit (including berries), and other primary wine making materials, or to the juice of such materials, or to the wine, within limitations which do not alter the class or type of the wine</TD><TD align="left" class="gpotbl_cell">21 CFR 182.3013 and 182.3041.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Bakers yeast mannoprotein: To stabilize 
++<sup>1</sup> wine from the precipitation of potassium bitartrate crystals</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 3.3 pounds per 1000 gallons (400 mg/L) of wine</TD><TD align="left" class="gpotbl_cell">GRAS (generally recognized as safe) Notice No. GRN 000284.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Calcium carbonate (CaCO<E T="52">3</E>) (with or without calcium salts of tartaric and malic acids):
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To reduce the excess natural acids in high acid wine, or in juice prior to or during fermentation</TD><TD align="left" class="gpotbl_cell">The natural or fixed acids must not be reduced below 40 pounds per 1000 gallons (4.79 g/L)</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1069, 184.1099, and 184.1191.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">As a fining agent for cold stabilization</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 30 pounds per 1000 gallons (3.59 g/L) of wine.
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Calcium sulfate (gypsum): To lower pH in sherry wine</TD><TD align="left" class="gpotbl_cell">The sulfate content of the finished wine must not exceed 1.67 pounds per 1000 gallons (0.2 g/L), expressed as potassium sulfate. 27 CFR 24.214</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1230.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Carbon dioxide (including food grade dry ice): To stabilize 
++<sup>1</sup> and preserve wine</TD><TD align="left" class="gpotbl_cell">See 27 CFR 24.245</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1240.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Casein, potassium salt of casein: To clarify wine</TD><TD align="left" class="gpotbl_cell">See 27 CFR 24.243</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Chitosan from <E T="03">Aspergillus niger:</E> To remove spoilage organisms such as <E T="03">Brettanomyces</E> from wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 0.04 pounds per 1 gallon (500 g/100 L) of wine</TD><TD align="left" class="gpotbl_cell">GRAS Notice No. GRN 000397.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Citric acid:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.182 and 24.192.
+-<br/>21 CFR 182.1033 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To stabilize wine other than citrus wine</TD><TD align="left" class="gpotbl_cell">The amount of citric acid shall not exceed 5.8 lbs/1000 gals. (0.7 g/L). 27 CFR 24.244. 21 CFR 182.1033 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Copper sulfate: To remove hydrogen sulfide and/or mercaptans from wine</TD><TD align="left" class="gpotbl_cell">The quantity of copper sulfate added (calculated as copper) must not exceed 6 parts copper per million parts of wine (6.0 mg/L). The residual level of copper in the finished wine must not exceed 0.5 parts per million (0.5 mg/L). 21 CFR 184.1261 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Defoaming agents (polyoxyethylene 40 monostearate, silicon dioxide, dimethylpoly-siloxane, sorbitan monostearate, glyceryl mono-oleate and glyceryl dioleate): To control foaming, fermentation adjunct</TD><TD align="left" class="gpotbl_cell">Defoaming agents which are 100% active may be used in amounts not exceeding 0.15 lbs/1000 gals. (0.018 g/L of wine. Defoaming agents which are 30% active may be used in amounts not exceeding 0.5 lbs/1000 gals. (0.06 g/L) of wine. Silicon dioxide shall be completely removed by filtration. The amount of silicon remaining in the wine shall not exceed 10 parts per million. 21 CFR 173.340 and 184.1505.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dimethyl dicarbonate:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To sterilize and to stabilize wine, dealcoholized wine, and low alcohol wine</TD><TD align="left" class="gpotbl_cell">Must meet the conditions prescribed by FDA in 21 CFR 172.133. DMDC may be added to wine, dealcoholized wine, and low alcohol wine in a cumulative amount not to exceed 200 parts per million (ppm).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Enzymatic activity: Various uses as shown below</TD><TD align="left" class="gpotbl_cell">The enzyme preparation used shall be prepared from nontoxic and nonpathogenic microorganisms in accordance with good manufacturing practice and be approved for use in food by either FDA regulation or by FDA advisory opinion.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (<E T="03">alpha</E>-Amylase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme activity shall be derived from <E T="03">Aspergillus niger, Aspergillus oryzae, Bacillus subtilis,</E> or barley malt per FDA advisory opinion of 8/18/83 or from <E T="03">Rhizopus oryzae</E> per 21 CFR 173.130 or from <E T="03">Bacillus licheniformis</E> per 21 CFR 184.1027.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (<E T="03">beta</E>-Amylase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme activity shall be derived from barley malt per FDA advisory opinion dated 8/18/83.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (Glucoamylase, Amylogluco-sidase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme activity shall be derived from <E T="03">Aspergillus niger</E> or <E T="03">Aspergillus oryzae</E> per FDA advisory opinion dated 8/18/83 or from <E T="03">Rhizopus oryzae</E> per 21 CFR 173.130 or from <E T="03">Rhizopus niveus</E> per 21 CFR 173.110.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (pectinase, cellulase, hemicellulase): To facilitate separation of juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity used must be derived from <E T="03">Aspergillus aculeatus.</E> FDA advisory opinion dated12/19/1996.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Catalase: To clarify and to stabilize wine</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be derived from <E T="03">Aspergillus niger</E> or bovine liver per FDA advisory opinion dated 8/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Cellulase: To clarify and to stabilize wine and to facilitate separation of the juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be derived from <E T="03">Aspergillus niger</E> per FDA advisory opinion dated 8/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Cellulase (beta-glucanase): To clarify and filter wine</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Tricoderma longibrachiatum.</E> The amount used must not exceed 3 g/hl. 21 CFR 184.1250 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Glucose oxidase: To clarify and to stabilize wine</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be derived from <E T="03">Aspergillus niger</E> per FDA advisory opinion of 8/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Lysozyme: To stabilize wines from malolactic acid bacterial degradation.</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 500 mg/L. FDA advisory opinion dated 12/15/93. 
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Pectinase: To clarify and to stabilize wine and to facilitate separation of juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be derived from <E T="03">Aspergillus niger</E> per FDA advisory opinion dated 8/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (general): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyne activity used shall be derived from <E T="03">Aspergillus niger</E> or <E T="03">Bacillus subtilis</E> per FDA advisory opinion dated 08/18/83 or from <E T="03">Bacillus licheniformis</E> per 21 CFR 184.1027 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Bromelin): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be derived from <E T="03">Ananus comosus</E> or <E T="03">Ananus bracteatus (L)</E> per FDA advisory opinion dated 08/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Ficin): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be derived from <E T="03">Ficus spp.</E> per FDA advisory opinion dated 08/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Papain): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be deived from <E T="03">Carica papaya (L)</E> per 21 CFR 184.1585 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Pepsin): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme actvity used shall be derived from porcine or bovine stomachs per FDA advisory opinion dated 08/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Trypsin): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity used shall be derived from porcine or bovine pancreas per FDA advisory opinion dated 08/18/83 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Urease: To reduce levels of naturally occurring urea in wine to help prevent the formation of ethyl carbamate</TD><TD align="left" class="gpotbl_cell">The urease enzyme activity shall be derived from Lactobacillus fermentum per 21 CFR 184.1924. Use is limited to not more than 200 mg/L and must be filtered prior to final packaging of the wine.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ethyl maltol: To stabilize wine</TD><TD align="left" class="gpotbl_cell">Use authorized at a maximum level of 100mg/L in all standard wines except natural wine produced from <E T="03">Vitis vinifera</E> grapes. FDA advisory opinion dated 12/1/86.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ferrocyanide compounds (sequestered complexes): To remove trace metal from wine and to remove objectionable levels of sulfide and mercaptans from wine</TD><TD align="left" class="gpotbl_cell">No insoluble or soluble residue in excess of 1 part per million shall remain in the finished wine and the basic character of the wine shall not be changed by such treatment. GRAS per FDA advisory opinion of 06/22/82.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ferrous sulfate: To clarify and to stabilize wine</TD><TD align="left" class="gpotbl_cell">The amount used shall not exeed 3 ozs./1000 gals. (0.022 g/L) of wine. 21 CFR 184.1315 (GRAS).
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in certain juice or wine</TD><TD align="left" class="gpotbl_cell">See 27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1033.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To stabilize 
++<sup>1</sup> wine other than citrus wine</TD><TD align="left" class="gpotbl_cell">The amount of citric acid must not exceed 5.8 pounds per 1000 gallons (0.7 g/L). 27 CFR 24.244</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1033.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Copper sulfate: To remove hydrogen sulfide and/or mercaptans from wine</TD><TD align="left" class="gpotbl_cell">The quantity of copper sulfate (calculated as copper) added to wine must not exceed 6 ppm (6mg/L).
++<sup>2</sup> The residual level of copper in the finished wine must not exceed 0.5 ppm (0.5 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 184.1261.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Defoaming agents (polyoxyethylene 40 monostearate, silicon dioxide, dimethylpoly-siloxane, sorbitan monostearate, glyceryl mono-oleate and glyceryl dioleate): To control foaming, fermentation adjunct</TD><TD align="left" class="gpotbl_cell">Defoaming agents which are 100 percent active may be used in amounts not exceeding 0.15 pounds per 1000 gallons (18 mg/L) of wine. Defoaming agents which are 30 percent active may be used in amounts not exceeding 0.5 pounds per 1000 gallons (60 mg/L) of wine. Silicon dioxide must be completely removed by filtration. The amount of silicon remaining in the wine must not exceed 10 ppm (10 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 173.340 and 184.1505.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dimethyl dicarbonate (DMDC): To sterilize and stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">DMDC may be added to wine in a cumulative amount not to exceed 200 ppm (200 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 172.133.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Enzymatic activity: Various enzymes and uses, as shown in the following entries:</TD><TD align="left" class="gpotbl_cell">The enzyme preparation used must be prepared from nontoxic and nonpathogenic microorganisms.
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (<E T="03">alpha</E>-Amylase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme activity must be derived from:
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"><E T="03">Aspergillus niger, Aspergillus oryzae, Bacillus subtilis,</E> or barley malt; or
++
++
++<br/>from <E T="03">Rhizopus oryzae;</E> or
++
++<br/>from <E T="03">Bacillus licheniformis.</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion of August 18, 1983.
++
++
++<br/>21 CFR 173.130.
++
++<br/>21 CFR 184.1027.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (<E T="03">beta</E>-Amylase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme must be derived from barley malt</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (Glucoamylase, Amylogluco-sidase): To convert starches to fermentable carbohydrates</TD><TD align="left" class="gpotbl_cell">The amylase enzyme activity must be derived from <E T="03">Aspergillus niger, Aspergillus oryzae,</E> or
++
++
++<br/>from <E T="03">Rhizopus oryzae,</E>
++
++<br/>or from<E T="03"> Rhizopus niveus.</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++
++
++<br/>21 CFR 173.130.
++
++<br/>21 CFR 173.110.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Carbohydrase (pectinase, cellulase, hemicellulase): To facilitate separation of juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus aculeatus.</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 19, 1996.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Catalase: To clarify and stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus niger</E> or bovine liver</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++
++
++<br/>21 CFR 184.1034.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Cellulase: To clarify and stabilize 
++<sup>1</sup> wine and facilitate separation of the juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus niger</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Cellulase (beta-glucanase): To clarify and filter wine and juice</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Trichoderma longibrachiatum</E> or<E T="03"> Trichoderma harzianum.</E></TD><TD align="left" class="gpotbl_cell">For beta-glucanase derived from <E T="03">Trichoderma longibrachiatum,</E> 21 CFR 184.1250.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">For beta-glucanase derived from <E T="03">Trichoderma harzianum,</E> GRAS Notice No. GRN 000149.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Glucose oxidase: To clarify and stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Aspergillus niger</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion of August 18, 1983.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Lysozyme: To stabilize 
++<sup>1</sup> wines from malolactic acid bacterial degradation</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 500 ppm (500 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 15, 1993.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Pectinase: To clarify and stabilize 
++<sup>1</sup> wine and to facilitate separation of juice from the fruit</TD><TD align="left" class="gpotbl_cell">The enzyme activity used must be derived from <E T="03">Aspergillus niger</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (general): To reduce or to remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from:
++
++
++<br/><E T="03">Aspergillus niger</E> or <E T="03">Bacillus subtilis;</E> or
++
++<br/>from<E T="03"> Bacillus licheniformis</E></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++
++
++<br/>21 CFR 184.1027.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Bromelin): To reduce or remove heat labile proteins.</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from pineapple (<E T="03">Ananas comosus</E> (L.) or <E T="03">Ananas bracteatus</E> (L.))</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Ficin): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from fig (<E T="03">Ficus spp.</E>)</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1316.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Papain): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from papaya (<E T="03">Carica papaya</E> (L.))</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1585.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Pepsin): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from porcine or bovine stomachs</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1595, FDA advisory opinion dated August 18, 1983.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Protease (Trypsin): To reduce or remove heat labile proteins</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from porcine or bovine pancreas</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 18, 1983.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Urease: To reduce levels of naturally occurring urea in wine to help prevent the formation of ethyl carbamate</TD><TD align="left" class="gpotbl_cell">The enzyme activity must be derived from <E T="03">Lactobacillus fermentum.</E> Use is limited to not more than 200 ppm (200 mg/L) and must be filtered prior to final packaging.
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 184.1924.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ethyl maltol: To stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">Use authorized at a maximum level of 100 ppm (100 mg/L) in all standard wines except natural wine produced from <E T="03">Vitis vinifera</E> grapes.
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 1, 1986.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fermentation aids: To facilitate fermentation of juice and wine.
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Ammonium phosphate/diammonium phosphate (<E T="03">mono-</E> and <E T="03">di</E> basic)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 8 pounds per 1000 gallons (0.96 g/L)</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Biotin (vitamin B7)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 25 ppb (25 ng/mL).
++<sup>3</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Calcium pantothenate (vitamin B5)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 1.5 ppm (1.5 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Folic acid (folate)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 100 ppb (100 ng/mL).
++<sup>3</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Inositol (myo-inositol)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 2 ppm (2 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Magnesium sulfate</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 15 ppm (15 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Niacin (vitamin B3)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 1 ppm (1 mg/L).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Pyridoxine hydrochloride (vitamin B6)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 150 ppb (150 ng/mL).
++<sup>3</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Soy flour (defatted)</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 2 pounds per 1000 gallons (0.24 g/L) of wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Thiamine hydrochloride</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 0.005 pounds per 1000 gallons (0.6 mg/L) of wine or juice</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Yeast, autolyzed</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Yeast, cell wall/membranes of autolyzed yeast</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 3 pounds per 1000 gallons (0.36 g/L) of wine or juice</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated August 29, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ferrous sulfate: To clarify and stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 3 ounces per 1000 gallons (0.022 g/L) of wine</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1315.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fractionated potato protein isolates: Fining agent for wine</TD><TD align="left" class="gpotbl_cell">Use must not exceed 500 ppm 
++<sup>2</sup> (50 g/hL) of wine</TD><TD align="left" class="gpotbl_cell">GRAS Notice No. GRN 000447.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fumaric acid:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in grape wine</TD><TD align="left" class="gpotbl_cell">The fumaric acid content of the finished wine shall not exceed 25 lbs/1000 gals (3.0 g/L). 27 CFR 24.182 and 24.192. 21 CFR 172.350.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To stabilize wine</TD><TD align="left" class="gpotbl_cell">The fumaric acid content of the finished wine shall not exceed 25 lbs/1000 gals (3.0 g/L). 27 CFR 24.244. 21 CFR 172.350.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Gelatin (food grade): To clarify juice or wine</TD><TD align="left" class="gpotbl_cell">(GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Granular cork: To smooth wine</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 10 lbs/1000 gals. of wine (1.2 g/L). GRAS per FDA advisory opinion dated 02/25/85.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Isinglass: To clarify wine</TD><TD align="left" class="gpotbl_cell">GRAS per FDA advisory opinion dated 02/25/85.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Lactic acid: To correct natural acid deficiencies in grape wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.182 and 24.192.
+-<br/>21 CFR 184.1061 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Malic acid: To correct natural acid deficiencies in juice or wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.182 and 24.192. 21 CFR 184.1069 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Malo-lactic bacteria: To stabilize grape wine</TD><TD align="left" class="gpotbl_cell">Malo-lactic bacteria of the type <E T="03">Leuconostoc oenos</E> may be used in treating wine. GRAS per FDA advisory opinion dated 02/25/85.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Maltol: To stabilize wine</TD><TD align="left" class="gpotbl_cell">Use authorized at a maximum level of 250 mg/L in all standard wine except natural wine produced from <E T="03">Vitis vinifera</E> grapes. FDA advisory opinion dated 12/1/86.
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in grape wine</TD><TD align="left" class="gpotbl_cell">The fumaric acid content of the finished wine must not exceed 25 pounds per 1000 gallons (3 g/L). 27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 172.350.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">The fumaric acid content of the finished wine must not exceed 25 pounds per 1000 gallons (3 g/L). 27 CFR 24.244</TD><TD align="left" class="gpotbl_cell">21 CFR 172.350.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Gelatin (food grade): To clarify juice or wine</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Granular cork: To smooth wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 10 pounds per 1000 gallons of wine (1.2 g/L)</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated February 25, 1985.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Isinglass: To clarify wine</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated February 25, 1985.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Lactic acid: To correct natural acid deficiencies in grape wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1061.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Malic acid: To correct natural acid deficiencies in juice or wine</TD><TD align="left" class="gpotbl_cell">27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1069.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Malolactic bacteria: To stabilize 
++<sup>1</sup> grape wine</TD><TD align="left" class="gpotbl_cell">Malolactic bacteria of the type <E T="03">Leuconostoc oenos</E> (<E T="03">Oenococcus oeni)</E> may be used in treating wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated February 25, 1985.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Maltol: To stabilize 
++<sup>1</sup> wine</TD><TD align="left" class="gpotbl_cell">Use authorized at a maximum level of 2 pounds per 1000 gallons (240 mg/L) in all standard wine except natural wine produced from <E T="03">Vitis vinifera</E> grapes</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated December 1, 1986.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Milk products (pasteurized whole, skim, or half-and-half):
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Fining agent for grape wine or sherry</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 2.0 liters of pasteurized milk products per 1,000 liters (0.2 percent V/V) of wine.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To remove off flavors in wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 10 liters of pasteurized milk products per 1,000 liters (1 percent V/V) of wine.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Nitrogen gas: To maintain pressure during filtering and bottling or canning of wine and to prevent oxidation of wine</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1540 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Oak chips or particles, uncharred and untreated: To smooth wine</TD><TD align="left" class="gpotbl_cell">21 CFR 172.510.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Oxygen and compressed air:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">May be used in juice and wine</TD><TD align="left" class="gpotbl_cell">None.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Polyvinyl-polypyr-rolidone (PVPP):
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To clarify and to stabilize wine and to remove color from red or black wine or juice</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine, including the juice from which the wine was produced, shall not exceed 60 lbs/1,000 gals. (7.19 g/L) and shall be removed during filtration. PVPP may be used in a continuous or batch process. The finished wine shall retain vinous character and shall have color of not less than 0.6 Lovibond in a one-half inch cell or not more than 95 percent transmittance per **AOAC Method 11.003-11.004 (14th Ed.). 21 CFR 173.50.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium bitartrate: To stabilize grape wine</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 35 lbs/1000 gals. (4.19 g/L) of grape wine. 21 CFR 184.1077 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium carbonate and/or potassium bicarbonate
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To reduce excess natural acidity in wine, and in juice prior to or during fermentation</TD><TD align="left" class="gpotbl_cell">The natural or fixed acids shall not be reduced below 5 parts per thousand (5 g/L). 21 CFR 184.1619 and 184.1613 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium citrate: pH control agent and sequestrant in treatment of citrus wines</TD><TD align="left" class="gpotbl_cell">The amount of potassium citrate shall not exceed 25 lbs/1000 gals. (3.0 g/L) of finished wine. 27 CFR 24.182. 21 CFR 182.1625 and 182.6625 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium meta-bisulfite: To sterilize and to preserve wine</TD><TD align="left" class="gpotbl_cell">The sulfur dioxide content of the finished wine shall not exceed the limitations prescribed in 27 CFR 4.22. 21 CFR 182.3637 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Silica gel (colloidal silicon dioxide): To clarify wine or juice</TD><TD align="left" class="gpotbl_cell">Use must not exceed the equivalent of 20 lbs. colloidal silicon dioxide at a 30% concentration per 1000 gals. of wine. (2.4 g/L). Silicon dioxide must be completely removed by filtration. 21 CFR 172.480.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sorbic acid and potassium salt of sorbic acid: To sterilize and to preserve wine; to inhibit mold growth and secondary fermentation</TD><TD align="left" class="gpotbl_cell">The finished wine shall contain not more than 300 milligrams of sorbic acid per liter of wine. 21 CFR 182.3089 and 182.3640 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Soy flour (defatted): Yeast nutrient to facilitate fermentation of wine</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 2 lbs/1000 gals. (0.24 g/L) of wine. (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sulfur dioxide: To sterilize and to preserve wine</TD><TD align="left" class="gpotbl_cell">The sulfur dioxide content of the finished wine shall not exceed the limitations prescribed in 27 CFR 4.22(b)(1). 21 CFR 182.3862 (GRAS).
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Fining agent for grape wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 2 parts of milk products per 1,000 parts (0.2 percent V/V) of wine
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To remove off flavors in wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 10 parts of milk products per 1,000 parts (1 percent V/V) of wine
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Nitrogen gas: To maintain pressure during filtering and bottling or canning of wine and to prevent oxidation of wine</TD><TD align="left" class="gpotbl_cell">None</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1540.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Oxygen and compressed air: Various uses in juice and wine</TD><TD align="left" class="gpotbl_cell">None
++</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Polyvinylpolypyrrolidone (PVPP): To clarify and stabilize 
++<sup>1</sup> wine and to remove color from red wine or juice</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine, including the juice from which the wine was produced, must not exceed 60 pounds per 1000 gallons (7.19 g/L) and must be removed during filtration. PVPP may be used in a continuous or batch process</TD><TD align="left" class="gpotbl_cell">21 CFR 173.50.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Polyvinylpyrrolidone (PVP)/polyvinylimidazole (PVI) polymer (terpolymer of 1-vinylimidazole, 1-vinylpyrrolidone, and 1,2-divinylimidazolidinone; CAS 87865-40-5 (Chemical Abstracts Service Registration Number)): To remove heavy metal ions and sulfides from wine</TD><TD align="left" class="gpotbl_cell">The amount used to treat the wine must not exceed 6.7 pounds per 1000 gallons (80 g/hL) of wine</TD><TD align="left" class="gpotbl_cell">FDA FCN No. 000320.
++<sup>4</sup>
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium bitartrate: To stabilize 
++<sup>1</sup> grape wine</TD><TD align="left" class="gpotbl_cell">The amount used must not exceed 35 pounds per 1000 gallons (4.19 g/L) of grape wine</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium carbonate and/or potassium bicarbonate: To reduce excess natural acidity in wine and in juice prior to or during fermentation</TD><TD align="left" class="gpotbl_cell">The natural or fixed acids must not be reduced below 0.668 ounces per gallon (5 g/L)</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1619 and 184.1613.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium citrate: pH control agent and sequestrant in the treatment of citrus wines</TD><TD align="left" class="gpotbl_cell">The amount of potassium citrate must not exceed 25 pounds per 1000 gallons (3 g/L) of finished wine. 27 CFR 24.182</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1625.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Potassium meta-bisulfite: To sterilize and preserve wine</TD><TD align="left" class="gpotbl_cell">The sulfur dioxide content of the finished wine must not exceed the limitations prescribed in 27 CFR 4.22</TD><TD align="left" class="gpotbl_cell">21 CFR 182.3637.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Silica gel (colloidal silicon dioxide): To clarify wine or juice</TD><TD align="left" class="gpotbl_cell">Use must not exceed the equivalent of 20 pounds colloidal silicon dioxide at a 30 percent concentration per 1000 gallons (2.4 g/L) of wine. Silicon dioxide must be completely removed by filtration</TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sodium carboxymethyl cellulose: To stabilize 
++<sup>1</sup> wine by preventing tartrate precipitation</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">21 CFR 182.1745.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sorbic acid and potassium salt of sorbic acid (potassium sorbate): To sterilize and preserve wine; to inhibit mold growth and secondary fermentation</TD><TD align="left" class="gpotbl_cell">The finished wine must not contain more than 300 ppm (300 mg/L) of sorbic acid.
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">21 CFR 182.3089 and 182.3640.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sulfur dioxide: To sterilize and to preserve wine or juice</TD><TD align="left" class="gpotbl_cell">The sulfur dioxide content of the finished wine must not exceed the limitations prescribed in 27 CFR 4.22(b)(1)</TD><TD align="left" class="gpotbl_cell">21 CFR 182.3862.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Tannin:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To adjust tannin content in apple juice or in apple wine</TD><TD align="left" class="gpotbl_cell">The residual amount of tannin shall not exceed 3.0 g/L, calculated as gallic acid equivalents (GAE). GRAS per FDA advisory opinions dated 4/6/59 and 3/29/60. Total tannin shall not be increased by more than 150 milligrams/liter by the addition of tannic acid (polygalloylglucose).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To clarify or to adjust tannin content of juice or wine (other than apple)</TD><TD align="left" class="gpotbl_cell">The residual amount of tannin, calculated in gallic acid equivalents, shall not exceed 0.8 g/L in white wine and 3.0 g/L in red wine. Only tannin which does not impart color may be used in the cellar treatment of juice or wine. GRAS per FDA advisory opinions dated 4/6/59 and 3/29/60. Total tannin shall not be increased by more than 150 milligrams/liter by the addition of tannic acid (poly-galloylglucose).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Tartaric acid:
+-</TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in grape juice/wine and to reduce the pH of grape juice/wine where ameliorating material is used in the production of grape wine</TD><TD align="left" class="gpotbl_cell">Use as prescribed in 27 CFR 24.182 and 24.192. 21 CFR 184.1099 (GRAS). 
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Thiamine hydrochloride: Yeast nutrient to facilitate fermentation of wine</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 0.005 lb/1000 gals. (0.6 mg/L) of wine or juice. 21 CFR 184.1875 (GRAS).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Yeast, autolyzed: Yeast nutrient to facilitate fermentation in the production of grape or fruit wine</TD><TD align="left" class="gpotbl_cell">21 CFR 172.896 and 184.1983. GRAS per FDA advisory opinion of 10/06/59.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Yeast, cell wall/membranes of autolyzed yeast: To facilitate fermentation of juice/wine</TD><TD align="left" class="gpotbl_cell">The amount used shall not exceed 3 lbs/1000 gals. (0.36 g/L) of wine or juice. (GRAS).
+-</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">* GRAS - An acronym for “generally recognized as safe.” The term means that the treating material has an FDA listing in Title 21, Code of Federal Regulations, part 182 or part 184, or is considered to be generally recognized as safe by advisory opinion issued by the U.S. Food and Drug Administration.
+-</P><P class="gpotbl_note">** AOAC - Association of Official Analytical Chemists.
+-</P><P class="gpotbl_note">*** To stabilize - To prevent or to retard unwanted alteration of chemical and/or physical properties.</P></DIV></DIV>
+-<SECAUTH TYPE="N">(Sec. 201, Pub. L. 85-859, 72 Stat. 1383, as amended (26 U.S.C. 5381, 5382, 5385, 5386, and 5387))
+-</SECAUTH>
+-<CITA TYPE="N">[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31079, July 9, 1991; T.D. ATF-350, 58 FR 52231, Oct. 7, 1993; T.D. ATF-350, 60 FR 38959, July 31, 1995; T.D. ATF-371, 61 FR 21079, May 9, 1996; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-17, 69 FR 67643, Nov. 19, 2004; T.D. TTB-61, 72 FR 51709, Sept. 11, 2007; T.D. TTB-147, 82 FR 7663, Jan. 23, 2017]
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To adjust tannin content in apple juice or in apple wine</TD><TD align="left" class="gpotbl_cell">The residual amount of tannin must not exceed 24 pounds per 1000 gallons (3 g/L), calculated as gallic acid equivalents (GAE). Total tannin must not be increased by more than 150 ppm (150 mg/L; 0.150 g/L) by the addition of tannic acid (polygalloylglucose).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To clarify, or adjust tannin content of, juice or wine (other than apple)</TD><TD align="left" class="gpotbl_cell">The residual amount of tannin, calculated in GAE, must not exceed 6.4 GAE per 1000 gallons of wine (800 mg/L) in white wine and 24 pounds per 1000 gallons (3 g/L) in red wine. Only tannin which does not impart color may be used in the cellar treatment of juice or wine. Total tannin must not be increased by more than 150 ppm (150 mg/L; 0.150 g/L) by the addition of tannic acid (poly-galloylglucose).
++<sup>2</sup></TD><TD align="left" class="gpotbl_cell">FDA advisory opinion dated September 8, 2016.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Tartaric acid (L-(+)-tartaric acid):
++</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">To correct natural acid deficiencies in grape juice or wine and to reduce the pH of grape juice or wine where ameliorating material is used in the production of grape wine</TD><TD align="left" class="gpotbl_cell">Use as prescribed in 27 CFR 24.182 and 24.192</TD><TD align="left" class="gpotbl_cell">21 CFR 184.1099 and GRAS Notice No. GRN 000187.
++</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
++<sup>1</sup> To stabilize - To prevent or to retard unwanted alteration of chemical and/or physical properties.
++</P><P class="gpotbl_note">
++<sup>2</sup> Parts per million - 1 ppm = 0.128 ounces per 1000 gallons = 1 mg/L = 1000 ppb.
++</P><P class="gpotbl_note">
++<sup>3</sup> Parts per billion - 1ppb = 0.000128 ounces per 1000 gallons = 1 mg/1000L.
++</P><P class="gpotbl_note">
++<sup>4</sup> An effective food contact notification (FCN) applies only to the food contact substance that is the subject of the FCN and is applicable only to the manufacturer/supplier listed within the notification.</P></DIV></DIV>
++<CITA TYPE="N">[T.D. TTB-185, 87 FR 51897, Aug. 24, 2022]
++
+ 
+ 
+ 
