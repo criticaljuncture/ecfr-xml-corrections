@@ -1,0 +1,11 @@
+description: 21v9 AMDDATE
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/113968059/comments#428508246
+
+patches:
+  '001':
+    start_date: '2022-08-30'
+    end_date: '2100-01-01'
