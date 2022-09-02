@@ -1,0 +1,40 @@
+--- data/titles/preprocessed/xml/40/2022/08/2022-08-31_e6e1e848.xml	2022-09-01 21:58:43.000000000 -0500
++++ tmp/title_version_40_2022-08-31_e6e1e848_preprocessed.xml	2022-09-01 22:04:21.000000000 -0500
+@@ -1270935,36 +1270935,11 @@
+ <CITA TYPE="N">[85 FR 78469, Dec. 4, 2020, as amended at 87 FR 39677, July 1, 2022]
+ 
+ 
+-</CITA>
+-</DIV8>
+ 
+ 
+-<DIV8 N="§ 1090.15" TYPE="SECTION">
+-<HEAD>§ 1090.15   Confidential business information.</HEAD><STARS/>
+-<P>(d)(1) The following information contained in any enforcement action taken under this part is not entitled to confidential treatment under 40 CFR part 2, subpart B:
+-</P>
+-<P>(i) The company's name.
+-</P>
+-<P>(ii) The facility's name.
+-</P>
+-<P>(iii) Any EPA-issued company and facility identification numbers.
+-</P>
+-<P>(iv) The time or time period when any violation occurred.
+-</P>
+-<P>(v) The quantity of fuel, fuel additive, or regulated blendstock affected by the violation.
+-</P>
+-<P>(vi) Information relating to the exceedance of the fuel standard associated with the violation.
+-</P>
+-<P>(vii) Information relating to the generation, transfer, or use of credits associated with the violation.
+-</P>
+-<P>(viii) Any other information relevant to describing the violation.
+-</P>
+-<P>(2) Enforcement actions within the scope of paragraph (d)(1) of this section include notices of violation, settlement agreements, administrative complaints, civil complaints, criminal information, and criminal indictments.
+-
+ 
+ 
+-
+-</P>
++</CITA>
+ </DIV8>
+ 
+ 
