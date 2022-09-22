@@ -1,0 +1,11 @@
+description: 38v2 AMDDATE
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/P114069143
+
+patches:
+  '001':
+    start_date: '2022-09-21'
+    end_date: '2022-09-21'
