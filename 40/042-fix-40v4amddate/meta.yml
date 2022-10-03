@@ -1,0 +1,11 @@
+description: Title 40 volume 4 didn't match issue date
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114103811/comments
+
+patches:
+  '001':
+    first_issue_date: '2022-09-29'
+    last_issue_date: '2022-09-29'
