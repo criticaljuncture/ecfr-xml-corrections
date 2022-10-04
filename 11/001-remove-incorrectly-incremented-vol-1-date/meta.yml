@@ -1,0 +1,11 @@
+description: Title 11 volume 1 amddate was updated but there were no other content changes.
+tags: amddate
+status: needs-review
+issue_number: 100
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114107186/comments
+
+patches:
+  '001':
+    first_issue_date: '2022-09-30'
+    last_issue_date: '2022-09-30'
