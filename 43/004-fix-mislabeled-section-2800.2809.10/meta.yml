@@ -1,0 +1,11 @@
+description: Title 43 contains multiple sections 2803.10. By position and content, the second should be 2809.10
+tags: editorial_error
+status: approved
+issue_number: 100
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114116299/comments
+
+patches:
+  '001':
+    first_issue_date: '2017-01-19'
+    last_issue_date: '2017-10-19'
