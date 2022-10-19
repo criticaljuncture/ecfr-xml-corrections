@@ -1,0 +1,11 @@
+description: 14v1 AMDDATE
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114162063/comments
+
+patches:
+  '001':
+    first_issue_date: '2022-10-17'
+    last_issue_date: '2022-10-17'
