@@ -1,0 +1,11 @@
+description: Title 50 volume 10 had incorrect amddate
+tags: structural
+status: approved
+issue_number: 100
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/P114181504
+
+patches:
+  '001':
+    first_issue_date: '2022-10-21'
+    last_issue_date: '2022-10-21'
