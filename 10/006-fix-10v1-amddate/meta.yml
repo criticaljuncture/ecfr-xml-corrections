@@ -1,0 +1,11 @@
+description: 10v1 AMDDATE
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/P114200748
+
+patches:
+  '001':
+    first_issue_date: '2022-10-27'
+    last_issue_date: '2022-10-27'
