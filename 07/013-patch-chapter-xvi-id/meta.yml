@@ -12,4 +12,8 @@ patches:
 
   '002':
     start_date: '2020-01-27'
+    end_date:   '2022-10-25'
+
+  '003':
+    start_date: '2022-10-27'
     end_date:   '2100-01-01'
