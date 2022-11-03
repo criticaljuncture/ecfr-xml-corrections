@@ -1,0 +1,294 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/50/2019/02/2019-02-26_49cbf238.xml	2022-11-03 17:11:24
++++ tmp/title_version_50_2019-02-26_49cbf238_preprocessed.xml	2022-11-03 13:46:03
+@@ -130675,7 +130675,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Dec. 27, 2018
++<AMDDATE>Jan. 28, 2019
+ </AMDDATE>
+ 
+ <DIV1 N="10" TYPE="TITLE">
+@@ -135987,281 +135987,7 @@
+ 
+ 
+ <DIV6 N="O" TYPE="SUBPART">
+-<HEAD>Subpart O - Taking of Marine Mammals Incidental to Operation of Offshore Oil and Gas Facilities in the U.S. Beaufort Sea</HEAD>
+-
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>78 FR 75507, Dec. 12, 2013, unless otherwise noted.
+-</PSPACE></SOURCE>
+-<EFFDNOT>
+-<HED>Effective Date Note:</HED><PSPACE>At 78 FR 75507, Dec. 12, 2013, subpart O was added, effective Jan. 13, 2014, through Jan. 14, 2019.</PSPACE></EFFDNOT>
+-
+-<DIV8 N="§ 217.140" TYPE="SECTION">
+-<HEAD>§ 217.140   Specified activity and specified geographical region.</HEAD>
+-<P>(a) Regulations in this subpart apply only to BP Exploration (Alaska) Inc. (BP) and those persons it authorizes to conduct activities on its behalf for the taking of marine mammals that occurs in the area outlined in paragraph (b) of this section and that occurs incidental to operation of offshore oil and gas facilities in the U.S. Beaufort Sea, Alaska, in the Northstar Development Area.
+-</P>
+-<P>(b) The taking of marine mammals by BP may be authorized in a Letter of Authorization only if it occurs in the geographic region that encompasses the Northstar Oil and Gas Development area within state and/or Federal waters in the U.S. Beaufort Sea.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.141" TYPE="SECTION">
+-<HEAD>§ 217.141   Effective dates.</HEAD>
+-<P>Regulations in this subpart are effective from January 13, 2014 through January 14, 2019.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.142" TYPE="SECTION">
+-<HEAD>§ 217.142   Permissible methods of taking.</HEAD>
+-<P>(a) Under Letters of Authorization issued pursuant to §§ 216.106 and 217.148 of this chapter, the Holder of the Letter of Authorization (hereinafter “BP”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.140(b), provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate Letter of Authorization.
+-</P>
+-<P>(b) The activities identified in § 217.140(a) must be conducted in a manner that minimizes, to the greatest extent practicable, any adverse impacts on marine mammals and their habitat.
+-</P>
+-<P>(c) The incidental take of marine mammals under the activities identified in § 217.140(a) is limited to the following species and by the indicated method and amount of take:
+-</P>
+-<P>(1) Level B Harassment:
+-</P>
+-<P>(i) Cetaceans:
+-</P>
+-<P>(A) Bowhead whale (<I>Balaena mysticetus</I>) - 75 (an average of 15 annually)
+-</P>
+-<P>(B) Gray whale (<I>Eschrichtius robustus</I>) - 10 (an average of 2 annually)
+-</P>
+-<P>(C) Beluga whale (<I>Delphinapterus leucas</I>) - 100 (an average of 20 annually)
+-</P>
+-<P>(ii) Pinnipeds:
+-</P>
+-<P>(A) Ringed seal (<I>Phoca hispida</I>) - 155 (an average of 31 annually)
+-</P>
+-<P>(B) Bearded seal (<I>Erignathus barbatus</I>) - 25 (an average of 5 annually)
+-</P>
+-<P>(C) Spotted seal (<I>Phoca largha</I>) - 25 (an average of 5 annually)
+-</P>
+-<P>(2) Level A Harassment and Mortality: Ringed seal - 25 (an average of 5 annually)
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.143" TYPE="SECTION">
+-<HEAD>§ 217.143   Prohibitions.</HEAD>
+-<P>Notwithstanding takings contemplated in § 217.140 and authorized by a Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter, no person in connection with the activities described in § 217.140 may:
+-</P>
+-<P>(a) Take any marine mammal not specified in § 217.142(c);
+-</P>
+-<P>(b) Take any marine mammal specified in § 217.142(c) other than by incidental take as specified in § 217.142(c)(1) and (c)(2);
+-</P>
+-<P>(c) Take a marine mammal specified in § 217.172(c) if such taking results in more than a negligible impact on the species or stocks of such marine mammal;
+-</P>
+-<P>(d) Take a marine mammal specified in § 217.172(c) if such taking results in an unmitigable adverse impact on the species or stock for taking for subsistence uses; or
+-</P>
+-<P>(e) Violate, or fail to comply with, the terms, conditions, and requirements of this subpart or a Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.144" TYPE="SECTION">
+-<HEAD>§ 217.144   Mitigation.</HEAD>
+-<P>(a) When conducting the activities identified in § 217.140(a), the mitigation measures contained in the Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter must be implemented. These mitigation measures include but are not limited to:
+-</P>
+-<P>(1) Ice-covered Season:
+-</P>
+-<P>(i) In order to reduce the taking of ringed seals to the lowest level practicable, BP must begin winter construction activities, principally ice roads, as soon as possible once weather and ice conditions permit such activity.
+-</P>
+-<P>(ii) Any ice roads or other construction activities that are initiated after March 1, in previously undisturbed areas in waters deeper than 10 ft (3 m), must be surveyed, using trained dogs in order to identify and avoid ringed seal structures by a minimum of 492 ft (150 m).
+-</P>
+-<P>(iii) After March 1 of each year, activities should avoid, to the greatest extent practicable, disturbance of any located seal structure.
+-</P>
+-<P>(2) Open-water Season:
+-</P>
+-<P>(i) BP will establish and monitor, during all daylight hours, a 190 dB re 1 µPa (rms) exclusion zone for seals around the island for all activities with sound pressure levels (SPLs) that are expected to exceed that level in waters beyond the Northstar facility on Seal Island.
+-</P>
+-<P>(ii) BP will establish and monitor, during all daylight hours, a 180 dB re 1 µPa (rms) exclusion zone for cetaceans around the island for all activities with SPLs that are expected to exceed that level in waters beyond the Northstar facility at Seal Island.
+-</P>
+-<P>(iii) If any marine mammals are observed within the relevant exclusion zone, described in § 217.144(a)(2)(i) or (a)(2)(ii), the activity creating the noise will shutdown or reduce its SPL sufficiently (<I>i.e.</I>, power down) to ensure that received SPLs do not exceed those prescribed SPL intensities at the affected marine mammal. The shutdown or reduced SPL shall be maintained until such time as the observed marine mammal(s) has been seen to have left the applicable exclusion zone or until 15 minutes have elapsed in the case of a pinniped or odontocete or 30 minutes in the case of a mysticete without resighting, whichever occurs sooner.
+-</P>
+-<P>(iv) The entire exclusion zones prescribed in § 217.144(a)(2)(i) or (a)(2)(ii) must be visible during the entire 30-minute pre-activity monitoring time period in order for the activity to begin.
+-</P>
+-<P>(v) BP shall employ a ramp-up technique at the beginning of each day's in-water pile driving activities and if pile driving resumes after it has ceased for more than 1 hour.
+-</P>
+-<P>(A) If a vibratory driver is used, BP is required to initiate sound from vibratory hammers for 15 seconds at reduced energy followed by a 1-minute waiting period. The procedure shall be repeated two additional times before full energy may be achieved.
+-</P>
+-<P>(B) If a non-diesel impact hammer is used, BP is required to provide an initial set of strikes from the impact hammer at reduced energy, followed by a 1-minute waiting period, then two subsequent sets.
+-</P>
+-<P>(C) If a diesel impact hammer is used, BP is required to turn on the sound attenuation device for 15 seconds prior to initiating pile driving.
+-</P>
+-<P>(vi) New drilling into oil-bearing strata shall not take place during either open-water or spring-time broken ice conditions.
+-</P>
+-<P>(vii) All non-essential boats, barge, and air traffic will be scheduled to avoid periods when bowhead whales are migrating through the area where they may be affected by noise from these activities.
+-</P>
+-<P>(3) Helicopter flights to support Northstar activities must be limited to a corridor from Seal Island to the mainland, and, except when limited by weather or personnel safety, must maintain a minimum altitude of 1,000 ft (305 m), except during takeoff and landing.
+-</P>
+-<P>(4) Additional mitigation measures as contained in a Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter.
+-</P>
+-<P>(b) [Reserved]
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.145" TYPE="SECTION">
+-<HEAD>§ 217.145   Measures to ensure availability of species for subsistence uses.</HEAD>
+-<P>When applying for a Letter of Authorization pursuant to § 217.147 or a renewal of a Letter of Authorization pursuant to § 217.149, BP must submit a Plan of Cooperation that identifies what measures have been taken and/or will be taken to minimize any adverse effects on the availability of marine mammal species or stocks for taking for subsistence uses. A plan shall include the following:
+-</P>
+-<P>(a) A statement that the applicant has notified and met with the affected subsistence communities to discuss proposed activities and to resolve potential conflicts regarding timing and methods of operation;
+-</P>
+-<P>(b) A description of what measures BP has taken and/or will take to ensure that the proposed activities will not interfere with subsistence whaling or sealing; and
+-</P>
+-<P>(c) What plans BP has to continue to meet with the affected communities to notify the communities of any changes in operation.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.146" TYPE="SECTION">
+-<HEAD>§ 217.146   Requirements for monitoring and reporting.</HEAD>
+-<P>(a) BP must notify the Alaska Regional Office, NMFS, within 48 hours of starting ice road construction, cessation of ice road usage, and the commencement of icebreaking activities for the Northstar facility.
+-</P>
+-<P>(b) BP must designate qualified, on-site individuals, approved in advance by NMFS, to conduct the mitigation, monitoring, and reporting activities specified in the Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter.
+-</P>
+-<P>(c) Monitoring measures during the ice-covered season shall include, but are not limited to, the following:
+-</P>
+-<P>(1) After March 1, trained dogs must be used to detect seal lairs in previously undisturbed areas that may be potentially affected by on-ice construction activity, if any. Surveys for seal structures should be conducted to a minimum distance of 492 ft (150 m) from the outer edges of any disturbance.
+-</P>
+-<P>(2) If ice road construction occurs after March 1, conduct a follow-up assessment in May of that year of the fate of all seal structures located during monitoring conducted under paragraph (c)(1) of this section near the physically disturbed areas.
+-</P>
+-<P>(3) BP shall conduct acoustic measurements to document sound levels, characteristics, and transmissions of airborne sounds with expected source levels of 90 dBA or greater created by on-ice activity at Northstar that have not been measured in previous years. In addition, BP shall conduct acoustic measurements to document sound levels, characteristics, and transmissions of airborne sounds for sources on Northstar Island with expected received levels at the water's edge that exceed 90 dBA that have not been measured in previous years.
+-</P>
+-<P>(d) Monitoring measures during the open-water season shall include, but are not limited to, the following:
+-</P>
+-<P>(1) Acoustic monitoring of the bowhead whale migration.
+-</P>
+-<P>(2) BP shall monitor the exclusion zones of activities capable of producing pulsed underwater sound with levels ≥180 or ≥190 dB re 1 µPa (rms) at locations where cetaceans or seals could be exposed. At least one on-island observer shall be stationed at a location providing an unobstructed view of the predicted exclusion zone. The observer(s) shall scan the exclusion zone continuously for marine mammals for 30 minutes prior to the operation of the sound source. Observations shall continue during all periods of operation and for 30 minutes after the cessation of the activity. The observer shall record the: species and numbers of marine mammals seen within the 180 or 190 dB zones; bearing and distance of the marine mammals from the observation point; and behavior of marine mammals and any indication of disturbance reactions to the monitored activity.
+-</P>
+-<P>(e) BP shall conduct any additional monitoring measures contained in a Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter.
+-</P>
+-<P>(f) BP shall submit an annual report to NMFS within the time period specified in a Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter.
+-</P>
+-<P>(g) If specific mitigation and monitoring are required for activities on the sea ice initiated after March 1 (requiring searches with dogs for lairs), during the operation of strong sound sources (requiring visual observations and shutdown procedures), or for the use of new sound sources that have not previously been measured, then a preliminary summary of the activity, method of monitoring, and preliminary results shall be submitted to NMFS within 90 days after the cessation of that activity. The complete description of methods, results, and discussion shall be submitted as part of the annual report described in paragraph (f) of this section.
+-</P>
+-<P>(h) BP shall submit a draft comprehensive report to NMFS, Office of Protected Resources, and NMFS, Alaska Regional Office (specific contact information to be provided in Letter of Authorization), no later than 240 days prior to the expiration of the regulations in this subpart. This comprehensive technical report shall provide full documentation of methods, results, and interpretation of all monitoring during the first four and a quarter years of the LOA. Before acceptance by NMFS as a final comprehensive report, the draft comprehensive report shall be subject to review and modification by NMFS scientists.
+-</P>
+-<P>(i)(1) In the unanticipated event that Northstar operations clearly causes the death of more than five ringed seals annually or the take of a marine mammal in a manner prohibited by this final rule, such as an injury (Level A harassment), serious injury or mortality (e.g., ship-strike, gear interaction), BP shall immediately take steps to cease the operations that caused the unauthorized take and report the incident as soon as practicable and no later than 24 hours after the incident to the Chief of the Permits and Conservation Division, Office of Protected Resources, NMFS, or his designee, the Alaska Regional Office, and the Alaska Regional Stranding Coordinators (specific contact information to be provided in Letter of Authorization). The report must include the following information:
+-</P>
+-<P>(i) Time, date, and location (latitude/longitude) of the incident;
+-</P>
+-<P>(ii) The type of equipment involved in the incident;
+-</P>
+-<P>(iii) Description of the incident;
+-</P>
+-<P>(iv) Water depth, if relevant;
+-</P>
+-<P>(v) Environmental conditions (e.g., wind speed and direction, Beaufort sea state, cloud cover, and visibility);
+-</P>
+-<P>(vi) Species identification or description of the animal(s) involved;
+-</P>
+-<P>(vii) The fate of the animal(s); and
+-</P>
+-<P>(viii) Photographs or video footage of the animal (if equipment is available).
+-</P>
+-<P>(2) Activities shall not resume until NMFS is able to review the circumstances causing the exceedance of the authorized take. NMFS will work with BP to identify additional measures to minimize the likelihood that more than five ringed seals will not be killed each year (or other marine mammal species that may have been injured, seriously injured, or killed) from BP's activities. BP may not resume their activities until notified by NMFS via letter, email, or telephone.
+-</P>
+-<P>(3) In the event that BP discovers an injured or dead marine mammal, and it is determined that the cause of the injury or death is unknown and the death is relatively recent (<I>i.e.</I>, in less than a moderate state of decomposition as described in the next paragraph), BP will report the incident/discovery as soon as practicable and no later than 24 hours after the incident/discovery to the Chief of the Permits and Conservation Division, Office of Protected Resources, NMFS, by phone or email, the Alaska Regional Office, and the NMFS Alaska Stranding Hotline and/or by email to the Alaska Regional Stranding Coordinators (specific contact information to be provided in Letter of Authorization). The report must include the same information identified in § 217.146(i)(1). Activities may continue while NMFS reviews the circumstances of the incident. NMFS will work with BP to determine whether modifications in the activities are appropriate.
+-</P>
+-<P>(4) In the event that BP discovers an injured or dead marine mammal, and it is determined that the injury or death is not associated with or related to the activities authorized in this final rule (e.g., previously wounded animal, carcass with moderate to advanced decomposition, or scavenger damage), BP shall report the incident to the Chief of the Permits and Conservation Division, Office of Protected Resources, NMFS, by phone or email and the NMFS Alaska Stranding Hotline and/or by email to the Alaska Regional Stranding Coordinators (specific contact information to be provided in Letter of Authorization), as soon as practicable and no later than 24 hours after the discovery. BP shall provide photographs or video footage (if available) or other documentation of the stranded animal sighting to NMFS and the Marine Mammal Stranding Network. Activities may continue while NMFS reviews the circumstances of the incident.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.147" TYPE="SECTION">
+-<HEAD>§ 217.147   Applications for Letters of Authorization.</HEAD>
+-<P>(a) To incidentally take marine mammals pursuant to these regulations, the U.S. Citizen (as defined by § 216.103 of this chapter) conducting the activity identified in § 217.140(a) (<I>i.e.</I>, BP) must apply for and obtain either an initial Letter of Authorization in accordance with § 217.148 or a renewal under § 217.149.
+-</P>
+-<P>(b) [Reserved]
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.148" TYPE="SECTION">
+-<HEAD>§ 217.148   Letters of Authorization.</HEAD>
+-<P>(a) A Letter of Authorization, unless suspended or revoked, shall be valid for a period of time not to exceed the period of validity of this subpart.
+-</P>
+-<P>(b) The Letter of Authorization shall set forth:
+-</P>
+-<P>(1) Permissible methods of incidental taking;
+-</P>
+-<P>(2) Means of effecting the least practicable adverse impact on the species, its habitat, and on the availability of the species for subsistence uses (<I>i.e.</I>, mitigation); and
+-</P>
+-<P>(3) Requirements for mitigation, monitoring and reporting.
+-</P>
+-<P>(c) Issuance and renewal of the Letter of Authorization shall be based on a determination that the total number of marine mammals taken by the activity as a whole will have no more than a negligible impact on the affected species or stock of marine mammal(s) and will not have an unmitigable adverse impact on the availability of species or stocks of marine mammals for taking for subsistence uses.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.149" TYPE="SECTION">
+-<HEAD>§ 217.149   Renewal of Letters of Authorization and adaptive management.</HEAD>
+-<P>(a) A Letter of Authorization issued under § 216.106 and § 217.148 of this chapter for the activity identified in § 217.140(a) shall be renewed upon request by the applicant or determination by NMFS and the applicant that modifications are appropriate pursuant to the adaptive management component of these regulations, provided that:
+-</P>
+-<P>(1) NMFS is notified that the activity described in the application submitted under § 217.147 will be undertaken and that there will not be a substantial modification to the described work, mitigation or monitoring undertaken during the upcoming 12 months;
+-</P>
+-<P>(2) NMFS receives the monitoring reports required under § 217.146(f) and (g); and
+-</P>
+-<P>(3) NMFS determines that the mitigation, monitoring and reporting measures required under §§ 217.144 and 217.146 and the Letter of Authorization issued under §§ 216.106 and 217.148 of this chapter were undertaken and will be undertaken during the upcoming period of validity of a renewed Letter of Authorization.
+-</P>
+-<P>(b) If either a request for a renewal of a Letter of Authorization issued under §§ 216.106 and 217.149 of this chapter or a determination by NMFS and the applicant that modifications are appropriate pursuant to the adaptive management component of these regulations indicates that a substantial modification, as determined by NMFS, to the described work, mitigation or monitoring undertaken during the upcoming season will occur, NMFS will provide the public a period of 30 days for review and comment on the request. Review and comment on renewals of Letters of Authorization are restricted to:
+-</P>
+-<P>(1) New cited information and data indicating that the determinations made in this document are in need of reconsideration, and
+-</P>
+-<P>(2) Proposed substantive changes to the mitigation and monitoring requirements contained in these regulations or in the current Letter of Authorization.
+-</P>
+-<P>(c) A notice of issuance or denial of a renewal of a Letter of Authorization will be published in the <E T="04">Federal Register.</E>
+-</P>
+-<P>(d) <I>Adaptive management</I> - NMFS may modify or augment the existing mitigation or monitoring measures (after consulting with BP regarding the practicability of the modifications) if doing so creates a reasonable likelihood of more effectively accomplishing the goals of mitigation and monitoring set forth in the preamble of these regulations. Below are some of the possible sources of new data that could contribute to the decision to modify the mitigation or monitoring measures:
+-</P>
+-<P>(1) Results from BP's monitoring from the previous year;
+-</P>
+-<P>(2) Results from general marine mammal and sound research; or
+-</P>
+-<P>(3) Any information which reveals that marine mammals may have been taken in a manner, extent or number not authorized by these regulations or subsequent LOAs.
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 217.150" TYPE="SECTION">
+-<HEAD>§ 217.150   Modifications of Letters of Authorization.</HEAD>
+-<P>(a) Except as provided in paragraph (b) of this section, no substantive modification (including withdrawal or suspension) to the Letter of Authorization issued by NMFS, pursuant to §§ 216.106 and 217.148 of this chapter and subject to the provisions of this subpart, shall be made until after notification and an opportunity for public comment has been provided. For purposes of this paragraph, a renewal of a Letter of Authorization under § 217.149, without modification (except for the period of validity), is not considered a substantive modification.
+-</P>
+-<P>(b) If the Assistant Administrator determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in § 217.142(c), a Letter of Authorization issued pursuant to §§ 216.106 and 217.148 of this chapter may be substantively modified without prior notification and an opportunity for public comment. Notification will be published in the <E T="04">Federal Register</E> within 30 days subsequent to the action.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="P" TYPE="SUBPART">
+-<HEAD>Subpart P-T [Reserved]</HEAD>
++<HEAD>Subparts O-T [Reserved]</HEAD>
+ 
+ </DIV6>
+ 
