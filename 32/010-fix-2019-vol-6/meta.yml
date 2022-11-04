@@ -1,0 +1,11 @@
+description: Title 32 volume 6 had an amddate that didn't match issue summary leading to multiple versions of title 32 with a March 8, 2019 issue date
+tags: structural
+status: needs-review
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://www.ecfr.gov/issues/2019/02/21
+
+patches:
+  '001':
+    start_date: '2019-03-08'
+    end_date: '2019-07-02'
