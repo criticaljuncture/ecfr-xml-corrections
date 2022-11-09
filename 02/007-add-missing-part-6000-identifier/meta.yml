@@ -1,0 +1,11 @@
+description: Part 6000 was missing an identifier
+tags: structural
+status: approved
+issue_number:
+fr_doc: 87 FR 54327
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114234526/comments
+
+patches:
+  '001':
+    first_issue_date: '2022-11-07'
+    last_issue_date: '2022-11-07'
