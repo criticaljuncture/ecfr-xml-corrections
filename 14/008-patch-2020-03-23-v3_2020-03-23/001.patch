@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/14/2020/03/2020-03-26_2940a37f.xml	2022-11-10 11:07:53
++++ tmp/title_version_14_2020-03-26_2940a37f_preprocessed.xml	2022-11-10 11:08:09
+@@ -88115,7 +88115,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Mar. 25, 2020 
++<AMDDATE>2020-03-23 
+ </AMDDATE>
+ 
+ <DIV1 N="3" TYPE="TITLE">

@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'V27 is non-substantive'"
+patch_action: V27 2018-09-24
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    start_date: '2019-06-23'
+    end_date: '2019-07-05 12:00:00'

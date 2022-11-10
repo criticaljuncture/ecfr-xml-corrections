@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'volume 10 has no changes, makes 2018-07-20 a duplicate'"
+patch_action: V10 2017-07-17
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    start_date: '2017-07-22'
+    end_date: '2017-07-28'

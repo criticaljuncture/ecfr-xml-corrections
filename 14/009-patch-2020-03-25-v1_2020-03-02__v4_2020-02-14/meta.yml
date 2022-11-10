@@ -1,0 +1,16 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'V4 change is non-substantive
+V1 change is non-substantive'"
+patch_action: V1 2020-03-02, V4 2020-02-14
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2020-03-25'
+    last_issue_date: '2020-05-03'
+  '002':
+    first_issue_date: '2020-05-04'
+    last_issue_date: '2020-08-04'

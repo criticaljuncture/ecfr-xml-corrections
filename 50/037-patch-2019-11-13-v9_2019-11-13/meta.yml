@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'Effective Date Note added in V9, non-substantive?'"
+patch_action: V9 2019-11-13
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2019-11-13'
+    last_issue_date: '2019-11-17'

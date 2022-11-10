@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'Non-substantive update Amddate of vol 6 should not have changed'"
+patch_action: V6 2019-12-11
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    start_date: '2020-04-15'
+    end_date: '2020-05-04 00:00:00'

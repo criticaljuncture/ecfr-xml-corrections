@@ -1,0 +1,15 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'V6 is 8/23 84 FR 44229, V20 is 8/23 84 FR 44249'"
+patch_action: V6 2019-08-23,V20 2019-08-23
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 84 FR 44229
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2019-08-23'
+    last_issue_date: '2019-08-27'
+  '002':
+    first_issue_date: '2019-08-28'
+    last_issue_date: '2019-10-20'

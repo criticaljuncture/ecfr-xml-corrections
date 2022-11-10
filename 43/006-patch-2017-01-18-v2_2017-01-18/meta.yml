@@ -1,0 +1,15 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'A bit of a mess, multiple days changes, none 1/19
+1/11 - 81 FR 89661,;
+1/17-81 FR 83078, 81 FR 92212, 81 FR 92230, 81 FR 83077, 81 FR 88634, 81 FR 81419, 81 FR 81609, 81 FR 81419, 81 FR 81504, 81 FR 81421;
+1/18 81-FR 92205, 81 FR 92207, 81 FR 92208, 81 FR 92209, 81 FR 92211, 81 FR 92212, 81 FR 92213, 81 FR 92215, 81 FR 92216, 81 FR 92217, 81 FR 92220, 81 FR 92222, 81 FR 92223, 81 FR 92224, 81 FR 92226, 81 FR 92227, 81 FR 92228, 81 FR 92229, '"
+patch_action: V2 2017-01-18
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 81 FR 89661
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2017-01-18'
+    last_issue_date: '2017-10-18'

@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '84 FR 4952 Second tv for 2/21'"
+patch_action: V10 2019-02-21
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 84 FR 4952
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    start_date: '2019-03-12'
+    end_date: '2019-03-24'

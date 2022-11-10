@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'V20 is 84 FR 51426, 9/30'"
+patch_action: V20 2019-09-30
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 84 FR 51426
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2019-09-30'
+    last_issue_date: '2019-10-01'

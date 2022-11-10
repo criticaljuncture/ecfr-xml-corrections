@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '9/1 except for v27, v29 changes that should be 2020-08-28'"
+patch_action: V27 2020-08-28,V29 2020-08-28
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2020-09-01'
+    last_issue_date: '2020-09-02'

@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '82 FR 53428, Nov. 16, 2017'"
+patch_action: v5 2017-11-16
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 82 FR 53428
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2017-11-16'
+    last_issue_date: '2018-02-21'

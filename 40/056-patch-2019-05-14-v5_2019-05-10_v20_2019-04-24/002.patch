@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/40/2019/05/2019-05-21_cbadef1b.xml	2022-11-10 21:51:33
++++ tmp/title_version_40_2019-05-21_cbadef1b_preprocessed.xml	2022-11-10 21:52:04
+@@ -571680,7 +571680,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>May 15, 2019
++<AMDDATE>2019-04-24
+ </AMDDATE>
+ 
+ <DIV1 N="20" TYPE="TITLE">

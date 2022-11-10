@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '85 FR 16542'"
+patch_action: V3 2020-03-23
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 85 FR 16542
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    start_date: '2020-03-26'
+    end_date: '2020-04-27'

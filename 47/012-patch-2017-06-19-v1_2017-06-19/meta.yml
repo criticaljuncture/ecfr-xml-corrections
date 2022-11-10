@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '82 FR 22760'"
+patch_action: V1 2017-06-19
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 82 FR 22760
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    start_date: '2017-06-22'
+    end_date: '2017-06-24'

@@ -1,0 +1,13 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'V1 removing 84 FR 5353 effective 2/21
+'"
+patch_action: V1 2019-02-21
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 84 FR 5353
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2019-02-21'
+    last_issue_date: '2019-02-27'

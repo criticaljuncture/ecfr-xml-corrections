@@ -1,0 +1,16 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'V3 effective 8/12 85 FR 41922
+V20 non-substantive'"
+patch_action: V3 2020-08-12, V20 2020-08-06
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 85 FR 41922
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2020-08-12'
+    last_issue_date: '2020-08-13'
+  '002':
+    first_issue_date: '2020-08-14'
+    last_issue_date: '2020-08-25'

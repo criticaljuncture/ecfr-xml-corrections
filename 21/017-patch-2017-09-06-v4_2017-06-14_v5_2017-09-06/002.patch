@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/21/2017/12/2017-12-22_84d1b88a.xml	2022-11-10 11:55:59
++++ tmp/title_version_21_2017-12-22_84d1b88a_preprocessed.xml	2022-11-10 11:57:40
+@@ -89073,7 +89073,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>June 26, 2017
++<AMDDATE>2017-06-14
+ </AMDDATE>
+ 
+ <DIV1 N="4" TYPE="TITLE">

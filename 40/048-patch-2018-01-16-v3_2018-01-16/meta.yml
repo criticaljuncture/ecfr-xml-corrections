@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '82 FR 59522 says v 3 change is 1/16'"
+patch_action: V3 2018-01-16
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 82 FR 59522
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2018-01-16'
+    last_issue_date: '2018-01-17'

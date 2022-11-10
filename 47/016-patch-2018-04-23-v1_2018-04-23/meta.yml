@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '83 FR 7922 says 4/23'"
+patch_action: V1 2018-04-23
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 83 FR 7922
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    start_date: '2018-04-26'
+    end_date: '2018-05-01'

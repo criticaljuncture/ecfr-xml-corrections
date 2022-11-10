@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '83 FR 27686 v10 should be 2018-07-16'"
+patch_action: V10 2018-07-16
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 83 FR 27686
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2018-07-16'
+    last_issue_date: '2018-07-24'

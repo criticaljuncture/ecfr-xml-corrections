@@ -1,0 +1,15 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'Correction Table 2 in (c)(1) restored 5/14 in v5'"
+patch_action: V5 2019-05-10,V20 2019-04-24
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2019-05-14'
+    last_issue_date: '2019-05-16'
+  '002':
+    first_issue_date: '2019-05-17'
+    last_issue_date: '2019-08-22'

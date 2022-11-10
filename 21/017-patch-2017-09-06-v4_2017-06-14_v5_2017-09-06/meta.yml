@@ -1,0 +1,16 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'Vol4 has no changes
+Vol5 changes 9/6 as per text, “approved as of September 6, 2017.”'"
+patch_action: V4 2017-06-14,V5 2017-09-06
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2017-09-06'
+    last_issue_date: '2017-12-19'
+  '002':
+    first_issue_date: '2017-12-21'
+    last_issue_date: '2018-03-19'

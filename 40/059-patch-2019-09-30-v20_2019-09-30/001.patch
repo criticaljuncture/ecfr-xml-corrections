@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/40/2019/10/2019-10-01_1df13071.xml	2022-11-10 22:59:55
++++ tmp/title_version_40_2019-10-01_1df13071_preprocessed.xml	2022-11-10 23:00:15
+@@ -569929,7 +569929,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Oct. 1, 2019
++<AMDDATE>2019-09-30
+ </AMDDATE>
+ 
+ <DIV1 N="20" TYPE="TITLE">

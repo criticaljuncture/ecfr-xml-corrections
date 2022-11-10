@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '40 CFR 62.5112 was corrected on 5/23 https://www.ecfr.gov/on/2018-05-23/title-40/chapter-I/subchapter-C/part-62/subpart-V/subject-group-ECFRbb5c5dd042d0c11/section-62.5112'"
+patch_action: v10 2018-05-23
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2018-05-23'
+    last_issue_date: '2018-05-24'

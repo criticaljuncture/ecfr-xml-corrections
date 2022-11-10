@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is ' 82 FR 43189 says v29 changes are 11-13'"
+patch_action: V29 2017-11-13
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 82 FR 43189
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2017-11-13'
+    last_issue_date: '2018-01-04'

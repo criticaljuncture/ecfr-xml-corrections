@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '83 FR 2557 says 2/20'"
+patch_action: V1 2018-02-14
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 83 FR 2557
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2018-02-14'
+    last_issue_date: '2018-02-19'

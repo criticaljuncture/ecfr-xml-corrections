@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is '80 FR 56144'"
+patch_action: V2 2018-09-17
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 80 FR 56144
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2018-09-17'
+    last_issue_date: '2018-12-20'

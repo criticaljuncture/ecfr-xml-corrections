@@ -1,0 +1,12 @@
+description: "Patched as part of deduplicating title version issue dates. Reason is 'Substantive change in v4, 85 FR 28867 says 2020-07-13'"
+patch_action: V4 2020-07-13
+tags: amddate-errors
+status: approved
+issue_number: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+fr_doc: 85 FR 28867
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
+
+patches:
+  '001':
+    first_issue_date: '2020-07-13'
+    last_issue_date: '2020-07-30'
