@@ -1,7 +1,7 @@
-description: Title 43 contains multiple sections 2803.10. By position and content, the second should be 2809.10
+description: Title 43 contains a misplaced section tag for 2803.10.
 tags: editorial_error
 status: approved
-issue_number: 100
+issue_number:
 fr_doc: 83993
 reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114116299/comments
 
