@@ -1,0 +1,20 @@
+description: Title 45 chapter XIII contains duplicate subchapters B, the first is empty and is removed after 08/12/2017
+tags: structural
+status: needs-review
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2016-12-30'
+    last_issue_date: '2017-02-12'
+  '002':
+    first_issue_date: '2017-02-13'
+    last_issue_date: '2017-03-06'
+  '003':
+    first_issue_date: '2017-03-07'
+    last_issue_date: '2017-05-31'
+  '004':
+    start_date: '2017-06-02'
+    end_date: '2017-08-12'

@@ -1,0 +1,13 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/49/2017/01/2017-01-07_04a7e41e.xml	2022-11-17 17:15:03
++++ tmp/title_version_49_2017-01-07_04a7e41e_preprocessed.xml	2022-11-17 17:15:14
+@@ -193927,10 +193927,6 @@
+ <HED>Effective Date Note:</HED><PSPACE>At 80 FR 63704, Oct. 21, 2015, § 390.T200 was added, effective Dec. 12, 2015, through Sept. 29, 2016. At 81 FR 49553, July 28, 2016, the effective date was extended until Jan. 13, 2017</PSPACE></EFFDNOT>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="E" TYPE="SUBPART">
+ <HEAD>Subpart E - XXX</HEAD>
+ 
+ <XREF ID="20130823" REFID="80">Link to an amendment published at 78 FR 52654, Aug. 23, 2013.</XREF>

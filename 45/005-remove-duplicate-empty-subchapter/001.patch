@@ -1,0 +1,19 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/45/2017/01/2017-01-05_a73fcefa.xml	2022-11-17 13:59:36
++++ tmp/title_version_45_2017-01-05_a73fcefa_preprocessed.xml	2022-11-17 14:00:04
+@@ -112681,16 +112681,6 @@
+ 
+ 
+ <DIV4 N="B" TYPE="SUBCHAP">
+-<HEAD>SUBCHAPTER B - THE ADMINISTRATION FOR CHILDREN, YOUTH AND FAMILIES, HEAD START PROGRAM 
+-
+-
+-
+-
+-</HEAD>
+-</DIV4>
+-
+-
+-<DIV4 N="B" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER B - THE ADMINISTRATION FOR CHILDREN AND FAMILIES, HEAD START PROGRAM 
+ 
+ 

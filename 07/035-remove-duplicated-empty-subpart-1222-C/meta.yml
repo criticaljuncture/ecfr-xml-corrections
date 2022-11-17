@@ -1,0 +1,11 @@
+description: Title 7 part 1222 contained a duplicate, empty subpart C
+tags: structural
+status: needs-review
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2017-01-01'
+    last_issue_date: '2017-06-20'

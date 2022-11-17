@@ -1,0 +1,14 @@
+description: Title 49 has two adjacent subparts 49:B:III::390:E
+tags: structural
+status: needs-review
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2017-01-01'
+    last_issue_date: '2017-01-17'
+  '002':
+    first_issue_date: '2017-01-18'
+    last_issue_date: '2017-02-13'
