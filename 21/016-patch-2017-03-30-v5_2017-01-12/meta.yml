@@ -8,5 +8,5 @@ reference: https://github.com/criticaljuncture/ecfr-versioner/issues/797
 
 patches:
   '001':
-    first_issue_date: '2017-04-06'
-    last_issue_date: '2017-09-05'
+    start_date: '2017-04-05'
+    end_date: '2017-09-01'
