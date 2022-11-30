@@ -1,0 +1,11 @@
+description: Volume 4 of title 49 was non-substantive beginning version received 2017-06-08
+tags: structural
+status: needs-review
+issue_number: 100
+fr_doc: 83993
+reference: https://github.com/criticaljuncture/ecfr-versioner/pull/808
+
+patches:
+  '001':
+    start_date: '2017-06-08'
+    end_date: '2017-06-13'
