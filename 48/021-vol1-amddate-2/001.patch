@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/48/2022/12/2022-12-07_8061258f.xml	2022-12-08 08:36:10
++++ tmp/title_version_48_2022-12-07_8061258f_preprocessed.xml	2022-12-08 08:36:24
+@@ -34,7 +34,7 @@
+ <TEXT>
+ <BODY>
+ <ECFRBRWS>
+-<AMDDATE>Dec. 1, 2022
++<AMDDATE>2022-12-01
+ </AMDDATE>
+ 
+ <DIV1 N="1" TYPE="TITLE">
