@@ -1,0 +1,11 @@
+description: Section 107.19 was incorrectly labeled 107.9
+tags: editoral
+status: approved
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2022-12-09'
+    last_issue_date: '2022-12-09'

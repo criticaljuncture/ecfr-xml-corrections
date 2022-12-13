@@ -1,0 +1,22 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/14/2022/12/2022-12-13_ff24803b.xml	2022-12-13 09:35:57
++++ tmp/title_version_14_2022-12-13_ff24803b_preprocessed.xml	2022-12-13 09:37:01
+@@ -88545,7 +88545,7 @@
+ 
+ 
+ <DIV8 N="§ 107.9" TYPE="SECTION">
+-<HEAD>§ 107.9   Accident reporting.</HEAD>
++<HEAD>§ 107.9   Safety event reporting.</HEAD>
+ <P>No later than 10 calendar days after an operation that meets the criteria of either paragraph (a) or (b) of this section, a remote pilot in command must report to the FAA, in a manner acceptable to the Administrator, any operation of the small unmanned aircraft involving at least:
+ </P>
+ <P>(a) Serious injury to any person or any loss of consciousness; or
+@@ -88622,8 +88622,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 107.9" TYPE="SECTION">
+-<HEAD>§ 107.9   Safety event reporting.</HEAD>
++<DIV8 N="§ 107.19" TYPE="SECTION">
++<HEAD>§ 107.19   Remote pilot in command.</HEAD>
+ <P>(a) A remote pilot in command must be designated before or during the flight of the small unmanned aircraft.
+ </P>
+ <P>(b) The remote pilot in command is directly responsible for and is the final authority as to the operation of the small unmanned aircraft system.
