@@ -1,0 +1,11 @@
+description: Title 37 was restructured and chapter was incorrectly closed
+tags: structural
+status: approved
+issue_number:
+fr_doc: 86 FR 46122
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114350480/comments
+
+patches:
+  '001':
+    first_issue_date: '2022-12-12'
+    last_issue_date: '2022-12-12'

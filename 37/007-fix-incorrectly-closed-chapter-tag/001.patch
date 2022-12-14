@@ -1,0 +1,14 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/37/2022/12/2022-12-14_05a8d4df.xml	2022-12-14 12:15:09
++++ tmp/title_version_37_2022-12-14_05a8d4df_preprocessed.xml	2022-12-14 12:15:24
+@@ -43143,11 +43143,6 @@
+ </PT></SUBCHIND>
+ </DIV4>
+ 
+-</DIV3>
+-
+-
+-<DIV3 N="III" TYPE="CHAPTER">
+-
+ <DIV4 N="B" TYPE="SUBCHAP">
+ <HEAD>SUBCHAPTER B - COPYRIGHT CLAIMS BOARD AND PROCEDURES
+ 
