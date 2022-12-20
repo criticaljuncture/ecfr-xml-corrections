@@ -1,0 +1,11 @@
+description: Title 50 volume 6 has an incorrect AMDDATE
+tags: amendment-date
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114350480/comments#430445628
+
+patches:
+  '001':
+    first_issue_date: '2022-12-16'
+    last_issue_date: '2022-12-16'
