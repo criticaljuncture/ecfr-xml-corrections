@@ -1,0 +1,11 @@
+description: A miss keying causes lost for content from 12 CFR 228.12 to end of volume
+tags: structural
+status: approved
+issue_number: 100
+fr_doc: 87 FR 78829
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114387377/comments
+
+patches:
+  '001':
+    first_issue_date: '2022-12-27'
+    last_issue_date: '2022-12-27'
