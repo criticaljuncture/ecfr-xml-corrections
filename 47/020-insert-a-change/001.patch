@@ -1,0 +1,13 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/47/2023/01/2023-01-03_3ff022a8.xml	2023-01-04 10:26:04
++++ tmp/title_version_47_2023-01-03_3ff022a8_preprocessed.xml	2023-01-04 10:28:12
+@@ -101692,9 +101692,7 @@
+ </FP-2>
+ <EXTRACT>
+ <FP-2>Where: Δf = frequency difference in MHz from the edge of the channel.</FP-2></EXTRACT>
+-<P>(2) This attenuation is based on a measurement bandwidth of 500 kHz. Other measurement bandwidths may be used as long as appropriate correction factors are applied. Measurements need not be made any closer to the band edge than one half of the resolution bandwidth of the measuring instrument. Emissions include sidebands, spurious emissions and radio frequency harmonics. Attenuation is to be measured at the outp
+-
+-ut terminals of the transmitter (including any filters that may be employed). In the event of interference caused to any service, greater attenuation may be required.
++<P>(2) This attenuation is based on a measurement bandwidth of 500 kHz. Other measurement bandwidths may be used as long as appropriate correction factors are applied. Measurements need not be made any closer to the band edge than one half of the resolution bandwidth of the measuring instrument. Emissions include sidebands, spurious emissions and radio frequency harmonics. Attenuation is to be measured at the output terminals of the transmitter (including any filters that may be employed). In the event of interference caused to any service, greater attenuation may be required.
+ 
+ 
+ </P>

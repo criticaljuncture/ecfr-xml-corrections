@@ -1,0 +1,11 @@
+description: Title 47 volume AMDDATE was incremented without changing content
+tags: amddate
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114400669/comments
+
+patches:
+  '001':
+    first_issue_date: '2022-12-30'
+    last_issue_date: '2100-12-30'
