@@ -1,0 +1,13 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/42/2023/01/2023-01-04_af3f0c1b.xml	2023-01-04 21:45:59
++++ tmp/title_version_42_2023-01-04_af3f0c1b_preprocessed.xml	2023-01-04 21:46:41
+@@ -64540,8 +64540,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ " TYPE="SECTION">
+-<HEAD>§    Effect of month of enrollment on entitlement.</HEAD>
++<DIV8 N="§ 406.22" TYPE="SECTION">
++<HEAD>§ 406.22   Effect of month of enrollment on entitlement.</HEAD>
+ <P>(a) <I>Individual age 65 or over.</I> For an individual who has attained age 65, before January 1, 2023, the following rules apply:
+ </P>
+ <P>(1) If the individual enrolls during the 3 months before the first month of eligibility, entitlement begins with the first month of eligibility.
