@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/21/2023/01/2023-01-05_991354a8.xml	2023-01-05 22:26:07
++++ tmp/title_version_21_2023-01-05_991354a8_preprocessed.xml	2023-01-05 22:26:22
+@@ -162482,7 +162482,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Jan. 4, 2022
++<AMDDATE>2023-01-04
+ </AMDDATE>
+ 
+ <DIV1 N="8" TYPE="TITLE">
