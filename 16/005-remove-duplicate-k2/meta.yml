@@ -1,0 +1,11 @@
+description: Remove duplicate 16/Appendix K2 to part 305
+tags: structural
+status: approved
+issue_number: 2023-01-10
+fr_doc: https://www.federalregister.gov/documents/2023/01/09/2022-27680/energy-labeling-rule-correction
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114427790/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-01-10'
+    last_issue_date: '2023-01-10'

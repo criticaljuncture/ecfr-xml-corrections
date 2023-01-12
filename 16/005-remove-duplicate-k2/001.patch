@@ -1,0 +1,24 @@
+--- data/titles/preprocessed/xml/16/2023/01/2023-01-11_042d42b5.xml	2023-01-12 07:36:49
++++ tmp/title_version_16_2023-01-11_042d42b5_preprocessed.xml	2023-01-12 07:41:25
+@@ -14576,21 +14576,7 @@
+ <sup>8</sup> For the purposes of this table, one gallon of liquid propane has an energy equivalence of 91,333 Btu.
+ </P><P class="gpotbl_note">
+ <sup>9</sup> For the purposes of this table, one gallon of kerosene has an energy equivalence of 135,000 Btu.</P></DIV></DIV>
+-</DIV9>
+ 
+-
+-<DIV9 N="Appendix K2" TYPE="APPENDIX">
+-<HEAD>Appendix K2 to Part 305 - Representative Average Unit Energy Costs for Room Air Conditioner and Portable Air Conditioner Labels
+-</HEAD>
+-<P>This table contains the representative unit energy costs that must be utilized to calculate estimated annual energy cost disclosures required under this part for room air conditioners and portable air conditioners. This table is based on information published by the U.S. Department of Energy in 2017.
+-</P>
+-<DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Type of energy
+-</TH><TH class="gpotbl_colhed" scope="col">In commonly used terms
+-</TH><TH class="gpotbl_colhed" scope="col">As required by DOE test procedure
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Electricity</TD><TD align="left" class="gpotbl_cell">¢13/kWh 
+-<sup>1</sup></TD><TD align="left" class="gpotbl_cell">$.1300/kWh.
+-</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
+-<sup>1</sup> kWh stands for kilowatt hour.</P></DIV></DIV>
+ <CITA TYPE="N">[87 FR 61477, Oct. 12, 2022; 88 FR 1137, Jan. 9, 2023]
+ 
+ 
