@@ -1,0 +1,11 @@
+description: Restore 16/A1, A2, & A3 headings & identifiers
+tags: structural
+status: pending
+issue_number: 2023-01-10
+fr_doc: https://www.federalregister.gov/documents/2022/10/12/2022-22036/energy-labeling-rule
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114427790/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-01-10'
+    last_issue_date: '2023-01-10'
