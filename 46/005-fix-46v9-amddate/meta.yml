@@ -1,0 +1,11 @@
+description: 46v9 AMDDATE
+tags: amendment-date
+status: approved
+issue_number: 2023-01-11
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/P114432299
+
+patches:
+  '001':
+    first_issue_date: '2023-01-11'
+    last_issue_date: '2023-01-11'
