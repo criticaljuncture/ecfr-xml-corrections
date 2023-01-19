@@ -1,0 +1,11 @@
+description: 48v3 AMDDATE
+tags: amendment-date
+status: approved
+issue_number: 2023-01-17
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114449986/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-01-17'
+    last_issue_date: '2023-01-17'
