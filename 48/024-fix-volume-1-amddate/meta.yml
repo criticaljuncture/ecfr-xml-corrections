@@ -1,0 +1,11 @@
+description: Title 48 volume 1 amddate was not incremented to date of https://www.federalregister.gov/documents/2023/02/16/C1-2023-02427/federal-acquisition-regulation-technical-amendments
+tags: amddate
+status: approved
+issue_number: 2023-02-016
+fr_doc: 88 FR 10058
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114558767/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-02-16'
+    last_issue_date: '2023-02-16'
