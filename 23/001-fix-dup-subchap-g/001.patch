@@ -1,0 +1,17 @@
+--- data/titles/preprocessed/xml/23/2023/03/2023-03-01_719b3c84.xml	2023-03-02 09:06:30
++++ tmp/title_version_23_2023-03-01_719b3c84_preprocessed.xml	2023-03-02 09:08:07
+@@ -23356,14 +23356,6 @@
+ 
+ </DIV5>
+ 
+-</DIV4>
+-
+-
+-<DIV4 N="G" TYPE="SUBCHAP">
+-<HEAD>SUBCHAPTER G - ENGINEERING AND TRAFFIC OPERATIONS
+-
+-
+-</HEAD>
+ 
+ <DIV5 N="680" TYPE="PART">
+ <HEAD>PART 680 - XXX
