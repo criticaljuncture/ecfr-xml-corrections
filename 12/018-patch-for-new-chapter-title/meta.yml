@@ -1,0 +1,11 @@
+description: Editor attempted to insert a duplicate chapter title
+tags: structural
+status: testing
+issue_number:
+fr_doc: 88 FR 16537
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114659909/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-03-20'
+    last_issue_date: '2023-03-21'
