@@ -1,0 +1,105 @@
+--- data/titles/preprocessed/xml/09/2023/03/2023-03-24_b11b3eb4.xml	2023-03-27 07:40:16
++++ tmp/title_version_9_2023-03-24_b11b3eb4_preprocessed.xml	2023-03-27 07:43:59
+@@ -1916,102 +1916,6 @@
+ <HEAD>PART 3 - STANDARDS
+ </HEAD>
+ 
+-<DIV6 N="G" TYPE="SUBPART">
+-<HEAD>Subpart G - Specifications for the Humane Handling, Care, Treatment, and Transportation of Birds</HEAD>
+-
+-
+-<DIV7 N="19" TYPE="SUBJGRP">
+-<HEAD>Facilities and Operating Standards</HEAD>
+-
+-<SECTNO>3.150</SECTNO>
+-<SUBJECT>Facilities, general.
+-</SUBJECT>
+-<SECTNO>3.151</SECTNO>
+-<SUBJECT>Facilities, indoor.
+-</SUBJECT>
+-<SECTNO>3.152</SECTNO>
+-<SUBJECT>Facilities, outdoor.
+-</SUBJECT>
+-<SECTNO>3.153</SECTNO>
+-<SUBJECT>Primary enclosures.
+-</SUBJECT>
+-<SECTNO>3.154</SECTNO>
+-<SUBJECT>Environmental enhancement to promote psychological well-being.
+-
+-
+-</SUBJECT>
+-</DIV7>
+-
+-
+-<DIV7 N="20" TYPE="SUBJGRP">
+-<HEAD>Animal Health and Husbandry Standards</HEAD>
+-
+-<SECTNO>3.155</SECTNO>
+-<SUBJECT>Feeding.
+-</SUBJECT>
+-<SECTNO>3.156</SECTNO>
+-<SUBJECT>Watering.
+-</SUBJECT>
+-<SECTNO>3.157</SECTNO>
+-<SUBJECT>Water quality.
+-</SUBJECT>
+-<SECTNO>3.158</SECTNO>
+-<SUBJECT>Cleaning, sanitization, housekeeping, and pest control.
+-</SUBJECT>
+-<SECTNO>3.159</SECTNO>
+-<SUBJECT>Employees.
+-</SUBJECT>
+-<SECTNO>3.160</SECTNO>
+-<SUBJECT>Compatibility and separation.
+-
+-
+-</SUBJECT>
+-</DIV7>
+-
+-
+-<DIV7 N="21" TYPE="SUBJGRP">
+-<HEAD>Transportation Standards</HEAD>
+-
+-<SECTNO>3.161</SECTNO>
+-<SUBJECT>Consignments to carriers and intermediate handlers.
+-</SUBJECT>
+-<SECTNO>3.162</SECTNO>
+-<SUBJECT>Primary enclosures used to transport live birds.
+-</SUBJECT>
+-<SECTNO>3.163</SECTNO>
+-<SUBJECT>Primary conveyances (motor vehicle, rail, air, and marine).
+-</SUBJECT>
+-<SECTNO>3.164</SECTNO>
+-<SUBJECT>Food and water requirements.
+-</SUBJECT>
+-<SECTNO>3.165</SECTNO>
+-<SUBJECT>Care in transit.
+-</SUBJECT>
+-<SECTNO>3.166</SECTNO>
+-<SUBJECT>Terminal facilities.
+-</SUBJECT>
+-<SECTNO>3.167</SECTNO>
+-<SUBJECT>Handling.
+-</SUBJECT>
+-<SECTNO>3.168</SECTNO>
+-<SUBJECT>Climatic and environmental conditions during transportation.
+-
+-
+-
+-
+-</SUBJECT>
+-<AUTH>
+-<HED>Authority:</HED><PSPACE>7 U.S.C. 2131-2159; 7 CFR 2.22, 2.80, and 371.7.
+-</PSPACE></AUTH>
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>32 FR 3273, Feb. 24, 1967, unless otherwise noted. 
+-
+-
+-</PSPACE></SOURCE>
+-</DIV7>
+-
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - Specifications for the Humane Handling, Care, Treatment, and Transportation of Dogs and Cats 
