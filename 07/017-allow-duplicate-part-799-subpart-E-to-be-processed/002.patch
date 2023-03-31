@@ -1,0 +1,11 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/07/2023/03/2023-03-29_519a08ef.xml	2023-03-31 12:11:28
++++ tmp/title_version_7_2023-03-29_519a08ef_preprocessed.xml	2023-03-31 12:23:33
+@@ -219835,7 +219835,7 @@
+ </DIV6>
+ 
+ 
+-<DIV6 N="E" TYPE="SUBPART">
++<DIV6 N="0" TYPE="SUBPART">
+ <HEAD>Subpart E—Environmental Impact Statements</HEAD>
+ 
+ 
