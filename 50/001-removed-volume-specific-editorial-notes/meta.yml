@@ -29,4 +29,7 @@ patches:
     end_date: '2022-08-23'
   '009':
     start_date: '2022-08-24'
+    end_date: '2023-03-30'
+  '010':
+    start_date: '2023-03-31'
     end_date: '2100-01-01'
