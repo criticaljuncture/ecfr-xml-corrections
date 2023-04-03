@@ -1,0 +1,213 @@
+--- /home/app/data/titles/preprocessed/xml/23/2023/03/2023-03-31_aa69c77e.xml	2023-04-03 11:36:35.253118897 -0400
++++ tmp/title_version_23_2023-03-31_aa69c77e_preprocessed.xml	2023-04-03 11:46:23.362461142 -0400
+@@ -23745,210 +23745,6 @@
+ <P>(g) The Uniform Relocation Assistance and Real Property Acquisition Act, and implementing regulations, apply to this program by establishing minimum standards for federally funded programs and projects that involve the acquisition of real property (real estate) or the displacement or relocation of persons from their homes, businesses, or farms.
+ </P>
+ <P>(h) The National Environmental Policy Act of 1969 (NEPA), the Council on Environmental Quality's NEPA implementing regulations, and applicable agency NEPA procedures apply to this program by establishing procedural requirements to ensure that Federal agencies consider the consequences of their proposed actions on the human environment and inform the public about their decision making for major Federal actions significantly affecting the quality of the human environment.
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 680.108" TYPE="SECTION">
+-<HEAD>§ 680.108   Interoperability of electric vehicle charging infrastructure.</HEAD>
+-<P>(a) <I>Charger-to-EV communication.</I> Chargers must conform to ISO 15118–3 and must have hardware capable of implementing both ISO 15118–2 and ISO 15118–20. By February 28, 2024, charger software must conform to ISO 15118–2 and be capable of Plug and Charge. Conformance testing for charger software and hardware should follow ISO 15118–4 and ISO 15118–5, respectively.
+-</P>
+-<P>(b) <I>Charger-to-Charger-Network Communication.</I> Chargers must conform to Open Charge Point Protocol (OCPP) 1.6J or higher. By February 28, 2024, chargers must conform to OCPP 2.0.1.
+-</P>
+-<P>(c) <I>Charging-Network-to-Charging-Network Communication.</I> By February 28, 2024, charging networks must be capable of communicating with other charging networks in accordance with Open Charge Point Interface (OCPI) 2.2.1.
+-</P>
+-<P>(d) <I>Network switching capability.</I> Chargers must be designed to securely switch charging network providers without any changes to hardware.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 680.110" TYPE="SECTION">
+-<HEAD>§ 680.110   Traffic control devices or on-premises signs acquired, installed, or operated.</HEAD>
+-<P>(a) <I>Manual on Uniform Traffic Control Devices for Streets and Highways.</I> All traffic control devices must comply with part 655 of this subchapter.
+-</P>
+-<P>(b) <I>On-premises signs.</I> On-property or on-premise advertising signs must comply with part 750 of this chapter.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 680.112" TYPE="SECTION">
+-<HEAD>§ 680.112   Data submittal.</HEAD>
+-<P>(a) <I>Quarterly data submittal.</I> States and other direct recipients must ensure the following data are submitted on a quarterly basis in a manner prescribed by the FHWA. Any quarterly data made public will be aggregated and anonymized to protect confidential business information.
+-</P>
+-<P>(1) Charging station identifier that the following data can be associated with. This must be the same charging station name or identifier used to identify the charging station in data made available to third-parties in § 680.116(c)(1);
+-</P>
+-<P>(2) Charging port identifier. This must be the same charging port identifier used to identify the charging port in data made available to third-parties in § 680.116(c)(8)(ii);
+-</P>
+-<P>(3) Charging session start time, end time, and any error codes associated with an unsuccessful charging session by port;
+-</P>
+-<P>(4) Energy (kWh) dispensed to EVs per charging session by port;
+-</P>
+-<P>(5) Peak session power (kW) by port;
+-</P>
+-<P>(6) Payment method associated with each charging session;
+-</P>
+-<P>(7) Charging station port uptime, T_outage, and T_excluded calculated in accordance with the equation in § 680.116(b) for each of the previous 3 months;
+-</P>
+-<P>(8) Duration (minutes) of each outage.
+-</P>
+-<P>(b) <I>Annual data submittal.</I> Beginning in 2024, States and other direct recipients must ensure the following data are submitted on an annual basis, on or before March 1, in a manner prescribed by FHWA. Any annual data made public will be aggregated and anonymized to protect confidential business information.
+-</P>
+-<P>(1) Maintenance and repair cost per charging station for the previous year.
+-</P>
+-<P>(2) For private entities identified in paragraph (c)(1) of this section, identification of and participation in any State or local business opportunity certification programs including but not limited to minority-owned businesses, Veteran-owned businesses, woman-owned businesses, and businesses owned by economically disadvantaged individuals.
+-</P>
+-<P>(c) <I>One-time data submittal.</I> This paragraph (c) applies only to both the NEVI Formula Program projects and grants awarded under 23 U.S.C. 151(f) for projects that are for EV charging stations located along and designed to serve the users of designated AFCs. Beginning in 2024, States and other direct recipients must ensure the following data are collected and submitted once for each charging station, on or before March 1 of each year, in a manner prescribed by the FHWA. Any one-time data made public will be aggregated and anonymized to protect confidential business information.
+-</P>
+-<P>(1) The name and address of the private entity(ies) involved in the operation and maintenance of chargers.
+-</P>
+-<P>(2) Distributed energy resource installed capacity, in kW or kWh as appropriate, of asset by type (e.g., stationary battery, solar, etc.) per charging station; and
+-</P>
+-<P>(3) Charging station real property acquisition cost, charging equipment acquisition and installation cost, and distributed energy resource acquisition and installation cost; and
+-</P>
+-<P>(4) Aggregate grid connection and upgrade costs paid to the electric utility as part of the project, separated into:
+-</P>
+-<P>(i) Total distribution and system costs, such as extensions to overhead/underground lines, and upgrades from single-phase to three-phase lines; and
+-</P>
+-<P>(ii) Total service costs, such as the cost of including poles, transformers, meters, and on-service connection equipment.
+-</P>
+-<P>(d) <I>Community engagement outcomes report.</I> This paragraph (d) only applies to the NEVI Formula Program projects. States must include in the State EV Infrastructure Deployment Plan a description of the community engagement activities conducted as part of the development and approval of their most recently-submitted State EV Infrastructure Deployment Plan, including engagement with DACs.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 680.114" TYPE="SECTION">
+-<HEAD>§ 680.114   Charging network connectivity of electric vehicle charging infrastructure.</HEAD>
+-<P>(a) <I>Charger-to-charger-network communication.</I> (1) Chargers must communicate with a charging network via a secure communication method. See § 680.108 for more information about OCPP requirements.
+-</P>
+-<P>(2) Chargers must have the ability to receive and implement secure, remote software updates and conduct real-time protocol translation, encryption and decryption, authentication, and authorization in their communication with charging networks.
+-</P>
+-<P>(3) Charging networks must perform and chargers must support remote charger monitoring, diagnostics, control, and smart charge management.
+-</P>
+-<P>(4) Chargers and charging networks must securely measure, communicate, store, and report energy and power dispensed, real-time charging-port status, real-time price to the customer, and historical charging-port uptime.
+-</P>
+-<P>(b) <I>Interoperability.</I> See § 680.108 for interoperability requirements.
+-</P>
+-<P>(c) <I>Charging-network-to-charging-network communication.</I> A charging network must be capable of communicating with other charging networks to enable an EV driver to use a single method of identification to charge at Charging Stations that are a part of multiple charging networks. See § 680.108 for more information about OCPI requirements.
+-</P>
+-<P>(d) <I>Charging-network-to-grid communication.</I> Charging networks must be capable of secure communication with electric utilities, other energy providers, or local energy management systems.
+-</P>
+-<P>(e) <I>Disrupted network connectivity.</I> Chargers must remain functional if communication with the charging network is temporarily disrupted, such that they initiate and complete charging sessions, providing the minimum required power level defined in § 680.106(d).
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 680.116" TYPE="SECTION">
+-<HEAD>§ 680.116   Information on publicly available electric vehicle charging infrastructure locations, pricing, real time availability, and accessibility through mapping.</HEAD>
+-<P>(a) <I>Communication of price.</I> (1) The price for charging must be displayed prior to initiating a charging transaction and be based on the price for electricity to charge in $/kWh. If the price for charging is not currently based on the price for electricity to charge an Electric Vehicle in $/kWh, the requirements of this subparagraph must be satisfied within one year from February 28, 2023.
+-</P>
+-<P>(2) The price for charging displayed and communicated via the charging network must be the real-time price (<I>i.e.,</I> price at that moment in time). The price at the start of the session cannot change during the session.
+-</P>
+-<P>(3) Price structure including any other fees in addition to the price for electricity to charge must be clearly displayed and explained.
+-</P>
+-<P>(b) <I>Minimum uptime.</I> States or other direct recipients must ensure that each charging port has an average annual uptime of greater than 97%.
+-</P>
+-<P>(1) A charging port is considered “up” when its hardware and software are both online and available for use, or in use, and the charging port successfully dispenses electricity in accordance with requirements for minimum power level (see § 680.106(d)).
+-</P>
+-<P>(2) Charging port uptime must be calculated on a monthly basis for the previous twelve months.
+-</P>
+-<P>(3) Charging port uptime percentage must be calculated using the following equation:
+-</P>
+-<FP-2>µ = ((525,600−(T_outage−T_excluded))/525,600) × 100
+-</FP-2>
+-<EXTRACT>
+-<FP-2>where:
+-</FP-2>
+-<FP-2>µ = port uptime percentage,
+-</FP-2>
+-<FP-2>T_outage = total minutes of outage in previous year, and
+-</FP-2>
+-<FP-2>T_excluded = total minutes of outage in previous year caused by the following reasons outside the charging station operator's control, provided that the charging station operator can demonstrate that the charging port would otherwise be operational: electric utility service interruptions, failure to charge or meet the EV charging customer's expectation for power delivery due to the fault of the vehicle, scheduled maintenance, vandalism, or natural disasters. Also excluded are hours outside of the identified hours of operation of the charging station.</FP-2></EXTRACT>
+-<P>(c) <I>Third-party data sharing.</I> States or other direct recipients must ensure that the following data fields are made available, free of charge, to third-party software developers, via application programming interface:
+-</P>
+-<P>(1) Unique charging station name or identifier;
+-</P>
+-<P>(2) Address (street address, city, State, and zip code) of the property where the charging station is located;
+-</P>
+-<P>(3) Geographic coordinates in decimal degrees of exact charging station location;
+-</P>
+-<P>(4) Charging station operator name;
+-</P>
+-<P>(5) Charging network provider name;
+-</P>
+-<P>(6) Charging station status (operational, under construction, planned, or decommissioned);
+-</P>
+-<P>(7) Charging station access information:
+-</P>
+-<P>(i) Charging station access type (public or limited to commercial vehicles);
+-</P>
+-<P>(ii) Charging station access days/times (hours of operation for the charging station);
+-</P>
+-<P>(8) Charging port information:
+-</P>
+-<P>(i) Number of charging ports;
+-</P>
+-<P>(ii) Unique port identifier;
+-</P>
+-<P>(iii) Connector types available by port;
+-</P>
+-<P>(iv) Charging level by port (DCFC, AC Level 2, etc.);
+-</P>
+-<P>(v) Power delivery rating in kilowatts by port;
+-</P>
+-<P>(vi) Accessibility by vehicle with trailer (pull-through stall) by port (yes/no);
+-</P>
+-<P>(vii) Real-time status by port in terms defined by Open Charge Point Interface 2.2.1;
+-</P>
+-<P>(9) Pricing and payment information:
+-</P>
+-<P>(i) Pricing structure;
+-</P>
+-<P>(ii) Real-time price to charge at each charging port, in terms defined by Open Charge Point Interface 2.2.1; and
+-</P>
+-<P>(iii) Payment methods accepted at charging station.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 680.118" TYPE="SECTION">
+-<HEAD>§ 680.118   Other Federal requirements.</HEAD>
+-<P>All applicable Federal statutory and regulatory requirements apply to the EV charger projects. These requirements include, but are not limited to:
+-</P>
+-<P>(a) All statutory and regulatory requirements that are applicable to funds apportioned under chapter 1 of Title 23, United States Code, and the requirements of 2 CFR part 200 apply. This includes the applicable requirements of 23, United States Code, and Title 23, Code of Federal Regulations, such as the applicable Buy America requirements at 23 U.S.C. 313 and Build America, Buy America Act (Pub. L. No 117–58, div. G sections 70901–70927).
+-</P>
+-<P>(b) As provided at 23 U.S.C. 109(s)(2), projects to install EV chargers are treated as if the project is located on a Federal-aid highway. As a project located on a Federal-aid highway, 23 U.S.C. 113 applies and Davis Bacon Federal wage rate requirements included at subchapter IV of chapter 31 of Title 40, U.S.C., must be paid for any project funded with NEVI Formula Program funds.
+-</P>
+-<P>(c) The American with Disabilities Act of 1990 (ADA), and implementing regulations, apply to EV charging stations by prohibiting discrimination on the basis of disability by public and private entities. EV charging stations must comply with applicable accessibility standards adopted by the Department of Transportation into its ADA regulations (49 CFR part 37) in 2006, and adopted by the Department of Justice into its ADA regulations (28 CFR parts 35 and 36) in 2010.
+-</P>
+-<P>(d) Title VI of the Civil Rights Act of 1964, and implementing regulations, apply to this program to ensure that no person shall, on the grounds of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.
+-</P>
+-<P>(e) All applicable requirements of Title VIII of the Civil Rights Act of 1968 (Fair Housing Act), and implementing regulations, apply to this program.
+-</P>
+-<P>(f) The Disadvantaged Business Enterprise (DBE) program does not apply to the NEVI Formula Funds; however, the DBE program may apply to other programs apportioned under chapter 1 of Title 23, United States Code.
+-</P>
+-<P>(g) The Uniform Relocation Assistance and Real Property Acquisition Act, and implementing regulations, apply to this program by establishing minimum standards for federally funded programs and projects that involve the acquisition of real property (real estate) or the displacement or relocation of persons from their homes, businesses, or farms.
+-</P>
+-<P>(h) The National Environmental Policy Act of 1969 (NEPA), the Council on Environmental Quality's NEPA implementing regulations, and applicable agency NEPA procedures apply to this program by establishing procedural requirements to ensure that Federal agencies consider the consequences of their proposed actions on the human environment and inform the public about their decision making for major Federal actions significantly affecting the quality of the human environment.
+ 
+ 
+ 
