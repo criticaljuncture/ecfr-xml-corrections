@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/07/2023/04/2023-04-03_c3a7a7c7.xml	2023-04-03 21:16:33.218093067 -0500
++++ tmp/title_version_7_2023-04-03_c3a7a7c7_preprocessed.xml	2023-04-03 21:17:25.824325165 -0500
+@@ -474541,7 +474541,7 @@
+ </DIV3>
+ 
+ 
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="XLI" TYPE="CHAPTER">
+ <HEAD>CHAPTER XLI [RESERVED]
+ 
+ 
