@@ -1,0 +1,265 @@
+--- data/titles/preprocessed/xml/10/2023/03/2023-03-15_648f0163.xml	2023-04-05 22:38:15.276459006 -0500
++++ tmp/title_version_10_2023-03-15_648f0163_preprocessed.xml	2023-04-05 22:50:01.864330569 -0500
+@@ -73177,14 +73177,61 @@
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—XXX</HEAD>
+-
+ <XREF ID="20230314" REFID="22">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="B" TYPE="SUBPART">
++<HEAD>Subpart B—XXX</HEAD>
++<XREF ID="20230314" REFID="25">Link to an amendment published at 88 FR 15882, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="C" TYPE="SUBPART">
++<HEAD>Subpart C—XXX</HEAD>
++<XREF ID="20230314" REFID="26">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="D" TYPE="SUBPART">
++<HEAD>Subpart D—XXX</HEAD>
++<XREF ID="20230314" REFID="27">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="E" TYPE="SUBPART">
++<HEAD>Subpart E—XXX</HEAD>
++<XREF ID="20230314" REFID="30">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="F" TYPE="SUBPART">
++<HEAD>Subpart F—XXX</HEAD>
++<XREF ID="20230314" REFID="33">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="G" TYPE="SUBPART">
++<HEAD>Subpart G—XXX</HEAD>
++</DIV6>
++
++<DIV6 N="H" TYPE="SUBPART">
++<HEAD>Subpart H—XXX</HEAD>
++<XREF ID="20230314" REFID="39">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="I" TYPE="SUBPART">
++<HEAD>Subpart I—XXX</HEAD>
++<XREF ID="20230314" REFID="41">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="J" TYPE="SUBPART">
++<HEAD>Subparts J-S—XXX</HEAD>
++<XREF ID="20230314" REFID="42">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="T" TYPE="SUBPART">
++<HEAD>Subpart T—XXX</HEAD>
++<XREF ID="20230314" REFID="43">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
+ 
+ <DIV7 N="126" TYPE="SUBJGRP">
+ <HEAD>General Provisions</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.1" TYPE="SECTION">
+@@ -73475,20 +73522,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B—Enhanced Weapons, Preemption, and Firearms Background Checks</HEAD>
+-
+-<XREF ID="20230314" REFID="25">Link to an amendment published at 88 FR 15882, Mar. 14, 2023.</XREF>
+-</DIV6>
+-
+-
+-<DIV6 N="C" TYPE="SUBPART">
+-<HEAD>Subpart C—General Performance Objective for Protection of Strategic Special Nuclear Material</HEAD>
+-
+-<XREF ID="20230314" REFID="26">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.20" TYPE="SECTION">
+ <HEAD>§ 73.20   General performance objective and requirements.</HEAD>
+@@ -73512,14 +73545,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="D" TYPE="SUBPART">
+-<HEAD>Subpart D—Protection of Safeguards Information</HEAD>
+-
+-<XREF ID="20230314" REFID="27">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+-
+ <DIV8 N="§ 73.21" TYPE="SECTION">
+ <HEAD>§ 73.21   Protection of Safeguards Information: Performance requirements.</HEAD>
+ <P>(a) <I>General performance requirement.</I> (1) Each licensee, certificate holder, applicant, or other person who produces, receives, or acquires Safeguards Information (including Safeguards Information with the designation or marking: Safeguards Information—Modified Handling) shall ensure that it is protected against unauthorized disclosure. To meet this general performance requirement, such licensees, certificate holders, applicants, or other persons subject to this section shall:
+@@ -73773,14 +73798,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="E" TYPE="SUBPART">
+-<HEAD>Subpart E—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="30">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+-
+ <DIV8 N="§ 73.24" TYPE="SECTION">
+ <HEAD>§ 73.24   Prohibitions.</HEAD>
+ <P>(a) Except as specifically approved by the Nuclear Regulatory Commission, no shipment of special nuclear material shall be made in passenger aircraft in excess of (1) 20 grams or 20 curies, whichever is less, of plutonium or uranium-233, or (2) 350 grams of uranium-235 (contained in uranium enriched to 20 percent or more in the U-235 isotope). 
+@@ -73797,11 +73814,12 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV7 N="127" TYPE="SUBJGRP">
+ <HEAD>Physical Protection of Special Nuclear Material in Transit</HEAD>
+ 
+-</DIV7>
++
+ 
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+@@ -74461,20 +74479,12 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV7 N="128" TYPE="SUBJGRP">
+ <HEAD>Physical Protection Requirements at Fixed Sites</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+-</DIV6>
+-
+-
+-<DIV6 N="F" TYPE="SUBPART">
+-<HEAD>Subpart F—Physical Protection Requirements at Fixed Sites</HEAD>
+-
+-<XREF ID="20230314" REFID="33">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.40" TYPE="SECTION">
+ <HEAD>§ 73.40   Physical protection: General requirements at fixed sites.</HEAD>
+@@ -75633,14 +75643,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="G" TYPE="SUBPART">
+-<HEAD>Subpart G—XXX
+-20230413--&gt;--&gt;</HEAD>
+-
+-
+ <DIV8 N="§ 73.56" TYPE="SECTION">
+ <HEAD>§ 73.56   Personnel access authorization requirements for nuclear power plants.</HEAD>
+ <P>(a) <I>Introduction.</I> (1) By March 31, 2010, each nuclear power reactor licensee, licensed under 10 CFR part 50, shall implement the requirements of this section through revisions to its Commission-approved Physical Security Plan.
+@@ -76156,11 +76158,12 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV7 N="129" TYPE="SUBJGRP">
+ <HEAD>Physical Protection of Special Nuclear Material of Moderate and Low Strategic Significance</HEAD>
+ 
+-</DIV7>
++
+ 
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+@@ -76341,18 +76344,12 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="H" TYPE="SUBPART">
+-<HEAD>Subpart H—Records and Postings</HEAD>
+-
+-<XREF ID="20230314" REFID="39">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV7>
+ 
+ <DIV7 N="130" TYPE="SUBJGRP">
+ <HEAD>Records and Reports</HEAD>
+ 
+-</DIV7>
++
+ 
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+@@ -76565,16 +76562,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="I" TYPE="SUBPART">
+-<HEAD>Subpart I—Enforcement</HEAD>
+-
+-<P> 
+-</P>
+-<XREF ID="20230314" REFID="41">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
+-
+ <DIV8 N="§ 73.77" TYPE="SECTION">
+ <HEAD>§ 73.77   Cyber security event notifications.</HEAD>
+ <P>(a) Each licensee subject to the provisions of § 73.54 shall notify the NRC Headquarters Operations Center via the Emergency Notification System (ENS), in accordance with paragraph (c) of this section:
+@@ -76645,12 +76632,11 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV7 N="131" TYPE="SUBJGRP">
+ <HEAD>Enforcement</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.80" TYPE="SECTION">
+@@ -76714,20 +76700,7 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="J" TYPE="SUBPART">
+-<HEAD>Subparts J - S [Reserved]</HEAD>
+-
+-<XREF ID="20230314" REFID="42">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
+-</DIV6>
+-
+-
+-<DIV6 N="T" TYPE="SUBPART">
+-<HEAD>Subpart T—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="43">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV7>
+ 
+ <DIV9 N="Appendix A" TYPE="APPENDIX">
+ <HEAD>Appendix A to Part 73—U.S. Nuclear Regulatory Commission Offices and Classified Mailing Addresses
+@@ -78552,7 +78525,6 @@
+ </CITA>
+ </DIV9>
+ 
+-</DIV6>
+ 
+ </DIV5>
+ 

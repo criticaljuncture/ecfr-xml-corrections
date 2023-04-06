@@ -1,0 +1,267 @@
+--- data/titles/preprocessed/xml/10/2023/04/2023-04-05_5eea615c.xml	2023-04-05 22:10:20.580812846 -0500
++++ tmp/title_version_10_2023-04-05_5eea615c_preprocessed.xml	2023-04-05 22:30:59.166669642 -0500
+@@ -73169,14 +73169,63 @@
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—XXX</HEAD>
+-
+ <XREF ID="20230314" REFID="22">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="B" TYPE="SUBPART">
++<HEAD>Subpart B—XXX</HEAD>
++<XREF ID="20230314" REFID="25">Link to an amendment published at 88 FR 15882, Mar. 14, 2023.</XREF>
++<XREF ID="20230329" REFID="2">Link to an amendment published at 88 FR 18379, Mar. 29, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="C" TYPE="SUBPART">
++<HEAD>Subpart C—XXX</HEAD>
++<XREF ID="20230314" REFID="26">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>  
++
++<DIV6 N="D" TYPE="SUBPART">
++<HEAD>Subpart D—XXX</HEAD>
++<XREF ID="20230314" REFID="27">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>  
++
++<DIV6 N="E" TYPE="SUBPART">
++<HEAD>Subpart E—XXX</HEAD>
++<XREF ID="20230314" REFID="30">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="F" TYPE="SUBPART">
++<HEAD>Subpart F—XXX</HEAD>
++<XREF ID="20230314" REFID="33">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="G" TYPE="SUBPART">
++<HEAD>Subpart G—XXX</HEAD>
++</DIV6>
++
++<DIV6 N="H" TYPE="SUBPART">
++<HEAD>Subpart H—XXX</HEAD>
++<XREF ID="20230314" REFID="39">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
++
++
++<DIV6 N="I" TYPE="SUBPART">
++<HEAD>Subpart I—XXX</HEAD>
++<XREF ID="20230314" REFID="41">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="J" TYPE="SUBPART">
++<HEAD>Subparts J-S—XXX</HEAD>
++<XREF ID="20230314" REFID="42">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
++
++<DIV6 N="T" TYPE="SUBPART">
++<HEAD>Subpart T—XXX</HEAD>
++<XREF ID="20230314" REFID="43">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV6>
+ 
+ <DIV7 N="126" TYPE="SUBJGRP">
+ <HEAD>General Provisions</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.1" TYPE="SECTION">
+@@ -73467,21 +73516,9 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="25">Link to an amendment published at 88 FR 15882, Mar. 14, 2023.</XREF>
+-<XREF ID="20230329" REFID="2">Link to an amendment published at 88 FR 18379, Mar. 29, 2023.</XREF>
+-</DIV6>
+ 
+ 
+-<DIV6 N="C" TYPE="SUBPART">
+-<HEAD>Subpart C—XXX</HEAD>
+ 
+-<XREF ID="20230314" REFID="26">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.20" TYPE="SECTION">
+ <HEAD>§ 73.20   General performance objective and requirements.</HEAD>
+@@ -73505,14 +73542,8 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+ 
+ 
+-<DIV6 N="D" TYPE="SUBPART">
+-<HEAD>Subpart D—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="27">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+-
+ <DIV8 N="§ 73.21" TYPE="SECTION">
+ <HEAD>§ 73.21   Protection of Safeguards Information: Performance requirements.</HEAD>
+ <P>(a) <I>General performance requirement.</I> (1) Each licensee, certificate holder, applicant, or other person who produces, receives, or acquires Safeguards Information (including Safeguards Information with the designation or marking: Safeguards Information—Modified Handling) shall ensure that it is protected against unauthorized disclosure. To meet this general performance requirement, such licensees, certificate holders, applicants, or other persons subject to this section shall:
+@@ -73766,13 +73797,9 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+ 
+ 
+-<DIV6 N="E" TYPE="SUBPART">
+-<HEAD>Subpart E—XXX</HEAD>
+ 
+-<XREF ID="20230314" REFID="30">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.24" TYPE="SECTION">
+ <HEAD>§ 73.24   Prohibitions.</HEAD>
+@@ -73789,13 +73816,11 @@
+ 
+ </CITA>
+ </DIV8>
+-
++</DIV7>
+ 
+ <DIV7 N="127" TYPE="SUBJGRP">
+ <HEAD>Physical Protection of Special Nuclear Material in Transit</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.25" TYPE="SECTION">
+@@ -74454,21 +74479,14 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV7 N="128" TYPE="SUBJGRP">
+ <HEAD>Physical Protection Requirements at Fixed Sites</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+-</DIV6>
+ 
+ 
+-<DIV6 N="F" TYPE="SUBPART">
+-<HEAD>Subpart F—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="33">Link to an amendment published at 88 FR 15890, Mar. 14, 2023.</XREF>
+-
+ <DIV8 N="§ 73.40" TYPE="SECTION">
+ <HEAD>§ 73.40   Physical protection: General requirements at fixed sites.</HEAD>
+ <P>Each licensee shall provide physical protection at a fixed site, or contiguous sites where licensed activities are conducted, against radiological sabotage, or against theft of special nuclear material, or against both, in accordance with the applicable sections of this Part for each specific class of facility or material license. If applicable, the licensee shall establish and maintain physical security in accordance with security plans approved by the Nuclear Regulatory Commission.
+@@ -75626,13 +75644,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="G" TYPE="SUBPART">
+-<HEAD>Subpart G—XXX
+-20230413--&gt;--&gt;</HEAD>
+-
+ 
+ <DIV8 N="§ 73.56" TYPE="SECTION">
+ <HEAD>§ 73.56   Personnel access authorization requirements for nuclear power plants.</HEAD>
+@@ -76149,12 +76160,11 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV7 N="129" TYPE="SUBJGRP">
+ <HEAD>Physical Protection of Special Nuclear Material of Moderate and Low Strategic Significance</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.67" TYPE="SECTION">
+@@ -76334,19 +76344,11 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="H" TYPE="SUBPART">
+-<HEAD>Subpart H—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="39">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV7>
+ 
+ <DIV7 N="130" TYPE="SUBJGRP">
+ <HEAD>Records and Reports</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.70" TYPE="SECTION">
+@@ -76558,14 +76560,6 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="I" TYPE="SUBPART">
+-<HEAD>Subpart I—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="41">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
+-
+ <DIV8 N="§ 73.77" TYPE="SECTION">
+ <HEAD>§ 73.77   Cyber security event notifications.</HEAD>
+ <P>(a) Each licensee subject to the provisions of § 73.54 shall notify the NRC Headquarters Operations Center via the Emergency Notification System (ENS), in accordance with paragraph (c) of this section:
+@@ -76636,12 +76630,11 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV7 N="131" TYPE="SUBJGRP">
+ <HEAD>Enforcement</HEAD>
+ 
+-</DIV7>
+-
+ <XREF ID="20230314" REFID="21">Link to an amendment published at 88 FR 15881, Mar. 14, 2023.</XREF>
+ 
+ <DIV8 N="§ 73.80" TYPE="SECTION">
+@@ -76705,20 +76698,7 @@
+ </CITA>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="J" TYPE="SUBPART">
+-<HEAD>Subparts J–S—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="42">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
+-</DIV6>
+-
+-
+-<DIV6 N="T" TYPE="SUBPART">
+-<HEAD>Subpart T—XXX</HEAD>
+-
+-<XREF ID="20230314" REFID="43">Link to an amendment published at 88 FR 15891, Mar. 14, 2023.</XREF>
++</DIV7>
+ 
+ <DIV9 N="Appendix A" TYPE="APPENDIX">
+ <HEAD>Appendix A to Part 73—U.S. Nuclear Regulatory Commission Offices and Classified Mailing Addresses
+@@ -78544,7 +78524,7 @@
+ </CITA>
+ </DIV9>
+ 
+-</DIV6>
++
+ 
+ </DIV5>
+ 
