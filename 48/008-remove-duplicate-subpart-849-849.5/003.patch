@@ -1,0 +1,34 @@
+--- data/titles/preprocessed/xml/48/2023/04/2023-04-06_e0121e14.xml	2023-04-06 22:03:47.894403852 -0500
++++ tmp/title_version_48_2023-04-06_e0121e14_preprocessed.xml	2023-04-06 22:05:17.431551548 -0500
+@@ -185905,31 +185905,6 @@
+ 
+ </DIV6>
+ 
+-
+-<DIV6 N="849.5" TYPE="SUBPART">
+-<HEAD>Subpart 849.5 - Contract Termination Clauses</HEAD>
+-
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>85 FR 36349, June 16, 2020, unless otherwise noted.
+-
+-
+-</PSPACE></SOURCE>
+-
+-<DIV8 N="849.504" TYPE="SECTION">
+-<HEAD>849.504   Termination of fixed-price contracts for default.</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="849.504-70" TYPE="SECTION">
+-<HEAD>849.504-70   Termination of mortuary services.</HEAD>
+-<P>Use the clause at 852.249–70, Termination for Default—Supplement for Mortuary Services, in all solicitations and contracts for mortuary services containing the FAR clause 52.249–8, Default (Fixed-Price Supply and Service).
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+ </DIV5>
+ 
+ </DIV4>

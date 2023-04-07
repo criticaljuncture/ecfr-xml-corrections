@@ -1,0 +1,11 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/33/2017/01/2017-01-03.xml	2019-07-12 11:24:40.000000000 -0700
++++ tmp/title_version_33_2017-01-03T00:00:00-0500_preprocessed.xml	2019-07-12 11:27:49.000000000 -0700
+@@ -11034,7 +11034,7 @@
+ 
+ </HEAD>
+ 
+-<DIV5 N="" TYPE="PART">
++<DIV5 N="ECFR1a48483536b7c15" TYPE="PART" PATCHED="true">
+ <HEAD>Special Note—Application of the 72 COLREGS to territories and possessions.
+ </HEAD>
+ <EXTRACT>

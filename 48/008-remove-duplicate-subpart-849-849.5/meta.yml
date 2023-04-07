@@ -10,4 +10,7 @@ patches:
     end_date: '2022-03-23'
   '002':
     start_date: '2022-03-24'
-    end_date: '2100-01-01'
+    end_date: ' 2023-04-06'
+  '003':
+    first_issue_date: '2023-04-05'
+    last_issue_date: '2100-01-01'

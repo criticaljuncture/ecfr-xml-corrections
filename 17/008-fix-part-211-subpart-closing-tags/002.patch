@@ -1,0 +1,47 @@
+--- /Users/ray/code/ecfr-versioner/data/titles/preprocessed/xml/17/2021/03/2021-03-09_7e0e6f33.xml	2022-04-04 15:35:22.000000000 -0700
++++ tmp/title_version_17_2021-03-09_7e0e6f33_preprocessed.xml	2022-04-04 15:36:24.000000000 -0700
+@@ -68957,8 +68957,6 @@
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—Financial Reporting Releases</HEAD>
+ 
+-</DIV6>
+-
+ <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Subject
+ </TH><TH class="gpotbl_colhed" scope="col">Release No.
+ </TH><TH class="gpotbl_colhed" scope="col">Date
+@@ -68989,11 +68987,11 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Commission Guidance on Presentation of Liquidity and Capital Resources Disclosures in Management's Discussion and Analysis</TD><TD align="right" class="gpotbl_cell">83</TD><TD align="right" class="gpotbl_cell">Sept. 17, 2010</TD><TD align="left" class="gpotbl_cell">75 FR 59896
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Commission Guidance on Management's Discussion and Analysis of Financial Condition and Results of Operations</TD><TD align="right" class="gpotbl_cell">87</TD><TD align="right" class="gpotbl_cell">January 30, 2020</TD><TD align="left" class="gpotbl_cell">85 FR 10570</TD></TR></TABLE></DIV></DIV>
+ 
++</DIV6> 
++
+ <DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B—Staff Accounting Bulletins</HEAD>
+ 
+-</DIV6>
+-
+ <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Subject
+ </TH><TH class="gpotbl_colhed" scope="col">Release No.
+ </TH><TH class="gpotbl_colhed" scope="col">Date
+@@ -69085,16 +69083,19 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Publication of Staff Accounting Bulletin No. 119</TD><TD align="left" class="gpotbl_cell">SAB119</TD><TD align="right" class="gpotbl_cell">11/25/2019</TD><TD align="left" class="gpotbl_cell">84 FR 64734
+ </TD></TR></TABLE></DIV></DIV>
+ 
++</DIV6>
++
+ <DIV6 N="C" TYPE="SUBPART">
+ <HEAD>Subpart C—Accounting and Auditing Enforcement Releases</HEAD>
+ 
+-</DIV6>
+-
+ <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Subject
+ </TH><TH class="gpotbl_colhed" scope="col">Release No.
+ </TH><TH class="gpotbl_colhed" scope="col">Date
+ </TH><TH class="gpotbl_colhed" scope="col">Fed. Reg. vol. and page
+ </TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Index of Accounting and Auditing Enforcement Releases</TD><TD align="left" class="gpotbl_cell">1</TD><TD align="left" class="gpotbl_cell">Apr. 15, 1982</TD><TD align="left" class="gpotbl_cell">47 FR 21030</TD></TR></TABLE></DIV></DIV>
++
++</DIV6>
++
+ </DIV5>
+ 
+ 

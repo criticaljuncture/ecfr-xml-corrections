@@ -8,4 +8,7 @@ reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-regi
 patches:
   '001':
     start_date: '2021-03-09'
-    end_date: '2100-01-01'
+    end_date: '2023-03-30'
+  '002':
+    first_issue_date: '2023-03-30'
+    last_issue_date:  '2100-01-01'

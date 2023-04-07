@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/17/2017/01/2017-01-03.xml	2018-04-24 17:19:21.000000000 -0700
++++ tmp/title_version_54_preprocessed.xml	2018-04-24 17:20:20.000000000 -0700
+@@ -29418,7 +29418,7 @@
+ </DIV6>
+ 
+ 
+-<DIV6 N="" TYPE="SUBPART">
++<DIV6 N="C" TYPE="SUBPART">
+ <HEAD>Subpart C—Provisions Applicable to Systemically Important Derivatives Clearing Organizations and Derivatives Clearing Organizations That Elect To Be Subject to the Provisions of This Subpart</HEAD>
+ 
+ <SOURCE>
