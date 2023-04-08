@@ -1,0 +1,11 @@
+description: 26v4 AMDDATE
+tags: amendment-date
+status: pending
+issue_number: 2023-04-06
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2023-04-06'
+    last_issue_date:  '2023-04-06'
