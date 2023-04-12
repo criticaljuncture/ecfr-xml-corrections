@@ -1,0 +1,11 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/49/2017/01/2017-01-24_6922a004.xml	2020-08-31 11:16:44.000000000 -0700
++++ tmp/title_version_49_2017-01-24T00:00:00-0500_preprocessed.xml	2020-08-31 11:17:18.000000000 -0700
+@@ -175454,7 +175454,7 @@
+ </DIV6>
+
+
+-<DIV6 N="D" TYPE="SUBPART">
++<DIV6 N="D-suspended" TYPE="SUBPART">
+ <HEAD>Subpart D—Transfers of Operating Authority</HEAD>
+
+ <SOURCE>

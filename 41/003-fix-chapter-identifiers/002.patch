@@ -1,0 +1,29 @@
+--- /home/app/data/titles/preprocessed/xml/41/2017/01/2017-01-03.xml	2018-12-05 14:23:42.392865279 -0500
++++ tmp/title_version_40_preprocessed.xml	2018-12-05 14:29:12.771027835 -0500
+@@ -9736,7 +9736,7 @@
+ </DIV3>
+ 
+ 
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="62-100" TYPE="CHAPTER">
+ <HEAD>CHAPTERS 62–100 [RESERVED]
+ 
+ 
+@@ -46989,7 +46989,7 @@
+ </DIV3>
+ 
+ 
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="103-104" TYPE="CHAPTER">
+ <HEAD>CHAPTERS 103–104 [RESERVED]
+ 
+ 
+@@ -63284,7 +63284,7 @@
+ </DIV3>
+ 
+ 
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="129-200" TYPE="CHAPTER">
+ <HEAD>CHAPTERS 129–200 [RESERVED]
+ 
+ 

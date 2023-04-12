@@ -8,4 +8,7 @@ reference: https://github.com/criticaljuncture/ecfr-versioner/issues/590
 patches:
   '001':
     start_date: '2021-06-12'
+    end_date: '2023-04-10'
+  '002':
+    start_date: '2023-04-11'
     end_date: '2100-01-01'

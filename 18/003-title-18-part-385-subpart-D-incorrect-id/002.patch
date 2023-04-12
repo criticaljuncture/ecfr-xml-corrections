@@ -1,0 +1,11 @@
+--- /Users/Andrew/code/ecfr-versioner/data/titles/preprocessed/xml/18/2017/01/2017-01-03_9d254bce.xml	2020-08-26 14:11:24.000000000 -0700
++++ tmp/title_version_18_2017-01-03T00:00:00-0500_preprocessed.xml	2020-08-26 14:12:50.000000000 -0700
+@@ -60530,7 +60530,7 @@
+ </DIV6>
+
+
+-<DIV6 N="E" TYPE="SUBPART">
++<DIV6 N="D" TYPE="SUBPART">
+ <HEAD>Subpart D—Discovery Procedures for Matters Set for Hearing Under Subpart E</HEAD>
+
+ <SOURCE>
