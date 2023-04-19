@@ -1,0 +1,11 @@
+description: 47v4 expected content change applied early
+tags: amddate
+status: approved
+issue_number: 2022-04-17
+fr_doc: 88 FR 14294
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114754632/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-04-03'
+    last_issue_date: '2023-04-11'

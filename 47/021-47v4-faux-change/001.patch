@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/47/2023/04/2023-04-04_fb584d36.xml	2023-04-19 08:25:29.780849240 -0500
++++ tmp/title_version_47_2023-04-04_fb584d36_preprocessed.xml	2023-04-19 08:29:16.987848640 -0500
+@@ -99844,7 +99844,7 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Marbleton</TD><TD align="right" class="gpotbl_cell">257C1
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Medicine Bow</TD><TD align="right" class="gpotbl_cell">259C3
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Meeteetse</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Pine Bluffs</TD><TD align="right" class="gpotbl_cell">287A
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Ralston</TD><TD align="right" class="gpotbl_cell">233C
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" colspan="1">Ralston</TD><TD align="right" class="gpotbl_cell">233C
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Rawlins</TD><TD align="right" class="gpotbl_cell">298C2
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Rozet</TD><TD align="right" class="gpotbl_cell">256C3
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Wamsutter</TD><TD align="right" class="gpotbl_cell">285A
