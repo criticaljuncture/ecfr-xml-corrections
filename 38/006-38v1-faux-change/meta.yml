@@ -1,0 +1,11 @@
+description: 38v1 expected content change applied early
+tags: amddate
+status: approved
+issue_number: 2022-04-24
+fr_doc: 88 FR 10842
+reference: https://criticaljuncture.basecamphq.com/P114778306
+
+patches:
+  '001':
+    first_issue_date: '2023-04-21'
+    last_issue_date: '2023-04-23'

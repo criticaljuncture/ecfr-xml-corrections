@@ -1,0 +1,29 @@
+--- data/titles/preprocessed/xml/38/2023/04/2023-04-24_a47ef7b0.xml	2023-04-26 07:58:31.687105311 -0500
++++ tmp/title_version_38_2023-04-24_a47ef7b0_preprocessed.xml	2023-04-26 08:00:38.317510908 -0500
+@@ -42119,7 +42119,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 17.1003" TYPE="SECTION">
++<DIV8 N="§ 17.1003" TYPE="SECTION">&#8203;
+ <HEAD>§ 17.1003   Emergency transportation.</HEAD>
+ <P>Notwithstanding the provisions of § 17.1002, payment or reimbursement under 38 U.S.C. 1725 for ambulance services, including air ambulance services, may be made for transporting a veteran to a facility only if the following conditions are met: 
+ </P>
+@@ -42150,7 +42150,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 17.1004" TYPE="SECTION">
++<DIV8 N="§ 17.1004" TYPE="SECTION">&#8203;
+ <HEAD>§ 17.1004   Filing claims.</HEAD>
+ <P>(a) A claimant for payment or reimbursement under 38 U.S.C. 1725 must be the entity that furnished the treatment, the veteran who paid for the treatment, or the person or organization that paid for such treatment on behalf of the veteran. 
+ </P>
+@@ -42186,7 +42186,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 17.1005" TYPE="SECTION">
++<DIV8 N="§ 17.1005" TYPE="SECTION">&#8203;
+ <HEAD>§ 17.1005   Payment limitations.</HEAD>
+ <P>(a) Payment or reimbursement for emergency treatment (including emergency transportation) under 38 U.S.C. 1725 will be calculated as follows:
+ </P>
