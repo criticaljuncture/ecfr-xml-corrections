@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/37/2023/04/2023-04-25_9808c623.xml	2023-04-27 07:41:48.784462442 -0500
++++ tmp/title_version_37_2023-04-25_9808c623_preprocessed.xml	2023-04-27 07:41:53.206146707 -0500
+@@ -714,7 +714,7 @@
+ 
+ </PSPACE></AUTH>
+ 
+-<DIV8 N="§ 1.16" TYPE="SECTION">
++<DIV8 N="§ 1.16" TYPE="SECTION">&#8203;
+ <HEAD>§ 1.16   National application filing, search, and examination fees.</HEAD>
+ <XREF ID="20200803" REFID="88">Link to an amendment published at 85 FR 46985, Aug. 3, 2020.</XREF>
+ <XREF ID="20211122" REFID="13">Link to an amendment published at 86 FR 66193, Nov. 22, 2021.</XREF>

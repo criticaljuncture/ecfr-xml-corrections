@@ -1,0 +1,11 @@
+description: 37v1 correction applied early
+tags: amddate
+status: approved
+issue_number: 2022-04-25
+fr_doc: 88 FR 17157
+reference: https://criticaljuncture.basecamphq.com/P114782255
+
+patches:
+  '001':
+    first_issue_date: '2023-04-24'
+    last_issue_date: '2023-04-24'
