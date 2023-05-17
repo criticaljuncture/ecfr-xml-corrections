@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/10/2023/04/2023-04-06_0a3ba2f4.xml	2023-05-17 08:50:26.672029008 -0700
++++ tmp/title_version_10_2023-04-06_0a3ba2f4_preprocessed.xml	2023-05-17 08:58:56.994841938 -0700
+@@ -129525,8 +129525,6 @@
+ <XREF ID="20230313" REFID="16">Link to an amendment published at 88 FR 15547, Mar. 13, 2023.</XREF>
+ </DIV9>
+ 
+-</DIV6>
+-
+ <P> 
+ 
+ 
+@@ -129637,6 +129635,8 @@
+ 
+ </CITA>
+ </DIV9>
++</DIV6>
++
+ 
+ 
+ <DIV6 N="C" TYPE="SUBPART">

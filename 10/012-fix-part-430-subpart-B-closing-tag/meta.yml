@@ -1,0 +1,14 @@
+description: Title 10 Part 430 Subpart B closing tag fix
+tags: structural
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114845608/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-04-05'
+    last_issue_date: '2023-04-11'
+  '002':
+    first_issue_date: '2023-04-12'
+    last_issue_date: '2100-01-01'
