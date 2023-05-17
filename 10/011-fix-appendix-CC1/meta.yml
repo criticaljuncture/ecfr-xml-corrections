@@ -1,0 +1,11 @@
+description: Title 10 had a malformed appendix CC1.
+tags: structural
+status: approved
+issue_number:
+fr_doc: 88 FR 31102
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114845608/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-05-15'
+    last_issue_date: '2023-05-15'

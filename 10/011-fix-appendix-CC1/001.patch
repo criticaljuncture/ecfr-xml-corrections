@@ -1,0 +1,13 @@
+--- data/titles/preprocessed/xml/10/2023/05/2023-05-16_a9196d92.xml	2023-05-17 08:04:09.541030548 -0700
++++ tmp/title_version_10_2023-05-16_a9196d92_preprocessed.xml	2023-05-17 08:10:36.390571922 -0700
+@@ -130720,8 +130720,8 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="" TYPE="APPENDIX">
+-<HEAD>Pt. 430, Subpt. B, App. CC1
++<DIV9 N="Appendix CC1 to Subpart B of Part 430" TYPE="APPENDIX">
++<HEAD>Appendix CC1 to Subpart B of Part 430-Uniform Test Method for Measuring the Energy Consumption of Portable Air Conditioners
+ 
+ 
+ </HEAD>
