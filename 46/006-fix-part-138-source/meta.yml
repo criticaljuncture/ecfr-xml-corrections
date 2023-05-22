@@ -1,0 +1,11 @@
+description: Source date for 46 CFR 138 is incorrect
+tags: editorial-error
+status: approved
+issue_number: 2016-12-22
+fr_doc: 81 FR 40101
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114855315/comments#432716326
+
+patches:
+  '001':
+    first_issue_date: '2016-12-22'
+    last_issue_date: '2023-05-22'
