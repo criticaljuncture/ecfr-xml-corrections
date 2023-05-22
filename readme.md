@@ -35,11 +35,14 @@ Editor applied incorrect amendment date. Most commonly it's an incorrect year or
 ### Github Issue Number
 The number of the issue in the ecfr-xml-corrections Github Repo that initially found and describes this problem.
 
+### FR Doc
+The FR Doc number of the document that is being patched. This is the FR Doc of the document that is being patched, not the FR Doc of the patch itself.
+
 ### Reference
 When the patch is not approved, include items that help give context to the patch. These could be the FR Doc or print pdf. When the patch is approved link to the basecamp message that is relevant to the patch.
 
 ### Patches
-This is the information required to apply the patch. Patches are numbered 001..999 and include `start_date` and `end_date` attributes to determine if a title_version's `preprocessed_source_xml` file is eligible for this patch. 
+This is the information required to apply the patch. Patches are numbered 001..999 and include either `start_date` and `end_date` or `first_issue_date` and `last_issue_date` attributes to determine if a title_version's `preprocessed_source_xml` file is eligible for this patch. 
 
 
 --------------------------------------------------------------------------------
