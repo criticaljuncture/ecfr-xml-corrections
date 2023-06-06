@@ -1,0 +1,11 @@
+description: Title 38 part 1 contains auths pulled from prematurely closed subject groups
+tags: structural
+status: approved
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2016-12-14'
+    last_issue_date: '2100-01-01'

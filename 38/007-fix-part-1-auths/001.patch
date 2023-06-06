@@ -1,0 +1,38 @@
+--- data/titles/preprocessed/xml/38/2017/01/2017-01-03_7bec5460.xml	2023-06-06 06:50:41.341530286 -0700
++++ tmp/title_version_38_2017-01-03_7bec5460_preprocessed.xml	2023-06-06 06:56:53.096917332 -0700
+@@ -1082,8 +1082,6 @@
+ <DIV7 N="8" TYPE="SUBJGRP">
+ <HEAD>Release of Information From Department of Veterans Affairs (VA) Records Relating to Drug Abuse, Alcoholism or Alcohol Abuse, Infection With the Human Immunodeficiency Virus (HIV), or Sickle Cell Anemia</HEAD>
+ 
+-</DIV7>
+-
+ <NOTE>
+ <HED>Note:</HED>
+ <P>Sections 1.460 through 1.499 of this part concern the confidentiality of information relating to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia in VA records and are applicable in combination with other regulations pertaining to the release of information from VA records. Sections 1.500 through 1.527, Title 38, Code of Federal Regulations, implement the provisions of 38 U.S.C. §§ 5701 and 5702. Sections 1.550 through 1.559 implement the provisions of 5 U.S.C. § 552 (The Freedom of Information Act). Sections 1.575 through 1.584 implement the provisions of 5 U.S.C. § 552a (The Privacy Act of 1974). 
+@@ -1097,6 +1095,8 @@
+ 
+ 
+ </PSPACE></SOURCE>
++</DIV7>
++
+ 
+ <DIV8 N="§ 1.460" TYPE="SECTION">
+ <HEAD>§ 1.460   Definitions.</HEAD>
+@@ -1854,8 +1854,6 @@
+ <DIV7 N="12" TYPE="SUBJGRP">
+ <HEAD>Release of Information From Department of Veterans Affairs Claimant Records</HEAD>
+ 
+-</DIV7>
+-
+ <NOTE>
+ <HED>Note:</HED>
+ <P>Sections 1.500 through 1.527 concern the availability and release of information from files, records, reports, and other papers and documents in Department of Veterans Affairs custody pertaining to claims under any of the laws administered by the Department of Veterans Affairs. As to the release of information from Department of Veterans Affairs records other than claimant records, see §§ 1.550 through 1.558. Sections 1.500 through 1.526 implement the provisions of 38 U.S.C. 5701, 5702.</P></NOTE>
+@@ -1866,6 +1864,8 @@
+ 
+ 
+ </PSPACE></AUTH>
++</DIV7>
++
+ 
+ <DIV8 N="§ 1.500" TYPE="SECTION">
+ <HEAD>§ 1.500   General.</HEAD>
