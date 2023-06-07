@@ -1,5 +1,5 @@
---- data/titles/preprocessed/xml/38/2017/01/2017-01-03_7bec5460.xml	2023-06-06 06:50:41.341530286 -0700
-+++ tmp/title_version_38_2017-01-03_7bec5460_preprocessed.xml	2023-06-06 06:56:53.096917332 -0700
+--- data/titles/preprocessed/xml/38/2017/01/2017-01-03_7bec5460.xml	2023-06-06 17:37:23.078476452 -0700
++++ tmp/title_version_38_2017-01-03_7bec5460_preprocessed.xml	2023-06-06 17:40:04.858675467 -0700
 @@ -1082,8 +1082,6 @@
  <DIV7 N="8" TYPE="SUBJGRP">
  <HEAD>Release of Information From Department of Veterans Affairs (VA) Records Relating to Drug Abuse, Alcoholism or Alcohol Abuse, Infection With the Human Immunodeficiency Virus (HIV), or Sickle Cell Anemia</HEAD>
@@ -9,16 +9,15 @@
  <NOTE>
  <HED>Note:</HED>
  <P>Sections 1.460 through 1.499 of this part concern the confidentiality of information relating to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia in VA records and are applicable in combination with other regulations pertaining to the release of information from VA records. Sections 1.500 through 1.527, Title 38, Code of Federal Regulations, implement the provisions of 38 U.S.C. §§ 5701 and 5702. Sections 1.550 through 1.559 implement the provisions of 5 U.S.C. § 552 (The Freedom of Information Act). Sections 1.575 through 1.584 implement the provisions of 5 U.S.C. § 552a (The Privacy Act of 1974). 
-@@ -1097,6 +1095,8 @@
- 
- 
- </PSPACE></SOURCE>
+@@ -1347,6 +1345,7 @@
+ <DIV8 N="§§ 1.470-1.474" TYPE="SECTION">
+ <HEAD>§§ 1.470-1.474   [Reserved]</HEAD>
+ </DIV8>
 +</DIV7>
-+
  
- <DIV8 N="§ 1.460" TYPE="SECTION">
- <HEAD>§ 1.460   Definitions.</HEAD>
-@@ -1854,8 +1854,6 @@
+ 
+ <DIV7 N="9" TYPE="SUBJGRP">
+@@ -1854,8 +1853,6 @@
  <DIV7 N="12" TYPE="SUBJGRP">
  <HEAD>Release of Information From Department of Veterans Affairs Claimant Records</HEAD>
  
@@ -27,12 +26,28 @@
  <NOTE>
  <HED>Note:</HED>
  <P>Sections 1.500 through 1.527 concern the availability and release of information from files, records, reports, and other papers and documents in Department of Veterans Affairs custody pertaining to claims under any of the laws administered by the Department of Veterans Affairs. As to the release of information from Department of Veterans Affairs records other than claimant records, see §§ 1.550 through 1.558. Sections 1.500 through 1.526 implement the provisions of 38 U.S.C. 5701, 5702.</P></NOTE>
-@@ -1866,6 +1864,8 @@
+@@ -2445,6 +2442,7 @@
  
- 
- </PSPACE></AUTH>
+ </CITA>
+ </DIV8>
 +</DIV7>
-+
  
- <DIV8 N="§ 1.500" TYPE="SECTION">
- <HEAD>§ 1.500   General.</HEAD>
+ 
+ <DIV7 N="13" TYPE="SUBJGRP">
+@@ -2915,8 +2913,6 @@
+ <DIV7 N="14" TYPE="SUBJGRP">
+ <HEAD>Safeguarding Personal Information in Department of Veterans Affairs Records</HEAD>
+ 
+-</DIV7>
+-
+ <NOTE>
+ <HED>Note:</HED>
+ <P>Sections 1.575 through 1.584 concern the safeguarding of individual privacy from the misuse of information from files, records, reports, and other papers and documents in Department of Veterans Affairs custody. As to the release of information from Department of Veterans Affairs claimant records see § 1.500 series. As to the release of information from Department of Veterans Affairs records other than claimant records see § 1.550 series. Section 1.575 series implement the provisions of Pub. L. 93-579, December 31, 1974, adding a section 552a to title 5 U.S.C. providing that individuals be granted access to records concerning them which are maintained by Federal agencies, and for other purposes.</P></NOTE>
+@@ -3267,6 +3263,7 @@
+ <DIV8 N="§§ 1.583-1.584" TYPE="SECTION">
+ <HEAD>§§ 1.583-1.584   [Reserved]</HEAD>
+ </DIV8>
++</DIV7>
+ 
+ 
+ <DIV7 N="15" TYPE="SUBJGRP">
