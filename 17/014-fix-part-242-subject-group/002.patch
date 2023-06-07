@@ -1,0 +1,27 @@
+--- data/titles/preprocessed/xml/17/2019/10/2019-10-23_ef135400.xml	2023-06-07 13:27:32.450023795 -0700
++++ tmp/title_version_17_2019-10-23_ef135400_preprocessed.xml	2023-06-07 13:27:47.207210606 -0700
+@@ -113151,7 +113151,6 @@
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>Sections 242.300 through 242.303 appear at 63 FR 70921, Dec. 22, 1998, unless otherwise noted.
+ </PSPACE></SOURCE>
+-</DIV7>
+ 
+ <EXTRACT>
+ <HD1>Preliminary Notes
+@@ -113481,7 +113480,6 @@
+ </CITA>
+ </DIV8>
+ 
+-
+ <DIV8 N="§ 242.304" TYPE="SECTION">
+ <HEAD>§ 242.304   NMS Stock ATSs.</HEAD>
+ <P>(a) <I>Conditions to the exemption.</I> Unless not required to comply with Regulation ATS pursuant to § 242.301(a), an NMS Stock ATS must comply with §§ 242.300 through 242.304 (except § 242.301(b)(2)(i) through (vii)) to be exempt pursuant to § 240.3a1-1(a)(2).
+@@ -113567,6 +113565,8 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
++
+ 
+ 
+ <DIV7 N="116" TYPE="SUBJGRP">
