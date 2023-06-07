@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/32/2020/10/2020-10-20_b5f51127.xml	2023-06-07 11:40:03.007409809 -0700
++++ tmp/title_version_32_2020-10-20_b5f51127_preprocessed.xml	2023-06-07 11:41:01.799941125 -0700
+@@ -6954,7 +6954,6 @@
+ <DIV7 N="42" TYPE="SUBJGRP">
+ <HEAD>General Provisions</HEAD>
+ 
+-</DIV7>
+ 
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>5 U.S.C. 301.
+@@ -6965,9 +6964,6 @@
+ 
+ </PSPACE></SOURCE>
+ 
+-<DIV7 N="43" TYPE="SUBJGRP">
+-<HEAD>General Provisions</HEAD>
+-
+ 
+ <DIV8 N="§ 50.1" TYPE="SECTION">
+ <HEAD>§ 50.1   Purpose.</HEAD>

@@ -1,0 +1,22 @@
+--- data/titles/preprocessed/xml/32/2017/01/2017-01-05_4a32a0fd.xml	2023-06-07 11:11:08.619030541 -0700
++++ tmp/title_version_32_2017-01-05_4a32a0fd_preprocessed.xml	2023-06-07 11:13:20.900080214 -0700
+@@ -12182,8 +12182,6 @@
+ <DIV7 N="58" TYPE="SUBJGRP">
+ <HEAD>General Provisions</HEAD>
+ 
+-</DIV7>
+-
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>5 U.S.C. 301.
+ </PSPACE></AUTH>
+@@ -12193,10 +12191,6 @@
+ 
+ </PSPACE></SOURCE>
+ 
+-<DIV7 N="59" TYPE="SUBJGRP">
+-<HEAD>General Provisions</HEAD>
+-
+-
+ <DIV8 N="§ 50.1" TYPE="SECTION">
+ <HEAD>§ 50.1   Purpose.</HEAD>
+ <P>This part:
