@@ -1,0 +1,11 @@
+description: Title 40
+tags: amddate
+status: approved
+issue_number:
+fr_doc:
+reference: https://classic.basecamp.com/dhh/inbox/messages/1
+
+patches:
+  '001':
+    first_issue_date: '2023-06-05'
+    last_issue_date: '2023-06-05'
