@@ -1,6 +1,6 @@
---- data/titles/preprocessed/xml/36/2023/06/2023-06-06_40da0581.xml	2023-06-07 06:20:09.949179676 -0700
-+++ tmp/title_version_36_2023-06-06_40da0581_preprocessed.xml	2023-06-07 06:20:47.652790787 -0700
-@@ -79805,77 +79805,6 @@
+--- data/titles/preprocessed/xml/36/2023/06/2023-06-06_40da0581.xml	2023-06-07 07:13:10.186907880 -0700
++++ tmp/title_version_36_2023-06-06_40da0581_preprocessed.xml	2023-06-07 07:13:58.175392976 -0700
+@@ -79805,68 +79805,6 @@
  <HEAD>PART 1236—ELECTRONIC RECORDS MANAGEMENT
  </HEAD>
  
@@ -66,14 +66,13 @@
 -
 -
 -</SUBJECT>
--<AUTH>
--<HED>Authority:</HED><PSPACE>44 U.S.C. 2904, 3101, 3102, 3105, 3301, 3302, and 3312.
--</PSPACE></AUTH>
--<SOURCE>
--<HED>Source:</HED><PSPACE>74 FR 51014, Oct. 2, 2009, unless otherwise noted.
--
--
--</PSPACE></SOURCE>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>44 U.S.C. 2904, 3101, 3102, 3105, 3301, 3302, and 3312.
+ </PSPACE></AUTH>
+@@ -79875,7 +79813,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
 -</DIV6>
  
  
