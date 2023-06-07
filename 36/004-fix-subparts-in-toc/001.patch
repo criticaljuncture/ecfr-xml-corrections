@@ -1,0 +1,33 @@
+--- data/titles/preprocessed/xml/36/2023/06/2023-06-06_40da0581.xml	2023-06-07 05:19:40.165050760 -0700
++++ tmp/title_version_36_2023-06-06_40da0581_preprocessed.xml	2023-06-07 05:19:52.079435726 -0700
+@@ -79805,9 +79805,6 @@
+ <HEAD>PART 1236—ELECTRONIC RECORDS MANAGEMENT
+ </HEAD>
+ 
+-<DIV6 N="E" TYPE="SUBPART">
+-<HEAD>Subpart E—Digitizing Permanent Federal Records</HEAD>
+-
+ <SECHD>Sec.
+ </SECHD>
+ <SECTNO>1236.40</SECTNO>
+@@ -79844,11 +79841,6 @@
+ 
+ 
+ </SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="F" TYPE="SUBPART">
+-<HEAD>Subpart F—Transfer Metadata</HEAD>
+ 
+ <SECTNO>1236.58</SECTNO>
+ <SUBJECT>Transfer metadata.
+@@ -79875,8 +79867,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—General</HEAD>
