@@ -1,33 +1,80 @@
---- data/titles/preprocessed/xml/36/2023/06/2023-06-06_40da0581.xml	2023-06-07 05:19:40.165050760 -0700
-+++ tmp/title_version_36_2023-06-06_40da0581_preprocessed.xml	2023-06-07 05:19:52.079435726 -0700
-@@ -79805,9 +79805,6 @@
+--- data/titles/preprocessed/xml/36/2023/06/2023-06-06_40da0581.xml	2023-06-07 06:20:09.949179676 -0700
++++ tmp/title_version_36_2023-06-06_40da0581_preprocessed.xml	2023-06-07 06:20:47.652790787 -0700
+@@ -79805,77 +79805,6 @@
  <HEAD>PART 1236—ELECTRONIC RECORDS MANAGEMENT
  </HEAD>
  
 -<DIV6 N="E" TYPE="SUBPART">
 -<HEAD>Subpart E—Digitizing Permanent Federal Records</HEAD>
 -
- <SECHD>Sec.
- </SECHD>
- <SECTNO>1236.40</SECTNO>
-@@ -79844,11 +79841,6 @@
- 
- 
- </SUBJECT>
+-<SECHD>Sec.
+-</SECHD>
+-<SECTNO>1236.40</SECTNO>
+-<SUBJECT>Scope of this subpart.
+-</SUBJECT>
+-<SECTNO>1236.41</SECTNO>
+-<SUBJECT>Definitions for this subpart.
+-</SUBJECT>
+-<SECTNO>1236.42</SECTNO>
+-<SUBJECT>Records management requirements.
+-</SUBJECT>
+-<SECTNO>1236.44</SECTNO>
+-<SUBJECT>Documenting digitization projects.
+-</SUBJECT>
+-<SECTNO>1236.46</SECTNO>
+-<SUBJECT>Quality management requirements.
+-</SUBJECT>
+-<SECTNO>1236.48</SECTNO>
+-<SUBJECT>File format requirements.
+-</SUBJECT>
+-<SECTNO>1236.50</SECTNO>
+-<SUBJECT>Requirements for digitizing permanent paper and photographic print records.
+-</SUBJECT>
+-<SECTNO>1236.52</SECTNO>
+-<SUBJECT>Requirements for digitizing permanent mixed-media records.
+-</SUBJECT>
+-<SECTNO>1236.54</SECTNO>
+-<SUBJECT>Metadata requirements.
+-</SUBJECT>
+-<SECTNO>1236.56</SECTNO>
+-<SUBJECT>Validating digitized records and disposition authorities.
+-
+-
+-
+-
+-</SUBJECT>
 -</DIV6>
 -
 -
 -<DIV6 N="F" TYPE="SUBPART">
 -<HEAD>Subpart F—Transfer Metadata</HEAD>
- 
- <SECTNO>1236.58</SECTNO>
- <SUBJECT>Transfer metadata.
-@@ -79875,8 +79867,6 @@
- 
- 
- </PSPACE></SOURCE>
--</DIV6>
 -
+-<SECTNO>1236.58</SECTNO>
+-<SUBJECT>Transfer metadata.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-</SUBJECT>
+-<AUTH>
+-<HED>Authority:</HED><PSPACE>44 U.S.C. 2904, 3101, 3102, 3105, 3301, 3302, and 3312.
+-</PSPACE></AUTH>
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>74 FR 51014, Oct. 2, 2009, unless otherwise noted.
+-
+-
+-</PSPACE></SOURCE>
+-</DIV6>
+ 
  
  <DIV6 N="A" TYPE="SUBPART">
- <HEAD>Subpart A—General</HEAD>
