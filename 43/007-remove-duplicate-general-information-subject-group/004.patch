@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/43/2020/12/2020-12-29_8ec2e20c.xml	2023-06-07 11:43:24.072781778 -0700
++++ tmp/title_version_43_2020-12-29_8ec2e20c_preprocessed.xml	2023-06-07 11:44:00.400247257 -0700
+@@ -97578,7 +97578,6 @@
+ <DIV7 N="205" TYPE="SUBJGRP">
+ <HEAD>General Information</HEAD>
+ 
+-</DIV7>
+ 
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>25 U.S.C. 500k, and 43 U.S.C. 1701 <I>et seq.</I>
+@@ -97589,9 +97588,6 @@
+ 
+ </PSPACE></SOURCE>
+ 
+-<DIV7 N="206" TYPE="SUBJGRP">
+-<HEAD>General Information</HEAD>
+-
+ 
+ <DIV8 N="§ 4300.1" TYPE="SECTION">
+ <HEAD>§ 4300.1   What is a reindeer?</HEAD>
