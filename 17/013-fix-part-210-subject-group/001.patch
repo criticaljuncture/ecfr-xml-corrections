@@ -1,0 +1,18 @@
+--- data/titles/preprocessed/xml/17/2017/01/2017-01-05_23180686.xml	2023-06-07 07:03:18.428816202 -0700
++++ tmp/title_version_17_2017-01-05_23180686_preprocessed.xml	2023-06-07 07:04:52.016290415 -0700
+@@ -59756,7 +59756,6 @@
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>Sections 210.3-01 through 210.3-16 appear at 45 FR 63687, Sept. 25, 1980, unless otherwise noted.
+ </PSPACE></SOURCE>
+-</DIV7>
+ 
+ <NOTE>
+ <HED>Note:</HED>
+@@ -60411,6 +60410,7 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
+ 
+ 
+ <DIV7 N="20" TYPE="SUBJGRP">

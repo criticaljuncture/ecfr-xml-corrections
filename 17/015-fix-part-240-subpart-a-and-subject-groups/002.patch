@@ -1,0 +1,76 @@
+--- data/titles/preprocessed/xml/17/2019/10/2019-10-23_ef135400.xml	2023-06-07 09:54:25.618136529 -0700
++++ tmp/title_version_17_2019-10-23_ef135400_preprocessed.xml	2023-06-07 10:00:52.643686502 -0700
+@@ -91207,7 +91207,7 @@
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>Sections 240.13d-1 through 240.13f-1 appear at 43 FR 18495, Apr. 28, 1978, unless otherwise noted.
+ </PSPACE></SOURCE>
+-</DIV7>
++
+ 
+ <EXTRACT>
+ <HD1>ATTENTION ELECTRONIC FILERS 
+@@ -93517,12 +93517,13 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
++
+ 
+ 
+ <DIV7 N="88" TYPE="SUBJGRP">
+ <HEAD>Regulation 14A: Solicitation of Proxies</HEAD>
+ 
+-</DIV7>
+ 
+ <EXTRACT>
+ <HD1>ATTENTION ELECTRONIC FILERS 
+@@ -96194,12 +96195,12 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
+ 
+ 
+ <DIV7 N="89" TYPE="SUBJGRP">
+ <HEAD>Regulation 14C: Distribution of Information Pursuant to Section 14(<E T="01">c</E>)</HEAD>
+ 
+-</DIV7>
+ 
+ <EXTRACT>
+ <HD1>ATTENTION ELECTRONIC FILERS
+@@ -96565,12 +96566,12 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
+ 
+ 
+ <DIV7 N="90" TYPE="SUBJGRP">
+ <HEAD>Regulation 14D</HEAD>
+ 
+-</DIV7>
+ 
+ <EXTRACT>
+ <HD1>ATTENTION ELECTRONIC FILERS
+@@ -97865,12 +97866,12 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
+ 
+ 
+ <DIV7 N="91" TYPE="SUBJGRP">
+ <HEAD>Regulation 14E</HEAD>
+ 
+-</DIV7>
+ 
+ <NOTE>
+ <HED>Note:</HED>
+@@ -98269,6 +98270,7 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
+ 
+ 
+ <DIV7 N="92" TYPE="SUBJGRP">

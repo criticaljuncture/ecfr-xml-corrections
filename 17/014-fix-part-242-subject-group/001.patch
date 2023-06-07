@@ -1,0 +1,19 @@
+--- data/titles/preprocessed/xml/17/2017/01/2017-01-05_23180686.xml	2023-06-07 07:45:34.254771216 -0700
++++ tmp/title_version_17_2017-01-05_23180686_preprocessed.xml	2023-06-07 07:46:00.507246878 -0700
+@@ -110035,7 +110035,6 @@
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>Sections 242.300 through 242.303 appear at 63 FR 70921, Dec. 22, 1998, unless otherwise noted.
+ </PSPACE></SOURCE>
+-</DIV7>
+ 
+ <EXTRACT>
+ <HD1>Preliminary Notes
+@@ -110358,7 +110357,7 @@
+ 
+ </CITA>
+ </DIV8>
+-
++</DIV7>
+ 
+ <DIV7 N="114" TYPE="SUBJGRP">
+ <HEAD>Customer Margin Requirements for Security Futures</HEAD>
