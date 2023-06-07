@@ -1,6 +1,15 @@
---- data/titles/preprocessed/xml/17/2022/11/2022-11-29_c45d7fe9.xml	2023-06-07 10:39:16.177497624 -0700
-+++ tmp/title_version_17_2022-11-29_c45d7fe9_preprocessed.xml	2023-06-07 10:40:58.800873956 -0700
-@@ -95707,7 +95707,6 @@
+--- data/titles/preprocessed/xml/17/2022/11/2022-11-29_c45d7fe9.xml	2023-06-07 13:09:05.213465253 -0700
++++ tmp/title_version_17_2022-11-29_c45d7fe9_preprocessed.xml	2023-06-07 13:09:33.768967126 -0700
+@@ -93768,8 +93768,6 @@
+ </PSPACE></SOURCE>
+ </DIV7>
+ 
+-</DIV6>
+-
+ <EXTRACT>
+ <HD1>ATTENTION ELECTRONIC FILERS 
+ </HD1>
+@@ -95707,7 +95705,6 @@
  <SOURCE>
  <HED>Source:</HED><PSPACE>Sections 240.13d-1 through 240.13f-1 appear at 43 FR 18495, Apr. 28, 1978, unless otherwise noted.
  </PSPACE></SOURCE>
@@ -8,7 +17,7 @@
  
  <EXTRACT>
  <HD1>ATTENTION ELECTRONIC FILERS 
-@@ -98422,12 +98421,12 @@
+@@ -98422,12 +98419,12 @@
  
  </CITA>
  </DIV8>
@@ -22,7 +31,7 @@
  
  <EXTRACT>
  <HD1>ATTENTION ELECTRONIC FILERS 
-@@ -101351,12 +101350,12 @@
+@@ -101351,12 +101348,12 @@
  
  </CITA>
  </DIV8>
@@ -36,7 +45,7 @@
  
  <EXTRACT>
  <HD1>ATTENTION ELECTRONIC FILERS
-@@ -101689,12 +101688,12 @@
+@@ -101689,12 +101686,12 @@
  
  </CITA>
  </DIV8>
@@ -50,7 +59,7 @@
  
  <EXTRACT>
  <HD1>ATTENTION ELECTRONIC FILERS
-@@ -103268,12 +103267,12 @@
+@@ -103268,12 +103265,12 @@
  
  </CITA>
  </DIV8>
@@ -64,7 +73,7 @@
  
  <NOTE>
  <HED>Note:</HED>
-@@ -103672,6 +103671,7 @@
+@@ -103672,6 +103669,7 @@
  
  </CITA>
  </DIV8>
@@ -72,3 +81,12 @@
  
  
  <DIV7 N="95" TYPE="SUBJGRP">
+@@ -118904,7 +118902,7 @@
+ </DIV8>
+ 
+ </DIV7>
+-
++</DIV6>
+ 
+ <DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B - Rules and Regulations Under the Securities Investor Protection Act of 1970 [Reserved]</HEAD>
