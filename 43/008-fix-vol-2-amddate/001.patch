@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/43/2023/06/2023-06-07_9d44256e.xml	2023-06-07 21:34:22.084069631 -0700
++++ tmp/title_version_43_2023-06-07_9d44256e_preprocessed.xml	2023-06-07 21:35:55.271966589 -0700
+@@ -39542,7 +39542,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>May 31, 2023
++<AMDDATE>2023-06-01
+ </AMDDATE>
+ 
+ <DIV1 N="2" TYPE="TITLE">

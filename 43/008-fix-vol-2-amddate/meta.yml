@@ -1,0 +1,11 @@
+description: Title 43 Volume 2 has an amendment date went backwards from previous date 2023-06-01
+tags: amddate
+status: needs-review
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114910066/comments#432981875
+
+patches:
+  '001':
+    first_issue_date: '2023-06-06'
+    last_issue_date: '2023-06-06'
