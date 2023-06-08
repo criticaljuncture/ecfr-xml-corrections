@@ -1,0 +1,23 @@
+description: Subject group tag closes before associated extract and source
+tags: structural
+status: needs-review
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114898609/comments#432958422
+
+patches:
+  '001':
+    first_issue_date: '2017-12-31'
+    last_issue_date: '2019-10-20'
+  '002':
+    first_issue_date: '2019-10-21'
+    last_issue_date: '2021-04-01'
+  '003':
+    first_issue_date: '2021-04-02'
+    last_issue_date: '2022-11-27'
+  '004':
+    first_issue_date: '2022-11-28'
+    last_issue_date: '2022-12-20'
+  '005':
+    first_issue_date: '2022-12-21'
+    last_issue_date: '2100-01-01'
