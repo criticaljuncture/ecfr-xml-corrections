@@ -1,0 +1,23 @@
+description: Subject group tag failed to wrap sections
+tags: structural
+status: approved
+issue_number: 2016-12-22
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114898609/comments#432958422
+
+patches:
+  '001':
+    first_issue_date: '2017-01-01'
+    last_issue_date: '2018-05-06'
+  '002':
+    first_issue_date: '2018-05-07'
+    last_issue_date: '2018-11-25'
+  '003':
+    first_issue_date: '2018-11-26'
+    last_issue_date: '2019-03-20'
+  '004':
+    first_issue_date: '2019-03-21'
+    last_issue_date: '2022-03-01'
+  '005':
+    first_issue_date: '2022-03-02'
+    last_issue_date: '2023-06-05'

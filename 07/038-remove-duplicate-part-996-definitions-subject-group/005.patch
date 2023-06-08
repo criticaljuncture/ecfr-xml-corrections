@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/07/2022/03/2022-03-03_ccfce782.xml	2023-06-07 17:47:39.967932238 -0700
++++ tmp/title_version_7_2022-03-03_ccfce782_preprocessed.xml	2023-06-07 17:48:11.994245450 -0700
+@@ -267687,7 +267687,6 @@
+ <DIV7 N="550" TYPE="SUBJGRP">
+ <HEAD>Definitions</HEAD>
+ 
+-</DIV7>
+ 
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>7 U.S.C. 7958.
+@@ -267698,9 +267697,6 @@
+ 
+ </PSPACE></SOURCE>
+ 
+-<DIV7 N="551" TYPE="SUBJGRP">
+-<HEAD>Definitions</HEAD>
+-
+ 
+ <DIV8 N="§ 996.1" TYPE="SECTION">
+ <HEAD>§ 996.1   Act and scope.</HEAD>

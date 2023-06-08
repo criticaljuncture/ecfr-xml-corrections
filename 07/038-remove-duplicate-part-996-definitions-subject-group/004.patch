@@ -1,0 +1,21 @@
+--- data/titles/preprocessed/xml/07/2019/03/2019-03-22_d1a5a186.xml	2023-06-07 15:42:57.871234210 -0700
++++ tmp/title_version_7_2019-03-22_d1a5a186_preprocessed.xml	2023-06-07 15:43:30.846296651 -0700
+@@ -266269,7 +266269,7 @@
+ <DIV7 N="570" TYPE="SUBJGRP">
+ <HEAD>Definitions</HEAD>
+ 
+-</DIV7>
++
+ 
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>7 U.S.C. 7958.
+@@ -266280,9 +266280,6 @@
+ 
+ </PSPACE></SOURCE>
+ 
+-<DIV7 N="571" TYPE="SUBJGRP">
+-<HEAD>Definitions</HEAD>
+-
+ 
+ <DIV8 N="§ 996.1" TYPE="SECTION">
+ <HEAD>§ 996.1   Act and scope.</HEAD>
