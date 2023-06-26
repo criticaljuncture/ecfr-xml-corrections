@@ -1,0 +1,11 @@
+description: Title 40 part 63 subpart UUUUU closing tag fix
+tags: structural
+status: needs-review
+issue_number:
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2023-05-30'
+    last_issue_date: '2023-06-01'

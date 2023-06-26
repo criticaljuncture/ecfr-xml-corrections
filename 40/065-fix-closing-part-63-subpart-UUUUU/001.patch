@@ -1,0 +1,19 @@
+--- data/titles/preprocessed/xml/40/2023/05/2023-05-31_771dce7b.xml	2023-06-26 11:31:56.906579637 -0700
++++ tmp/title_version_40_2023-05-31_771dce7b_preprocessed.xml	2023-06-26 11:54:01.771077301 -0700
+@@ -493889,8 +493889,6 @@
+ <img src="/graphics/er29mr23.017.gif"/>
+ </DIV9>
+ 
+-</DIV6>
+-
+ <EXTRACT>
+ <P>
+ <SU>1</SU> Regarding emissions data collected during periods of startup or shutdown, see §§ 63.10020(b) and (c) and 63.10021(h).
+@@ -496633,6 +496631,7 @@
+ 
+ </CITA>
+ </DIV9>
++</DIV6>
+ 
+ 
+ <DIV6 N="VVVVV" TYPE="SUBPART">
