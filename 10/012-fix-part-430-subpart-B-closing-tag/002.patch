@@ -1,19 +1,20 @@
---- data/titles/preprocessed/xml/10/2023/04/2023-04-13_c408c243.xml	2023-05-17 09:13:33.675378354 -0700
-+++ tmp/title_version_10_2023-04-13_c408c243_preprocessed.xml	2023-05-17 09:14:13.557892491 -0700
-@@ -123151,8 +123151,6 @@
- <img src="/graphics/er13mr23.001.gif"/>
+--- data/titles/preprocessed/xml/10/2023/04/2023-04-06_0a3ba2f4.xml	2023-05-17 08:50:26.672029008 -0700
++++ tmp/title_version_10_2023-04-06_0a3ba2f4_preprocessed.xml	2023-05-17 08:58:56.994841938 -0700
+@@ -129525,8 +129525,6 @@
+ <XREF ID="20230313" REFID="16">Link to an amendment published at 88 FR 15547, Mar. 13, 2023.</XREF>
  </DIV9>
  
 -</DIV6>
 -
- <EXTRACT>
- <FP-2>Where:
- </FP-2>
-@@ -130409,6 +130407,7 @@
+ <P> 
+ 
+ 
+@@ -129637,6 +129635,8 @@
+ 
  </CITA>
  </DIV9>
- 
 +</DIV6>
++
+ 
  
  <DIV6 N="C" TYPE="SUBPART">
- <HEAD>Subpart C—Energy and Water Conservation Standards</HEAD>

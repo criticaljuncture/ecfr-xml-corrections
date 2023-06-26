@@ -1,20 +1,20 @@
---- data/titles/preprocessed/xml/10/2023/04/2023-04-06_0a3ba2f4.xml	2023-05-17 08:50:26.672029008 -0700
-+++ tmp/title_version_10_2023-04-06_0a3ba2f4_preprocessed.xml	2023-05-17 08:58:56.994841938 -0700
-@@ -129525,8 +129525,6 @@
- <XREF ID="20230313" REFID="16">Link to an amendment published at 88 FR 15547, Mar. 13, 2023.</XREF>
+--- data/titles/preprocessed/xml/10/2022/06/2022-06-01_0033f998.xml	2023-06-26 12:15:05.624255953 -0700
++++ tmp/title_version_10_2022-06-01_0033f998_preprocessed.xml	2023-06-26 12:15:55.466133002 -0700
+@@ -118596,8 +118596,6 @@
+ <img src="/graphics/er05ja17.259.gif"/>
  </DIV9>
  
 -</DIV6>
 -
- <P> 
- 
- 
-@@ -129637,6 +129635,8 @@
+ <FP>where T<E T="52">off</E> and T<E T="52">on</E> are defined in section 4.2.1 of this appendix. Use the calculations given in section 4.2.3.3 of this appendix, and not the above, if:
+ </FP>
+ <P>a. The heat pump locks out low capacity operation at low outdoor temperatures and
+@@ -124734,7 +124732,7 @@
  
  </CITA>
  </DIV9>
+-
 +</DIV6>
-+
- 
  
  <DIV6 N="C" TYPE="SUBPART">
+ <HEAD>Subpart C - Energy and Water Conservation Standards</HEAD>
