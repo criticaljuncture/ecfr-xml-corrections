@@ -1,0 +1,11 @@
+description: Duplicate reference for 668.12 (668.12 [Reserved]) was not removed after 668.12 was added
+tags: structural
+status: approved
+issue_number: 2023-07-03
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/114989965/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-07-03'
+    last_issue_date: '2023-07-03'

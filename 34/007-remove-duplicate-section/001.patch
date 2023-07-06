@@ -1,0 +1,14 @@
+--- data/titles/preprocessed/xml/34/2023/07/2023-07-05_2a3c4a4e.xml	2023-07-06 08:08:18.882214813 -0700
++++ tmp/title_version_34_2023-07-05_2a3c4a4e_preprocessed.xml	2023-07-06 08:08:50.019798660 -0700
+@@ -82400,11 +82400,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 668.12" TYPE="SECTION">
+-<HEAD>§ 668.12   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 668.13" TYPE="SECTION">
+ <HEAD>§ 668.13   Certification procedures.</HEAD>
+ <P>(a) <I>Requirements for certification.</I> (1)(i) The Secretary certifies an institution to participate in the title IV, HEA programs if the institution qualifies as an eligible institution under 34 CFR part 600, meets the standards of this subpart and 34 CFR part 668, subpart L, and satisfies the requirements of paragraph (a)(2) of this section. 
