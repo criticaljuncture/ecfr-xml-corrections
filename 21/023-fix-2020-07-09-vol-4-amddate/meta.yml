@@ -1,0 +1,11 @@
+description: The amddate for volume 4 was incorrectly updated.
+tags: amddate
+status: approved
+issue_number:
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/934
+
+patches:
+  '001':
+    first_issue_date: '2020-07-08'
+    last_issue_date: '2020-09-30'
