@@ -1,0 +1,19 @@
+--- data/titles/preprocessed/xml/10/2023/07/2023-07-24_4d727acd.xml	2023-07-24 17:19:39.503903167 -0700
++++ tmp/title_version_10_2023-07-24_4d727acd_preprocessed.xml	2023-07-24 17:20:49.594607191 -0700
+@@ -112837,8 +112837,6 @@
+ </P>
+ </DIV9>
+ 
+-</DIV6>
+-
+ <P-2>(a) Annex B—Gas Heating Value Correction Factor;
+ </P-2>
+ <P>(b) [Reserved]
+@@ -133435,6 +133433,7 @@
+ 
+ </CITA>
+ </DIV9>
++</DIV6> 
+ 
+ 
+ <DIV6 N="C" TYPE="SUBPART">
