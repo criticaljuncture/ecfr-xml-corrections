@@ -1,0 +1,11 @@
+description: Title 2 contains empty subchapters
+tags: structural
+status: approved
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115055941/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-04-17'
+    last_issue_date: '2100-01-01'
