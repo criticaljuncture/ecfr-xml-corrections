@@ -1,0 +1,21 @@
+--- data/titles/preprocessed/xml/10/2023/07/2023-07-24_4d727acd.xml	2023-08-08 11:52:55.741065703 -0700
++++ tmp/title_version_10_2023-07-24_4d727acd_preprocessed.xml	2023-08-08 11:54:50.996278179 -0700
+@@ -112835,7 +112835,6 @@
+ </P>
+ <P>0.1 ASHRAE 118.2–2022
+ </P>
+-</DIV9>
+ 
+ <P-2>(a) Annex B—Gas Heating Value Correction Factor;
+ </P-2>
+@@ -114108,6 +114107,10 @@
+ 
+ </CITA>
+ 
++</DIV9>
++
++
++
+ <DIV9 N="Appendix F" TYPE="APPENDIX">
+ <HEAD>Appendix F to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Room Air Conditioners
+ </HEAD>

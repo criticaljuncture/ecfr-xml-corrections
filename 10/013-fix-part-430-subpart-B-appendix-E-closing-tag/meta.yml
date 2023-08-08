@@ -1,0 +1,11 @@
+description: Part 430, Subpart B, Appendix E, Closing tag was early
+tags: structural
+status: approved
+issue_number: 2023-07-21
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115084349/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-07-21'
+    last_issue_date: '2100-01-01'
