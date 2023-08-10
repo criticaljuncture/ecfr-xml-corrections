@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/10/2023/08/2023-08-09_4450e5e4.xml	2023-08-10 07:42:16.013881651 -0700
++++ tmp/title_version_10_2023-08-09_4450e5e4_preprocessed.xml	2023-08-10 07:49:42.801365474 -0700
+@@ -125344,7 +125344,6 @@
+ <P>10.2 <I>Part-load efficiency at reduced fuel input rate.</I> If the option in section 8.9 of this appendix is not employed, calculate the part-load efficiency at the reduced fuel input rate, <I>Effy</I><E T="52">U,R,</E> for condensing furnaces equipped with either step-modulating or two-stage controls, expressed as a percent and defined as:
+ </P>
+ <img src="/graphics/er13mr23.001.gif"/>
+-</DIV9>
+ 
+ <EXTRACT>
+ <FP-2>Where:
+@@ -125886,7 +125885,8 @@
+ 
+ 
+ </CITA>
+-
++</DIV9>
++  
+ <DIV9 N="Appendix O" TYPE="APPENDIX">
+ <HEAD>Appendix O to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Vented Home Heating Equipment
+ </HEAD>

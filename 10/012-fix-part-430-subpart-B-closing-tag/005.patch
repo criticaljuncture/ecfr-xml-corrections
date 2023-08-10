@@ -1,0 +1,21 @@
+--- data/titles/preprocessed/xml/10/2023/08/2023-08-09_4450e5e4.xml	2023-08-10 07:39:31.039089019 -0700
++++ tmp/title_version_10_2023-08-09_4450e5e4_preprocessed.xml	2023-08-10 07:40:59.017097558 -0700
+@@ -125346,8 +125346,6 @@
+ <img src="/graphics/er13mr23.001.gif"/>
+ </DIV9>
+ 
+-</DIV6>
+-
+ <EXTRACT>
+ <FP-2>Where:
+ </FP-2>
+@@ -133658,6 +133656,9 @@
+ </CITA>
+ </DIV9>
+ 
++</DIV6>
++
++
+ 
+ <DIV6 N="C" TYPE="SUBPART">
+ <HEAD>Subpart C—Energy and Water Conservation Standards</HEAD>
