@@ -1,0 +1,47 @@
+--- data/titles/preprocessed/xml/48/2021/12/2021-12-07_2814df1b.xml	2023-08-22 11:49:29.612136873 -0700
++++ tmp/title_version_48_2021-12-07_2814df1b_preprocessed.xml	2023-08-22 11:55:01.194350659 -0700
+@@ -15339,7 +15339,7 @@
+ 
+ 
+ <DIV6 N="12.2" TYPE="SUBPART">
+-<HEAD>Subpart 12.2 Special Requirements for the Acquisition of Commercial Products and Commercial Services</HEAD>
++<HEAD>Subpart 12.2 - Special Requirements for the Acquisition of Commercial Products and Commercial Services</HEAD>
+ 
+ 
+ <DIV8 N="12.201" TYPE="SECTION">
+@@ -43734,7 +43734,7 @@
+ 
+ 
+ <DIV6 N="32.1" TYPE="SUBPART">
+-<HEAD>Subpart 32.1 Financing for Other Than a Commercial Purchase</HEAD>
++<HEAD>Subpart 32.1 - Financing for Other Than a Commercial Purchase</HEAD>
+ 
+ 
+ <DIV8 N="32.100" TYPE="SECTION">
+@@ -44079,7 +44079,7 @@
+ 
+ 
+ <DIV6 N="32.2" TYPE="SUBPART">
+-<HEAD>Subpart 32.2 Commercial Product and Commercial Service Purchase Financing</HEAD>
++<HEAD>Subpart 32.2 - Commercial Product and Commercial Service Purchase Financing</HEAD>
+ 
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>60 FR 49711, Sept. 26, 1995, unless otherwise noted.
+@@ -44647,7 +44647,7 @@
+ 
+ 
+ <DIV6 N="32.4" TYPE="SUBPART">
+-<HEAD>Subpart 32.4 Advance Payments for Other Than Commercial Acquisitions</HEAD>
++<HEAD>Subpart 32.4 - Advance Payments for Other Than Commercial Acquisitions</HEAD>
+ 
+ 
+ <DIV8 N="32.400" TYPE="SECTION">
+@@ -54661,7 +54661,7 @@
+ 
+ 
+ <DIV6 N="44.4" TYPE="SUBPART">
+-<HEAD>Subpart 44.4 Subcontracts for Commercial Products and Commercial Services</HEAD>
++<HEAD>Subpart 44.4 - Subcontracts for Commercial Products and Commercial Services</HEAD>
+ 
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>60 FR 48249, Sept. 18, 1995, unless otherwise noted.
