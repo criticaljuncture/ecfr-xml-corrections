@@ -1,0 +1,11 @@
+description: Title 21, part 1303, subject group 'Aggregate Production and Procurement Quotas' contained an empty section missing an identifier and containing only a XREF
+tags: structural
+status: needs-review
+issue_number: 2023-08-31
+fr_doc: 88 FR 60140
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115157467/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-08-31'
+    last_issue_date: '2100-01-01'
