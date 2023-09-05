@@ -1,16 +1,14 @@
---- data/titles/preprocessed/xml/21/2023/09/2023-09-01_177c5ff2.xml	2023-09-04 09:00:26.558217003 -0400
-+++ tmp/title_version_21_2023-09-01_177c5ff2_preprocessed.xml	2023-09-04 09:00:58.238892581 -0400
-@@ -226489,13 +226489,6 @@
+--- data/titles/preprocessed/xml/21/2023/09/2023-09-01_177c5ff2.xml	2023-09-05 06:15:40.139148556 -0700
++++ tmp/title_version_21_2023-09-01_177c5ff2_preprocessed.xml	2023-09-05 06:17:00.989092626 -0700
+@@ -226489,11 +226489,7 @@
  <DIV7 N="10" TYPE="SUBJGRP">
  <HEAD>Aggregate Production and Procurement Quotas</HEAD>
  
 -
 -<DIV8 N=" " TYPE="SECTION">
 -<HEAD>     </HEAD>
--<XREF ID="20230831" REFID="5">Link to an amendment published at 88 FR 60140, Aug. 31, 2023.</XREF>
+ <XREF ID="20230831" REFID="5">Link to an amendment published at 88 FR 60140, Aug. 31, 2023.</XREF>
 -</DIV8>
--
--
+ 
+ 
  <DIV8 N="§ 1303.11" TYPE="SECTION">
- <HEAD>§ 1303.11   Aggregate production quotas.</HEAD>
- <XREF ID="20230831" REFID="6">Link to an amendment published at 88 FR 60140, Aug. 31, 2023.</XREF>
