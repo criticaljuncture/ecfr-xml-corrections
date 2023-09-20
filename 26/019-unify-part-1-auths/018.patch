@@ -1,0 +1,21 @@
+--- data/titles/preprocessed/xml/26/2023/09/2023-09-15_c0171653.xml	2023-09-15 17:07:52.479283244 -0700
++++ tmp/title_version_26_2023-09-15_c0171653_preprocessed.xml	2023-09-15 17:08:29.562601811 -0700
+@@ -67,8 +67,8 @@
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
+ </PSPACE>
+-<XREF ID="20230815" REFID="41">Link to an amendment published at 88 FR 55540, Aug. 15, 2023.</XREF><PSPACE>Section 1.1(h)–1 also issued under 26 U.S.C. 1(h);
+-</PSPACE><P>Section 1.21–1 also issued under 26 U.S.C. 21(f);
++<P>Section 1.1(h)–1 also issued under 26 U.S.C. 1(h);
++</P><P>Section 1.21–1 also issued under 26 U.S.C. 21(f);
+ </P><P>Section 1.21–2 also issued under 26 U.S.C. 21(f);
+ </P><P>Section 1.21–3 also issued under 26 U.S.C. 21(f);
+ </P><P>Section 1.21–4 also issued under 26 U.S.C. 21(f);
+@@ -141,6 +141,7 @@
+ 
+ 
+ </P></AUTH>
++<XREF ID="20230815" REFID="41">Link to an amendment published at 88 FR 55540, Aug. 15, 2023.</XREF>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11402, Nov. 26, 1960; 25 FR 14021, Dec. 21, 1960, unless otherwise noted.
+ 

@@ -7,8 +7,56 @@ reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-regi
 
 patches:
   '001':
-    first_issue_date: '2023-09-13'
-    last_issue_date: '2023-09-13'
+    first_issue_date: '2016-12-30'
+    last_issue_date: '2018-03-27'
   '002':
+    first_issue_date: '2018-03-28'
+    last_issue_date: '2018-04-02'
+  '003':
+    first_issue_date: '2018-04-03'
+    last_issue_date: '2019-05-22'
+  '004':
+    first_issue_date: '2019-05-23'
+    last_issue_date: '2020-07-14'
+  '005':
+    first_issue_date: '2020-07-15'
+    last_issue_date: '2020-09-13'
+  '006':
+    first_issue_date: '2020-09-14'
+    last_issue_date: '2020-11-12'
+  '007':
+    first_issue_date: '2020-11-13'
+    last_issue_date: '2020-11-30'
+  '008':
+    first_issue_date: '2020-12-01'
+    last_issue_date: '2021-01-05'
+  '009':
+    first_issue_date: '2022-01-05'
+    last_issue_date: '2021-01-07'
+  '010':
+    first_issue_date: '2021-01-08'
+    last_issue_date: '2021-01-11'
+  '011':
+    first_issue_date: '2022-01-05'
+    last_issue_date: '2022-01-04'
+  '012':
+    first_issue_date: '2022-01-05'
+    last_issue_date: '2022-03-06'
+  '013':
+    first_issue_date: '2022-03-07'
+    last_issue_date: '2022-12-01'
+  '014':
+    first_issue_date: '2022-12-02'
+    last_issue_date: '2023-04-05'
+  '015':
+    first_issue_date: '2023-04-06'
+    last_issue_date: '2023-08-14'
+  '016':
+    first_issue_date: '2023-08-15'
+    last_issue_date: '2023-09-11'
+  '017':
+    first_issue_date: '2023-09-12'
+    last_issue_date: '2023-09-13'
+  '018':
     first_issue_date: '2023-09-14'
     last_issue_date: '2100-01-01'

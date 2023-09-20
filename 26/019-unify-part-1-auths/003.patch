@@ -1,24 +1,24 @@
---- data/titles/preprocessed/xml/26/2018/03/2018-03-31_0cbdf020.xml	2023-09-19 12:36:41.358608566 -0700
-+++ tmp/title_version_26_2018-03-31_0cbdf020_preprocessed.xml	2023-09-19 12:39:03.071211350 -0700
+--- data/titles/preprocessed/xml/26/2018/04/2018-04-06_b2fa2f09.xml	2023-09-19 12:47:01.745860249 -0700
++++ tmp/title_version_26_2018-04-06_b2fa2f09_preprocessed.xml	2023-09-19 12:49:25.980784463 -0700
 @@ -65,7 +65,7 @@
  <HEAD>PART 1 - INCOME TAXES 
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C 7805, unless otherwise noted.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE>
- <XREF ID="20180328" REFID="2">Link to an amendment published at 83 FR 13184, Mar. 28, 2018.</XREF><PSPACE>Section 1.1(h)-1 also issued under 26 U.S.C. 1(h);
- </PSPACE><P>Section 1.21-1 also issued under 26 U.S.C. 21(f);
-@@ -56545,7 +56545,7 @@
+ </PSPACE><P>Section 1.1(h)-1 also issued under 26 U.S.C. 1(h);
+ </P><P>Section 1.21-1 also issued under 26 U.S.C. 21(f);
+ </P><P>Section 1.21-2 also issued under 26 U.S.C. 21(f);
+@@ -56489,7 +56489,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE>
- <XREF ID="20180328" REFID="2">Link to an amendment published at 83 FR 13184, Mar. 28, 2018.</XREF><PSPACE>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
- </PSPACE><P>Section 1.170A-6 also issued under 26 U.S.C. 170(f)(4); 26 U.S.C. 642(c)(5).
-@@ -80658,7 +80658,7 @@
+ </PSPACE><P>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
+ </P><P>Section 1.170A-6 also issued under 26 U.S.C. 170(f)(4); 26 U.S.C. 642(c)(5).
+ </P><P>Section 1.170A-12 also issued under 26 U.S.C. 170(f)(4).
+@@ -80588,7 +80588,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -27,7 +27,7 @@
  </PSPACE><P>Section 1.301-1 also issued under 26 U.S.C. 357(d)(3). 
  </P><P>Section 1.301-1T also issued under 26 U.S.C. 357(d)(3).
  </P><P>Section 1.304-5 also issued under 26 U.S.C. 304.
-@@ -137061,7 +137061,7 @@
+@@ -136991,7 +136991,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -36,7 +36,7 @@
  </PSPACE><P>Section 1.441-2T also issued under 26 U.S.C. 441(f). 
  </P><P>Section 1.441-3T also issued under 26 U.S.C. 441. 
  </P><P>Section 1.442-2T and 1.442-3T also issued under 26 U.S.C. 422, 706, and 1378.
-@@ -206023,7 +206023,7 @@
+@@ -205953,7 +205953,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -45,7 +45,7 @@
  </PSPACE><P>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
  </P><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
  </P><P>Section 1.853-1 also issued under 26 U.S.C. 901(j).
-@@ -228994,7 +228994,7 @@
+@@ -228924,7 +228924,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
