@@ -1,0 +1,14 @@
+description: Fix T26 v6 auth to include ', unless otherwise noted'
+tags: editoral
+status: approved
+issue_number: 2016-12-30
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115190219
+
+patches:
+  '001':
+    first_issue_date: '2016-12-30'
+    last_issue_date: '2023-04-05'
+  '002':
+    first_issue_date: '2023-04-06'
+    last_issue_date: '2023-09-18'

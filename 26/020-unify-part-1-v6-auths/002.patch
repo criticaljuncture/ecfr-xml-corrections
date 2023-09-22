@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/26/2023/04/2023-04-07_47169a58.xml	2023-09-22 11:27:32.171302707 -0700
++++ tmp/title_version_26_2023-04-07_47169a58_preprocessed.xml	2023-09-22 11:28:42.414629112 -0700
+@@ -113274,7 +113274,7 @@
+ <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </HEAD>
+ <AUTH>
+-<HED>Authority:</HED><PSPACE>26 U.S.C. 401(m)(9) and 26 U.S.C. 7805.
++<HED>Authority:</HED><PSPACE>26 U.S.C. 401(m)(9) and 26 U.S.C. 7805, unless otherwise noted.
+ </PSPACE><P>Section 1.401–12 also issued under 26 U.S.C. 401(d)(1).
+ </P><P>Section 1.401(a)–1 also issued under 26 U.S.C. 401
+ </P><P>Section 1.401(a)(2)–1 also issued under Multiemployer Pension Plan Amendments Act, Public Law 96–364, 410, (94 Stat. 1208, 1308)(1980).
