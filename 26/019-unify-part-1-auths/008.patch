@@ -1,5 +1,5 @@
---- data/titles/preprocessed/xml/26/2020/12/2020-12-02_b24fcd4e.xml	2023-09-19 14:34:17.083103682 -0700
-+++ tmp/title_version_26_2020-12-02_b24fcd4e_preprocessed.xml	2023-09-19 14:36:14.820844633 -0700
+--- data/titles/preprocessed/xml/26/2020/11/2020-11-13_b0934996.xml	2023-09-26 16:07:07.537664428 -0700
++++ tmp/title_version_26_2020-11-13_b0934996_preprocessed.xml	2023-09-26 16:11:57.825879380 -0700
 @@ -65,7 +65,7 @@
  <HEAD>PART 1 - INCOME TAXES 
  </HEAD>
@@ -9,25 +9,70 @@
  </PSPACE><P>Section 1.1(h)-1 also issued under 26 U.S.C. 1(h);
  </P><P>Section 1.21-1 also issued under 26 U.S.C. 21(f);
  </P><P>Section 1.21-2 also issued under 26 U.S.C. 21(f);
-@@ -59664,7 +59664,7 @@
+@@ -37673,8 +37673,8 @@
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
+ </PSPACE>
+-<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF><PSPACE>Section 1.148-0 through 1.148-11 also issued under 26 U.S.C. 148(i).
+-</PSPACE><P>Section 1.148-6 also issued under 26 U.S.C. 148 (f), (g), and (i).
++<P>Section 1.148-0 through 1.148-11 also issued under 26 U.S.C. 148(i).
++</P><P>Section 1.148-6 also issued under 26 U.S.C. 148 (f), (g), and (i).
+ </P><P>Section 1.149(b)-1 also issued under 26 U.S.C. 149(b)(3)(B) (v).
+ </P><P>Section 1.149(d)-1 also issued under 26 U.S.C. 149(d)(7).
+ </P><P>Section 1.149(e)-1 also issued under 26 U.S.C. 149(e).
+@@ -37698,6 +37698,7 @@
+ </P><P>Section 1.168(i)-4 also issued under 26 U.S.C. 168(i)(5). 
+ </P><P>Section 1.168(j)-1T also added under 26 U.S.C. 168(j)(10).
+ </P></AUTH>
++<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11402, Nov. 26, 1960; 25 FR 14021, Dec. 21, 1960, unless otherwise noted. 
+ 
+@@ -55967,10 +55968,10 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
  </PSPACE>
- <XREF ID="20201201" REFID="6">Link to an amendment published at 85 FR 76963, Dec. 1, 2020.</XREF><PSPACE>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
- </PSPACE><P>Section 1.170A-6 also issued under 26 U.S.C. 170(f)(4); 26 U.S.C. 642(c)(5).
-@@ -88601,7 +88601,7 @@
+-<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF><PSPACE>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
+-</PSPACE><P>Section 1.170A-6 also issued under 26 U.S.C. 170(f)(4); 26 U.S.C. 642(c)(5).
++<P>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
++</P><P>Section 1.170A-6 also issued under 26 U.S.C. 170(f)(4); 26 U.S.C. 642(c)(5).
+ </P><P>Section 1.170A-12 also issued under 26 U.S.C. 170(f)(4).
+ </P><P>Section 1.170A-13 also issued under 26 U.S.C. 170(f)(8). 
+ </P><P>Section 1.170A-15 also issued under 26 U.S.C. 170(a)(1).
+@@ -56044,6 +56045,7 @@
+ </P><P>Section 1.280F-7 also issued under 26 U.S.C. 280F(c). 
+ </P><P>Section 1.280G-1 also issued under 26 U.S.C. 280G(b) and (e). 
+ </P></AUTH>
++<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11402, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, T.D. 9381, 73 FR 8604, Feb. 15, 2008, unless otherwise noted. 
+ 
+@@ -84873,10 +84875,10 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted. 
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE><P>Section 1.301-1 also issued under 26 U.S.C. 357(d)(3). 
- </P><P>Section 1.301-1T also issued under 26 U.S.C. 357(d)(3).
+ </PSPACE>
+-<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF><PSPACE>Section 1.301-1 also issued under 26 U.S.C. 357(d)(3). 
+-</PSPACE><P>Section 1.301-1T also issued under 26 U.S.C. 357(d)(3).
++<P>Section 1.301-1 also issued under 26 U.S.C. 357(d)(3). 
++</P><P>Section 1.301-1T also issued under 26 U.S.C. 357(d)(3).
  </P><P>Section 1.304-5 also issued under 26 U.S.C. 304.
-@@ -144413,7 +144413,7 @@
+ </P><P>Section 1.304-7 also issued under 26 U.S.C. 304(b)(5)(C).
+ </P><P>Section 1.305-3 also issued under 26 U.S.C. 305.
+@@ -84981,6 +84983,7 @@
+ </P><P>Section 1.385-3 also issued under 26 U.S.C. 385, 701, 1502, 1504(a)(5)(A), and 7701(l).
+ </P><P>Section 1.385-4 also issued under 26 U.S.C. 385 and 1502.
+ </P></AUTH>
++<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11607, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, unless otherwise noted. 
+ 
+@@ -140575,7 +140578,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -36,16 +81,31 @@
  </PSPACE><P>Section 1.441-2T also issued under 26 U.S.C. 441(f). 
  </P><P>Section 1.441-3T also issued under 26 U.S.C. 441. 
  </P><P>Section 1.442-2T and 1.442-3T also issued under 26 U.S.C. 422, 706, and 1378.
-@@ -211413,7 +211413,7 @@
+@@ -206572,11 +206575,10 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
  </PSPACE>
- <XREF ID="20201112" REFID="46">Link to an amendment published at 85 FR 72031, Nov. 12, 2020.</XREF><PSPACE>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
- </PSPACE><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
-@@ -234557,7 +234557,7 @@
+-<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF>
+-<XREF ID="20201112" REFID="46">Link to an amendment published at 85 FR 72031, Nov. 12, 2020.</XREF><PSPACE>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
+-</PSPACE><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
++<P>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
++</P><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
+ </P><P>Section 1.853-1 also issued under 26 U.S.C. 901(j).
+ </P><P>Section 1.853-2 also issued under 26 U.S.C. 901(j).
+ </P><P>Section 1.853-3 also issued under 26 U.S.C. 901(j).
+@@ -206675,6 +206677,8 @@
+ </P><P>Section 1.907(b)-1 is also issued under 26 U.S.C. 907(b).
+ </P><P>Section 1.907(b)-1T also issued under 26 U.S.C. 907(b).
+ </P></AUTH>
++<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF>
++<XREF ID="20201112" REFID="46">Link to an amendment published at 85 FR 72031, Nov. 12, 2020.</XREF>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11910, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, unless otherwise noted.
+ 
+@@ -229674,7 +229678,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -53,4 +113,25 @@
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
  
  
+ 
+@@ -279462,9 +279466,8 @@
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
+ </PSPACE>
+-<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF>
+-<XREF ID="20201110" REFID="20">Link to an amendment published at 85 FR 71752, Nov. 10, 2020.</XREF><PSPACE>Section 1.1402 (e)-5T also is issued under 26 U.S.C. 1402(e)(1) and (2).
+-</PSPACE><P>Section 1.1441-2 also issued under 26 U.S.C. 1441(c)(4) and 26 U.S.C. 3401(a)(6).
++<P>Section 1.1402 (e)-5T also is issued under 26 U.S.C. 1402(e)(1) and (2).
++</P><P>Section 1.1441-2 also issued under 26 U.S.C. 1441(c)(4) and 26 U.S.C. 3401(a)(6).
+ </P><P>Section 1.1441-3 also issued under 26 U.S.C. 1441(c)(4), 26 U.S.C. 3401(a)(6) and 26 U.S.C. 7701(l).
+ </P><P>Section 1.1441-4 also issued under 26 U.S.C. 1441(c)(4) and 26 U.S.C. 3401(a)(6).
+ </P><P>Section 1.1441-5 also issued under 26 U.S.C. 1441(c)(4), 26 U.S.C. 3401(a)(6) and 26 U.S.C. 7701(b)(11).
+@@ -279578,6 +279581,8 @@
+ </P><P>Section 1.1502-98A also issued under 26 U.S.C. 382(m) and 26 U.S.C. 1502.
+ </P><P>Section 1.1502-99A also issued under 26 U.S.C. 382(m) and 26 U.S.C. 1502. 
+ </P></AUTH>
++<XREF ID="20200914" REFID="19">Link to an amendment published at 85 FR 56756, Sept. 14, 2020.</XREF>
++<XREF ID="20201110" REFID="20">Link to an amendment published at 85 FR 71752, Nov. 10, 2020.</XREF>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>Sections 1.1401-1 through 1.1403-1 contained in T.D. 6691, 28 FR 12796, Dec. 3, 1963, unless otherwise noted.
  

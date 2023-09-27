@@ -1,5 +1,5 @@
---- data/titles/preprocessed/xml/26/2021/01/2021-01-13_49a0f175.xml	2023-09-19 15:39:45.674918463 -0700
-+++ tmp/title_version_26_2021-01-13_49a0f175_preprocessed.xml	2023-09-19 15:40:54.110650292 -0700
+--- data/titles/preprocessed/xml/26/2021/01/2021-01-08_c73d1e50.xml	2023-09-19 14:45:01.591892014 -0700
++++ tmp/title_version_26_2021-01-08_c73d1e50_preprocessed.xml	2023-09-19 14:46:41.261072096 -0700
 @@ -65,7 +65,7 @@
  <HEAD>PART 1 - INCOME TAXES 
  </HEAD>
@@ -9,16 +9,16 @@
  </PSPACE><P>Section 1.1(h)-1 also issued under 26 U.S.C. 1(h);
  </P><P>Section 1.21-1 also issued under 26 U.S.C. 21(f);
  </P><P>Section 1.21-2 also issued under 26 U.S.C. 21(f);
-@@ -61511,7 +61511,7 @@
+@@ -61264,7 +61264,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- 
- 
- </PSPACE><P>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
-@@ -91467,7 +91467,7 @@
+ </PSPACE>
+ <XREF ID="20201201" REFID="6">Link to an amendment published at 85 FR 76963, Dec. 1, 2020.</XREF><PSPACE>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
+ </PSPACE><P>Section 1.170A-6 also issued under 26 U.S.C. 170(f)(4); 26 U.S.C. 642(c)(5).
+@@ -90616,7 +90616,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -27,25 +27,25 @@
  </PSPACE><P>Section 1.301-1 also issued under 26 U.S.C. 357(d)(3). 
  </P><P>Section 1.301-1T also issued under 26 U.S.C. 357(d)(3).
  </P><P>Section 1.304-5 also issued under 26 U.S.C. 304.
-@@ -147376,7 +147376,7 @@
+@@ -146525,7 +146525,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- 
- 
- </PSPACE><P>Section 1.441-2T also issued under 26 U.S.C. 441(f). 
-@@ -215861,7 +215861,7 @@
+ </PSPACE>
+ <XREF ID="20210106" REFID="41">Link to an amendment published at 86 FR 836, Jan. 6, 2021.</XREF><PSPACE>Section 1.441-2T also issued under 26 U.S.C. 441(f). 
+ </PSPACE><P>Section 1.441-3T also issued under 26 U.S.C. 441. 
+@@ -214004,7 +214004,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE><P>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
- </P><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
- </P><P>Section 1.853-1 also issued under 26 U.S.C. 901(j).
-@@ -239404,7 +239404,7 @@
+ </PSPACE>
+ <XREF ID="20201112" REFID="46">Link to an amendment published at 85 FR 72031, Nov. 12, 2020.</XREF><PSPACE>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
+ </PSPACE><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
+@@ -237510,7 +237510,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>

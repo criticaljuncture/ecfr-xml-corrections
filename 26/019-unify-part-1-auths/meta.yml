@@ -23,40 +23,46 @@ patches:
     last_issue_date: '2020-09-13'
   '006':
     first_issue_date: '2020-09-14'
-    last_issue_date: '2020-11-12'
+    last_issue_date: '2020-11-09'
   '007':
+    first_issue_date: '2020-11-10'
+    last_issue_date: '2020-11-11'
+  '008':
+    first_issue_date: '2020-11-12'
+    last_issue_date: '2020-11-12'
+  '009':
     first_issue_date: '2020-11-13'
     last_issue_date: '2020-11-30'
-  '008':
+  '010':
     first_issue_date: '2020-12-01'
     last_issue_date: '2021-01-05'
-  '009':
+  '011':
     first_issue_date: '2021-01-06'
     last_issue_date: '2021-01-07'
-  '010':
+  '012':
     first_issue_date: '2021-01-08'
     last_issue_date: '2021-01-11'
-  '011':
+  '013':
     first_issue_date: '2021-01-12'
     last_issue_date: '2022-01-04'
   '012':
     first_issue_date: '2022-01-05'
     last_issue_date: '2022-03-06'
-  '013':
+  '015':
     first_issue_date: '2022-03-07'
     last_issue_date: '2022-12-01'
-  '014':
+  '016':
     first_issue_date: '2022-12-02'
     last_issue_date: '2023-04-05'
-  '015':
+  '017':
     first_issue_date: '2023-04-06'
     last_issue_date: '2023-08-14'
-  '016':
+  '018':
     first_issue_date: '2023-08-15'
     last_issue_date: '2023-09-11'
-  '017':
+  '019':
     first_issue_date: '2023-09-12'
     last_issue_date: '2023-09-13'
-  '018':
+  '020':
     first_issue_date: '2023-09-14'
     last_issue_date: '2100-01-01'
