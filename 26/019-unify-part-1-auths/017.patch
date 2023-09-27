@@ -1,52 +1,52 @@
---- data/titles/preprocessed/xml/26/2023/04/2023-04-07_47169a58.xml	2023-09-19 17:06:53.945009660 -0700
-+++ tmp/title_version_26_2023-04-07_47169a58_preprocessed.xml	2023-09-19 17:08:04.830946960 -0700
+--- data/titles/preprocessed/xml/26/2022/12/2022-12-05_a71f6933.xml	2023-09-19 16:49:07.458862571 -0700
++++ tmp/title_version_26_2022-12-05_a71f6933_preprocessed.xml	2023-09-19 16:50:22.577110569 -0700
 @@ -65,7 +65,7 @@
- <HEAD>PART 1—INCOME TAXES 
+ <HEAD>PART 1 - INCOME TAXES 
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C 7805, unless otherwise noted.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE><P>Section 1.1(h)–1 also issued under 26 U.S.C. 1(h);
- </P><P>Section 1.21–1 also issued under 26 U.S.C. 21(f);
- </P><P>Section 1.21–2 also issued under 26 U.S.C. 21(f);
-@@ -63983,7 +63983,7 @@
- <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </PSPACE><P>Section 1.1(h)-1 also issued under 26 U.S.C. 1(h);
+ </P><P>Section 1.21-1 also issued under 26 U.S.C. 21(f);
+ </P><P>Section 1.21-2 also issued under 26 U.S.C. 21(f);
+@@ -63875,7 +63875,7 @@
+ <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
  
  
- </PSPACE><P>Section 1.170A–1 also issued under 26 U.S.C. 170(a).
-@@ -91997,7 +91997,7 @@
- <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </PSPACE><P>Section 1.170A-1 also issued under 26 U.S.C. 170(a).
+@@ -91889,7 +91889,7 @@
+ <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted. 
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE><P>Section 1.301–1 also issued under 26 U.S.C. 357(d)(3). 
- </P><P>Section 1.301–1T also issued under 26 U.S.C. 357(d)(3).
- </P><P>Section 1.304–5 also issued under 26 U.S.C. 304.
-@@ -147861,7 +147861,7 @@
- <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </PSPACE><P>Section 1.301-1 also issued under 26 U.S.C. 357(d)(3). 
+ </P><P>Section 1.301-1T also issued under 26 U.S.C. 357(d)(3).
+ </P><P>Section 1.304-5 also issued under 26 U.S.C. 304.
+@@ -147753,7 +147753,7 @@
+ <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
  
  
- </PSPACE><P>Section 1.441–2T also issued under 26 U.S.C. 441(f). 
-@@ -216242,7 +216242,7 @@
- <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </PSPACE><P>Section 1.441-2T also issued under 26 U.S.C. 441(f). 
+@@ -216124,7 +216124,7 @@
+ <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE><P>Sections 1.851–3 and 1.851–5 are also issued under 26 U.S.C. 851(c).
- </P><P>Section 1.852–11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
- </P><P>Section 1.853–1 also issued under 26 U.S.C. 901(j).
-@@ -240548,7 +240548,7 @@
- <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </PSPACE><P>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
+ </P><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
+ </P><P>Section 1.853-1 also issued under 26 U.S.C. 901(j).
+@@ -240174,7 +240174,7 @@
+ <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.

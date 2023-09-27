@@ -1,5 +1,5 @@
---- data/titles/preprocessed/xml/26/2023/09/2023-09-14_afbd9bb4.xml	2023-09-14 20:01:08.718513071 -0700
-+++ tmp/title_version_26_2023-09-14_afbd9bb4_preprocessed.xml	2023-09-14 20:03:32.097944216 -0700
+--- data/titles/preprocessed/xml/26/2023/08/2023-08-16_8ae334f0.xml	2023-09-19 17:21:29.218245802 -0700
++++ tmp/title_version_26_2023-08-16_8ae334f0_preprocessed.xml	2023-09-19 17:24:20.818262299 -0700
 @@ -65,10 +65,10 @@
  <HEAD>PART 1—INCOME TAXES 
  </HEAD>
@@ -22,7 +22,16 @@
  <SOURCE>
  <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11402, Nov. 26, 1960; 25 FR 14021, Dec. 21, 1960, unless otherwise noted.
  
-@@ -92081,7 +92082,7 @@
+@@ -64068,7 +64069,7 @@
+ <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </HEAD>
+ <AUTH>
+-<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
++<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
+ 
+ 
+ </PSPACE><P>Section 1.170A–1 also issued under 26 U.S.C. 170(a).
+@@ -92076,7 +92077,7 @@
  <HEAD>PART 1—INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -31,11 +40,29 @@
  </PSPACE><P>Section 1.301–1 also issued under 26 U.S.C. 357(d)(3). 
  </P><P>Section 1.301–1T also issued under 26 U.S.C. 357(d)(3).
  </P><P>Section 1.304–5 also issued under 26 U.S.C. 304.
-@@ -240741,7 +240742,7 @@
+@@ -147939,7 +147940,7 @@
  <HEAD>PART 1—INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
--<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted, unless otherwise noted.
+-<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
++<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
+ 
+ 
+ </PSPACE><P>Section 1.441–2T also issued under 26 U.S.C. 441(f). 
+@@ -216422,7 +216423,7 @@
+ <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </HEAD>
+ <AUTH>
+-<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
++<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
+ </PSPACE><P>Sections 1.851–3 and 1.851–5 are also issued under 26 U.S.C. 851(c).
+ </P><P>Section 1.852–11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
+ </P><P>Section 1.853–1 also issued under 26 U.S.C. 901(j).
+@@ -240736,7 +240737,7 @@
+ <HEAD>PART 1—INCOME TAXES (CONTINUED)
+ </HEAD>
+ <AUTH>
+-<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
  
  

@@ -1,5 +1,5 @@
---- data/titles/preprocessed/xml/26/2021/01/2021-01-13_c32442a5.xml	2023-09-26 17:51:30.946830576 -0700
-+++ tmp/title_version_26_2021-01-13_c32442a5_preprocessed.xml	2023-09-26 17:53:56.429859533 -0700
+--- data/titles/preprocessed/xml/26/2021/01/2021-01-11_df6f3bc3.xml	2023-09-26 22:55:06.110125226 -0700
++++ tmp/title_version_26_2021-01-11_df6f3bc3_preprocessed.xml	2023-09-26 22:59:34.979132014 -0700
 @@ -65,7 +65,7 @@
  <HEAD>PART 1 - INCOME TAXES 
  </HEAD>
@@ -31,7 +31,7 @@
  <SOURCE>
  <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11402, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, T.D. 9381, 73 FR 8604, Feb. 15, 2008, unless otherwise noted. 
  
-@@ -90719,7 +90720,7 @@
+@@ -90616,7 +90617,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -40,7 +40,7 @@
  </PSPACE><P>Section 1.301-1 also issued under 26 U.S.C. 357(d)(3). 
  </P><P>Section 1.301-1T also issued under 26 U.S.C. 357(d)(3).
  </P><P>Section 1.304-5 also issued under 26 U.S.C. 304.
-@@ -146628,7 +146629,7 @@
+@@ -146525,7 +146526,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
@@ -49,21 +49,53 @@
  
  
  </PSPACE><P>Section 1.441-2T also issued under 26 U.S.C. 441(f). 
-@@ -215113,7 +215114,7 @@
+@@ -215020,10 +215021,10 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
- </PSPACE><P>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
- </P><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
+ </PSPACE>
+-<XREF ID="20201112" REFID="46">Link to an amendment published at 85 FR 72031, Nov. 12, 2020.</XREF><PSPACE>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
+-</PSPACE><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
++<P>Sections 1.851-3 and 1.851-5 are also issued under 26 U.S.C. 851(c).
++</P><P>Section 1.852-11 is also issued under 26 U.S.C. 852(b)(3)(C), 852(b)(8), and 852(c).
  </P><P>Section 1.853-1 also issued under 26 U.S.C. 901(j).
-@@ -238656,7 +238657,7 @@
+ </P><P>Section 1.853-2 also issued under 26 U.S.C. 901(j).
+ </P><P>Section 1.853-3 also issued under 26 U.S.C. 901(j).
+@@ -215125,6 +215126,7 @@
+ </P><P>Section 1.907(b)-1 is also issued under 26 U.S.C. 907(b).
+ </P><P>Section 1.907(b)-1T also issued under 26 U.S.C. 907(b).
+ </P></AUTH>
++<XREF ID="20201112" REFID="46">Link to an amendment published at 85 FR 72031, Nov. 12, 2020.</XREF>
+ <SOURCE>
+ <HED>Source:</HED><PSPACE>T.D. 6500, 25 FR 11910, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, unless otherwise noted.
+ 
+@@ -238526,7 +238528,7 @@
  <HEAD>PART 1 - INCOME TAXES (CONTINUED)
  </HEAD>
  <AUTH>
 -<HED>Authority:</HED><PSPACE>26 U.S.C. 7805.
 +<HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
  
+ 
+ 
+@@ -288748,8 +288750,8 @@
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>26 U.S.C. 7805, unless otherwise noted.
+ </PSPACE>
+-<XREF ID="20201110" REFID="20">Link to an amendment published at 85 FR 71752, Nov. 10, 2020.</XREF><PSPACE>Section 1.1402 (e)-5T also is issued under 26 U.S.C. 1402(e)(1) and (2).
+-</PSPACE><P>Section 1.1441-2 also issued under 26 U.S.C. 1441(c)(4) and 26 U.S.C. 3401(a)(6).
++<P>Section 1.1402 (e)-5T also is issued under 26 U.S.C. 1402(e)(1) and (2).
++</P><P>Section 1.1441-2 also issued under 26 U.S.C. 1441(c)(4) and 26 U.S.C. 3401(a)(6).
+ </P><P>Section 1.1441-3 also issued under 26 U.S.C. 1441(c)(4), 26 U.S.C. 3401(a)(6) and 26 U.S.C. 7701(l).
+ </P><P>Section 1.1441-4 also issued under 26 U.S.C. 1441(c)(4) and 26 U.S.C. 3401(a)(6).
+ </P><P>Section 1.1441-5 also issued under 26 U.S.C. 1441(c)(4), 26 U.S.C. 3401(a)(6) and 26 U.S.C. 7701(b)(11).
+@@ -288872,6 +288874,7 @@
+ </P><P>Section 1.1502-99A also issued under 26 U.S.C. 382(m) and 26 U.S.C. 1502. 
+ </P></AUTH>
+ <SOURCE>
++<XREF ID="20201110" REFID="20">Link to an amendment published at 85 FR 71752, Nov. 10, 2020.</XREF>
+ <HED>Source:</HED><PSPACE>Sections 1.1401-1 through 1.1403-1 contained in T.D. 6691, 28 FR 12796, Dec. 3, 1963, unless otherwise noted.
  
  
