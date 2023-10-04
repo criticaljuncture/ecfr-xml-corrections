@@ -1,0 +1,16 @@
+--- data/titles/preprocessed/xml/48/2023/10/2023-10-03_82830ab5.xml	2023-10-04 10:51:03.713524169 -0700
++++ tmp/title_version_48_2023-10-03_82830ab5_preprocessed.xml	2023-10-04 10:51:34.207112544 -0700
+@@ -272497,13 +272497,6 @@
+ </P>
+ </DIV8>
+ 
+-</DIV6>
+-
+-
+-<DIV6 N="3403.3" TYPE="SUBPART">
+-<HEAD>Subpart 3403.3—Reports of Suspected Antitrust Violations</HEAD>
+-
+-
+ <DIV8 N="3403.204" TYPE="SECTION">
+ <HEAD>3403.204   Treatment of violations.</HEAD>
+ <P>(a) The SPE is the agency head's designee for purposes of FAR 3.204.
