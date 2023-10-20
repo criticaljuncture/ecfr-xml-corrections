@@ -1,0 +1,11 @@
+description: 40v27 AMDDATE
+tags: amendment-date
+status: needs-approval
+issue_number: 2023-10-18
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2023-10-18'
+    last_issue_date: '2023-10-18'
