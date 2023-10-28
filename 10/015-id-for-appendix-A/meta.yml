@@ -1,0 +1,11 @@
+description: Identifier for 10/431 Subpart C Appendix A
+tags: structural
+status: pending
+issue_number: 2023-10-26
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2023-10-26'
+    last_issue_date: '2023-10-26'
