@@ -1,0 +1,11 @@
+description: Revert unintended changes in 47/73.622
+tags: content-error
+status: approved
+issue_number: 2023-10-24
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115307311/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-10-24'
+    last_issue_date: '2023-10-26'
