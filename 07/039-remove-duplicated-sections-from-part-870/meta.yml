@@ -1,0 +1,11 @@
+description: Title 15 contains sections that were not removed from part 870
+tags: structural
+status: needs-review
+issue_number: October 31, 2023
+fr_doc: 88 FR 74333
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115324628/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-10-31'
+    last_issue_date: '2023-10-31'
