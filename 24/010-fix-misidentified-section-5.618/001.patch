@@ -1,0 +1,13 @@
+--- data/titles/preprocessed/xml/24/2023/02/2023-02-15_aabbc357.xml	2023-11-08 12:41:36.721224769 -0800
++++ tmp/title_version_24_2023-02-15_aabbc357_preprocessed.xml	2023-11-08 12:42:19.384355474 -0800
+@@ -3955,8 +3955,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 571.618" TYPE="SECTION">
+-<HEAD>§ 571.618   xxx</HEAD>
++<DIV8 N="§ 5.618" TYPE="SECTION">
++<HEAD>§ 5.618   xxx</HEAD>
+ <XREF ID="20230214" REFID="21b">Link to an amendment published at 88 FR 9660, Feb. 14, 2023.</XREF>
+ </DIV8>
+ 
