@@ -8,4 +8,7 @@ reference: https://criticaljuncture.basecamphq.com/P115354417
 patches:
   '001':
     first_issue_date: '2022-09-02'
+    last_issue_date: '2022-09-01'
+  '002':
+    first_issue_date: '2022-09-02'
     last_issue_date: '2100-01-01'
