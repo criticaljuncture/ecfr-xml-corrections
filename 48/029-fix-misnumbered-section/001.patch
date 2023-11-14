@@ -1,13 +1,13 @@
---- data/titles/preprocessed/xml/48/2017/01/2017-01-07_692008c4.xml	2023-11-13 16:37:36.602706434 -0800
-+++ tmp/title_version_48_2017-01-07_692008c4_preprocessed.xml	2023-11-13 16:39:15.416201658 -0800
-@@ -211200,8 +211200,8 @@
+--- data/titles/preprocessed/xml/48/2017/01/2017-01-07_692008c4.xml	2023-11-14 13:24:03.840936486 -0800
++++ tmp/title_version_48_2017-01-07_692008c4_preprocessed.xml	2023-11-14 13:25:01.505355798 -0800
+@@ -211205,8 +211205,8 @@
  </DIV8>
  
  
--<DIV8 N="1415.209" TYPE="SECTION">
--<HEAD>1415.209   Solicitation provisions and contract clauses.</HEAD>
-+<DIV8 N="1414.209" TYPE="SECTION">
-+<HEAD>1414.209   Solicitation provisions and contract clauses.</HEAD>
- </DIV8>
+-<DIV8 N="1414.209-70" TYPE="SECTION">
+-<HEAD>1414.209-70   Examination of records by the Department of the Interior.</HEAD>
++<DIV8 N="1415.209-70" TYPE="SECTION">
++<HEAD>1415.209-70   Examination of records by the Department of the Interior.</HEAD>
+ <P>The CO shall insert the clause at 1452.215-70, Examination of Records by the Department of the Interior, in all contracts requiring the clause at FAR 52.215-2 Audit and Records, Negotiation, as prescribed in FAR 15.209(b).
  
  
