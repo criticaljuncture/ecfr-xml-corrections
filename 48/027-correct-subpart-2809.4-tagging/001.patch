@@ -1,0 +1,14 @@
+--- data/titles/preprocessed/xml/48/2022/09/2022-09-06_00843ef9.xml	2023-11-13 16:13:55.020452912 -0800
++++ tmp/title_version_48_2022-09-06_00843ef9_preprocessed.xml	2023-11-13 16:17:56.461810711 -0800
+@@ -253915,10 +253915,8 @@
+ 
+ </DIV6>
+ 
+-</DIV5>
+ 
+-
+-<DIV5 N="" TYPE="PART">
++<DIV6 N="2809.4" TYPE="PART">
+ <HEAD>Subpart 2809.4 - Debarment, Suspension, and Ineligibility
+ 
+ 
