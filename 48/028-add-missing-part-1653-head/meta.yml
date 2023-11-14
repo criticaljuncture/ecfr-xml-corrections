@@ -1,0 +1,11 @@
+description: Part 1653 of Title 48 was missing an opening DIV5 tag
+tags: structural
+status: approved
+issue_number: 2020-03-25
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/P115354417
+
+patches:
+  '001':
+    first_issue_date: '2020-03-25'
+    last_issue_date: '2100-01-01'
