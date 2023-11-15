@@ -1,0 +1,11 @@
+description: Fix misnumbered section identifiers in Part 300
+tags: editorial
+status: approved
+issue_number: 2023-06-12
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/P115354417
+
+patches:
+  '001':
+    first_issue_date: '2023-06-12'
+    last_issue_date: '2023-11-11'
