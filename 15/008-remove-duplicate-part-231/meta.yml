@@ -1,0 +1,11 @@
+description: Remove second part 231
+tags: structural
+status: approved
+issue_number: 2023-11-24
+fr_doc: 83993
+reference: email
+
+patches:
+  '001':
+    first_issue_date: '2023-11-24'
+    last_issue_date: '2023-11-24'

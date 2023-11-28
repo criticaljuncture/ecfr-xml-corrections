@@ -1,0 +1,15 @@
+--- data/titles/preprocessed/xml/15/2023/11/2023-11-27_dbcb883c.xml	2023-11-28 07:30:40.470386371 -0800
++++ tmp/title_version_15_2023-11-27_dbcb883c_preprocessed.xml	2023-11-28 07:32:10.557955853 -0800
+@@ -14838,12 +14838,6 @@
+ </DIV5>
+ 
+ 
+-<DIV5 N="231" TYPE="PART">
+-<HEAD>PART 231—CLAWBACKS OF CHIPS FUNDING
+-
+-
+-</HEAD>
+-
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—Definitions</HEAD>
+ 
