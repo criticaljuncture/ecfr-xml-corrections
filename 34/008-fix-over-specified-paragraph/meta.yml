@@ -1,5 +1,5 @@
 description: Over-specified paragraph number - 34/600.9(c)(2)(i)
-tags: 
+tags:
 status: approved
 issue_number: 2020-07-01
 fr_doc: 84 FR 58834
@@ -8,4 +8,4 @@ reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-regi
 patches:
   '001':
     first_issue_date: '2020-07-01'
-    last_issue_date: '2100-01-01'
+    last_issue_date: '2023-12-07'
