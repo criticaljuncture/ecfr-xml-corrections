@@ -1,0 +1,19 @@
+--- data/titles/preprocessed/xml/10/2023/12/2023-12-28_ed5b7ad9.xml	2023-12-29 09:26:04.954260961 -0500
++++ tmp/title_version_10_2023-12-28_ed5b7ad9_preprocessed.xml	2023-12-29 09:28:29.553180120 -0500
+@@ -94936,7 +94936,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>Dec. 5, 2023,fm
++<AMDDATE>2023-12-18
+ </AMDDATE>
+ 
+ <DIV1 N="3" TYPE="TITLE">
+@@ -134072,6 +134072,7 @@
+ 
+ <DIV8 N="§ 430.32" TYPE="SECTION">
+ <HEAD>§ 430.32   Energy and water conservation standards and their compliance dates.</HEAD>
++<XREF ID="20231218" REFID="14">Link to an amendment published at 88 FR 87648, Dec. 18, 2023.</XREF>
+ <P>The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
+ </P>
+ <P>(a) <I>Refrigerators/refrigerator-freezers/freezers.</I> These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.

@@ -1,0 +1,11 @@
+description: Volume 3 amddate was rolled back to previous value
+tags: amddate
+status: approved
+issue_number: Dec 27, 2023
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115460566/comments
+
+patches:
+  '001':
+    first_issue_date: '2023-12-27'
+    last_issue_date: '2023-12-27'
