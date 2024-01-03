@@ -1,0 +1,11 @@
+description: Title 17 volume 3 amddate was improperly incremented
+tags: amddate
+status: approved
+issue_number: 2023-12-29
+fr_doc:
+reference: https://classic.basecamp.com/dhh/inbox/messages/1
+
+patches:
+  '001':
+    first_issue_date: '2023-12-29'
+    last_issue_date: '2023-12-29'

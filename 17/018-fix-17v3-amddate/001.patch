@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/17/2024/01/2024-01-02_4e2fc343.xml	2024-01-03 07:01:51.474880824 -0800
++++ tmp/title_version_17_2024-01-02_4e2fc343_preprocessed.xml	2024-01-03 07:03:31.045442870 -0800
+@@ -53885,7 +53885,7 @@
+ 
+ </ECFRBRWS>
+ <ECFRBRWS>
+-<AMDDATE>December 29, 2023
++<AMDDATE>2023-12-15
+ </AMDDATE>
+ 
+ <DIV1 N="3" TYPE="TITLE">
