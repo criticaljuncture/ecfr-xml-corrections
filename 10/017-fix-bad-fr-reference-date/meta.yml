@@ -1,0 +1,11 @@
+description: Invalid FR citation '88 FR 84228, Dec. 4, 2024'. Bad volume number (88 in 2024) in 10 CFR 431.96 CITA.
+tags: fr-citation-date
+status: approved
+issue_number: 2024-01-03
+fr_doc: 88 FR 84228
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115449769/comments#435796031
+
+patches:
+  '001':
+    first_issue_date: '2024-01-03'
+    last_issue_date: '2024-01-03'
