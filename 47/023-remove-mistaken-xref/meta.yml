@@ -1,0 +1,11 @@
+description: Remove XREF errantly added to 47 CFR 64.6040
+tags: content
+status: approved
+issue_number: 2024-01-03
+fr_doc: 89 FR 269
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115478569/comments#435816745
+
+patches:
+  '001':
+    first_issue_date: '2024-01-03'
+    last_issue_date: '2024-01-03'
