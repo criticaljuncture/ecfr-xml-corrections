@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/29/2017/01/2017-01-09_afddc444.xml	2024-01-24 14:07:24.555905868 -0600
++++ tmp/title_version_29_2017-01-09_afddc444_preprocessed.xml	2024-01-24 14:09:36.278115015 -0600
+@@ -119781,7 +119781,7 @@
+ </P>
+ <P>(2) <I>Application.</I> (i) This standard applies to the control of energy during servicing and/or maintenance of machines and equipment.
+ </P>
+-<P>(ii) Normal production operations are not covered by this standard (See subpart 0 of this part). Servicing and/or maintenance which takes place during normal production operations is covered by this standard only if;:
++<P>(ii) Normal production operations are not covered by this standard (See subpart O of this part). Servicing and/or maintenance which takes place during normal production operations is covered by this standard only if;:
+ </P>
+ <P>(A) An employee is required to remove or bypass a guard or other safety device; or
+ </P>
+@@ -119789,7 +119789,7 @@
+ </P>
+ <NOTE>
+ <HED>Note:</HED>
+-<P><I>Exception to paragraph (a)(2)(ii):</I> Minor tool changes and adjustments, and other minor servicing activities, which take place during normal production operations, are not covered by this standard if they are routine, repetitive, and integral to the use of the equipment for production, provided that the work is performed using alternative measures which provide effective protection (See subpart 0 of this part).</P></NOTE>
++<P><I>Exception to paragraph (a)(2)(ii):</I> Minor tool changes and adjustments, and other minor servicing activities, which take place during normal production operations, are not covered by this standard if they are routine, repetitive, and integral to the use of the equipment for production, provided that the work is performed using alternative measures which provide effective protection (See subpart O of this part).</P></NOTE>
+ <P>(iii) This standard does not apply to the following.
+ </P>
+ <P>(A) Work on cord and plug connected electric equipment for which exposure to the hazards of unexpected energization or start up of the equipment is controlled by the unplugging of the equipment from the energy source and by the plug being under the exclusive control of the employee performing the servicing or maintenance.
