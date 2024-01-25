@@ -85,5 +85,11 @@ Use from inside `ecfr-versioner` repo:
 
 `$ TITLE=7 YEAR=2017 ruby lib/utils/title_ammdate_csv_generator.rb`
 
+## Bulk patch unicode character replacement example
+Example bulk replacement of em-dash with dash example:
+`find . -type f -name '*.patch' -exec sed -i '' s%\xe2\x80\x93%-%g {} +`
+Example of pulling the escape codes for an em-dash:
+`echo "–" | hexdump -C`
+
 ## Ecfr Wiki
 https://github.com/criticaljuncture/criticaljuncture.org/wiki/ECFR
