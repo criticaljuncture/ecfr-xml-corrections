@@ -1,5 +1,5 @@
---- data/titles/preprocessed/xml/46/2021/08/2021-08-06_611bba62.xml	2024-01-30 18:10:16.437891779 -0800
-+++ tmp/title_version_46_2021-08-06_611bba62_preprocessed.xml	2024-01-30 18:17:59.767689611 -0800
+--- data/titles/preprocessed/xml/46/2021/08/2021-08-06_611bba62.xml	2024-01-31 17:57:52.202000591 -0800
++++ tmp/title_version_46_2021-08-06_611bba62_preprocessed.xml	2024-01-31 18:05:05.290479375 -0800
 @@ -108303,12 +108303,12 @@
  
  
@@ -106,13 +106,13 @@
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 4.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 5.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 6.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cellprimary-indent-3"> No. 1.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cellprimary-indent-3"> No. 1-D.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cellprimary-indent-3"> No. 2.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cellprimary-indent-3"> No. 2-D.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cellprimary-indent-3"> No. 4.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cellprimary-indent-3"> No. 5.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cellprimary-indent-3"> No. 6.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 1.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 1-D.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 2.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 2-D.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 4.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 5.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 6.
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Oil, misc.:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Aliphatic.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Aromatic.
@@ -535,3 +535,82 @@
  
  
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Zinc alkaryl dithiophosphate (C7-C16)
+@@ -109174,15 +109174,15 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">2-Ethoxyethanol.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Ethoxy triglycol (crude).</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Ethylene glycol dibutyl ether.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Ethylene glycol monoalkyl ethers:
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol tert-butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol ethyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol hexyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol isopropyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol methyl butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol methyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol propyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Ethylene glycol n-propyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol tert-butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol ethyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol hexyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol isopropyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol methyl butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol propyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Ethylene glycol n-propyl ether.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Ethylene glycol phenyl ether.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Ethylene glycol phenyl ether/Diethylene glycol phenyl ether mixture.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Glucitol/glycerol blend propoxylated (containing less than 10% amines).
+@@ -109197,21 +109197,21 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Pentaethylene glycol methyl ether.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polyalkylene glycols/Polyalkylene glycol monoalkyl ethers mixtures.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly(2-8)alkylene glycol monoalkyl (C1-C6) ethers:
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol ethyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol n-hexyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol methyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol propyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Dipropylene glycol butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Dipropylene glycol methyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Polyalkylene glycol butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Polyethylene glycol monoalkyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Polypropylene glycol methyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Tetraethylene glycol methyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Triethylene glycol butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Triethylene glycol ethyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Triethylene glycol methyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Tripropylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Diethylene glycol butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Diethylene glycol ethyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Diethylene glycol n-hexyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Diethylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Diethylene glycol propyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Dipropylene glycol butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Dipropylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Polyalkylene glycol butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Polyethylene glycol monoalkyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Polypropylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Tetraethylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Triethylene glycol butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Triethylene glycol ethyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Triethylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Tripropylene glycol methyl ether.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polyethylene glycol.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polyalkylene glycol butyl ether
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polyethylene glycol dimethyl ether
+@@ -109220,11 +109220,11 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly (tetramethylene ether) glycols (molecular weight 950-1050).
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polytetramethylene ether glycol.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Propylene glycol monoalkyl ethers:
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> n-Propoxypropanol.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Propylene glycol n-butyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Propylene glycol ethyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Propylene glycol methyl ether.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Propylene glycol propyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> n-Propoxypropanol.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Propylene glycol n-butyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Propylene glycol ethyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Propylene glycol methyl ether.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Propylene glycol propyl ether.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Propylene glycol phenyl ether.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Tetraethylene glycol.
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Triethylene glycol.
