@@ -1,9 +1,10 @@
---- data/titles/preprocessed/xml/46/2023/12/2023-12-22_7157e33e.xml	2024-01-31 18:15:31.237991764 -0800
-+++ tmp/title_version_46_2023-12-22_7157e33e_preprocessed.xml	2024-01-31 18:34:26.383303249 -0800
-@@ -108700,16 +108700,16 @@
+--- data/titles/preprocessed/xml/46/2023/12/2023-12-22_7157e33e.xml	2024-02-02 14:39:36.207926651 -0800
++++ tmp/title_version_46_2023-12-22_7157e33e_preprocessed.xml	2024-02-02 14:52:35.364540717 -0800
+@@ -108699,17 +108699,17 @@
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alcohols (C12–C13), primary, linear and essentially linear
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alcohols (C14–C18), primary, linear and essentially linear
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alcohols (C13+)
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl/cyclo (C4–C5) alcohols:
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl/cyclo (C4–C5) alcohols:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Amyl alcohol, primary
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">n-Amyl alcohol
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">sec-Amyl alcohol
@@ -14,6 +15,7 @@
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Tallow alcohol
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Tetradecanol
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Tridecanol
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Alkyl/cyclo (C4–C5) alcohols:
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Amyl alcohol, primary
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">n-Amyl alcohol
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">sec-Amyl alcohol
@@ -27,9 +29,16 @@
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Behenyl alcohol
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Bio-fuel blends of Gasoline and Ethyl alcohol (&gt;25% but &lt;99% by volume)
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Brake fluid base mix: Poly(2–8)alkylene (C2–C3) glycols/Polyalkylene (C2–C10) glycols monoalkyl (C1–C4) ethers and their borate esters
-@@ -108941,18 +108941,18 @@
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Cumene
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Propylbenzenes
+@@ -108937,22 +108937,22 @@
+ 
+ 
+ <br/>Alkyl (C3–C4) benzenes:
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Butylbenzenes
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Cumene
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Propylbenzenes
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Butylbenzenes
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Cumene
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Propylbenzenes
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl (C5–C8) benzenes:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Amylbenzenes
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Heptylbenzenes
@@ -407,6 +416,7 @@
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Safflower acid oil
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Soya acid oil
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Sunflower seed acid oil
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Vegetable oil mixtures, containing less than 15% free fatty acid (m)
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Corn acid oil
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Cottonseed acid oil
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Dark mixed acid oil
@@ -419,7 +429,7 @@
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Safflower acid oil
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Soya acid oil
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Sunflower seed acid oil
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Vegetable oil mixtures, containing less than 15% free fatty acid (m)
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3">Vegetable oil mixtures, containing less than 15% free fatty acid (m)
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Vegetable fatty acid distillates, n.o.s.:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Palm kernel fatty acid distillate
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Palm oil fatty acid distillate
