@@ -1,0 +1,21 @@
+--- data/titles/preprocessed/xml/20/2024/02/2024-02-09_3b2d725c.xml	2024-02-12 08:41:00.514868318 -0600
++++ tmp/title_version_20_2024-02-09_3b2d725c_preprocessed.xml	2024-02-12 08:41:42.825176251 -0600
+@@ -149555,14 +149555,14 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="7sect; 802.222" TYPE="SECTION">
+-<HEAD>7sect; 802.222   xxx</HEAD>
++<DIV8 N="§ 802.222" TYPE="SECTION">
++<HEAD>§ 802.222   xxx</HEAD>
+ <XREF ID="20240208" REFID="33">Link to an amendment published at 89 FR 8536, Feb. 8, 2024.</XREF>
+ </DIV8>
+ 
+ 
+-<DIV8 N="7sect; 802.223" TYPE="SECTION">
+-<HEAD>7sect; 802.223   xxx</HEAD>
++<DIV8 N="§ 802.223" TYPE="SECTION">
++<HEAD>§ 802.223   xxx</HEAD>
+ <XREF ID="20240208" REFID="34">Link to an amendment published at 89 FR 8537, Feb. 8, 2024.</XREF>
+ </DIV8>
+ 

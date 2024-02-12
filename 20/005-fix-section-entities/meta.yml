@@ -1,0 +1,11 @@
+description: Fix 20/802 section entity typos
+tags: content-error
+status:
+issue_number:
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115567165/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-02-08'
+    last_issue_date: '2024-02-08'
