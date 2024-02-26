@@ -1,0 +1,57 @@
+--- data/titles/preprocessed/xml/16/2024/02/2024-02-23_5934e710.xml	2024-02-26 09:09:27.089889370 -0800
++++ tmp/title_version_16_2024-02-23_5934e710_preprocessed.xml	2024-02-26 09:10:19.769254331 -0800
+@@ -25350,8 +25350,8 @@
+ 
+ </PSPACE></SOURCE>
+ 
+-<DIV8 N="§ ;609.1" TYPE="SECTION">
+-<HEAD>§ ;609.1   Scope of regulations in this part.</HEAD>
++<DIV8 N="§  609.1" TYPE="SECTION">
++<HEAD>§  609.1   Scope of regulations in this part.</HEAD>
+ <P>This part implements Section 605A(k)(2) of the Fair Credit Reporting Act, 15 U.S.C. 1681c–1(k)(2), which requires consumer reporting agencies that compile and maintain files on consumers on a nationwide basis to provide a free electronic credit monitoring service to active duty military consumers that, at a minimum, notifies them of any material additions or modifications to their files.
+ 
+ 
+@@ -25359,8 +25359,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ ;609.2" TYPE="SECTION">
+-<HEAD>§ ;609.2   Definitions.</HEAD>
++<DIV8 N="§  609.2" TYPE="SECTION">
++<HEAD>§  609.2   Definitions.</HEAD>
+ <P>For purposes of this part, the following definitions apply:
+ </P>
+ <P>(a) <I>Active duty military consumer</I> means:
+@@ -25479,8 +25479,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ ;609.4" TYPE="SECTION">
+-<HEAD>§ ;609.4   Timing of electronic credit monitoring notices.</HEAD>
++<DIV8 N="§  609.4" TYPE="SECTION">
++<HEAD>§  609.4   Timing of electronic credit monitoring notices.</HEAD>
+ <P>The notice required in § 609.3(a) must be provided within 48 hours of any material additions or modifications to a consumer's file.
+ 
+ 
+@@ -25488,8 +25488,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ ;609.5" TYPE="SECTION">
+-<HEAD>§ ;609.5   Additional information to be included in electronic credit monitoring notices.</HEAD>
++<DIV8 N="§  609.5" TYPE="SECTION">
++<HEAD>§  609.5   Additional information to be included in electronic credit monitoring notices.</HEAD>
+ <P>(a) The notice required in § 609.3(a), or the first page within the electronic credit monitoring service to which the notice may direct the consumer, shall include a hyperlink to a summary of the consumer's rights under the Fair Credit Reporting Act, as prescribed by the Bureau of Consumer Financial Protection under 15 U.S.C. 1681g(c).
+ </P>
+ <P>(b) The nationwide consumer reporting agency shall provide to a consumer, with each file disclosure provided in § 609.3(a), the summary of the consumer's rights under the Fair Credit Reporting Act, as prescribed by the Bureau of Consumer Financial Protection under 15 U.S.C. 1681g(c).
+@@ -25499,8 +25499,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ ;609.6" TYPE="SECTION">
+-<HEAD>§ ;609.6   Severability.</HEAD>
++<DIV8 N="§  609.6" TYPE="SECTION">
++<HEAD>§  609.6   Severability.</HEAD>
+ <P>The provisions of this part are separate and severable from one another. If any provision is stayed, or determined to be invalid, it is the Commission's intention that the remaining provisions shall continue in effect.
+ 
+ 

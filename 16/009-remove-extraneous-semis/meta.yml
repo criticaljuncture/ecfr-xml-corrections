@@ -1,0 +1,11 @@
+description: Title 16 parts 609.1-609.6 contained extra ; in the titles
+tags: structural
+status: approved
+issue_number: Feb. 22, 2024
+fr_doc: 89 FR 13267
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115604419/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-02-22'
+    last_issue_date: '2024-02-22'
