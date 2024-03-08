@@ -1,0 +1,24 @@
+--- data/titles/preprocessed/xml/40/2024/03/2024-03-07_6d643666.xml	2024-03-07 19:32:59.626313928 -0800
++++ tmp/title_version_40_2024-03-07_6d643666_preprocessed.xml	2024-03-07 19:35:15.850232759 -0800
+@@ -493519,8 +493519,8 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="" TYPE="APPENDIX">
+-<HEAD>Hydrogen Chloride and Hydrogen Fluoride Emission Limits for Indurating Furnaces
++<DIV9 N="Table 3 to Subpart RRRRR of Part 63" TYPE="APPENDIX" PATCHED="true">
++<HEAD>Table 3 to Subpart RRRRR of Part 63—Hydrogen Chloride and Hydrogen Fluoride Emission Limits for Indurating Furnaces
+ 
+ 
+ </HEAD>
+@@ -493543,8 +493543,8 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="" TYPE="APPENDIX">
+-<HEAD>Applicability of General Provisions to Subpart RRRRR of Part 63
++<DIV9 N="Table 4 to Subpart RRRRR of Part 63" TYPE="APPENDIX" PATCHED="true">
++<HEAD>Table 4 to Subpart RRRRR of Part 63–Applicability of General Provisions to Subpart RRRRR of Part 63
+ 
+ 
+ </HEAD>
