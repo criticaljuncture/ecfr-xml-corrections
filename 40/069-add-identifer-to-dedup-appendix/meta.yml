@@ -1,9 +1,9 @@
 description: Title 40 contained multiple appendices without identifiers.
 tags: structural
-status: needs-review
+status: approved
 issue_number: 2024-03-06
 fr_doc: 89 FR 16438
-reference: pending
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115636308/comments
 
 patches:
   '001':
