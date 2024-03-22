@@ -22,14 +22,14 @@
 @@ -108752,22 +108752,22 @@
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Waxes: Paraffin.
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">32. Aromatic Hydrocarbons Mixures</TD><TD align="left" class="gpotbl_cell">Alkyl acrylate-Vinyl pyridine copolymer in Toluene.
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl (C3–C4) benzenes:
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl (C3-C4) benzenes:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Butylbenzenes.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Cumene.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Propylbenzenes.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Butylbenzenes.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Cumene.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Propylbenzenes.
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl (C5–C8) benzenes:
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl (C5-C8) benzenes:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Amylbenzenes.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Heptylbenzenes.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Hexylbenzenes.
@@ -54,7 +54,7 @@
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Tridecylbenzenes.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Undecylbenzenes.
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkylbenzene mixtures (containing at least 50% of Toluene).
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkylbenzene, Alkylindane, Alkylindene mixture (each C12–C17).
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkylbenzene, Alkylindane, Alkylindene mixture (each C12-C17).
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Alkyl toluene.
 @@ -108842,62 +108842,62 @@
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Gasoline blending stock, alkylates
@@ -100,16 +100,16 @@
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Varnish Makers' and Painters'.
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Oil, fuel:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 1.
--</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 1–D.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 1-D.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 2.
--</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 2–D.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 2-D.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 4.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 5.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> No. 6.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 1.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 1–D.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 1-D.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 2.
-+</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 2–D.
++</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 2-D.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 4.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 5.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> No. 6.
@@ -196,13 +196,13 @@
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Mixed general acid oil.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Mixed hard acid oil.
 +</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell primary-indent-3"> Mixed soft acid oil.
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Barium long-chain (C11–C50) alkaryl sulfonate (alternately sulphonate).
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Barium long-chain alkyl (C8–C14) phenate sulfide (alternately sulphide).
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Barium long-chain (C11-C50) alkaryl sulfonate (alternately sulphonate).
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Barium long-chain alkyl (C8-C14) phenate sulfide (alternately sulphide).
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Benzenetricarboxylic acid trioctyl ester.
 @@ -108982,16 +108982,16 @@
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Cyclohexyl acetate.
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Decyl acetate.
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Dialkyl (C7–C13) phthalates:
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Dialkyl (C7-C13) phthalates:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Di-(2-ethylhexyl) phthalate.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diheptyl phthalate.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Dihexyl phthalate.
@@ -379,7 +379,7 @@
 @@ -109165,9 +109165,9 @@
  
  
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly (2–8)alkylene glycol monoalkyl (C1–C6) ether acetate:
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly (2-8)alkylene glycol monoalkyl (C1-C6) ether acetate:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol butyl ether acetate.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol ethyl ether acetate.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol methyl ether acetate.
@@ -563,7 +563,7 @@
 @@ -109412,21 +109412,21 @@
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Pentaethylene glycol methyl ether.
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polyalkylene glycols/Polyalkylene glycol monoalkyl ethers mixtures.
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly(2–8)alkylene glycol monoalkyl (C1–C6) ethers:
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly(2-8)alkylene glycol monoalkyl (C1-C6) ethers:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol butyl ether.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol ethyl ether.
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> Diethylene glycol n-hexyl ether.
@@ -598,7 +598,7 @@
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polyalkylene glycol butyl ether
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polyethylene glycol dimethyl ether
 @@ -109435,11 +109435,11 @@
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly (tetramethylene ether) glycols (molecular weight 950–1050).
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Poly (tetramethylene ether) glycols (molecular weight 950-1050).
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Polytetramethylene ether glycol.
  </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Propylene glycol monoalkyl ethers:
 -</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"> n-Propoxypropanol.

@@ -4,14 +4,14 @@
  
  </HEAD>
  
--<DIV5 N="1000–1019" TYPE="PART">
--<HEAD>Parts 1000–1019—General Provisions 
+-<DIV5 N="1000-1019" TYPE="PART">
+-<HEAD>Parts 1000-1019—General Provisions 
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1000–1019—General Provisions 
++<HED1>Parts 1000-1019—General Provisions 
 +</HED1>
 +
  
@@ -21,14 +21,14 @@
  </DIV5>
  
  
--<DIV5 N="1021–1029" TYPE="PART">
--<HEAD>Parts 1021–1029—Enforcement 
+-<DIV5 N="1021-1029" TYPE="PART">
+-<HEAD>Parts 1021-1029—Enforcement 
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1021–1029—Enforcement 
++<HED1>Parts 1021-1029—Enforcement 
 +</HED1>
 +
  
@@ -38,14 +38,14 @@
  </DIV5>
  
  
--<DIV5 N="1030–1039" TYPE="PART">
--<HEAD>Parts 1030–1039—Carriers Subject to Part I, Interstate Commerce Act 
+-<DIV5 N="1030-1039" TYPE="PART">
+-<HEAD>Parts 1030-1039—Carriers Subject to Part I, Interstate Commerce Act 
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1030–1039—Carriers Subject to Part I, Interstate Commerce Act 
++<HED1>Parts 1030-1039—Carriers Subject to Part I, Interstate Commerce Act 
 +</HED1>
 +
  
@@ -55,14 +55,14 @@
  </DIV5>
  
  
--<DIV5 N="1090–1099" TYPE="PART">
--<HEAD>Parts 1090–1099—Intermodal Transportation 
+-<DIV5 N="1090-1099" TYPE="PART">
+-<HEAD>Parts 1090-1099—Intermodal Transportation 
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1090–1099—Intermodal Transportation 
++<HED1>Parts 1090-1099—Intermodal Transportation 
 +</HED1>
 +
  
@@ -72,14 +72,14 @@
  
  </HEAD>
  
--<DIV5 N="1100–1129" TYPE="PART">
--<HEAD>Parts 1100–1129—Rules of General Applicability
+-<DIV5 N="1100-1129" TYPE="PART">
+-<HEAD>Parts 1100-1129—Rules of General Applicability
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1100–1129—Rules of General Applicability
++<HED1>Parts 1100-1129—Rules of General Applicability
 +</HED1>
 +
  
@@ -89,14 +89,14 @@
  </DIV5>
  
  
--<DIV5 N="1130–1149" TYPE="PART">
--<HEAD>Parts 1130–1149—Rate Procedures
+-<DIV5 N="1130-1149" TYPE="PART">
+-<HEAD>Parts 1130-1149—Rate Procedures
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1130–1149—Rate Procedures
++<HED1>Parts 1130-1149—Rate Procedures
 +</HED1>
 +
  
@@ -106,48 +106,48 @@
  </DIV5>
  
  
--<DIV5 N="1150–1176" TYPE="PART">
--<HEAD>Parts 1150–1176—Licensing Procedures
+-<DIV5 N="1150-1176" TYPE="PART">
+-<HEAD>Parts 1150-1176—Licensing Procedures
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1150–1176—Licensing Procedures
++<HED1>Parts 1150-1176—Licensing Procedures
 +</HED1>
 +
  
  
- <DIV5 N="1150–1159" TYPE="PART">
+ <DIV5 N="1150-1159" TYPE="PART">
 @@ -298058,12 +298044,10 @@
  </DIV5>
  
  
--<DIV5 N="1177–1199" TYPE="PART">
--<HEAD>Parts 1177–1199—Finance Procedures
+-<DIV5 N="1177-1199" TYPE="PART">
+-<HEAD>Parts 1177-1199—Finance Procedures
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1177–1199—Finance Procedures
++<HED1>Parts 1177-1199—Finance Procedures
 +</HED1>
 +
  
  
- <DIV5 N="1177–1179" TYPE="PART">
+ <DIV5 N="1177-1179" TYPE="PART">
 @@ -298302,12 +298286,10 @@
  </DIV5>
  
  
--<DIV5 N="1180–1189" TYPE="PART">
--<HEAD>Parts 1180–1189—Combinations and Ownership
+-<DIV5 N="1180-1189" TYPE="PART">
+-<HEAD>Parts 1180-1189—Combinations and Ownership
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>Parts 1180–1189—Combinations and Ownership
++<HED1>Parts 1180-1189—Combinations and Ownership
 +</HED1>
 +
  
@@ -157,14 +157,14 @@
  
  </HEAD>
  
--<DIV5 N="1200–1219" TYPE="PART">
--<HEAD>PARTS 1200–1219—UNIFORM SYSTEMS OF ACCOUNTS
+-<DIV5 N="1200-1219" TYPE="PART">
+-<HEAD>PARTS 1200-1219—UNIFORM SYSTEMS OF ACCOUNTS
 -
 -
 -</HEAD>
 -</DIV5>
 +
-+<HED1>PARTS 1200–1219—UNIFORM SYSTEMS OF ACCOUNTS
++<HED1>PARTS 1200-1219—UNIFORM SYSTEMS OF ACCOUNTS
 +</HED1>
 +
  
@@ -175,15 +175,15 @@
  
  
 -<DIV5 N="1240" TYPE="PART">
--<HEAD>PARTS 1240–1259—REPORTS
+-<HEAD>PARTS 1240-1259—REPORTS
 -
  
 -</HEAD>
 +
-+<HED1>PARTS 1240–1259—REPORTS</HED1>
++<HED1>PARTS 1240-1259—REPORTS</HED1>
  <NOTE>
  <HED>Note:</HED>
- <P>The report forms prescribed by parts 1240–1259 are available upon request from the Office of Economics, Surface Transportation Board, Washington, DC.</P></NOTE>
+ <P>The report forms prescribed by parts 1240-1259 are available upon request from the Office of Economics, Surface Transportation Board, Washington, DC.</P></NOTE>
 -</DIV5>
 +
  
@@ -193,15 +193,15 @@
  </DIV5>
  
  
--<DIV5 N="1280–1299" TYPE="PART">
--<HEAD>PARTS 1280–1299—CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
+-<DIV5 N="1280-1299" TYPE="PART">
+-<HEAD>PARTS 1280-1299—CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
 -
 -
 -</HEAD>
 -</DIV5>
 -
 +
-+<HED1>PARTS 1280–1299—CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
++<HED1>PARTS 1280-1299—CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
 +</HED1>
 +
  

@@ -25,7 +25,7 @@
 -</HED1></CITA>
 +</HED1>
 +</TEXT>
- <P>1–1 <I>Classification of carriers.</I> (a) For purposes of accounting and reporting, carriers are grouped into the following three classes:
+ <P>1-1 <I>Classification of carriers.</I> (a) For purposes of accounting and reporting, carriers are grouped into the following three classes:
  </P>
  <P>Class I: Carriers having annual carrier operating revenues of $250 million or more after applying the railroad revenue deflator formula shown in Note A.
 @@ -308484,9 +308488,10 @@
@@ -38,9 +38,9 @@
  <HED1>INSTRUCTIONS FOR PROPERTY ACCOUNTS
 -</HED1></CITA>
 +</HED1></TEXT>
- <P>2–1 <I>Items to be charged.</I> (a) To the road and equipment property accounts shall be charged the cost of purchasing land, the cost of purchasing and constructing buildings, facilities and equipment, and the cost of additions and betterments to property, <I>Cost</I> means the amount of cash disbursed, or the fair value of other assets distributed, or the present value of amounts to be paid. Where the fair market value of resources given up (assets, services or items of stockholder's equity) is not clearly determinable, the cost may be determined by the fair market value of the resources acquired. The carrier shall be prepared to furnish the Board with the particulars of its method of determining cash value when the consideration is other than monetary. The amount of liabilities incurred with suppliers in the normal course of business, which are due in customary trade terms not exceeding approximately one year, shall be recorded at the maturity value. Acquisition date is the date title passes to the carrier.
+ <P>2-1 <I>Items to be charged.</I> (a) To the road and equipment property accounts shall be charged the cost of purchasing land, the cost of purchasing and constructing buildings, facilities and equipment, and the cost of additions and betterments to property, <I>Cost</I> means the amount of cash disbursed, or the fair value of other assets distributed, or the present value of amounts to be paid. Where the fair market value of resources given up (assets, services or items of stockholder's equity) is not clearly determinable, the cost may be determined by the fair market value of the resources acquired. The carrier shall be prepared to furnish the Board with the particulars of its method of determining cash value when the consideration is other than monetary. The amount of liabilities incurred with suppliers in the normal course of business, which are due in customary trade terms not exceeding approximately one year, shall be recorded at the maturity value. Acquisition date is the date title passes to the carrier.
  </P>
- <P>(b) The cost of road and equipment purchased under a plan involving other deferred payments (debt or capital lease) shall be recorded at the discounted present value of the payment, net of executory costs such as insurance, maintenance, and taxes. The interest rate used to discount the payments should be the prevailing market rate for similar debt instruments of issues with similar credit ratings. In any event, the rate used for valuation purposes will normally be at least equal to the rate at which the carrier can obtain financing of a similar nature from other sources at the date of the transaction (the carrier's incremental borrowing rate). In the case of a capital lease, when it is practical to ascertain the implicit rate computed by the lessor, and that rate is less than the carrier's incremental borrowing rate, the carrier should use the implicit rate. Acquisition date for a capital lease is the date the lease agreement is signed. If the property covered by the lease has yet to be constructed or has not been acquired by the lessor at the date the lease agreement or commitment is signed, the acquisition date shall be the date the property under construction is completed or the date the property not yet acquired is acquired by the lessor. (See Instruction 2–20.)
+ <P>(b) The cost of road and equipment purchased under a plan involving other deferred payments (debt or capital lease) shall be recorded at the discounted present value of the payment, net of executory costs such as insurance, maintenance, and taxes. The interest rate used to discount the payments should be the prevailing market rate for similar debt instruments of issues with similar credit ratings. In any event, the rate used for valuation purposes will normally be at least equal to the rate at which the carrier can obtain financing of a similar nature from other sources at the date of the transaction (the carrier's incremental borrowing rate). In the case of a capital lease, when it is practical to ascertain the implicit rate computed by the lessor, and that rate is less than the carrier's incremental borrowing rate, the carrier should use the implicit rate. Acquisition date for a capital lease is the date the lease agreement is signed. If the property covered by the lease has yet to be constructed or has not been acquired by the lessor at the date the lease agreement or commitment is signed, the acquisition date shall be the date the property under construction is completed or the date the property not yet acquired is acquired by the lessor. (See Instruction 2-20.)
 @@ -309238,8 +309243,10 @@
  </P>
  <CITA TYPE="N">[49 FR 2255, Jan. 19, 1984, as amended at 52 FR 4321, Feb. 11, 1987]
@@ -50,7 +50,7 @@
  <HED1>INSTRUCTIONS FOR MAINTENANCE EXPENSES
 -</HED1></CITA>
 +</HED1></TEXT>
- <P>3–1 <I>Items to be charged.</I> (a) The accounts provided for maintenance of road property and of equipment are designed to show the cost of repairs and also the loss through depreciation of the property used in transportation operations, including expenses resulting from ordinary wear and tear of service, exposure to the elements, inadequacy, obsolesence, or other depreciation, or from accident, fire, flood, or other casualty.
+ <P>3-1 <I>Items to be charged.</I> (a) The accounts provided for maintenance of road property and of equipment are designed to show the cost of repairs and also the loss through depreciation of the property used in transportation operations, including expenses resulting from ordinary wear and tear of service, exposure to the elements, inadequacy, obsolesence, or other depreciation, or from accident, fire, flood, or other casualty.
  </P>
  <P>(b) These accounts shall include the cost of labor, materials and supplies, work-train service, floating equipment work service, special machine service, contract work, privileges, protection from casualties, and other analogous items of expense in connection with the maintenance of the plant used in railway service. The cost of materials and supplies, which shall include small tools, shall include the cost at the point of free delivery plus freight charges of foreign lines, and the costs of inspection and loading assumed by the carrier; also a proportion of store expenses. Such costs shall not include expenses of transportation over the carrier's line. Royalties for patent rights on mechanical appliances used in repairs of equipment shall be included in the cost of the repairs. The cost of boarding, traveling, and other incidental expenses of employees shall be included in the accounts to which the pay of the employees is chargeable, except where otherwise specified in the text of the accounts. In calculating the cost of materials used proper allowance shall be made for the value of unused portions and of cuttings, turnings, borings, etc., and for the value of the material recovered from property repaired and from temporary tracks, scaffolding, cofferdams, and other temporary structures used in repair work.
 @@ -309250,8 +309257,11 @@
@@ -63,7 +63,7 @@
  <HED1>INSTRUCTIONS FOR DEPRECIATION ACCOUNTS
 -</HED1></CITA>
 +</HED1></TEXT>
- <P>4–1 <I>Method.</I> (a) There shall be charged monthly to operating expenses or other appropriate accounts and credited to account 735, <I>Accumulated depreciation; Road and equipment property,</I> during the service life of depreciable road and equipment property, includable in accounts classed as depreciable, amounts which will approximate the loss in service value not restored by current repairs or covered by insurance. The charges for accruing depreciation currently shall be computed in conformity with the group plan by applying to the cost of property such percentage rates as will distribute the service value by the straight-line method in equal annual charges to operating expenses or other accounts during the estimated life of the property. In the case of track accounts 8, 9 and 11, service value shall reflect net salvage value. For road property, the cost shall be original cost or estimated original cost, as used in the valuation records, adjusted to current date. If a carrier submits proof that the actual cost of depreciable property is substantially different from cost figures in the valuation records, the carrier may, with the approval of the Board, use such cost figures as the depreciation base.
+ <P>4-1 <I>Method.</I> (a) There shall be charged monthly to operating expenses or other appropriate accounts and credited to account 735, <I>Accumulated depreciation; Road and equipment property,</I> during the service life of depreciable road and equipment property, includable in accounts classed as depreciable, amounts which will approximate the loss in service value not restored by current repairs or covered by insurance. The charges for accruing depreciation currently shall be computed in conformity with the group plan by applying to the cost of property such percentage rates as will distribute the service value by the straight-line method in equal annual charges to operating expenses or other accounts during the estimated life of the property. In the case of track accounts 8, 9 and 11, service value shall reflect net salvage value. For road property, the cost shall be original cost or estimated original cost, as used in the valuation records, adjusted to current date. If a carrier submits proof that the actual cost of depreciable property is substantially different from cost figures in the valuation records, the carrier may, with the approval of the Board, use such cost figures as the depreciation base.
  </P>
  <P>(b) The term group plan means the plan under which depreciation charges are accrued upon the basis of the cost of depreciable property includable in accounts classed as depreciable using the service lives of the individual depreciable units in the accounts and properly weighing to determine the composite annual rate of depreciation.
 @@ -309391,8 +309401,10 @@
@@ -75,7 +75,7 @@
  <HED1>INSTRUCTIONS FOR INCOME AND BALANCE SHEET ACCOUNTS
 -</HED1></P>
 +</HED1></TEXT>
- <P>5–1 <I>Current assets.</I> (a) In the group of accounts designated as current assets shall be included cash, those assets which are readily convertible into cash or are held for current use in operations, current claims against others and amounts accruing to the carrier which are subject to settlement in the ordinary course of business within one year. There shall not be included in this group of accounts any amount the collection of which is not reasonably assured within one year because of the known financial conditions of the debtor or otherwise. Such items shall be included in account 741, <I>Other assets,</I> at an amount not in excess of a reasonable estimate of realizable value. Items of current character but of doubtful value shall be written down or written off by charge to account 63–61–00, <I>General—Uncollectible accounts—General and administrative,</I> or account 553, <I>Uncollectible accounts,</I> as appropriate. Adjustment of these items of doubtful value shall be made by direct reduction of the asset account in which such items are carried or by provision in account 709.5, <I>Allowance for uncollectible accounts,</I> for the estimated uncollectible amount.
+ <P>5-1 <I>Current assets.</I> (a) In the group of accounts designated as current assets shall be included cash, those assets which are readily convertible into cash or are held for current use in operations, current claims against others and amounts accruing to the carrier which are subject to settlement in the ordinary course of business within one year. There shall not be included in this group of accounts any amount the collection of which is not reasonably assured within one year because of the known financial conditions of the debtor or otherwise. Such items shall be included in account 741, <I>Other assets,</I> at an amount not in excess of a reasonable estimate of realizable value. Items of current character but of doubtful value shall be written down or written off by charge to account 63-61-00, <I>General—Uncollectible accounts—General and administrative,</I> or account 553, <I>Uncollectible accounts,</I> as appropriate. Adjustment of these items of doubtful value shall be made by direct reduction of the asset account in which such items are carried or by provision in account 709.5, <I>Allowance for uncollectible accounts,</I> for the estimated uncollectible amount.
  </P>
  <P>(b) The carrier shall transfer the estimated realizable value of obsolete material to account 741, <I>Other assets,</I> equitably distribute the loss due to obsolescence among the accounts ordinarily chargeable for such classes of material, and concurrently credit account 712, <I>Material and Supplies.</I>
 @@ -309500,8 +309512,10 @@
@@ -87,9 +87,9 @@
  <HED1>INSTRUCTIONS FOR CLEARING ACCOUNTS
 -</HED1></CITA>
 +</HED1></TEXT>
- <P>6–1 <I>Items to be charged.</I> In recognition of the fact that certain expenditures incident to the construction and the operation of property are not chargeable directly to any particular property investment or expense account, clearing accounts have been provided for the purpose of securing an equitable distribution of such items to the proper primary accounts.
+ <P>6-1 <I>Items to be charged.</I> In recognition of the fact that certain expenditures incident to the construction and the operation of property are not chargeable directly to any particular property investment or expense account, clearing accounts have been provided for the purpose of securing an equitable distribution of such items to the proper primary accounts.
  </P>
- <P>6–2 <I>Material and stationery store expenses.</I> (a) To clearing accounts called <I>Material store expenses</I> and <I>Stationery store expenses</I> shall be charged expenses in connection with purchasing, handling and storing material and stationery in and distributing it from the company's storehouses. Including the pay of officers and employees in the purchasing and store departments and their traveling, office, and other expenses; also expenses, including wages, fuel, and supplies, of operating switching locomotives when exclusively assigned to the service of switching at material storehouses. (Expenses of incidental switching at material yards by locomotives in regular switching service shall be charged to the appropriate transportation accounts.) The pay and expenses of men employed in purchasing or inspecting a single class of material, such as ties, shall be added as store expenses to the cost of that particular material.
+ <P>6-2 <I>Material and stationery store expenses.</I> (a) To clearing accounts called <I>Material store expenses</I> and <I>Stationery store expenses</I> shall be charged expenses in connection with purchasing, handling and storing material and stationery in and distributing it from the company's storehouses. Including the pay of officers and employees in the purchasing and store departments and their traveling, office, and other expenses; also expenses, including wages, fuel, and supplies, of operating switching locomotives when exclusively assigned to the service of switching at material storehouses. (Expenses of incidental switching at material yards by locomotives in regular switching service shall be charged to the appropriate transportation accounts.) The pay and expenses of men employed in purchasing or inspecting a single class of material, such as ties, shall be added as store expenses to the cost of that particular material.
 @@ -309526,12 +309540,16 @@
  </P>
  <P>(e) The accounting for the maintenance of transmission systems and distribution systems shall be in accordance with instructions pertaining to power plant operations.
@@ -191,7 +191,7 @@
 @@ -311720,8 +311753,11 @@
  <NOTE>
  <HED>Note B:</HED>
- <P>No debits shall be made to this account representing amounts creditable by the operating company to primary accounts 101–103, 105 and 110.</P></NOTE>
+ <P>No debits shall be made to this account representing amounts creditable by the operating company to primary accounts 101-103, 105 and 110.</P></NOTE>
 +
 +<TEXT>
  <HED1>OPERATING EXPENSE ACCOUNTS
@@ -220,47 +220,47 @@
  
 +</HED1></TEXT>
 +
- <HD5>Control—10–00–00
+ <HD5>Control—10-00-00
 -</HD5></HED1>
 +</HD5>
  <P>This account may be used as a control account for all accounts in the <E T="04">Personnel</E> Series: Salaries and Wages. Fringe Benefits Not Included in Compensation.
  
- <HD5>Salaries and Wages—Control 11–00–00
+ <HD5>Salaries and Wages—Control 11-00-00
 @@ -312878,10 +312922,13 @@
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Public Relations and Advertising</TD><TD align="right" class="gpotbl_cell">41–61–93
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Research and Development</TD><TD align="right" class="gpotbl_cell">41–61–94
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Other—Other</TD><TD align="right" class="gpotbl_cell">41–61–99</TD></TR></TABLE></DIV></DIV></EXTRACT>
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Public Relations and Advertising</TD><TD align="right" class="gpotbl_cell">41-61-93
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Research and Development</TD><TD align="right" class="gpotbl_cell">41-61-94
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Other—Other</TD><TD align="right" class="gpotbl_cell">41-61-99</TD></TR></TABLE></DIV></DIV></EXTRACT>
 +
 +<TEXT> 
  <HED1>Claims and Insurance
  
 +</HED1></TEXT>
- <HD5>Control—50–00–00
+ <HD5>Control—50-00-00
 -</HD5></HED1>
 +</HD5>
  <P>This account may be used as a control account for all accounts in the <E T="04">Claims and Insurance</E> series: Loss and Damage Claims, Other Casualties, Insurance.
  
- <HD5>Loss and Damage Claims—Control—51–00–00
+ <HD5>Loss and Damage Claims—Control—51-00-00
 @@ -312925,10 +312972,14 @@
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—Transportation—Specialized Services</TD><TD align="right" class="gpotbl_cell">*53–34–00
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—Transportation—Administrative Support</TD><TD align="right" class="gpotbl_cell">53–35–00
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—General and Administrative</TD><TD align="right" class="gpotbl_cell">53–61–00</TD></TR></TABLE></DIV></DIV>
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—Transportation—Specialized Services</TD><TD align="right" class="gpotbl_cell">*53-34-00
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—Transportation—Administrative Support</TD><TD align="right" class="gpotbl_cell">53-35-00
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—General and Administrative</TD><TD align="right" class="gpotbl_cell">53-61-00</TD></TR></TABLE></DIV></DIV>
 +
 +<TEXT>
  <HED1>General
  
 +</HED1></TEXT>
 +
- <HD5>Control—60–00–00
+ <HD5>Control—60-00-00
 -</HD5></HED1>
 +</HD5>
  <P>This account may be used as a control account for all accounts in the <E T="04">General</E> series: Other Expenses, Depreciation, Uncollectible Accounts, Property Taxes, Other Taxes.
  
- <HD5>Other Expenses—Control—61–00–00
+ <HD5>Other Expenses—Control—61-00-00
 @@ -313138,12 +313189,16 @@
  <P>This account includes taxes on gross receipts, franchise fees, excise taxes, and similar items. This account excludes property taxes and taxes chargeable as employee benefits. The total of this account shall be charged to the following account:
  </P>
- <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TD align="left" class="gpotbl_cell" scope="row">Other Taxes—General and Administrative</TD><TD align="right" class="gpotbl_cell">65–61–00</TD></TR></TABLE></DIV></DIV>
+ <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TD align="left" class="gpotbl_cell" scope="row">Other Taxes—General and Administrative</TD><TD align="right" class="gpotbl_cell">65-61-00</TD></TR></TABLE></DIV></DIV>
 +
 +<TEXT>
  <HED1>OPERATING EXPENSE ACCOUNTS
@@ -269,7 +269,7 @@
 +
  <HD2>Section 2—Activity/Subactivity Explanations
  
- <HD5>Way and Structures Activity—(XX–10–XX)
+ <HD5>Way and Structures Activity—(XX-10-XX)
 -</HD5></HD2></HED1>
 +</HD5></HD2>
  <P>(A) <I>Way and Structures</I> activity refers to repairing, maintaining, leasing, renting, depreciating, and retiring right-of-way and trackage, structures, buildings, and facilities. It includes all natural expense object subclassifications such as salaries and wages, fringe benefits, material and supplies, lease rentals, purchased services, casualties, depreciation and retirements, where such objects are in the performance or support of the above functions. Specifically included are all natural expense objects in the performance of the above described functions on property of the type included in property accounts 2 through 45, excluding 44, whether such property is owned or leased. It includes the costs of operating work trains in support of this activity.
@@ -309,7 +309,7 @@
  <HD5>501 Railway operating revenues.
 -</HD5></HED1></P>
 +</HD5>
- <P>This account is a summarization of Railway Operating Revenue Accounts 101 to 122. It excludes transfers from governmental authorities except when the transfer payment is for specific services for transporting property or persons by rail line other than commuter operations and local rail service subsidies granted under authority of the Railroad Revitalization and Regulatory Reform Act of 1976 [See Instruction 1–15(e)(2)].
+ <P>This account is a summarization of Railway Operating Revenue Accounts 101 to 122. It excludes transfers from governmental authorities except when the transfer payment is for specific services for transporting property or persons by rail line other than commuter operations and local rail service subsidies granted under authority of the Railroad Revitalization and Regulatory Reform Act of 1976 [See Instruction 1-15(e)(2)].
  </P>
  <CITA TYPE="N">[52 FR 4346, Feb. 11, 1987]
 @@ -313878,12 +313939,17 @@
@@ -415,16 +415,16 @@
 @@ -317058,13 +317135,13 @@
  
  
- <DIV5 N="1202–1219" TYPE="PART">
--<HEAD>PARTS 1202–1219 [RESERVED]
-+<HEAD>PARTS 1202–1219 [RESERVED]</HEAD>
+ <DIV5 N="1202-1219" TYPE="PART">
+-<HEAD>PARTS 1202-1219 [RESERVED]
++<HEAD>PARTS 1202-1219 [RESERVED]</HEAD>
  
  
  
--<HED1>PARTS 1220–1239—PRESERVATION OF RECORDS
+-<HED1>PARTS 1220-1239—PRESERVATION OF RECORDS
 -</HED1></HEAD>
  </DIV5>
-+<HED1>PARTS 1220–1239—PRESERVATION OF RECORDS
++<HED1>PARTS 1220-1239—PRESERVATION OF RECORDS
 +</HED1>
  
  <NOTE>
