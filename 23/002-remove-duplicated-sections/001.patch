@@ -10,7 +10,7 @@
 -
 -<DIV8 N="§ 680.108" TYPE="SECTION">
 -<HEAD>§ 680.108   Interoperability of electric vehicle charging infrastructure.</HEAD>
--<P>(a) <I>Charger-to-EV communication.</I> Chargers must conform to ISO 15118–3 and must have hardware capable of implementing both ISO 15118–2 and ISO 15118–20. By February 28, 2024, charger software must conform to ISO 15118–2 and be capable of Plug and Charge. Conformance testing for charger software and hardware should follow ISO 15118–4 and ISO 15118–5, respectively.
+-<P>(a) <I>Charger-to-EV communication.</I> Chargers must conform to ISO 15118-3 and must have hardware capable of implementing both ISO 15118-2 and ISO 15118-20. By February 28, 2024, charger software must conform to ISO 15118-2 and be capable of Plug and Charge. Conformance testing for charger software and hardware should follow ISO 15118-4 and ISO 15118-5, respectively.
 -</P>
 -<P>(b) <I>Charger-to-Charger-Network Communication.</I> Chargers must conform to Open Charge Point Protocol (OCPP) 1.6J or higher. By February 28, 2024, chargers must conform to OCPP 2.0.1.
 -</P>
@@ -193,7 +193,7 @@
 -<HEAD>§ 680.118   Other Federal requirements.</HEAD>
 -<P>All applicable Federal statutory and regulatory requirements apply to the EV charger projects. These requirements include, but are not limited to:
 -</P>
--<P>(a) All statutory and regulatory requirements that are applicable to funds apportioned under chapter 1 of Title 23, United States Code, and the requirements of 2 CFR part 200 apply. This includes the applicable requirements of 23, United States Code, and Title 23, Code of Federal Regulations, such as the applicable Buy America requirements at 23 U.S.C. 313 and Build America, Buy America Act (Pub. L. No 117–58, div. G sections 70901–70927).
+-<P>(a) All statutory and regulatory requirements that are applicable to funds apportioned under chapter 1 of Title 23, United States Code, and the requirements of 2 CFR part 200 apply. This includes the applicable requirements of 23, United States Code, and Title 23, Code of Federal Regulations, such as the applicable Buy America requirements at 23 U.S.C. 313 and Build America, Buy America Act (Pub. L. No 117-58, div. G sections 70901-70927).
 -</P>
 -<P>(b) As provided at 23 U.S.C. 109(s)(2), projects to install EV chargers are treated as if the project is located on a Federal-aid highway. As a project located on a Federal-aid highway, 23 U.S.C. 113 applies and Davis Bacon Federal wage rate requirements included at subchapter IV of chapter 31 of Title 40, U.S.C., must be paid for any project funded with NEVI Formula Program funds.
 -</P>
