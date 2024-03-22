@@ -1,0 +1,13 @@
+--- data/titles/preprocessed/xml/40/2022/08/2022-08-25_dfe70700.xml	2024-03-23 17:32:55.683735953 -0700
++++ tmp/title_version_40_2022-08-25_dfe70700_preprocessed.xml	2024-03-23 17:34:24.468310600 -0700
+@@ -868890,8 +868890,8 @@
+ </DIV8>
+ 
+ 
+-<DIV9 N="Appendix I" TYPE="APPENDIX">
+-<HEAD>Appendix I to Subparts D-E of Part 2 - Motorcycle Noise Emission Test Procedures [Note]
++<DIV9 N="Appendix I to Subparts D-E of Part 205 [Note]" TYPE="APPENDIX" PATCHED="true">
++<HEAD>Appendix I to Subparts D-E of Part 205 - Motorcycle Noise Emission Test Procedures [Note]
+ </HEAD>
+ <EDNOTE>
+ <HED>Editorial Note:</HED><PSPACE>The text of appendix I follows subpart E.</PSPACE></EDNOTE>
