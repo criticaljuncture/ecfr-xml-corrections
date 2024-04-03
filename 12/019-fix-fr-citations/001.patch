@@ -1,0 +1,53 @@
+--- data/titles/preprocessed/xml/12/2024/04/2024-04-02_8c3c1788.xml	2024-04-03 09:46:34.426336064 -0700
++++ tmp/title_version_12_2024-04-02_8c3c1788_preprocessed.xml	2024-04-03 10:30:02.827908752 -0700
+@@ -326126,7 +326126,7 @@
+ </P>
+ <P><I>Wrong-way risk</I> means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
+ </P>
+-<CITA TYPE="N">[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022; 88 FR 83474, Nov. 30, 2024]
++<CITA TYPE="N">[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022; 88 FR 83474, Nov. 30, 2023]
+ 
+ 
+ </CITA>
+@@ -326210,7 +326210,7 @@
+ </P>
+ <P>(4) <I>Prudential standard.</I> If the Director makes a determination under paragraph (d)(3) of this section, § 1240.11 will be a prudential standard adopted under section 1313B of the Safety and Soundness Act (12 U.S.C. 4513b) until the compliance date of § 1240.10.
+ </P>
+-<CITA TYPE="N">[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 33429, June 2, 2022; 88 FR 83476, Nov. 30, 2024]
++<CITA TYPE="N">[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 33429, June 2, 2022; 88 FR 83476, Nov. 30, 2023]
+ 
+ 
+ </CITA>
+@@ -326749,10 +326749,12 @@
+ </P>
+ <P>(C) Section 515 Rural Rental Housing Loans; or
+ </P>
+-<P>(D) State/Local affordable housing programs that require the provision of affordable housing for the life of the loan.88 FR 82198, Dec. 17, 2020, as amended at 88 FR 83476, Nov. 30, 2024]
++<P>(D) State/Local affordable housing programs that require the provision of affordable housing for the life of the loan.
++</P>
+ 
++<CITA TYPE="N">[88 FR 82198, Dec. 17, 2020, as amended at 88 FR 83476, Nov. 30, 2023]
++</CITA>
+ 
+-</P>
+ </DIV8>
+ 
+ 
+@@ -327158,7 +327160,7 @@
+ </P>
+ <P>(2) <I>After forbearance.</I> Notwithstanding the definition of “past due” under paragraph (a) of this section, any period of time in which a single-family mortgage exposure was past due while subject to a COVID-19-related forbearance is to be disregarded for the purpose of assigning a risk weight under this section if the entire amount past due was repaid upon the termination of the COVID-19-related forbearance.
+ </P>
+-<CITA TYPE="N">[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022; 88 FR 83476, Nov. 30, 2024]
++<CITA TYPE="N">[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022; 88 FR 83476, Nov. 30, 2023]
+ 
+ 
+ </CITA>
+@@ -327306,7 +327308,7 @@
+ <EXTRACT>
+ <P>
+ <SU>1</SU> If a multifamily mortgage exposure is collateralized by multiple properties, calculate a weighted average government subsidy multiplier by assigning a 0.6 multiplier to each property with a government subsidy and 1.0 multiplier to each property without a government subsidy, and using the total number of units in a property as weights.</P></EXTRACT>
+-<CITA TYPE="N"> 85 FR 82198, Dec. 17, 2020, as amended at 88 FR 83478, Nov. 30, 2024]
++<CITA TYPE="N"> 85 FR 82198, Dec. 17, 2020, as amended at 88 FR 83478, Nov. 30, 2023]
+ 
+ 
+ 

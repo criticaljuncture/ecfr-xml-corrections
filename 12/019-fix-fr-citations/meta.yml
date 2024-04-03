@@ -1,0 +1,11 @@
+description: Title 12 contained FR citations that were in 2024
+tags: editorial
+status: approved
+issue_number: 2024-04-01
+fr_doc: 88 FR 8347x
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115702496/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-04-01'
+    last_issue_date: '2024-04-01'
