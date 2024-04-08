@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/07/2017/01/2017-01-07_9df36fb4.xml	2024-04-08 15:48:53.128465039 -0700
++++ tmp/title_version_7_2017-01-07_9df36fb4_preprocessed.xml	2024-04-08 15:49:14.385983147 -0700
+@@ -142776,8 +142776,6 @@
+ <DIV7 N="20" TYPE="SUBJGRP">
+ <HEAD>Rules and Regulations</HEAD>
+ 
+-</DIV7>
+-
+ <CROSSREF>
+ <HED>Cross Reference:</HED>
+ <P>For rules and regulations governing the importation of cotton and cottonseed products into the United States, see §§ 319.8 to 319.8-27 of this chapter.</P></CROSSREF>
+@@ -142855,6 +142853,8 @@
+ </P>
+ </DIV8>
+ 
++</DIV7>
++
+ </DIV6>
+ 
+ 

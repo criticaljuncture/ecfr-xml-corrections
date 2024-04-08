@@ -1,0 +1,11 @@
+description: Subject group preceeding CROSSREF closes early
+tags: structural
+status: approved
+issue_number: 2017-01-01
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115714593/comments#436990538
+
+patches:
+  '001':
+    first_issue_date: '2017-01-01'
+    last_issue_date: '2100-01-01'
