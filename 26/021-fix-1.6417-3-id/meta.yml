@@ -1,0 +1,11 @@
+description: Fix 1.6417-3 identifier transposition
+tags: editoral
+status: approved
+issue_number: 2024-04-11
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115730743/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-03-11'
+    last_issue_date: '2024-04-03'
