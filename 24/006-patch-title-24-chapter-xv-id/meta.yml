@@ -1,8 +1,8 @@
 description: 'Patch Title 24 Reserved Chapter XV id'
 tags: 'transcription-error'
 status: 'needs-approval'
-issue_number: 310 
-fr_doc: 
+issue_number: 310
+fr_doc:
 reference:
 
 patches:
@@ -11,4 +11,4 @@ patches:
     end_date: '2023-03-28'
   '002':
     first_issue_date: '2023-03-28'
-    last_issue_date:  '2100-01-01'
+    last_issue_date: '2024-04-15'
