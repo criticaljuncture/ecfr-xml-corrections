@@ -1,0 +1,11 @@
+description: 15v3 AMDDATE
+tags: amendment-date
+status: needs-approval
+issue_number: 2024-04-30
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115773853/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-04-30'
+    last_issue_date: '2024-04-30'
