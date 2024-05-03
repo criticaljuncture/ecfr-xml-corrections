@@ -1,0 +1,19 @@
+--- data/titles/preprocessed/xml/02/2024/05/2024-05-02_035daeda.xml	2024-05-02 17:24:00.665957581 -0700
++++ tmp/title_version_2_2024-05-02_035daeda_preprocessed.xml	2024-05-02 17:24:27.288146302 -0700
+@@ -29246,14 +29246,11 @@
+ 
+ <HEAD> CHAPTER XVI—XXX</HEAD>
+ 
+-<DIV5 N="" TYPE="PART">
+-<HEAD>1600
++<DIV5 N="1600" TYPE="PART">
++<HEAD>Part 1600 - XXX
+ </HEAD>
+ 
+-<DIV8 N=" " TYPE="SECTION">
+-<HEAD>     </HEAD>
+ <XREF ID="20240501" REFID="1">Link to an amendment published at 89 FR 34953, May 1, 2024.</XREF>
+-</DIV8>
+ 
+ </DIV5>
+ 
