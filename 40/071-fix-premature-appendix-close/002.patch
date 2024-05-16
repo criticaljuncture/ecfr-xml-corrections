@@ -1,0 +1,31 @@
+--- data/titles/preprocessed/xml/40/2024/05/2024-05-10_5659426c.xml	2024-05-16 08:41:02.904960916 -0700
++++ tmp/title_version_40_2024-05-10_5659426c_preprocessed.xml	2024-05-16 08:42:54.684867642 -0700
+@@ -262815,16 +262815,13 @@
+ <sup>0.0144</sup>Y
+ <sup>0.0128</sup> or 90.8, whichever is smaller</TD><TD align="right" class="gpotbl_cell">90.8</TD><TD align="right" class="gpotbl_cell">90.8
+ </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Y &lt; 10</TD><TD align="right" class="gpotbl_cell">74.0</TD><TD align="left" class="gpotbl_cell">74.0</TD><TD align="right" class="gpotbl_cell">74.0</TD><TD align="right" class="gpotbl_cell">74.0</TD></TR></TABLE></DIV></DIV>
+-</DIV9>
+-
+-</DIV6>
+-
+-<EXTRACT>
+ <FP-2>X = The sulfur feed rate from the sweetening unit (<I>i.e.,</I> the H<E T="52">2</E>S in the acid gas), expressed as sulfur, Mg/D(LT/D), rounded to one decimal place.
+ </FP-2>
+ <FP-2>Y = The sulfur content of the acid gas from the sweetening unit, expressed as mole percent H<E T="52">2</E>S (dry basis) rounded to one decimal place.
+ </FP-2>
+-<FP-2>Z = The minimum required sulfur dioxide (SO<E T="52">2</E>) emission reduction efficiency, expressed as percent carried to one decimal place. Z<E T="52">i</E> refers to the reduction efficiency required at the initial performance test. Z<E T="52">c</E> refers to the reduction efficiency required on a continuous basis after compliance with Z<E T="52">i</E> has been demonstrated.</FP-2></EXTRACT>
++<FP-2>Z = The minimum required sulfur dioxide (SO<E T="52">2</E>) emission reduction efficiency, expressed as percent carried to one decimal place. Z<E T="52">i</E> refers to the reduction efficiency required at the initial performance test. Z<E T="52">c</E> refers to the reduction efficiency required on a continuous basis after compliance with Z<E T="52">i</E> has been demonstrated.</FP-2>
++
++</DIV9>
+ 
+ <DIV9 N="" TYPE="APPENDIX">
+ <HEAD>Table 5 to Subpart OOOO<E T="01">b</E> of Part 60—Applicability of General Provisions to Subpart OOOO<E T="01">b</E>
+@@ -262855,6 +262852,8 @@
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">§ 60.19</TD><TD align="left" class="gpotbl_cell">General notification and reporting requirement</TD><TD align="left" class="gpotbl_cell">Yes</TD><TD align="left" class="gpotbl_cell"/></TR></TABLE></DIV></DIV>
+ </DIV9>
+ 
++</DIV6>
++
+ 
+ <DIV6 N="OOOOc" TYPE="SUBPART">
+ <HEAD>Subpart OOOOc—Emissions Guidelines for Greenhouse Gas Emissions From Existing Crude Oil and Natural Gas Facilities</HEAD>
