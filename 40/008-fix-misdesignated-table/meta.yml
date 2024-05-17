@@ -11,7 +11,7 @@ patches:
     end_date: '2024-04-30'
   '003':
     start_date: '2024-05-01'
-    end_date: '2024-05-14'
+    end_date: '2024-05-08'
   '004':
-    start_date: '2024-05-15'
+    start_date: '2024-05-09'
     end_date: '2100-01-01'
