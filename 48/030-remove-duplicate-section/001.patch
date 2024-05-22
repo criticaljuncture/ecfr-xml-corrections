@@ -1,0 +1,14 @@
+--- data/titles/preprocessed/xml/48/2024/05/2024-05-21_8583f093.xml	2024-05-22 07:19:32.106771264 -0700
++++ tmp/title_version_48_2024-05-21_8583f093_preprocessed.xml	2024-05-22 07:20:27.353601353 -0700
+@@ -182873,11 +182873,6 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="752.204-72" TYPE="SECTION">
+-<HEAD>752.204-72   Access to USAID facilities and USAID's information systems.</HEAD>
+-</DIV8>
+-
+-
+ <DIV8 N="§ 752.204-72" TYPE="SECTION">
+ <HEAD>§ 752.204-72   Access to USAID Facilities and USAID's Information Systems.</HEAD>
+ <XREF ID="20240123" REFID="56">Link to an amendment published at 89 FR 4209, Jan. 23, 2024.</XREF>

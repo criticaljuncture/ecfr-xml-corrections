@@ -1,0 +1,11 @@
+description: Title 48 had duplicate section
+tags: structural
+status: approved
+issue_number: 2024-05-20
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/P115822380
+
+patches:
+  '001':
+    first_issue_date: '2024-05-20'
+    last_issue_date: '2024-05-20'
