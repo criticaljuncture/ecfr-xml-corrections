@@ -1,0 +1,14 @@
+--- data/titles/preprocessed/xml/48/2024/05/2024-05-23_1154d431.xml	2024-05-24 08:10:52.200776386 -0700
++++ tmp/title_version_48_2024-05-23_1154d431_preprocessed.xml	2024-05-24 08:21:39.539208845 -0700
+@@ -349,11 +349,7 @@
+ 
+ 
+ </P>
+-</DIV8>
+ 
+-
+-<DIV8 N="1.106" TYPE="SECTION">
+-<HEAD>1.106   OMB approval under the Paperwork Reduction Act.</HEAD><STARS/>
+ <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">FAR segment
+ </TH><TH class="gpotbl_colhed" scope="col">OMB control No.
+ </TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">14.205</TD><TD align="left" class="gpotbl_cell">9000-0037.
