@@ -1,0 +1,11 @@
+description: Fixup for unique issue dates
+tags: structural
+status: needs-review
+issue_number: 100
+fr_doc: 83993
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/1075
+
+patches:
+  '001':
+    first_issue_date: '2019-04-08'
+    last_issue_date: '2019-04-08'
