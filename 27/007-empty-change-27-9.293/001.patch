@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/27/2024/04/2024-04-26_cff991df.xml	2024-05-30 10:01:08.056425328 -0500
++++ tmp/title_version_27_2024-04-26_cff991df_preprocessed.xml	2024-05-30 10:01:18.778063310 -0500
+@@ -24808,7 +24808,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 9.293" TYPE="SECTION">
++<DIV8 N="§ 9.293" TYPE="SECTION">&#8203;
+ <HEAD>§ 9.293   Yucaipa Valley AVA.</HEAD>
+ <P>(a) <I>Name.</I> The name of the viticultural area described in this section is “Yucaipa Valley”. For purposes of part 4 of this chapter, “Yucaipa Valley” is a term of viticultural significance.
+ </P>

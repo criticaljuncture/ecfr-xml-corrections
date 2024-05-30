@@ -1,0 +1,11 @@
+description: Empty change to reflect 27/9.293 summary presence
+tags: content-error
+status: approved
+issue_number: 2024-05-28
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115840057/comments#comments
+
+patches:
+  '001':
+    first_issue_date: '2024-04-25'
+    last_issue_date: '2024-05-20'
