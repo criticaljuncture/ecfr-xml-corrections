@@ -1,0 +1,11 @@
+description: Title 2 had a duplicate Chapter XVI that was removed.
+tags: structural
+status: approved
+issue_number: 2024-05-30
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115847545/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-05-30'
+    last_issue_date: '2024-05-30'
