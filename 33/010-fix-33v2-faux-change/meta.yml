@@ -1,0 +1,11 @@
+description: 33v2 expected content change applied early
+tags: amddate
+status: approved
+issue_number: 2022-07-08
+fr_doc: 89 FR 53492
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/115930322/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-06-27'
+    last_issue_date: '2024-07-05'
