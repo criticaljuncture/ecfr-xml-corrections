@@ -5,4 +5,4 @@ reference: https://github.com/criticaljuncture/ecfr-renderer/issues/227
 patches:
   '001':
     start_date: '2022-04-27'
-    end_date: '2100-01-01'
+    end_date: '2024-05-31'

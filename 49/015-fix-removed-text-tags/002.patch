@@ -201,10 +201,7 @@
  <SOURCE>
  <HED>Source:</HED><PSPACE>52 FR 4326, Feb. 11, 1987, unless otherwise noted.
  
-@@ -311980,14 +312016,22 @@
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Specialized services</TD><TD align="right" class="gpotbl_cell">34</TD><TD align="right" class="gpotbl_cell">N/A</TD><TD align="right" class="gpotbl_cell">N/A
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Administrative support</TD><TD align="right" class="gpotbl_cell">35</TD><TD align="right" class="gpotbl_cell">45</TD><TD align="right" class="gpotbl_cell">55
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">General and administrative</TD><TD align="right" class="gpotbl_cell">61</TD><TD align="right" class="gpotbl_cell">62</TD><TD align="right" class="gpotbl_cell">63</TD></TR></TABLE></DIV></DIV>
+@@ -311980,11 +312016,19 @@
 +
 +<TEXT>
  <HED1>OPERATING EXPENSE ACCOUNTS
@@ -226,12 +223,9 @@
  <P>This account may be used as a control account for all accounts in the <E T="04">Personnel</E> Series: Salaries and Wages. Fringe Benefits Not Included in Compensation.
  
  <HD5>Salaries and Wages—Control 11-00-00
-@@ -312878,10 +312922,13 @@
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Public Relations and Advertising</TD><TD align="right" class="gpotbl_cell">41-61-93
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row" style="padding-left: 4em">Research and Development</TD><TD align="right" class="gpotbl_cell">41-61-94
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Other—Other</TD><TD align="right" class="gpotbl_cell">41-61-99</TD></TR></TABLE></DIV></DIV></EXTRACT>
+@@ -312878,7 +312922,10 @@
 +
-+<TEXT> 
++<TEXT>
  <HED1>Claims and Insurance
  
 +</HED1></TEXT>
@@ -241,10 +235,7 @@
  <P>This account may be used as a control account for all accounts in the <E T="04">Claims and Insurance</E> series: Loss and Damage Claims, Other Casualties, Insurance.
  
  <HD5>Loss and Damage Claims—Control—51-00-00
-@@ -312925,10 +312972,14 @@
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—Transportation—Specialized Services</TD><TD align="right" class="gpotbl_cell">*53-34-00
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—Transportation—Administrative Support</TD><TD align="right" class="gpotbl_cell">53-35-00
- </TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Insurance—General and Administrative</TD><TD align="right" class="gpotbl_cell">53-61-00</TD></TR></TABLE></DIV></DIV>
+@@ -312925,7 +312972,11 @@
 +
 +<TEXT>
  <HED1>General
@@ -257,10 +248,7 @@
  <P>This account may be used as a control account for all accounts in the <E T="04">General</E> series: Other Expenses, Depreciation, Uncollectible Accounts, Property Taxes, Other Taxes.
  
  <HD5>Other Expenses—Control—61-00-00
-@@ -313138,12 +313189,16 @@
- <P>This account includes taxes on gross receipts, franchise fees, excise taxes, and similar items. This account excludes property taxes and taxes chargeable as employee benefits. The total of this account shall be charged to the following account:
- </P>
- <DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TD align="left" class="gpotbl_cell" scope="row">Other Taxes—General and Administrative</TD><TD align="right" class="gpotbl_cell">65-61-00</TD></TR></TABLE></DIV></DIV>
+@@ -313138,9 +313189,13 @@
 +
 +<TEXT>
  <HED1>OPERATING EXPENSE ACCOUNTS
@@ -403,15 +391,11 @@
  <FP-1>Operating Expense Accounts.
  </FP-1>
  <FP-1>Transportation Operating Revenue Accounts.
-@@ -315026,7 +315103,7 @@
- <FP-1>General Balance Sheet Accounts.
+@@ -315026,3 +315103,3 @@
  
- 
+
 -</FP-1></HED1></CITA>
 +</FP-1>
- <DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Operating Expense Accounts—Conversion Table
- </P><P class="gpotbl_description">[See footnotes at end of table]
- </P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" colspan="2" scope="col">System of accounts effective prior to Jan 1, 1978
 @@ -317058,13 +317135,13 @@
  
  
