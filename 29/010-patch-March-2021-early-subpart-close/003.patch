@@ -1,0 +1,58 @@
+--- data/titles/preprocessed/xml/29/2024/07/2024-07-19_e3703886.xml	2024-07-22 19:41:39.174158479 -0700
++++ tmp/title_version_29_2024-07-22_e3703886_preprocessed.xml	2024-07-22 20:52:55.111728231 -0700
+@@ -166999,10 +166999,6 @@
+ </P>
+ <P>Figure A.5.1—Hazard Categories for Germ Cell Mutagens
+ </P>
+-</DIV9>
+-
+-</DIV6>
+-
+ <P-2><I>CATEGORY 1:</I> Substances known to induce heritable mutations or to be regarded as if they induce heritable mutations in the germ cells of humans
+ </P-2>
+ <P-2>Category 1A: Substances known to induce heritable mutations in germ cells of humans
+@@ -167775,10 +167771,6 @@
+ </P>
+ <P>A.10.1.5.1 The classification criteria refer to kinematic viscosity. The following provides the conversion between dynamic and kinematic viscosity:
+ </P>
+-</DIV5>
+-
+-</DIV3>
+-
+ <img src="/graphics/er20my24.229.gif"/>
+ <P>A.10.1.5.2 Although the definition of aspiration in A.10.1.1 includes the entry of solids into the respiratory system, classification according to (b) in table A.10.1 for Category 1 is intended to apply to liquid substances and mixtures only.
+ </P>
+@@ -167824,8 +167816,7 @@
+ <P>A.10.3.3.2.2 In the case of a mixture which separates into two or more distinct layers, the entire mixture is classified as Category 1 if in any distinct layer the sum of the concentrations of Category 1 ingredients is ≥10%, and it has a kinematic viscosity of ≤20.5 mm
+ <SU>2</SU>/s, measured at 40  °C.
+ 
+-
+-
++</DIV9>
+ 
+ 
+ 
+@@ -169190,7 +169181,7 @@
+ 
+ </CITA>
+ <CITA TYPE="N">[59 FR 6170, Feb. 9, 1994, as amended at 59 FR 17479, Apr. 13, 1994; 59 FR 65948, Dec. 22, 1994; 61 FR 9245, Mar. 7, 1996; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013]
+-
++</DIV9>
+ 
+ 
+ 
+@@ -170083,9 +170074,11 @@
+ <DIV8 N="§§ 1910.1451-1910.1499" TYPE="SECTION">
+ <HEAD>§§ 1910.1451-1910.1499   [Reserved]</HEAD>
+ </DIV8>
+-</CITA>
+-</DIV9>
+-</P>
++
++</DIV6>
++</DIV5>
++</DIV3>
++
+ </DIV2>
+ 
+ </DIV1>
