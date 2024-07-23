@@ -1,6 +1,22 @@
---- data/titles/preprocessed/xml/29/2024/07/2024-07-19_e3703886.xml	2024-07-22 21:37:51.439335128 -0700
-+++ tmp/title_version_29_2024-07-22_e3703886_preprocessed.xml	2024-07-22 21:59:56.892344774 -0700
-@@ -166999,9 +166999,6 @@
+--- data/titles/preprocessed/xml/29/2024/07/2024-07-19_e3703886.xml	2024-07-23 09:51:10.023191742 -0700
++++ tmp/title_version_29_2024-07-22_e3703886_preprocessed.xml	2024-07-23 10:36:36.264913852 -0700
+@@ -166112,12 +166112,10 @@
+ 
+ 
+ </P>
+-</DIV8>
+-
+ 
+-<DIV9 N="Appendix A" TYPE="APPENDIX">
+-<HEAD>Appendix A to § 1910.1200—Health Hazard Criteria (Mandatory)
+-</HEAD>
++<EXTRACT>
++<HD1>Appendix A to § 1910.1200—Health Hazard Criteria (Mandatory)
++</HD1>
+ <HD1>A.0 General Classification Considerations
+ </HD1>
+ <HD2>A.0.1 Classification
+@@ -166999,9 +166997,6 @@
  </P>
  <P>Figure A.5.1—Hazard Categories for Germ Cell Mutagens
  </P>
@@ -10,7 +26,7 @@
  
  <P-2><I>CATEGORY 1:</I> Substances known to induce heritable mutations or to be regarded as if they induce heritable mutations in the germ cells of humans
  </P-2>
-@@ -167775,9 +167772,6 @@
+@@ -167775,9 +167770,6 @@
  </P>
  <P>A.10.1.5.1 The classification criteria refer to kinematic viscosity. The following provides the conversion between dynamic and kinematic viscosity:
  </P>
@@ -20,27 +36,166 @@
  
  <img src="/graphics/er20my24.229.gif"/>
  <P>A.10.1.5.2 Although the definition of aspiration in A.10.1.1 includes the entry of solids into the respiratory system, classification according to (b) in table A.10.1 for Category 1 is intended to apply to liquid substances and mixtures only.
-@@ -167824,8 +167818,9 @@
+@@ -167824,111 +167816,13 @@
  <P>A.10.3.3.2.2 In the case of a mixture which separates into two or more distinct layers, the entire mixture is classified as Category 1 if in any distinct layer the sum of the concentrations of Category 1 ingredients is ≥10%, and it has a kinematic viscosity of ≤20.5 mm
  <SU>2</SU>/s, measured at 40  °C.
  
-+</P>
+-
+-
+-
+-
+-
+-<DIV9 N="Appendix B" TYPE="APPENDIX">
+-<HEAD>Appendix B to § 1910.1200—Physical Hazard Criteria (Mandatory)
+-</HEAD>
+-<HD1>B.1 Explosives
+-</HD1>
+-<HD2>B.1.1 Definitions and General Considerations
+-</HD2>
+-<P>B.1.1.1 An <I>explosive chemical</I> is a solid or liquid chemical which is in itself capable by chemical reaction of producing gas at such a temperature and pressure and at such a speed as to cause damage to the surroundings. Pyrotechnic chemicals are included even when they do not evolve gases.
+-</P>
+-<P>A <I>pyrotechnic chemica</I>l is a chemical designed to produce an effect by heat, light, sound, gas or smoke or a combination of these as the result of non-detonative self-sustaining exothermic chemical reactions.
+-</P>
+-<P>An <I>explosive item</I> is an item containing one or more explosive chemicals.
+-</P>
+-<P>A <I>pyrotechnic item</I> is an item containing one or more pyrotechnic chemicals.
+-</P>
+-<P>An <I>unstable explosive</I> is an explosive which is thermally unstable and/or too sensitive for normal handling, transport, or use.
+-</P>
+-<P>An <I>intentional explosive</I> is a chemical or item which is manufactured with a view to produce a practical explosive or pyrotechnic effect.
+ </P>
+-<P>B.1.1.2 The class of explosives comprises:
+-</P>
+-<P>(a) Explosive chemicals;
+-</P>
+-<P>(b) Explosive items, except devices containing explosive chemicals in such quantity or of such a character that their inadvertent or accidental ignition or initiation shall not cause any effect external to the device either by projection, fire, smoke, heat or loud noise; and
+-</P>
+-<P>(c) Chemicals and items not included under (a) and (b) of this section which are manufactured with the view to producing a practical explosive or pyrotechnic effect.
+-</P>
+-<HD2>B.1.2 Classification Criteria
+-</HD2>
+-<P>Chemicals and items of this class shall be classified as unstable explosives or shall be assigned to one of the following six divisions depending on the type of hazard they present:
+-</P>
+-<P>(a) Division 1.1—Chemicals and items which have a mass explosion hazard (a mass explosion is one which affects almost the entire quantity present virtually instantaneously);
+-</P>
+-<P>(b) Division 1.2—Chemicals and items which have a projection hazard but not a mass explosion hazard;
+-</P>
+-<P>(c) Division 1.3—Chemicals and items which have a fire hazard and either a minor blast hazard or a minor projection hazard or both, but not a mass explosion hazard:
+-</P>
+-<P>(i) Combustion of which gives rise to considerable radiant heat; or
+-</P>
+-<P>(ii) Which burn one after another, producing minor blast or projection effects or both;
+-</P>
+-<P>(d) Division 1.4—Chemicals and items which present no significant hazard: chemicals and items which present only a small hazard in the event of ignition or initiation. The effects are largely confined to the package and no projection of fragments of appreciable size or range is to be expected. An external fire shall not cause virtually instantaneous explosion of almost the entire contents of the package;
+-</P>
+-<P>(e) Division 1.5—Very insensitive chemicals which have a mass explosion hazard: chemicals which have a mass explosion hazard but are so insensitive that there is very little probability of initiation or of transition from burning to detonation under normal conditions;
+-</P>
+-<P>(f) Division 1.6—Extremely insensitive items which do not have a mass explosion hazard: items which predominantly contain extremely insensitive detonating chemicals and which demonstrate a negligible probability of accidental initiation or propagation.
+-</P>
+-<HD2>B.1.3 Additional Classification Considerations
+-</HD2>
+-<P>B.1.3.1 Explosives shall be classified as unstable explosives or shall be assigned to one of the six divisions identified in B.1.2 in accordance with the three step procedure in Part I of UN ST/SG/AC.10 (incorporated by reference, see § 1910.6). The first step is to ascertain whether the substance or mixture has explosive effects (Test Series 1). The second step is the acceptance procedure (Test Series 2 to 4) and the third step is the assignment to a hazard division (Test Series 5 to 7). The assessment whether a candidate for “ammonium nitrate emulsion or suspension or gel, intermediate for blasting explosives (ANE)” is insensitive enough for inclusion as an oxidizing liquid (<I>see</I> B.13 of this appendix) or an oxidizing solid (<I>see</I> B.14 of this appendix) is determined by Test Series 8 tests of UN ST/SG/AC.10/.
+-</P>
+-<NOTE>
+-<HED>Note 1:
+-</HED>
+-<P>Classification of solid chemicals shall be based on tests performed on the chemical as presented. If, for example, for the purposes of supply or transport, the same chemical is to be presented in a physical form different from that which was tested and which is considered likely to materially alter its performance in a classification test, classification must be based on testing of the chemical in the new form.</P></NOTE>
+-<NOTE>
+-<HED>Note 2:
+-</HED>
+-<P>Some explosive chemicals are wetted with water or alcohols, diluted with other substances or dissolved or suspended in water or other liquid substances to suppress or reduce their explosive properties or sensitivity.
+-</P>
+-<P>These chemicals shall be classified as desensitized explosives (see Chapter B.17).</P></NOTE>
+-<NOTE>
+-<HED>Note 3:
+-</HED>
+-<P>Chemicals with a positive result in Test Series 2 in Part I, Section 12 of UN ST/SG/AC.10/11/Rev.6 (incorporated by reference; see § 1910.6) which are exempted from classification as explosives (based on a negative result in Test Series 6 in Part I, Section 16 of UN ST/SG/AC.10/11/Rev.6 (incorporated by reference; see § 1910.6)), still have explosive properties. The explosive properties of the chemical shall be communicated in Section 2 (Hazard identification) and Section 9 (Physical and chemical properties) of the Safety Data Sheet, as appropriate.</P></NOTE>
+-<P>B.1.3.2 Explosive properties are associated with the presence of certain chemical groups in a molecule which can react to produce very rapid increases in temperature or pressure. The screening procedure in B.1.3.1 is aimed at identifying the presence of such reactive groups and the potential for rapid energy release. If the screening procedure identifies the chemical as a potential explosive, the acceptance procedure (<I>see</I> section 10.3 of the UN ST/SG/AC.10 (incorporated by reference; <I>see</I> § 1910.6)) is necessary for classification.
+-</P>
+-<NOTE>
+-<HED>Note:</HED>
+-<P>Neither a Series 1 type (a) propagation of detonation test nor a Series 2 type (a) test of sensitivity to detonative shock is necessary if the exothermic decomposition energy of organic materials is less than 800 J/g.</P></NOTE>
+-<P>B.1.3.3 If a mixture contains any known explosives, the acceptance procedure is necessary for classification.
+-</P>
+-<P>B.1.3.4 A chemical is not classified as explosive if:
+-</P>
+-<P>(a) There are no chemical groups associated with explosive properties present in the molecule. Examples of groups which may indicate explosive properties are given in Table A6.1 in Appendix 6 of the UN ST/SG/AC.10 (incorporated by reference; <I>See</I> § 1910.6); or
+-</P>
+-<P>(b) The substance contains chemical groups associated with explosive properties which include oxygen and the calculated oxygen balance is less than −200.
+-</P>
+-<P>The oxygen balance is calculated for the chemical reaction:
+-</P>
+-<FP-2>CxHyOz + [x + (y/4)−(z/2)] O2 → x. CO<E T="52">2</E> + (y/2) H<E T="52">2</E>O
+-</FP-2>
+-<FP>using the formula: oxygen balance = −1600 [2x + (y/2)−z]/molecular weight; or
+-</FP>
+-<P>(c) The organic substance or a homogenous mixture of organic substances contains chemical groups associated with explosive properties but the exothermic decomposition energy is less than 500 J/g and the onset of exothermic decomposition is below 500  °C (932  °F). The exothermic decomposition energy may be determined using a suitable calorimetric technique; or
+-</P>
+-<P>(d) For mixtures of inorganic oxidizing substances with organic material(s), the concentration of the inorganic oxidizing substance is:
+-</P>
+-<P>(i) less than 15%, by mass, if the oxidizing substance is assigned to Category 1 or 2;
+-</P>
+-<P>(ii) less than 30%, by mass, if the oxidizing substance is assigned to Category 3.
+-
+ 
+-</P>
+-</DIV9>
++</EXTRACT>
  
 -
-+</DIV9>
+-<DIV9 N="Appendix B" TYPE="APPENDIX">
+-<HEAD>Appendix B to § 1910.1200—Physical Hazard Criteria (Mandatory)
+-</HEAD>
++<EXTRACT>
++<HD1>Appendix B to § 1910.1200—Physical Hazard Criteria (Mandatory)
++</HD1>
+ <HD1>B.1 Explosives
+ </HD1>
+ <HD2>B.1.1 Definitions and General Considerations
+@@ -168739,7 +168633,8 @@
  
  
  
-@@ -168995,7 +168990,7 @@
+-</P>
++</P></EXTRACT>
++<EXTRACT>
+ <HD1>Appendix C to § 1910.1200—Allocation of Label Elements
+ </HD1>
+ <HD1>(Mandatory)
+@@ -168893,12 +168788,12 @@
+ 
+ 
+ </CITA>
+-</DIV9>
++</EXTRACT>
+ 
+ 
+-<DIV9 N="Appendix D" TYPE="APPENDIX">
+-<HEAD>Appendix D to § 1910.1200—Safety Data Sheets (Mandatory)
+-</HEAD>
++<EXTRACT>
++<HD1>Appendix D to § 1910.1200—Safety Data Sheets (Mandatory)
++</HD1>
+ <P>A safety data sheet (SDS) shall include the information specified in Table D.1 under the section number and heading indicated for sections 1-11 and 16. While each section of the SDS must contain all of the specified information, preparers of safety data sheets are not required to present the information in any particular order within each section. If no relevant information is found for any given subheading within a section, the SDS shall clearly indicate that no applicable information is available. Sections 12-15 may be included in the SDS, but are not mandatory.
+ </P>
+ <DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table D.1—Minimum Information for an SDS
+@@ -168995,13 +168890,13 @@
  </TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">† <E T="03">Note: To determine the appropriate flammable liquid storage container size and type, the boiling point shall be determined by methods specified under § 1910.106(a)(5) and then listed on the SDS. In addition, the manufacturer, importer, and distributor shall clearly note in sections 7 and 9 of the SDS if an alternate calculation was used for storage purposes and the classification for storage differs from the classification listed in section 2 of the SDS.</E></P></DIV></DIV>
  <CITA TYPE="N">[89 FR 44354, May 20, 2024]
  
--
 +</CITA>
  
  
  
-@@ -169188,10 +169183,10 @@
+ 
+ 
+-
+-
++</EXTRACT>
+ 
+ 
+ 
+@@ -169188,10 +169083,10 @@
  </FP-2>
  <FP-2>Doi, A.M., G. Hill, J. Seely, J.R. Hailey, G. Kissling, and J.R. Buchera. 2007. α2u-Globulin nephropathy and renal tumors in National Toxicology Program studies. <I>Toxicol. Pathol.</I> 35:533-540.</FP-2></EXTRACT>
  
@@ -49,11 +204,11 @@
 +</CITA>
  
 -
-+</DIV9>
++</DIV8>
  
  
  <DIV8 N="§ 1910.1201" TYPE="SECTION">
-@@ -170083,9 +170078,13 @@
+@@ -170083,9 +169978,13 @@
  <DIV8 N="§§ 1910.1451-1910.1499" TYPE="SECTION">
  <HEAD>§§ 1910.1451-1910.1499   [Reserved]</HEAD>
  </DIV8>
