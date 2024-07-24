@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/50/2024/07/2024-07-23_1bb40b36.xml	2024-07-24 16:21:02.696300096 -0700
++++ tmp/title_version_50_2024-07-24_1bb40b36_preprocessed.xml	2024-07-24 16:23:44.325554430 -0700
+@@ -140525,7 +140525,7 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 217.95" TYPE="SECTION">
++<DIV8 N="ECFRd306c0a308fe419" TYPE="SECTION">
+ <HEAD>§ 217.95   Requirements for monitoring and reporting.</HEAD>
+ <P>(a) <I>Marine mammal visual monitoring</I>—(1) <I>Protected species observers.</I> AGDC must employ trained protected species observers (PSO) to conduct marine mammal monitoring for its LNG facilities construction projects.
+ </P>
