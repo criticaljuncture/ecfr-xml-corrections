@@ -1,0 +1,19 @@
+--- data/titles/preprocessed/xml/12/2024/08/2024-08-07_2e26c5ae.xml	2024-08-08 21:13:21.565550697 -0500
++++ tmp/title_version_12_2024-08-08_2e26c5ae_preprocessed.xml	2024-08-08 21:30:55.248031899 -0500
+@@ -244756,6 +244756,7 @@
+ 
+ <DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B—XXX</HEAD>
++</DIV6>
+ 
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>12 U.S.C. 1766, 1789, and 3331 <I>et seq.</I> Section 722.3(a) is also issued under 15 U.S.C. 1639h.
+@@ -244982,8 +244983,6 @@
+ </P>
+ </DIV8>
+ 
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—XXX</HEAD>
