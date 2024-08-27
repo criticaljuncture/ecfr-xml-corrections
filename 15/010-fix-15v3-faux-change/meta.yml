@@ -1,0 +1,11 @@
+description: 15v3 expected content change (EFFDNOTP)
+tags: content
+status: pending
+issue_number: 2022-08-23
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    first_issue_date: '2024-08-23'
+    last_issue_date: '2100-01-01'
