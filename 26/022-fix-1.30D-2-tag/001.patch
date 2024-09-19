@@ -1,0 +1,48 @@
+--- data/titles/preprocessed/xml/26/2024/08/2024-08-26_d63cf077.xml	2024-09-19 11:17:23.194499626 -0500
++++ tmp/title_version_26_2024-08-27_d63cf077_preprocessed.xml	2024-09-19 11:28:58.460629530 -0500
+@@ -5941,15 +5941,12 @@
+ 
+ 
+ 
+-
+-SECTION&gt;
+ </CITA>
+ </DIV8>
+ 
+-<SECTNO>§ 1.30D-2
+-</SECTNO>
+-<SUBJECT>Definitions for purposes of section 30D.
+-</SUBJECT>
++
++<DIV8 N="§ 1.30D-2" TYPE="SECTION">
++<HEAD>§ 1.30D-2   Definitions for purposes of section 30D.</HEAD>
+ <P>(a) <I>In general.</I> The definitions in this section apply for purposes of section 30D of the Internal Revenue Code (Code) and the section 30D regulations.
+ </P>
+ <P>(b) <I>Definitions</I>—(1) <I>Advance payment program. Advance payment program</I> means advance payment program as defined in § 1.30D-5(b)(1).
+@@ -6126,8 +6123,6 @@
+ </P>
+ <P>(d) <I>Applicability date.</I> This section applies to taxable years ending after December 4, 2023.
+ </P>
+-</DIV7>
+-
+ <CITA TYPE="N">[T.D. 9995, 89 FR 37754, May 6, 2024]
+ 
+ 
+@@ -6136,6 +6131,8 @@
+ 
+ 
+ </CITA>
++</DIV8>
++
+ 
+ <DIV8 N="§ 1.30D-3" TYPE="SECTION">
+ <HEAD>§ 1.30D-3   Critical minerals and battery components requirements.</HEAD>
+@@ -13978,6 +13975,8 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
++
+ 
+ <DIV7 N="6" TYPE="SUBJGRP">
+ <HEAD>Research Credit—For Taxable Years Beginning Before January 1, 1990</HEAD>
