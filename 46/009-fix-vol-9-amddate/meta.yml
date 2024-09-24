@@ -1,0 +1,11 @@
+description: Title 46 volume 9 had a typo for the amddate
+tags: amddate
+status: approved
+issue_number: 2024-09-23
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116094013/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-09-23'
+    last_issue_date: '2024-09-23'
