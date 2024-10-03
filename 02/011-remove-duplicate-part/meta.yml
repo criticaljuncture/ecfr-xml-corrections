@@ -1,0 +1,11 @@
+description: Remove duplicate 2/700
+tags: structural
+status: pending
+issue_number: 2024-10-01
+fr_doc: 
+reference: 
+
+patches:
+  '001':
+    first_issue_date: '2024-10-01'
+    last_issue_date: '2024-10-01'
