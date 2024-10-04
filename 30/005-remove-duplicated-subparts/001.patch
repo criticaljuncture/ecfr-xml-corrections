@@ -1,0 +1,503 @@
+--- data/titles/preprocessed/xml/30/2023/01/2023-01-31_133def7f.xml	2024-10-03 17:28:08.761021000 -0700
++++ tmp/title_version_30_2023-01-31_133def7f_preprocessed.xml	2024-10-03 17:39:43.806049100 -0700
+@@ -65805,243 +65805,6 @@
+ </DIV6>
+ 
+ 
+-<DIV6 N="E" TYPE="SUBPART">
+-<HEAD>Subpart E [Reserved]</HEAD>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="F" TYPE="SUBPART">
+-<HEAD>Subpart F - Information Requirements</HEAD>
+-
+-
+-<DIV8 N="§ § 285.600-285.601" TYPE="SECTION">
+-<HEAD>§ § 285.600-285.601   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.602" TYPE="SECTION">
+-<HEAD>§ 285.602   What records must I maintain?</HEAD>
+-<P>Until BOEM releases your financial assurance under 30 CFR 585.534, you must maintain and provide to BSEE, upon request, all data and information related to compliance with required terms and conditions of your SAP, COP, or GAP.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ § 285.603-285.613" TYPE="SECTION">
+-<HEAD>§ § 285.603-285.613   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV7 N="162" TYPE="SUBJGRP">
+-<HEAD>Activities Under an Approved SAP</HEAD>
+-
+-
+-<DIV8 N="§ 285.614" TYPE="SECTION">
+-<HEAD>§ 285.614   When may I begin conducting activities under my approved SAP?</HEAD>
+-<P>(a) You may begin conducting the activities approved in your SAP following BOEM approval of your SAP.
+-</P>
+-<P>(b) If you are installing a facility or a combination of facilities deemed by BOEM to be complex or significant, as provided in 30 CFR 585.613(a)(1), you must comply with the requirements of subpart G of this part and submit your safety management system required by § 285.810 before construction may begin.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.615" TYPE="SECTION">
+-<HEAD>§ 285.615   What other reports or notices must I submit to BSEE under my approved SAP?</HEAD>
+-<P>(a) You must notify BSEE in writing within 30 days of completing installation activities approved in your SAP.
+-</P>
+-<P>(b) You must submit a certification of compliance annually (or other frequency as determined by BOEM) with those terms and conditions of your SAP that BOEM identifies under 30 CFR 585.613(e)(1). Together with your certification, you must submit:
+-</P>
+-<P>(1) Summary reports that show compliance with the terms and conditions which require certification; and
+-</P>
+-<P>(2) A statement identifying and describing any mitigation measures and monitoring methods and their effectiveness. If you identified measures that were not effective, you must include your recommendations for new mitigation measures or monitoring methods.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ § 285.616-285.630" TYPE="SECTION">
+-<HEAD>§ § 285.616-285.630   [Reserved]</HEAD>
+-</DIV8>
+-
+-</DIV7>
+-
+-
+-<DIV7 N="163" TYPE="SUBJGRP">
+-<HEAD>Activities Under an Approved COP</HEAD>
+-
+-
+-<DIV8 N="§ 285.631" TYPE="SECTION">
+-<HEAD>§ 285.631   When must I initiate activities under an approved COP?</HEAD>
+-<P>After your COP is approved, you must commence construction by the date given in the construction schedule required by 30 CFR 585.626(b)(21), and included as a part of your approved COP, unless BOEM approves a deviation from your schedule.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.632" TYPE="SECTION">
+-<HEAD>§ 285.632   What documents must I submit before I may construct and install facilities under my approved COP?</HEAD>
+-<P>(a) You must submit to BSEE the documents listed in the following table:
+-</P>
+-<DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Document:
+-</TH><TH class="gpotbl_colhed" scope="col">Requirements are found in:
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">(1) Facility Design Report</TD><TD align="right" class="gpotbl_cell">§ 285.701
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">(2) Fabrication and Installation Report</TD><TD align="right" class="gpotbl_cell">§ 285.702</TD></TR></TABLE></DIV></DIV>
+-<P>(b) You must submit your safety management system, as required by § 285.810.
+-</P>
+-<P>(c) These activities must fall within the scope of your approved COP. If they do not fall within the scope of your approved COP, you will be required to submit a revision to your COP, under 30 CFR 585.634, for BOEM approval before commencing the activity.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.633" TYPE="SECTION">
+-<HEAD>§ 285.633   How do I comply with my COP?</HEAD>
+-<P>(a) You must submit a certification of compliance annually (or other frequency as determined by BOEM) with certain terms and conditions of your COP that BOEM identifies. Together with your certification, you must submit:
+-</P>
+-<P>(1) Summary reports that show compliance with the terms and conditions which require certification; and
+-</P>
+-<P>(2) A statement identifying and describing any mitigation measures and monitoring methods, and their effectiveness. If you identified measures that were not effective, then you must make recommendations for new mitigation measures or monitoring methods.
+-</P>
+-<P>(b) As provided at § 285.105(i), BSEE may require you to submit any supporting data and information.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ § 285.634-285.635" TYPE="SECTION">
+-<HEAD>§ § 285.634-285.635   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.636" TYPE="SECTION">
+-<HEAD>§ 285.636   What notices must I provide BSEE following approval of my COP?</HEAD>
+-<P>You must notify BSEE in writing of the following events, within the time periods provided:
+-</P>
+-<P>(a) No later than 30 days after commencing activities associated with the placement of facilities on the lease area under a Fabrication and Installation Report.
+-</P>
+-<P>(b) No later than 30 days after completion of construction and installation activities under a Fabrication and Installation Report.
+-</P>
+-<P>(c) At least 7 days before commencing commercial operations.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.637" TYPE="SECTION">
+-<HEAD>§ 285.637   When may I commence commercial operations on my commercial lease?</HEAD>
+-<P>If you are conducting activities on your lease that:
+-</P>
+-<P>(a) Do not require a FERC license (e.g., wind), then you may commence commercial operations 30 days after the CVA or project engineer has submitted to BSEE the final Fabrication and Installation Report for the fabrication and installation review, as provided in § 285.708.
+-</P>
+-<P>(b) Require a FERC license or exemption, then you may commence commercial operations when permitted by the terms of your license or exemption.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.638" TYPE="SECTION">
+-<HEAD>§ 285.638   What must I do upon completion of my commercial operations as approved in my COP or FERC license?</HEAD>
+-<P>(a) Upon completion of your approved activities under your COP, you must initiate the decommissioning process as set forth in subpart I of this part. You must submit your decommissioning application as provided in §§ 285.905 and 285.906.
+-</P>
+-<P>(b) Upon completion of your approved activities under your FERC license, the terms of your FERC license will govern your decommissioning activities.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ § 285.639-285.649" TYPE="SECTION">
+-<HEAD>§ § 285.639-285.649   [Reserved]</HEAD>
+-</DIV8>
+-
+-</DIV7>
+-
+-
+-<DIV7 N="164" TYPE="SUBJGRP">
+-<HEAD>Activities Under an Approved GAP</HEAD>
+-
+-
+-<DIV8 N="§ 285.650" TYPE="SECTION">
+-<HEAD>§ 285.650   When may I begin conducting activities under my GAP?</HEAD>
+-<P>After BOEM approves your GAP, you may begin conducting the approved activities that do not involve a project easement or the construction of facilities on the OCS that BOEM has deemed to be complex or significant.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.651" TYPE="SECTION">
+-<HEAD>§ 285.651   When may I construct complex or significant OCS facilities on my limited lease or any facilities on my project easement proposed under my GAP?</HEAD>
+-<P>If you are applying for a project easement, or installing a facility or a combination of facilities on your limited lease deemed by BOEM to be complex or significant, as provided in 30 CFR 585.648(a)(1), you also must comply with the requirements of subpart G of this part and submit your safety management system description required by § 285.810 before construction may begin.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.652" TYPE="SECTION">
+-<HEAD>§ 285.652   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 285.653" TYPE="SECTION">
+-<HEAD>§ 285.653   What other reports or notices must I submit to BSEE under my approved GAP?</HEAD>
+-<P>(a) You must notify BSEE in writing within 30 days after completing installation activities approved in your GAP
+-</P>
+-<P>(b) You must annually (or other frequency as determined by BOEM) submit a certification of compliance with those terms and conditions of your GAP that BOEM identifies under 30 CFR 585.648(e)(1). Together with your certification, you must submit:
+-</P>
+-<P>(1) Summary reports that show compliance with the terms and conditions which require certification; and
+-</P>
+-<P>(2) A statement identifying and describing any mitigation measures and monitoring methods and their effectiveness. If you identified measures that were not effective, you must include your recommendations for new mitigation measures or monitoring methods.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ § 285.654-285.659" TYPE="SECTION">
+-<HEAD>§ § 285.654-285.659   [Reserved]</HEAD>
+-</DIV8>
+-
+-</DIV7>
+-
+-</DIV6>
+-
+-
+ <DIV6 N="G" TYPE="SUBPART">
+ <HEAD>Subpart G - Facility Design, Fabrication, and Installation</HEAD>
+ 
+@@ -83838,256 +83601,6 @@
+ 
+ </DIV6>
+ 
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B - Issuance of Alternate Use RUEs for Energy- and Marine-Related Activities Using Existing OCS Facilities</HEAD>
+-
+-
+-<DIV7 N="343" TYPE="SUBJGRP">
+-<HEAD>Requesting an Alternate Use RUE</HEAD>
+-
+-
+-<DIV8 N="§ 586.200" TYPE="SECTION">
+-<HEAD>§ 586.200   What must I do before I request an Alternate Use RUE?</HEAD>
+-<P>If you are not the owner of the existing facility on the OCS and the lessee of the area in which the facility is located, you must contact the lessee and owner of the facility and reach a preliminary agreement as to the proposed activity for the use of the existing facility.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 586.201" TYPE="SECTION">
+-<HEAD>§ 586.201   How do I request an Alternate Use RUE?</HEAD>
+-<P>To request an Alternate Use RUE, you must submit to BOEM all of the following:
+-</P>
+-<P>(a) The name, address, email address, and phone number of an authorized representative.
+-</P>
+-<P>(b) A summary of the proposed activities for the use of an existing OCS facility, including:
+-</P>
+-<P>(1) The type of activities that would involve the use of the existing OCS facility;
+-</P>
+-<P>(2) A description of the existing OCS facility, including a map providing its location on the lease block;
+-</P>
+-<P>(3) The names of the owner of the existing OCS facility, the operator, the lessee, and any owner of operating rights on the lease at which the facility is located;
+-</P>
+-<P>(4) A description of additional structures or equipment that will be required to be located on or in the vicinity of the existing OCS facility in connection with the proposed activities;
+-</P>
+-<P>(5) A statement indicating whether any of the proposed activities are intended to occur before existing activities on the OCS facility have ceased; and
+-</P>
+-<P>(6) A statement describing how existing activities at the OCS facility will be affected if proposed activities are to occur at the same time as existing activities at the OCS facility.
+-</P>
+-<P>(c) A statement affirming that the proposed activities sought to be approved under this subpart are not otherwise authorized by other provisions in this subchapter or any other Federal law.
+-</P>
+-<P>(d) Evidence that you meet the requirements of § 586.107, as required by § 586.108.
+-</P>
+-<P>(e) The signatures of the applicant, the owner of the existing OCS facility, and the lessee of the area in which the existing facility is located.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 586.202" TYPE="SECTION">
+-<HEAD>§ 586.202   How will BOEM decide whether to issue an Alternate Use RUE?</HEAD>
+-<P>(a) We will consider requests for an Alternate Use RUE on a case-by-case basis. In considering such requests, we will consult with relevant Federal agencies and evaluate whether the proposed activities involving the use of an existing OCS facility can be conducted in a manner that:
+-</P>
+-<P>(1) Ensures safety and minimizes adverse effects to the coastal and marine environments, including their physical, atmospheric, and biological components, to the extent practicable;
+-</P>
+-<P>(2) Does not inhibit or restrain orderly development of OCS mineral or energy resources;
+-</P>
+-<P>(3) Avoids serious harm or damage to, or waste of, any natural resource (including OCS mineral deposits and oil, gas, and sulfur resources in areas leased or not leased), any life (including fish and other aquatic life), or property (including sites, structures, or objects of historical or archaeological significance);
+-</P>
+-<P>(4) Is otherwise consistent with subsection 8(p) of the OCS Lands Act; and
+-</P>
+-<P>(5) DOI can effectively regulate.
+-</P>
+-<P>(b) Based on the evaluation that we perform under paragraph (a) of this section, BOEM may authorize, reject, or authorize with modifications or stipulations, the proposed activity.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 586.203" TYPE="SECTION">
+-<HEAD>§ 586.203   What process will BOEM use for competitively offering an Alternate Use RUE?</HEAD>
+-<P>(a) An Alternate Use RUE must be issued on a competitive basis unless BOEM determines, after public notice of the proposed Alternate Use RUE, that there is no competitive interest.
+-</P>
+-<P>(b) We will issue a public notice in the <E T="04">Federal Register</E> to determine if there is competitive interest in using the proposed facility for alternate use activities. BOEM will specify a time period for members of the public to express competitive interest.
+-</P>
+-<P>(c) If we receive indications of competitive interest within the published timeframe, we will proceed with a competitive offering. As part of such competitive offering, each competing applicant must submit a description of the types of activities proposed for the existing facility, as well as satisfactory evidence that the competing applicant qualifies to hold a grant on the OCS, as required in §§ 586.107 and 586.108, by a date we specify. We may request additional information from competing applicants, as necessary, to adequately evaluate the competing proposals.
+-</P>
+-<P>(d) We will evaluate all competing proposals to determine whether:
+-</P>
+-<P>(1) The proposed activities are compatible with existing activities at the facility; and
+-</P>
+-<P>(2) BOEM and BSEE have the expertise and resources available to regulate the activities effectively.
+-</P>
+-<P>(e) We will evaluate all proposals under the requirements of NEPA, CZMA, and other applicable laws.
+-</P>
+-<P>(f) Following our evaluation, we will select one or more acceptable proposals for activities involving the alternate use of an existing OCS facility, notify the competing applicants, and submit each acceptable proposal to the lessee and owner of the existing OCS facility. If the lessee and owner of the facility agree to accept a proposal, we will proceed to issue an Alternate Use RUE. If the lessee and owner of the facility are unwilling to accept any of the proposals that we deem acceptable, we will not issue an Alternate Use RUE.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ § 586.204-586.209" TYPE="SECTION">
+-<HEAD>§ § 586.204-586.209   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 586.113" TYPE="SECTION">
+-<HEAD>§ 586.113   Definitions.</HEAD>
+-<P>Terms used in this part have the meanings as defined in this section:
+-</P>
+-<P><I>Affected local government</I> means with respect to any activities proposed, conducted, or approved under this part, any locality - 
+-</P>
+-<P>(1) That is, or is proposed to be, the site of gathering, transmitting, or distributing electricity or other energy product, or is otherwise receiving, processing, refining, or transshipping product, or services derived from activities approved under this part;
+-</P>
+-<P>(2) That is used, or is proposed to be used, as a support base for activities approved under this part; or
+-</P>
+-<P>(3) In which there is a reasonable probability of significant effect on land or water uses from activities approved under this part.
+-</P>
+-<P><I>Affected State</I> means with respect to any activities proposed, conducted, or approved under this part, any coastal State - 
+-</P>
+-<P>(1) That is, or is proposed to be, the site of gathering, transmitting, or distributing energy or is otherwise receiving, processing, refining, or transshipping products, or services derived from activities approved under this part;
+-</P>
+-<P>(2) That is used, or is scheduled to be used, as a support base for activities approved under this part; or
+-</P>
+-<P>(3) In which there is a reasonable probability of significant effect on land or water uses from activities approved under this part.
+-</P>
+-<P><I>Alternate Use</I> refers to the energy- or marine-related use of an existing OCS facility for activities not otherwise authorized by this part.
+-</P>
+-<P><I>Alternate Use RUE</I> means a right-of-use and easement issued for activities authorized under this part.
+-</P>
+-<P><I>Archaeological resource</I> means any material remains of human life or activities that are at least 50 years of age and that are of archaeological interest (<I>i.e.,</I> which are capable of providing scientific or humanistic understanding of past human behavior, cultural adaptation, and related topics through the application of scientific or scholarly techniques, such as controlled observation, contextual measurement, controlled collection, analysis, interpretation, and explanation).
+-</P>
+-<P><I>BOEM</I> means Bureau of Ocean Energy Management of the Department of the Interior.
+-</P>
+-<P><I>BSEE</I> means Bureau of Safety and Environmental Enforcement of the Department of the Interior.
+-</P>
+-<P><I>Decommissioning</I> means removing BOEM and BSEE approved facilities and returning the site of the grant to a condition that meets the requirements of this part.
+-</P>
+-<P><I>Director</I> means the Director of the Bureau of Ocean Energy Management (BOEM), of the Department of the Interior, or an official authorized to act on the Director's behalf.
+-</P>
+-<P><I>Facility</I> means an installation that is permanently or temporarily attached to the seabed of the OCS. Facilities include any structures; devices; appurtenances; gathering, transmission, and distribution cables; pipelines; and permanently moored vessels. Any group of OCS installations interconnected with walkways, or any group of installations that includes a central or primary installation with one or more satellite or secondary installations, is a single facility. BOEM and BSEE may decide that the complexity of the installations justifies their classification as separate facilities.
+-</P>
+-<P><I>Governor</I> means the Governor of a State or the person or entity lawfully designated by or under State law to exercise the powers granted to a Governor.
+-</P>
+-<P><I>Grant</I> means an alternate use right-of-use and easement issued under the provisions of this part.
+-</P>
+-<P><I>Human environment</I> means the physical, social, and economic components, conditions, and factors that interactively determine the state, condition, and quality of living conditions, employment, and health of those affected, directly or indirectly, by activities occurring on the OCS.
+-</P>
+-<P><I>Lease</I> means an agreement authorizing the use of a designated portion of the OCS for activities allowed under 30 CFR part 585. The term also means the area covered by that agreement, when the context requires.
+-</P>
+-<P><I>Lessee</I> means the holder of a lease, a BOEM-approved assignee, and, when describing the conduct required of parties engaged in activities on the lease, it also refers to the operator and all persons authorized by the holder of the lease or operator to conduct activities on the lease.
+-</P>
+-<P><I>Income,</I> unless clearly specified to the contrary, refers to the money received by the project owner or holder of the lease or grant issued under this part. The term does not mean that project receipts exceed project expenses.
+-</P>
+-<P><I>Marine environment</I> means the physical, atmospheric, and biological components, conditions, and factors that interactively determine the productivity, state, condition, and quality of the marine ecosystem. These include the waters of the high seas, the contiguous zone, transitional and intertidal areas, salt marshes, and wetlands within the coastal zone and on the OCS.
+-</P>
+-<P><I>Natural resources</I> include, without limiting the generality thereof, renewable energy, oil, gas, and all other minerals (as defined in section 2(q) of the OCS Lands Act), and marine animal and marine plant life.
+-</P>
+-<P><I>Operator</I> means the individual, corporation, or association having control or management of activities on the grant under this part. The operator may be a grant holder or a contractor designated by the holder of a grant under this part.
+-</P>
+-<P><I>Outer Continental Shelf (OCS)</I> means all submerged lands lying seaward and outside of the area of lands beneath navigable waters, as defined in section 2 of the Submerged Lands Act (43 U.S.C. 1301), whose subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
+-</P>
+-<P><I>Person</I> means, in addition to a natural person, an association (including partnerships and joint ventures); a Federal agency; a State; a political subdivision of a State; a Native American Tribal government; or a private, public, or municipal corporation.
+-</P>
+-<P><I>Project,</I> for the purposes of defining the source of revenues to be shared, means an Alternate Use RUE on which the activities authorized under this part are conducted on the OCS. The term “project” may be used elsewhere in this rule to refer to these same authorized activities, the facilities used to conduct these activities, or to the geographic area of the project, <I>i.e.,</I> the project area.
+-</P>
+-<P><I>Project area</I> means the geographic surface leased, or granted, for the purpose of a specific project. If OCS acreage is granted for a project under some form of agreement other than a lease (<I>i.e.,</I> a ROW, or RUE, or Alternate Use RUE issued under this part or 30 CFR part 585), the Federal acreage granted would be considered the project area.
+-</P>
+-<P><I>Renewable Energy</I> means energy resources other than oil and gas and minerals as defined in 30 CFR part 580. Such resources include, but are not limited to, wind, solar, and ocean waves, tides, and current.
+-</P>
+-<P><I>Revenues</I> mean bonuses, rents, operating fees, and similar payments made in connection with a project. It does not include administrative fees such as those assessed for cost recovery, civil penalties, and forfeiture of financial assurance.
+-</P>
+-<P><I>Secretary</I> means the Secretary of the Interior or an official authorized to act on the Secretary's behalf.
+-</P>
+-<P><I>Significant archaeological resource</I> means an archaeological resource that meets the criteria of significance for eligibility for listing in the National Register of Historic Places, as defined in 36 CFR 60.4 or its successor.
+-</P>
+-<P><I>We, us,</I> and <I>our</I> refer to the Bureau of Ocean Energy Management of the Department of the Interior, or its possessive, depending on the context.
+-</P>
+-<P><I>You</I> and <I>your</I> means an applicant, the operator or designated operator of an Alternate Use RUE, or an Alternate Use RUE grant holder under this part, or the designated agent of any of these, or the possessive of each, depending on the context. The terms <I>you</I> and <I>your</I> also include contractors and subcontractors of the entities specified in the preceding sentence.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 586.114" TYPE="SECTION">
+-<HEAD>§ 586.114   How will data and information obtained by BOEM under this part be disclosed to the public?</HEAD>
+-<P>(a) BOEM will make data and information available in accordance with the requirements and subject to the limitations of the Freedom of Information Act (FOIA) (5 U.S.C. 552) and the regulations contained in 43 CFR part 2.
+-</P>
+-<P>(b) BOEM will not release such data and information that we have determined is exempt from disclosure under exemption 4 of FOIA. We will review such data and information and objections of the submitter to determine whether release at that time will result in substantial competitive harm or disclosure of trade secrets.
+-</P>
+-<P>(c) After considering any objections from the submitter, if we determine that release of such data and information will result in:
+-</P>
+-<P>(1) No substantial competitive harm or disclosure of trade secrets, then the data and information will be released.
+-</P>
+-<P>(2) Substantial competitive harm or disclosure of trade secrets, then the data and information will not be released at that time but will be subject to further review every 3 years thereafter.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 586.115" TYPE="SECTION">
+-<HEAD>§ 586.115   Paperwork Reduction Act statements - information collection.</HEAD>
+-<P>(a) The Office of Management and Budget (OMB) has approved the information collection requirements in this part under 44 U.S.C. 3501, <I>et seq.,</I> and assigned OMB Control Number 1010-0176. The table in paragraph (e) of this section lists the subparts in the rule requiring the information and its title, summarizes the reasons for collecting the information, and summarizes how BOEM uses the information.
+-</P>
+-<P>(b) Respondents are primarily Alternate Use RUE grant holders and operators. The requirement to respond to the information collection in this part is mandated under subsection 8(p) of the OCS Lands Act. Some responses are also required to obtain or retain a benefit, or may be voluntary.
+-</P>
+-<P>(c) The Paperwork Reduction Act of 1995 (44 U.S.C. 3501 <I>et seq.</I>) requires us to inform the public that an agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+-</P>
+-<P>(d) Comments regarding any aspect of the collections of information under this part, including suggestions for reducing the burden, should be sent to the Information Collection Clearance Officer, Bureau of Ocean Energy Management, 45600 Woodland Road, Sterling, VA 20166.
+-</P>
+-<P>(e) BOEM is collecting this information for the reasons given in the following table:
+-</P>
+-<DIV width="100%"><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">30 CFR 586 subpart and title
+-</TH><TH class="gpotbl_colhed" scope="col">Reasons for collecting information and how used
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">(1) Subpart A - General Provisions</TD><TD align="left" class="gpotbl_cell">To inform BOEM of actions taken to comply with general operational requirements on the OCS. To ensure that operations on the OCS meet statutory and regulatory requirements, are safe and protect the environment, and result in diligent development on OCS leases.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">(2) Subpart B - Issuance of Alternate Use RUEs for Energy- and Marine-Related Activities Using Existing OCS Facilities</TD><TD align="left" class="gpotbl_cell">To enable BOEM to review information regarding the design, installation, and operation of Alternate Use RUEs on the OCS, to ensure that Alternate Use RUE operations are safe and protect the human, marine, and coastal environment. To ensure adherence with other Federal laws, these regulations, the Alternate Use RUE grant, and, where applicable, the approved plan.</TD></TR></TABLE></DIV></DIV>
+-</DIV8>
+-
+-
+-<DIV8 N="§§ 586.116-586.117" TYPE="SECTION">
+-<HEAD>§§ 586.116-586.117   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 586.118" TYPE="SECTION">
+-<HEAD>§ 586.118   What are my appeal rights?</HEAD>
+-<P>(a) Any party adversely affected by a BOEM official's final decision or order issued under the regulations of this part may appeal that decision or order to the Interior Board of Land Appeals. The appeal must conform with the procedures found in part 590 of this chapter and in 43 CFR part 4, subpart E. Appeal of a final decision for bid acceptance is covered under paragraph (c) of this section.
+-</P>
+-<P>(b) A decision will remain in full force and effect during the period in which an appeal may be filed and during an appeal, unless a stay is granted pursuant to 43 CFR part 4.
+-</P>
+-<P>(c) Our decision on a bid is the final action of the Department, except that an unsuccessful bidder may apply for reconsideration by the Director.
+-</P>
+-<P>(1) A bidder whose bid we reject may file a written request for reconsideration with the Director within 15 days of the date of the receipt of the notice of rejection, accompanied by a statement of reasons, with one copy to us. The Director will respond in writing either affirming or reversing the decision.
+-</P>
+-<P>(2) The delegation of review authority given to the Office of Hearings and Appeals does not apply to decisions on high bids for leases or grants under this part.
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV7>
+-
+-</DIV6>
+-
+ 
+ <DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B - Issuance of Alternate Use RUEs for Energy- and Marine-Related Activities Using Existing OCS Facilities</HEAD>

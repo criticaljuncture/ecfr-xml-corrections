@@ -1,0 +1,11 @@
+description: Chapter identifiers are incorrect
+tags: structural
+status: needs-review
+issue_number: 2023-03-28
+fr_doc: 83993
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/1140
+
+patches:
+  '001':
+    first_issue_date: '2023-03-27'
+    last_issue_date: '2023-03-29'

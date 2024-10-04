@@ -1,0 +1,29 @@
+--- data/titles/preprocessed/xml/07/2023/03/2023-03-28_519a08ef.xml	2024-10-03 18:12:28.376862000 -0700
++++ tmp/title_version_7_2023-03-28_519a08ef_preprocessed.xml	2024-10-03 18:13:01.790841666 -0700
+@@ -353786,7 +353786,7 @@
+ 
+ </HEAD>
+ 
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="XVI" TYPE="CHAPTER">
+ <HEAD>CHAPTER XVI [RESERVED]
+ 
+ 
+@@ -443355,7 +443355,7 @@
+ </DIV3>
+ 
+ 
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="XX" TYPE="CHAPTER">
+ <HEAD>CHAPTER XX [RESERVED]
+ 
+ 
+@@ -474857,7 +474857,7 @@
+ </DIV3>
+ 
+ 
+-<DIV3 N="0" TYPE="CHAPTER">
++<DIV3 N="XLI" TYPE="CHAPTER">
+ <HEAD>CHAPTER XLI [RESERVED]
+ 
+ 

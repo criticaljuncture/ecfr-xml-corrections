@@ -1,0 +1,28 @@
+--- data/titles/preprocessed/xml/07/2017/06/2017-06-21_92a2df4a.xml	2024-10-03 18:28:59.103779913 -0700
++++ tmp/title_version_7_2017-06-21_92a2df4a_preprocessed.xml	2024-10-03 18:30:32.050671459 -0700
+@@ -307816,25 +307816,6 @@
+ <HEAD>PART 1222 - PAPER AND PAPER-BASED PACKAGING PROMOTION, RESEARCH AND INFORMATION ORDER
+ </HEAD>
+ 
+-<DIV6 N="C" TYPE="SUBPART">
+-<HEAD>Subpart C - Provisions Implementing the Paper and Paper-Based Packaging Promotion, Research and Information Order</HEAD>
+-
+-<SECTNO>1222.520</SECTNO>
+-<SUBJECT>Late payment and interest charges for past due assessments.
+-
+-
+-</SUBJECT>
+-<AUTH>
+-<HED>Authority:</HED><PSPACE>7 U.S.C. 7411-7425; 7 U.S.C. 7401.
+-</PSPACE></AUTH>
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>78 FR 56820, Sept. 16, 2013, unless otherwise noted.
+-
+-
+-</PSPACE></SOURCE>
+-</DIV6>
+-
+-
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A - Paper and Paper-Based Packaging Promotion, Research and Information Order</HEAD>
+ 

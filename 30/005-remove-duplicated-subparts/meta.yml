@@ -1,0 +1,11 @@
+description: Remove 3 errantly introduced subparts that were removed in following title version
+tags: structural
+status: needs-review
+issue_number: 2023-01-31
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/1140
+
+patches:
+  '001':
+    first_issue_date: '2023-01-31'
+    last_issue_date: '2023-01-31'

@@ -1,0 +1,11 @@
+description: Title 49 has a duplicate subpart E that is removed in later versions
+tags: structural
+status: needs-review
+issue_number: 100
+fr_doc: 83993
+reference: https://classic.basecamp.com/dhh/inbox/messages/1
+
+patches:
+  '001':
+    first_issue_date: '2017-01-25'
+    last_issue_date: '2017-02-13'

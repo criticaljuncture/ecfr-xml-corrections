@@ -1,0 +1,11 @@
+description: Remove extraneuous toc subpart C
+tags: structural
+status: needs-review
+issue_number: 017-06-21
+fr_doc:
+reference: https://github.com/criticaljuncture/ecfr-versioner/issues/1140
+
+patches:
+  '001':
+    first_issue_date: '2017-06-21'
+    last_issue_date: '2017-06-21'
