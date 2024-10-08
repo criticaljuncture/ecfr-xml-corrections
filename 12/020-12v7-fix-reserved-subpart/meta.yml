@@ -1,6 +1,6 @@
 description: 12v7 Subpart B-XXX absorbed following sections
 tags: structural
-status: 
+status:
 issue_number: 2024-08-07
 fr_doc: 89 FR 64577
 reference: https://www.federalregister.gov/d/2024-16197/p-amd-11
@@ -8,4 +8,4 @@ reference: https://www.federalregister.gov/d/2024-16197/p-amd-11
 patches:
   '001':
     first_issue_date: '2024-08-07'
-    last_issue_date: '2100-01-01'
+    last_issue_date: '2024-09-30'
