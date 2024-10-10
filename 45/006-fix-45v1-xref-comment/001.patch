@@ -1,0 +1,12 @@
+--- data/titles/preprocessed/xml/45/2024/10/2024-10-03_d2bdecdf.xml	2024-10-09 22:31:21.702389978 -0500
++++ tmp/title_version_45_2024-10-03_d2bdecdf_preprocessed.xml	2024-10-09 22:32:38.717711341 -0500
+@@ -3605,8 +3605,7 @@
+ 
+ 
+ <DIV8 N="§ 16.2" TYPE="SECTION">
+-<HEAD>§ 16.2   Definitions.
+-20251001--&gt;</HEAD>
++<HEAD>§ 16.2   Definitions.</HEAD>
+ <P>(a) <I>Board</I> means the Departmental Grant Appeals Board of the Department of Health and Human Services. Reference below to an action of <I>the Board</I> means an action of the Chair, another Board member, or Board staff acting at the direction of a Board member. In certain instances, the provisions restrict action to particular Board personnel, such as the Chair or a Board member assigned to a case.
+ </P>
+ <P>(b) Other terms shall have the meaning set forth in part 75 of this title, unless the context below otherwise requires.
