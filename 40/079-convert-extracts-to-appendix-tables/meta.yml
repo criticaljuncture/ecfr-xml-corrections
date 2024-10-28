@@ -1,0 +1,13 @@
+description: Several tables were marked up as extracts, but should be converted to appendix tables.
+tags: structural
+status: approved
+issue_number: 2017-01-01
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116165328/comments
+patches:
+  '001':
+    first_issue_date: '2017-01-01'
+    last_issue_date: '2017-09-25'
+  '002':
+    first_issue_date: '2017-09-26'
+    last_issue_date: '2024-10-23'

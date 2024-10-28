@@ -1,0 +1,917 @@
+--- data/titles/preprocessed/xml/40/2017/01/2017-01-01_146ee12c.xml	2024-10-28 11:52:55.627401622 -0400
++++ tmp/title_version_40_2017-01-01_146ee12c_preprocessed.xml	2024-10-28 12:08:13.398810873 -0400
+@@ -312730,219 +312730,706 @@
+ </P>
+ <P>(g) Performance test and data reduction waivers under § 60.8(b) of this chapter.
+ </P>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 1 to Subpart LLL of Part 62 - Compliance Schedule for Existing Sewage Sludge Incineration Units
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Comply with these
+ 
+-
+-<br/>requirements
+-</TH><TH class="gpotbl_colhed" scope="col">By this date
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1 - Submit final control plan</TD><TD align="left" class="gpotbl_cell">March 21, 2016, for all units except East Bank Wastewater Treatment Plant, New Orleans, Louisiana, and Bayshore Regional Wastewater Treatment Plant in Union Beach, Monmouth County, NJ.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">2 - Final compliance</TD><TD align="left" class="gpotbl_cell">For East Bank Wastewater Treatment Plant, New Orleans, Louisiana, and Bayshore Regional Wastewater Treatment Plant in Union Beach, Monmouth County, NJ, March 21, 2017.</TD></TR></TABLE></DIV></DIV>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 2 to Subpart LLL of Part 62 - Emission Limits and Standards for Existing Fluidized Bed Sewage Sludge Incineration Units
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">For the air pollutant
+-</TH><TH class="gpotbl_colhed" scope="col">You must meet this emission limit 
+-<sup>1</sup>
+-</TH><TH class="gpotbl_colhed" scope="col">Using these averaging methods
+-
+-
+-<br/>and minimum sampling volumes
+-
+-<br/>or durations
+-</TH><TH class="gpotbl_colhed" scope="col">And determining compliance using this method
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Particulate matter</TD><TD align="left" class="gpotbl_cell">18 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 1 dry standard cubic meters sample per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 5 at 40 CFR part 60, appendix A-3; Method 26A or Method 29 at 40 CFR part 60, appendix A-8).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Hydrogen chloride</TD><TD align="left" class="gpotbl_cell">0.51 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (Collect a minimum volume of 1 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 26A at 40 CFR part 60, appendix A-8).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Carbon monoxide</TD><TD align="left" class="gpotbl_cell">64 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (collect sample for a minimum duration of one hour per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 10, 10A, or 10B at 40 CFR part 60, appendix A-4).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dioxins/furans (total mass basis); or</TD><TD align="left" class="gpotbl_cell">1.2 nanograms per dry standard cubic meter (total mass basis); or</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 23 at 40 CFR part 60, appendix A-7).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dioxins/furans (toxic equivalency basis) 
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">0.10 nanograms per dry standard cubic meter (toxic equivalency basis)
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Mercury</TD><TD align="left" class="gpotbl_cell">0.037 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (For Method 29 and ASTM D6784-02 (Reapproved 2008) 
+-<sup>3</sup> , collect a minimum volume of 1 dry standard cubic meters per run. For Method 30B, collect a minimum sample as specified in Method 30B at 40 CFR part 60, appendix A-8)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 29 at 40 CFR part 60, appendix A-8; Method 30B at 40 CFR part 60, appendix A-8; or ASTM D6784-02 (Reapproved 2008).<E T="51">3 5</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Oxides of nitrogen</TD><TD align="left" class="gpotbl_cell">150 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (Collect sample for a minimum duration of one hour per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 7 or 7E at 40 CFR part 60, appendix A-4).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sulfur dioxide</TD><TD align="left" class="gpotbl_cell">15 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (For Method 6, collect a minimum volume of 60 liters per run. For Method 6C, collect sample for a minimum duration of one hour per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 6 or 6C at 40 CFR part 40, appendix A-4; or ANSI/ASME PTC-19.10-1981.<E T="51">3 4</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Cadmium</TD><TD align="left" class="gpotbl_cell">0.0016 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 29 at 40 CFR part 60, appendix A-8). Use GFAAS or ICP/MS for the analytical finish.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Lead</TD><TD align="left" class="gpotbl_cell">0.0074 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 1 dry standard cubic meters sample per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 29 at 40 CFR part 60, appendix A-8. Use GFAAS or ICP/MS for the analytical finish.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fugitive emissions from ash handling</TD><TD align="left" class="gpotbl_cell">Visible emissions of combustion ash from an ash conveying system (including conveyor transfer points) for no more than 5 percent of any compliance test hourly observation period</TD><TD align="left" class="gpotbl_cell">Three 1-hour observation periods</TD><TD align="left" class="gpotbl_cell">Visible emission test (Method 22 at 40 CFR part 60, appendix A-7).
+-</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
+-<sup>1</sup> All emission limits are measured at 7-percent oxygen, dry basis at standard conditions.
+-</P><P class="gpotbl_note">
+-<sup>2</sup> You have the option to comply with either the dioxin/furan emission limit on a total mass basis or the dioxin/furan emission limit on a toxic equivalency basis.
+-</P><P class="gpotbl_note">
+-<sup>3</sup> The Director of the Federal Register approves these incorporations by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect these standards at U.S. Environmental Protection Agency, 1200 Pennsylvania Avenue NW., Washington, DC 20460, (202) 272-0167, <E T="03">http://www.epa.gov.</E> You may also inspect a copy at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: {HYPERLINK “<E T="03">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</E>”}.
+-</P><P class="gpotbl_note">
+-<sup>4</sup> ANSI/ASME PTC 19.10-1981, Flue and Exhaust Gas Analyses [Part 10, Instruments and Apparatus]. American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016-5990 (Phone: 1-800-843-2763; Web site: <E T="03">https://www.asme.org/</E>).
+-</P><P class="gpotbl_note">
+-<sup>5</sup> ASTM D6784-02 (Reapproved 2008) Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method), [approved April 1, 2008]. ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959; ProQuest, 300 North Zeeb Road, Ann Arbor, MI 48106 (Phone: 1-877-909-2786; Web site: <E T="03">http://www.astm.org/</E>).</P></DIV></DIV>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 3 to Subpart LLL of Part 62 - Emission Limits and Standards for Existing Multiple Hearth Sewage Sludge Incineration Units
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">For the air pollutant
+-</TH><TH class="gpotbl_colhed" scope="col">You must meet this emission limit 
+-<sup>1</sup>
+-</TH><TH class="gpotbl_colhed" scope="col">Using these averaging methods
+-
+-
+-<br/>and minimum sampling volumes
+-
+-<br/>or durations
+-</TH><TH class="gpotbl_colhed" scope="col">And determining compliance using this method
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Particulate matter</TD><TD align="left" class="gpotbl_cell">80 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 0.75 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 5 at 40 CFR part 60, appendix A-3; Method 26A or Method 29 at 40 CFR part 60, appendix A-8).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Hydrogen chloride</TD><TD align="left" class="gpotbl_cell">1.2 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (For Method 26, collect a minimum volume of 200 liters per run. For Method 26A, collect a minimum volume of 1 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 26 or 26A at 40 CFR part 60, appendix A-8).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Carbon monoxide</TD><TD align="left" class="gpotbl_cell">3,800 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (collect sample for a minimum duration of one hour per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 10, 10A, or 10B at 40 CFR part 60, appendix A-4).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dioxins/furans (total mass basis)</TD><TD align="left" class="gpotbl_cell">5.0 nanograms per dry standard cubic meter; or</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 23 at 40 CFR part 60, appendix A-7).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dioxins/furans (toxic equivalency basis). 
+-<sup>2</sup></TD><TD align="left" class="gpotbl_cell">0.32 nanograms per dry standard cubic meter
+-</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Mercury</TD><TD align="left" class="gpotbl_cell">0.28 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (For Method 29 and ASTM D6784-02 (Reapproved 2008),
+-<sup>3</sup> collect a minimum volume of 1 dry standard cubic meters per run. For Method 30B, collect a minimum sample as specified in Method 30B at 40 CFR part 60, appendix A-8)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 29 at 40 CFR part 60, appendix A-8; Method 30B at 40 CFR part 60, appendix A-8; or ASTM D6784-02 (Reapproved 2008).<E T="51">3 5</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Oxides of nitrogen</TD><TD align="left" class="gpotbl_cell">220 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (Collect sample for a minimum duration of one hour per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 7 or 7E at 40 CFR part 60, appendix A-4).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Sulfur dioxide</TD><TD align="left" class="gpotbl_cell">26 parts per million by dry volume</TD><TD align="left" class="gpotbl_cell">3-run average (For Method 6, collect a minimum volume of 200 liters per run. For Method 6C, collect sample for a minimum duration of one hour per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 6 or 6C at 40 CFR part 40, appendix A-4; or ANSI/ASME PTC 19.10-1981.<E T="51">3 4</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Cadmium</TD><TD align="left" class="gpotbl_cell">0.095 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 29 at 40 CFR part 60, appendix A-8).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Lead</TD><TD align="left" class="gpotbl_cell">0.30 milligrams per dry standard cubic meter</TD><TD align="left" class="gpotbl_cell">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD><TD align="left" class="gpotbl_cell">Performance test (Method 29 at 40 CFR part 60, appendix A-8.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fugitive emissions from ash handling</TD><TD align="left" class="gpotbl_cell">Visible emissions of combustion ash from an ash conveying system (including conveyor transfer points) for no more than 5 percent of any compliance test hourly observation period</TD><TD align="left" class="gpotbl_cell">Three 1-hour observation periods</TD><TD align="left" class="gpotbl_cell">Visible emission test (Method 22 at 40 CFR part 60, appendix A-7).
+-</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
+-<sup>1</sup> All emission limits are measured at 7-percent oxygen, dry basis at standard conditions.
+-</P><P class="gpotbl_note">
+-<sup>2</sup> You have the option to comply with either the dioxin/furan emission limit on a total mass basis or the dioxin/furan emission limit on a toxic equivalency basis.
+-</P><P class="gpotbl_note">
+-<sup>3</sup> The Director of the Federal Register approves these incorporations by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect these standards at U.S. Environmental Protection Agency, 1200 Pennsylvania Avenue NW., Washington, DC 20460, (202) 272-0167, <E T="03">http://www.epa.gov.</E> You may also inspect a copy at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: <E T="03">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</E>
+-</P><P class="gpotbl_note">
+-<sup>4</sup> ANSI/ASME PTC 19.10-1981, Flue and Exhaust Gas Analyses [Part 10, Instruments and Apparatus]. American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016-5990 (Phone: 1-800-843-2763; Web site: <E T="03">https://www.asme.org/</E>).
+-</P><P class="gpotbl_note">
+-<sup>5</sup> ASTM D6784-02 (Reapproved 2008) Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method), [approved April 1, 2008]. ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959; ProQuest, 300 North Zeeb Road, Ann Arbor, MI 48106 (Phone: 1-877-909-2786; Web site: <E T="03">http://www.astm.org/</E>).</P></DIV></DIV>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 4 to Subpart LLL of Part 62 - Operating Parameters for Existing Sewage Sludge Incineration Units 
+-<sup>1</sup>
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" rowspan="2" scope="col">For these operating parameters
+-</TH><TH class="gpotbl_colhed" rowspan="2" scope="col">You must establish these operating limits
+-</TH><TH class="gpotbl_colhed" colspan="3" scope="col">And monitor using these minimum frequencies
+-</TH></TR><TR><TH class="gpotbl_colhed" scope="col">Data measurement
+-</TH><TH class="gpotbl_colhed" scope="col">Data recording 
+-<sup>2</sup>
+-</TH><TH class="gpotbl_colhed" scope="col">Data averaging period for compliance
+-</TH></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">All sewage sludge incineration units</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Combustion chamber operating temperature (not required if afterburner temperature is monitored)</TD><TD align="left" class="gpotbl_cell">Minimum combustion chamber operating temperature or afterburner temperature</TD><TD align="left" class="gpotbl_cell">Continuous</TD><TD align="left" class="gpotbl_cell">Every 15 minutes</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Fugitive emissions from ash handling</TD><TD align="left" class="gpotbl_cell">Site-specific operating requirements</TD><TD align="left" class="gpotbl_cell">Not applicable</TD><TD align="left" class="gpotbl_cell">Not applicable</TD><TD align="left" class="gpotbl_cell">Not applicable.
+-</TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Scrubber</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Pressure drop across each wet scrubber</TD><TD align="left" class="gpotbl_cell">Minimum pressure drop</TD><TD align="left" class="gpotbl_cell">Continuous</TD><TD align="left" class="gpotbl_cell">Every 15 minutes</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Scrubber liquid flow rate</TD><TD align="left" class="gpotbl_cell">Minimum flow rate</TD><TD align="left" class="gpotbl_cell">Continuous</TD><TD align="left" class="gpotbl_cell">Every 15 minutes</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Scrubber liquid pH</TD><TD align="left" class="gpotbl_cell">Minimum pH</TD><TD align="left" class="gpotbl_cell">Continuous</TD><TD align="left" class="gpotbl_cell">Every 15 minutes</TD><TD align="left" class="gpotbl_cell">3-hour block.
+-</TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Fabric Filter</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Alarm time of the bag leak detection system alarm</TD><TD align="center" class="gpotbl_cell" colspan="4">Maximum alarm time of the bag leak detection system alarm (this operating limit is provided in § 60.4850 and is not established on a site-specific basis)
+-</TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Electrostatic precipitator</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Secondary voltage of the electrostatic precipitator collection plates</TD><TD align="left" class="gpotbl_cell">Minimum power input to the electrostatic precipitator collection plates</TD><TD align="left" class="gpotbl_cell">Continuous</TD><TD align="left" class="gpotbl_cell">Hourly</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Secondary amperage of the electrostatic precipitator collection plates</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Effluent water flow rate at the outlet of the electrostatic precipitator</TD><TD align="left" class="gpotbl_cell">Minimum effluent water flow rate at the outlet of the electrostatic precipitator</TD><TD align="left" class="gpotbl_cell">Hourly</TD><TD align="left" class="gpotbl_cell">Hourly</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Activated carbon injection</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Mercury sorbent injection rate</TD><TD align="left" class="gpotbl_cell">Minimum mercury sorbent injection rate</TD><TD align="left" class="gpotbl_cell">Hourly</TD><TD align="left" class="gpotbl_cell">Hourly</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Dioxin/furan sorbent injection rate</TD><TD align="left" class="gpotbl_cell">Minimum dioxin/furan sorbent injection rate.</TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Carrier gas flow rate or carrier gas pressure drop</TD><TD align="left" class="gpotbl_cell">Minimum carrier gas flow rate or minimum carrier gas pressure drop</TD><TD align="left" class="gpotbl_cell">Continuous</TD><TD align="left" class="gpotbl_cell">Every 15 minutes</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR><TR><TD align="center" class="gpotbl_cell" colspan="5" scope="row"><E T="02">Afterburner</E>
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Temperature of the afterburner combustion chamber</TD><TD align="left" class="gpotbl_cell">Minimum temperature of the afterburner combustion chamber</TD><TD align="left" class="gpotbl_cell">Continuous</TD><TD align="left" class="gpotbl_cell">Every 15 minutes</TD><TD align="left" class="gpotbl_cell">12-hour block.
+-</TD></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
+-<sup>1</sup> As specified in § 62.15985, you may use a continuous emissions monitoring system or continuous automated sampling system in lieu of establishing certain operating limits.
+-</P><P class="gpotbl_note">
+-<sup>2</sup> This recording time refers to the minimum frequency that the continuous monitor or other measuring device initially records data. For all data recorded every 15 minutes, you must calculate hourly arithmetic averages. For all parameters, you use hourly averages to calculate the 12-hour or 3-hour block average specified in this table for demonstrating compliance. You maintain records of 1-hour averages.</P></DIV></DIV>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 5 to Subpart LLL of Part 62 - Toxic Equivalency Factors
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Dioxin/furan isomer
+-</TH><TH class="gpotbl_colhed" scope="col">Toxic equivalency factor
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">2,3,7,8-tetrachlorinated dibenzo-p-dioxin</TD><TD align="left" class="gpotbl_cell">1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,7,8-pentachlorinated dibenzo-p-dioxin</TD><TD align="left" class="gpotbl_cell">1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,4,7,8-hexachlorinated dibenzo-p-dioxin</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,7,8,9-hexachlorinated dibenzo-p-dioxin</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,6,7,8-hexachlorinated dibenzo-p-dioxin</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,4,6,7,8-heptachlorinated dibenzo-p-dioxin</TD><TD align="left" class="gpotbl_cell">0.01
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">octachlorinated dibenzo-p-dioxin</TD><TD align="left" class="gpotbl_cell">0.0003
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">2,3,7,8-tetrachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">2,3,4,7,8-pentachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.3
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,7,8-pentachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.03
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,4,7,8-hexachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,6,7,8-hexachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,7,8,9-hexachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">2,3,4,6,7,8-hexachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.1
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,4,6,7,8-heptachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.01
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">1,2,3,4,7,8,9-heptachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.01
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">octachlorinated dibenzofuran</TD><TD align="left" class="gpotbl_cell">0.0003</TD></TR></TABLE></DIV></DIV>
+-<DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table 6 to Subpart LLL of Part 62 - Summary of Reporting Requirements for Existing Sewage Sludge Incineration Units
+-<sup>1</sup>
+-</P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Report
+-</TH><TH class="gpotbl_colhed" scope="col">Due date
+-</TH><TH class="gpotbl_colhed" scope="col">Contents
+-</TH><TH class="gpotbl_colhed" scope="col">Reference
+-</TH></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Final control plan and final compliance report</TD><TD align="left" class="gpotbl_cell">No later than 10 business days after the compliance date</TD><TD align="left" class="gpotbl_cell">1. Final control plan including air pollution control device descriptions, process changes, type of waste to be burned, and the maximum design sewage sludge burning capacity</TD><TD align="right" class="gpotbl_cell">§ 62.16030(a).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">2. Notification of any failure to submit the final control plan and achieve final compliance</TD><TD align="right" class="gpotbl_cell">
+-<br/></TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">3. Notification of any closure
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Initial compliance report</TD><TD align="left" class="gpotbl_cell">No later than 60 days following the initial performance test</TD><TD align="left" class="gpotbl_cell">1. Company name and address
+-
+-
+-<br/>2.Statement by a responsible official, with that official's name, title, and signature, certifying the accuracy of the content of the report.
+-
+-<br/>3. Date of report.
+-
+-<br/>4. Complete test report for the initial performance test.
+-
+-<br/>5. Results of CMS
+-<sup>2</sup> performance evaluation.</TD><TD align="right" class="gpotbl_cell">§ 62.16030(b).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">6. The values for the site-specific operating limits and the calculations and methods used to establish each operating limit</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">7. Documentation of installation of bag leak detection system for fabric filter</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">8. Results of initial air pollution control device inspection, including a description of repairs</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">9. The site-specific monitoring plan required under § 62.15995</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">10. The site-specific monitoring plan for your ash handling system required under § 62.15995
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Annual compliance report</TD><TD align="left" class="gpotbl_cell">No later than 12 months following the submission of the initial compliance report; subsequent reports are to be submitted no more than 12 months following the previous report</TD><TD align="left" class="gpotbl_cell">1. Company name and address
+-
+-
+-<br/>2. Statement and signature by responsible official.
+-
+-<br/>3. Date and beginning and ending dates of report.
+-
+-<br/>4. If a performance test was conducted during the reporting period, the results of the test, including any new operating limits and associated calculations and the type of activated carbon used, if applicable.</TD><TD align="right" class="gpotbl_cell">§ 62.16030(c).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">5. For each pollutant and operating parameter recorded using a CMS, the highest recorded 3-hour average and the lowest recorded 3-hour average, as applicable</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">6. If no deviations from emission limits, emission standards, or operating limits occurred, a statement that no deviations occurred</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">7. If a fabric filter is used, the date, time, and duration of alarms</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">8. If a performance evaluation of a CMS was conducted, the results, including any new operating limits and their associated calculations</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">9. If you met the requirements of § 62.16000(a)(3) and did not conduct a performance test, include the dates of the last three performance tests, a comparison to the 50 percent emission limit threshold of the emission level achieved in the last three performance tests, and a statement as to whether there have been any process changes</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">10. Documentation of periods when all qualified SSI unit operators were unavailable for more than 8 hours but less than 2 weeks</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">11. Results of annual pollutions control device inspections, including description of repairs</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">12. If there were no periods during which your CMSs had malfunctions, a statement that there were no periods during which your CMSs had malfunctions</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">13. If there were no periods during which your CMSs were out of control, a statement that there were no periods during which your CMSs were out of control</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">14. If there were no operator training deviations, a statement that there were no such deviations</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">15. Information on monitoring plan revisions, including a copy of any revised monitoring plan</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Deviation report (deviations from emission limits, emission standards, or operating limits, as specified in § 62.16030(e)(1))</TD><TD align="left" class="gpotbl_cell">By August 1 of a calendar year for data collected during the first half of the calendar year; by February 1 of a calendar year for data collected during the second half of the calendar year</TD><TD align="left" class="gpotbl_cell"><E T="03">If using a CMS:</E>
+-
+-
+-<br/>1. Company name and address.
+-
+-<br/>2. Statement by a responsible official.
+-
+-<br/>3. The calendar dates and times your unit deviated from the emission limits or operating limits.
+-
+-<br/>4. The averaged and recorded data for those dates.
+-
+-<br/>5. Duration and cause of each deviation.
+-
+-<br/>6. Dates, times, and causes for monitor downtime incidents.
+-
+-<br/>7. A copy of the operating parameter monitoring data during each deviation and any test report that documents the emission levels.</TD><TD align="right" class="gpotbl_cell">§ 62.16030(d).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">8. For periods of CMS malfunction or when a CMS was out of control, you must include the information specified in § 62.16030(d)(3)(viii)
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell"><E T="03">If not using a CMS:</E>
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">1. Company name and address
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">2. Statement by a responsible official
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">3. The total operating time of each affected SSI unit
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">4. The calendar dates and times your unit deviated from the emission limits, emission standard, or operating limits
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">5. The averaged and recorded data for those dates
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">6. Duration and cause of each deviation
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">7. A copy of any performance test report that showed a deviation from the emission limits or standards
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"/><TD align="left" class="gpotbl_cell"/><TD align="left" class="gpotbl_cell">8. A brief description of any malfunction, a description of actions taken during the malfunction to minimize emissions, and corrective action taken
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Notification of qualified operator deviation (if all qualified operators are not accessible for 2 weeks or more)</TD><TD align="left" class="gpotbl_cell">Within 10 days of deviation</TD><TD align="left" class="gpotbl_cell">1. Statement of cause of deviation
+-
+-
+-<br/>2. Description of actions taken to ensure that a qualified operator will be available
+-
+-<br/>3. The date when a qualified operator will be accessible</TD><TD align="right" class="gpotbl_cell">§ 62.16030(e).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Notification of status of qualified operator deviation</TD><TD align="left" class="gpotbl_cell">Every 4 weeks following notification of deviation</TD><TD align="left" class="gpotbl_cell">1. Description of actions taken to ensure that a qualified operator is accessible
+-
+-
+-<br/>2. The date when you anticipate that a qualified operator will be accessible.
+-
+-<br/>3. Request for approval to continue operation.</TD><TD align="right" class="gpotbl_cell">§ 62.16030(e).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Notification of resumed operation following shut down (due to qualified operator deviation and as specified in § 62.15945(b)(2)(i)</TD><TD align="left" class="gpotbl_cell">Within five days of obtaining a qualified operator and resuming operation</TD><TD align="left" class="gpotbl_cell">1. Notification that you have obtained a qualified operator and are resuming operation</TD><TD align="right" class="gpotbl_cell">§ 62.16030(e).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Notification of a force majeure</TD><TD align="left" class="gpotbl_cell">As soon as practicable following the date you first knew, or through due diligence should have known that the event may cause or caused a delay in conducting a performance test beyond the regulatory deadline; the notification must occur before the performance test deadline unless the initial force majeure or a subsequent force majeure event delays the notice, and in such cases, the notification must occur as soon as practicable</TD><TD align="left" class="gpotbl_cell">1. Description of the force majeure event
+-
+-
+-<br/>2. Rationale for attributing the delay in conducting the performance test beyond the regulatory deadline to the force majeure.
+-
+-<br/>3. Description of the measures taken or to be taken to minimize the delay.
+-
+-<br/>4. Identification of the date by which you propose to conduct the performance test.</TD><TD align="right" class="gpotbl_cell">§ 62.16030(f).
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Notification of intent to start or stop use of a CMS</TD><TD align="left" class="gpotbl_cell">1 month before starting or stopping use of a CMS</TD><TD align="left" class="gpotbl_cell">1. Intent to start or stop use of a CMS</TD><TD align="right" class="gpotbl_cell">§ 62.16030(g)
+-</TD></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Notification of intent to conduct a performance test</TD><TD align="left" class="gpotbl_cell">At least 30 days prior to the performance test</TD><TD align="left" class="gpotbl_cell">1. Intent to conduct a performance test to comply with this subpart
+-</TD><TD align="right" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row">Notification of intent to conduct a rescheduled performance test</TD><TD align="left" class="gpotbl_cell">At least 7 days prior to the date of a rescheduled performance test</TD><TD align="left" class="gpotbl_cell">1. Intent to conduct a rescheduled performance test to comply with this subpart
+-</TD><TD align="right" class="gpotbl_cell"/></TR></TABLE></DIV><DIV class="table_foot"><P class="gpotbl_note">
+-<sup>1</sup> This table is only a summary, see the referenced sections of the rule for the complete requirements.
+-</P><P class="gpotbl_note">
+-<sup>2</sup> CMS means continuous monitoring system.</P></DIV></DIV>
+ </DIV8>
+ 
+ </DIV7>
+ 
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 1 to Subpart LLL of Part 62—Compliance Schedule for Existing Sewage Sludge Incineration Units
++</HEAD>
++<DIV width="100%"><DIV class="gpotbl_div">
++<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
++<THEAD>
++<TR>
++<TH class="center border-top-single border-bottom-single border-right-single">Comply with these<br/>requirements</TH>
++<TH class="center border-top-single border-bottom-single">By this date</TH>
++</TR>
++</THEAD>
++<TBODY>
++<TR>
++<TD class="left border-right-single">1—Submit final control plan</TD>
++<TD class="left">March 21, 2016, for all units except East Bank Wastewater Treatment Plant, New Orleans, Louisiana, and Bayshore Regional Wastewater Treatment Plant in Union Beach, Monmouth County, NJ.</TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">2—Final compliance</TD>
++<TD class="left border-bottom-single">For East Bank Wastewater Treatment Plant, New Orleans, Louisiana, and Bayshore Regional Wastewater Treatment Plant in Union Beach, Monmouth County, NJ, March 21, 2017.</TD>
++</TR>
++</TBODY>
++</TABLE>
++</DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 2 to Subpart LLL of Part 62—Emission Limits and Standards for Existing Fluidized Bed Sewage Sludge Incineration Units
++
++
++</HEAD>
++<DIV width="100%"><DIV class="gpotbl_div">
++<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
++<THEAD>
++<TR>
++<TH class="center border-top-single border-bottom-single border-right-single">For the air pollutant</TH>
++<TH class="center border-top-single border-bottom-single border-right-single">You must meet this emission limit <sup>1</sup></TH>
++<TH class="center border-top-single border-bottom-single border-right-single">Using these averaging methods<br/>and minimum sampling volumes<br/>or durations</TH>
++<TH class="center border-top-single border-bottom-single">And determining compliance using this method</TH>
++</TR>
++</THEAD>
++<TBODY>
++<TR>
++<TD class="left border-right-single">Particulate matter</TD>
++<TD class="left border-right-single">18 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 1 dry standard cubic meters sample per run)</TD>
++<TD class="left">Performance test (Method 5 at 40 CFR part 60, appendix A-3; Method 26A or Method 29 at 40 CFR part 60, appendix A-8).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Hydrogen chloride</TD>
++<TD class="left border-right-single">0.51 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (Collect a minimum volume of 1 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 26A at 40 CFR part 60, appendix A-8).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Carbon monoxide</TD>
++<TD class="left border-right-single">64 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (collect sample for a minimum duration of one hour per run)</TD>
++<TD class="left">Performance test (Method 10, 10A, or 10B at 40 CFR part 60, appendix A-4).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Dioxins/furans (total mass basis); or</TD>
++<TD class="left border-right-single">1.2 nanograms per dry standard cubic meter (total mass basis); or</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 23 at 40 CFR part 60, appendix A-7).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Dioxins/furans (toxic equivalency basis) <sup>2</sup></TD>
++<TD class="left border-right-single">0.10 nanograms per dry standard cubic meter (toxic equivalency basis)</TD>
++<TD class="left border-right-single"/>
++<TD class="left"/>
++</TR>
++<TR>
++<TD class="left border-right-single">Mercury</TD>
++<TD class="left border-right-single">0.037 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (For Method 29 and ASTM D6784-02 (Reapproved 2008) <sup>3</sup> , collect a minimum volume of 1 dry standard cubic meters per run. For Method 30B, collect a minimum sample as specified in Method 30B at 40 CFR part 60, appendix A-8)</TD>
++<TD class="left">Performance test (Method 29 at 40 CFR part 60, appendix A-8; Method 30B at 40 CFR part 60, appendix A-8; or ASTM D6784-02 (Reapproved 2008).<sup>3 5</sup></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Oxides of nitrogen</TD>
++<TD class="left border-right-single">150 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (Collect sample for a minimum duration of one hour per run)</TD>
++<TD class="left">Performance test (Method 7 or 7E at 40 CFR part 60, appendix A-4).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Sulfur dioxide</TD>
++<TD class="left border-right-single">15 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (For Method 6, collect a minimum volume of 60 liters per run. For Method 6C, collect sample for a minimum duration of one hour per run)</TD>
++<TD class="left">Performance test (Method 6 or 6C at 40 CFR part 40, appendix A-4; or ANSI/ASME PTC-19.10-1981.<sup>3 4</sup></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Cadmium</TD>
++<TD class="left border-right-single">0.0016 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 29 at 40 CFR part 60, appendix A-8). Use GFAAS or ICP/MS for the analytical finish.</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Lead</TD>
++<TD class="left border-right-single">0.0074 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 1 dry standard cubic meters sample per run)</TD>
++<TD class="left">Performance test (Method 29 at 40 CFR part 60, appendix A-8. Use GFAAS or ICP/MS for the analytical finish.</TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Fugitive emissions from ash handling</TD>
++<TD class="left border-bottom-single border-right-single">Visible emissions of combustion ash from an ash conveying system (including conveyor transfer points) for no more than 5 percent of any compliance test hourly observation period</TD>
++<TD class="left border-bottom-single border-right-single">Three 1-hour observation periods</TD>
++<TD class="left border-bottom-single">Visible emission test (Method 22 at 40 CFR part 60, appendix A-7).
++</TD>
++</TR>
++</TBODY>
++<TFOOT><TR><TD colspan="4"><sup>1</sup> All emission limits are measured at 7-percent oxygen, dry basis at standard conditions.
++</TD></TR><TR><TD colspan="4"><sup>2</sup> You have the option to comply with either the dioxin/furan emission limit on a total mass basis or the dioxin/furan emission limit on a toxic equivalency basis.
++</TD></TR><TR><TD colspan="4"><sup>3</sup> The Director of the Federal Register approves these incorporations by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect these standards at U.S. Environmental Protection Agency, 1200 Pennsylvania Avenue NW., Washington, DC 20460, (202) 272-0167, <E T="03">http://www.epa.gov.</E> You may also inspect a copy at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: {HYPERLINK “<E T="03">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html</E>”}.
++</TD></TR><TR><TD colspan="4"><sup>4</sup> ANSI/ASME PTC 19.10-1981, Flue and Exhaust Gas Analyses [Part 10, Instruments and Apparatus]. American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016-5990 (Phone: 1-800-843-2763; Web site: <E T="03">https://www.asme.org/</E>).
++</TD></TR><TR><TD colspan="4"><sup>5</sup> ASTM D6784-02 (Reapproved 2008) Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method), [approved April 1, 2008]. ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959; ProQuest, 300 North Zeeb Road, Ann Arbor, MI 48106 (Phone: 1-877-909-2786; Web site: <E T="03">http://www.astm.org/</E>).</TD></TR></TFOOT></TABLE>
++</DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 3 to Subpart LLL of Part 62—Emission Limits and Standards for Existing Multiple Hearth Sewage Sludge Incineration Units
++
++
++</HEAD>
++<DIV width="100%"><DIV class="gpotbl_div">
++<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
++<THEAD>
++<TR>
++<TH class="center border-top-single border-bottom-single border-right-single">For the air pollutant</TH>
++<TH class="center border-top-single border-bottom-single border-right-single">You must meet this emission limit <sup>1</sup></TH>
++<TH class="center border-top-single border-bottom-single border-right-single">Using these averaging methods<br/>and minimum sampling volumes<br/>or durations</TH>
++<TH class="center border-top-single border-bottom-single">And determining compliance using this method</TH>
++</TR>
++</THEAD>
++<TBODY>
++<TR>
++<TD class="left border-right-single">Particulate matter</TD>
++<TD class="left border-right-single">80 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 0.75 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 5 at 40 CFR part 60, appendix A-3; Method 26A or Method 29 at 40 CFR part 60, appendix A-8).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Hydrogen chloride</TD>
++<TD class="left border-right-single">1.2 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (For Method 26, collect a minimum volume of 200 liters per run. For Method 26A, collect a minimum volume of 1 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 26 or 26A at 40 CFR part 60, appendix A-8).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Carbon monoxide</TD>
++<TD class="left border-right-single">3,800 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (collect sample for a minimum duration of one hour per run)</TD>
++<TD class="left">Performance test (Method 10, 10A, or 10B at 40 CFR part 60, appendix A-4).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Dioxins/furans (total mass basis)</TD>
++<TD class="left border-right-single">5.0 nanograms per dry standard cubic meter; or</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 23 at 40 CFR part 60, appendix A-7).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Dioxins/furans (toxic equivalency basis). <sup>2</sup></TD>
++<TD class="left border-right-single">0.32 nanograms per dry standard cubic meter</TD>
++<TD class="left border-right-single"/>
++<TD class="left"/>
++</TR>
++<TR>
++<TD class="left border-right-single">Mercury</TD>
++<TD class="left border-right-single">0.28 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (For Method 29 and ASTM D6784-02 (Reapproved 2008),<sup>3</sup> collect a minimum volume of 1 dry standard cubic meters per run. For Method 30B, collect a minimum sample as specified in Method 30B at 40 CFR part 60, appendix A-8)</TD>
++<TD class="left">Performance test (Method 29 at 40 CFR part 60, appendix A-8; Method 30B at 40 CFR part 60, appendix A-8; or ASTM D6784-02 (Reapproved 2008).<sup>3 5</sup></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Oxides of nitrogen</TD>
++<TD class="left border-right-single">220 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (Collect sample for a minimum duration of one hour per run)</TD>
++<TD class="left">Performance test (Method 7 or 7E at 40 CFR part 60, appendix A-4).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Sulfur dioxide</TD>
++<TD class="left border-right-single">26 parts per million by dry volume</TD>
++<TD class="left border-right-single">3-run average (For Method 6, collect a minimum volume of 200 liters per run. For Method 6C, collect sample for a minimum duration of one hour per run)</TD>
++<TD class="left">Performance test (Method 6 or 6C at 40 CFR part 40, appendix A-4; or ANSI/ASME PTC 19.10-1981.<sup>3 4</sup></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Cadmium</TD>
++<TD class="left border-right-single">0.095 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 29 at 40 CFR part 60, appendix A-8).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Lead</TD>
++<TD class="left border-right-single">0.30 milligrams per dry standard cubic meter</TD>
++<TD class="left border-right-single">3-run average (collect a minimum volume of 1 dry standard cubic meters per run)</TD>
++<TD class="left">Performance test (Method 29 at 40 CFR part 60, appendix A-8.</TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Fugitive emissions from ash handling</TD>
++<TD class="left border-bottom-single border-right-single">Visible emissions of combustion ash from an ash conveying system (including conveyor transfer points) for no more than 5 percent of any compliance test hourly observation period</TD>
++<TD class="left border-bottom-single border-right-single">Three 1-hour observation periods</TD>
++<TD class="left border-bottom-single">Visible emission test (Method 22 at 40 CFR part 60, appendix A-7).
++</TD>
++</TR>
++</TBODY>
++<TFOOT><TR><TD colspan="4"><sup>1</sup> All emission limits are measured at 7-percent oxygen, dry basis at standard conditions.
++</TD></TR><TR><TD colspan="4"><sup>2</sup> You have the option to comply with either the dioxin/furan emission limit on a total mass basis or the dioxin/furan emission limit on a toxic equivalency basis.
++</TD></TR><TR><TD colspan="4"><sup>3</sup> The Director of the Federal Register approves these incorporations by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect these standards at U.S. Environmental Protection Agency, 1200 Pennsylvania Avenue NW., Washington, DC 20460, (202) 272-0167, <E T="03">http://www.epa.gov.</E> You may also inspect a copy at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: <E T="03">http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</E>
++</TD></TR><TR><TD colspan="4"><sup>4</sup> ANSI/ASME PTC 19.10-1981, Flue and Exhaust Gas Analyses [Part 10, Instruments and Apparatus]. American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016-5990 (Phone: 1-800-843-2763; Web site: <E T="03">https://www.asme.org/</E>).
++</TD></TR><TR><TD colspan="4"><sup>5</sup> ASTM D6784-02 (Reapproved 2008) Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method), [approved April 1, 2008]. ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959; ProQuest, 300 North Zeeb Road, Ann Arbor, MI 48106 (Phone: 1-877-909-2786; Web site: <E T="03">http://www.astm.org/</E>).</TD></TR></TFOOT></TABLE>
++</DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 4 to Subpart LLL of Part 62—Operating Parameters for Existing Sewage Sludge Incineration Units 
++<SU>1</SU>
++
++
++</HEAD>
++<DIV width="100%"><DIV class="gpotbl_div">
++<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
++<THEAD>
++<TR>
++<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">For these operating parameters</TH>
++<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">You must establish these operating limits</TH>
++<TH colspan="3" class="center border-top-single border-bottom-single">And monitor using these minimum frequencies</TH>
++</TR>
++<TR>
++<TH class="center border-bottom-single border-right-single">Data measurement</TH>
++<TH class="center border-bottom-single border-right-single">Data recording <sup>2</sup></TH>
++<TH class="center border-bottom-single">Data averaging period for compliance</TH>
++</TR>
++</THEAD>
++<TBODY>
++<TR>
++<TD colspan="5" class="center border-bottom-single"><strong class="minor-caps">All sewage sludge incineration units</strong></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Combustion chamber operating temperature (not required if afterburner temperature is monitored)</TD>
++<TD class="left border-right-single">Minimum combustion chamber operating temperature or afterburner temperature</TD>
++<TD class="left border-right-single">Continuous</TD>
++<TD class="left border-right-single">Every 15 minutes</TD>
++<TD class="left">12-hour block.</TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Fugitive emissions from ash handling</TD>
++<TD class="left border-bottom-single border-right-single">Site-specific operating requirements</TD>
++<TD class="left border-bottom-single border-right-single">Not applicable</TD>
++<TD class="left border-bottom-single border-right-single">Not applicable</TD>
++<TD class="left border-bottom-single">Not applicable.</TD>
++</TR>
++<TR>
++<TD colspan="5" class="center border-bottom-single"><strong class="minor-caps">Scrubber</strong></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Pressure drop across each wet scrubber</TD>
++<TD class="left border-right-single">Minimum pressure drop</TD>
++<TD class="left border-right-single">Continuous</TD>
++<TD class="left border-right-single">Every 15 minutes</TD>
++<TD class="left">12-hour block.</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Scrubber liquid flow rate</TD>
++<TD class="left border-right-single">Minimum flow rate</TD>
++<TD class="left border-right-single">Continuous</TD>
++<TD class="left border-right-single">Every 15 minutes</TD>
++<TD class="left">12-hour block.</TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Scrubber liquid pH</TD>
++<TD class="left border-bottom-single border-right-single">Minimum pH</TD>
++<TD class="left border-bottom-single border-right-single">Continuous</TD>
++<TD class="left border-bottom-single border-right-single">Every 15 minutes</TD>
++<TD class="left border-bottom-single">3-hour block.</TD>
++</TR>
++<TR>
++<TD colspan="5" class="center border-bottom-single"><strong class="minor-caps">Fabric Filter</strong></TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Alarm time of the bag leak detection system alarm</TD>
++<TD colspan="4" class="center border-bottom-single">Maximum alarm time of the bag leak detection system alarm (this operating limit is provided in § 60.4850 and is not established on a site-specific basis)</TD>
++</TR>
++<TR>
++<TD colspan="5" class="center border-bottom-single"><strong class="minor-caps">Electrostatic precipitator</strong></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Secondary voltage of the electrostatic precipitator collection plates</TD>
++<TD class="left border-right-single">Minimum power input to the electrostatic precipitator collection plates</TD>
++<TD class="left border-right-single">Continuous</TD>
++<TD class="left border-right-single">Hourly</TD>
++<TD class="left">12-hour block.</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Secondary amperage of the electrostatic precipitator collection plates</TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left"/>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Effluent water flow rate at the outlet of the electrostatic precipitator</TD>
++<TD class="left border-bottom-single border-right-single">Minimum effluent water flow rate at the outlet of the electrostatic precipitator</TD>
++<TD class="left border-bottom-single border-right-single">Hourly</TD>
++<TD class="left border-bottom-single border-right-single">Hourly</TD>
++<TD class="left border-bottom-single">12-hour block.</TD>
++</TR>
++<TR>
++<TD colspan="5" class="center border-bottom-single"><strong class="minor-caps">Activated carbon injection</strong></TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Mercury sorbent injection rate</TD>
++<TD class="left border-right-single">Minimum mercury sorbent injection rate</TD>
++<TD class="left border-right-single">Hourly</TD>
++<TD class="left border-right-single">Hourly</TD>
++<TD class="left">12-hour block.</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Dioxin/furan sorbent injection rate</TD>
++<TD class="left border-right-single">Minimum dioxin/furan sorbent injection rate.</TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left"/>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Carrier gas flow rate or carrier gas pressure drop</TD>
++<TD class="left border-bottom-single border-right-single">Minimum carrier gas flow rate or minimum carrier gas pressure drop</TD>
++<TD class="left border-bottom-single border-right-single">Continuous</TD>
++<TD class="left border-bottom-single border-right-single">Every 15 minutes</TD>
++<TD class="left border-bottom-single">12-hour block.</TD>
++</TR>
++<TR>
++<TD colspan="5" class="center border-bottom-single"><strong class="minor-caps">Afterburner</strong></TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Temperature of the afterburner combustion chamber</TD>
++<TD class="left border-bottom-single border-right-single">Minimum temperature of the afterburner combustion chamber</TD>
++<TD class="left border-bottom-single border-right-single">Continuous</TD>
++<TD class="left border-bottom-single border-right-single">Every 15 minutes</TD>
++<TD class="left border-bottom-single">12-hour block.
++</TD>
++</TR>
++</TBODY>
++<TFOOT><TR><TD colspan="5"><sup>1</sup> As specified in § 62.15985, you may use a continuous emissions monitoring system or continuous automated sampling system in lieu of establishing certain operating limits.
++</TD></TR><TR><TD colspan="5"><sup>2</sup> This recording time refers to the minimum frequency that the continuous monitor or other measuring device initially records data. For all data recorded every 15 minutes, you must calculate hourly arithmetic averages. For all parameters, you use hourly averages to calculate the 12-hour or 3-hour block average specified in this table for demonstrating compliance. You maintain records of 1-hour averages.</TD></TR></TFOOT></TABLE>
++</DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 5 to Subpart LLL of Part 62—Toxic Equivalency Factors
++
++
++</HEAD>
++<DIV width="100%"><DIV class="gpotbl_div">
++<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
++<THEAD>
++<TR>
++<TH class="center border-top-single border-bottom-single border-right-single">Dioxin/furan isomer</TH>
++<TH class="center border-top-single border-bottom-single">Toxic equivalency factor</TH>
++</TR>
++</THEAD>
++<TBODY>
++<TR>
++<TD class="left border-right-single">2,3,7,8-tetrachlorinated dibenzo-p-dioxin</TD>
++<TD class="left">1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,7,8-pentachlorinated dibenzo-p-dioxin</TD>
++<TD class="left">1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,4,7,8-hexachlorinated dibenzo-p-dioxin</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,7,8,9-hexachlorinated dibenzo-p-dioxin</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,6,7,8-hexachlorinated dibenzo-p-dioxin</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,4,6,7,8-heptachlorinated dibenzo-p-dioxin</TD>
++<TD class="left">0.01</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">octachlorinated dibenzo-p-dioxin</TD>
++<TD class="left">0.0003</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">2,3,7,8-tetrachlorinated dibenzofuran</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">2,3,4,7,8-pentachlorinated dibenzofuran</TD>
++<TD class="left">0.3</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,7,8-pentachlorinated dibenzofuran</TD>
++<TD class="left">0.03</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,4,7,8-hexachlorinated dibenzofuran</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,6,7,8-hexachlorinated dibenzofuran</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,7,8,9-hexachlorinated dibenzofuran</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">2,3,4,6,7,8-hexachlorinated dibenzofuran</TD>
++<TD class="left">0.1</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,4,6,7,8-heptachlorinated dibenzofuran</TD>
++<TD class="left">0.01</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">1,2,3,4,7,8,9-heptachlorinated dibenzofuran</TD>
++<TD class="left">0.01</TD>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">octachlorinated dibenzofuran</TD>
++<TD class="left border-bottom-single">0.0003</TD>
++</TR>
++</TBODY>
++</TABLE>
++</DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 6 to Subpart LLL of Part 62—Summary of Reporting Requirements for Existing Sewage Sludge Incineration Units
++<SU>1</SU>
++
++
++</HEAD>
++<DIV width="100%"><DIV class="gpotbl_div">
++<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
++<THEAD>
++<TR>
++<TH class="center border-top-single border-bottom-single border-right-single">Report</TH>
++<TH class="center border-top-single border-bottom-single border-right-single">Due date</TH>
++<TH class="center border-top-single border-bottom-single border-right-single">Contents</TH>
++<TH class="center border-top-single border-bottom-single">Reference</TH>
++</TR>
++</THEAD>
++<TBODY>
++<TR>
++<TD class="left border-right-single">Final control plan and final compliance report</TD>
++<TD class="left border-right-single">No later than 10 business days after the compliance date</TD>
++<TD class="left border-right-single">1. Final control plan including air pollution control device descriptions, process changes, type of waste to be burned, and the maximum design sewage sludge burning capacity</TD>
++<TD class="right">§ 62.16030(a).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">2. Notification of any failure to submit the final control plan and achieve final compliance</TD>
++<TD class="right"><br/></TD>
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">3. Notification of any closure</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single">Initial compliance report</TD>
++<TD class="left border-right-single">No later than 60 days following the initial performance test</TD>
++<TD class="left border-right-single">1. Company name and address<br/>2.Statement by a responsible official, with that official's name, title, and signature, certifying the accuracy of the content of the report.<br/>3. Date of report.<br/>4. Complete test report for the initial performance test.<br/>5. Results of CMS<sup>2</sup> performance evaluation.</TD>
++<TD class="right">§ 62.16030(b).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">6. The values for the site-specific operating limits and the calculations and methods used to establish each operating limit</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">7. Documentation of installation of bag leak detection system for fabric filter</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">8. Results of initial air pollution control device inspection, including a description of repairs</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">9. The site-specific monitoring plan required under § 62.15995</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">10. The site-specific monitoring plan for your ash handling system required under § 62.15995</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single">Annual compliance report</TD>
++<TD class="left border-right-single">No later than 12 months following the submission of the initial compliance report; subsequent reports are to be submitted no more than 12 months following the previous report</TD>
++<TD class="left border-right-single">1. Company name and address<br/>2. Statement and signature by responsible official.<br/>3. Date and beginning and ending dates of report.<br/>4. If a performance test was conducted during the reporting period, the results of the test, including any new operating limits and associated calculations and the type of activated carbon used, if applicable.</TD>
++<TD class="right">§ 62.16030(c).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">5. For each pollutant and operating parameter recorded using a CMS, the highest recorded 3-hour average and the lowest recorded 3-hour average, as applicable</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">6. If no deviations from emission limits, emission standards, or operating limits occurred, a statement that no deviations occurred</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">7. If a fabric filter is used, the date, time, and duration of alarms</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">8. If a performance evaluation of a CMS was conducted, the results, including any new operating limits and their associated calculations</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">9. If you met the requirements of § 62.16000(a)(3) and did not conduct a performance test, include the dates of the last three performance tests, a comparison to the 50 percent emission limit threshold of the emission level achieved in the last three performance tests, and a statement as to whether there have been any process changes</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">10. Documentation of periods when all qualified SSI unit operators were unavailable for more than 8 hours but less than 2 weeks</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">11. Results of annual pollutions control device inspections, including description of repairs</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">12. If there were no periods during which your CMSs had malfunctions, a statement that there were no periods during which your CMSs had malfunctions</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">13. If there were no periods during which your CMSs were out of control, a statement that there were no periods during which your CMSs were out of control</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">14. If there were no operator training deviations, a statement that there were no such deviations</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">15. Information on monitoring plan revisions, including a copy of any revised monitoring plan</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single">Deviation report (deviations from emission limits, emission standards, or operating limits, as specified in § 62.16030(e)(1))</TD>
++<TD class="left border-right-single">By August 1 of a calendar year for data collected during the first half of the calendar year; by February 1 of a calendar year for data collected during the second half of the calendar year</TD>
++<TD class="left border-right-single"><E T="03">If using a CMS:</E><br/>1. Company name and address.<br/>2. Statement by a responsible official.<br/>3. The calendar dates and times your unit deviated from the emission limits or operating limits.<br/>4. The averaged and recorded data for those dates.<br/>5. Duration and cause of each deviation.<br/>6. Dates, times, and causes for monitor downtime incidents.<br/>7. A copy of the operating parameter monitoring data during each deviation and any test report that documents the emission levels.</TD>
++<TD class="right">§ 62.16030(d).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">8. For periods of CMS malfunction or when a CMS was out of control, you must include the information specified in § 62.16030(d)(3)(viii)</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"><E T="03">If not using a CMS:</E></TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">1. Company name and address</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">2. Statement by a responsible official</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">3. The total operating time of each affected SSI unit</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">4. The calendar dates and times your unit deviated from the emission limits, emission standard, or operating limits</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">5. The averaged and recorded data for those dates</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">6. Duration and cause of each deviation</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">7. A copy of any performance test report that showed a deviation from the emission limits or standards</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single"/>
++<TD class="left border-right-single">8. A brief description of any malfunction, a description of actions taken during the malfunction to minimize emissions, and corrective action taken</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-right-single">Notification of qualified operator deviation (if all qualified operators are not accessible for 2 weeks or more)</TD>
++<TD class="left border-right-single">Within 10 days of deviation</TD>
++<TD class="left border-right-single">1. Statement of cause of deviation<br/>2. Description of actions taken to ensure that a qualified operator will be available<br/>3. The date when a qualified operator will be accessible</TD>
++<TD class="right">§ 62.16030(e).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Notification of status of qualified operator deviation</TD>
++<TD class="left border-right-single">Every 4 weeks following notification of deviation</TD>
++<TD class="left border-right-single">1. Description of actions taken to ensure that a qualified operator is accessible<br/>2. The date when you anticipate that a qualified operator will be accessible.<br/>3. Request for approval to continue operation.</TD>
++<TD class="right">§ 62.16030(e).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Notification of resumed operation following shut down (due to qualified operator deviation and as specified in § 62.15945(b)(2)(i)</TD>
++<TD class="left border-right-single">Within five days of obtaining a qualified operator and resuming operation</TD>
++<TD class="left border-right-single">1. Notification that you have obtained a qualified operator and are resuming operation</TD>
++<TD class="right">§ 62.16030(e).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Notification of a force majeure</TD>
++<TD class="left border-right-single">As soon as practicable following the date you first knew, or through due diligence should have known that the event may cause or caused a delay in conducting a performance test beyond the regulatory deadline; the notification must occur before the performance test deadline unless the initial force majeure or a subsequent force majeure event delays the notice, and in such cases, the notification must occur as soon as practicable</TD>
++<TD class="left border-right-single">1. Description of the force majeure event<br/>2. Rationale for attributing the delay in conducting the performance test beyond the regulatory deadline to the force majeure.<br/>3. Description of the measures taken or to be taken to minimize the delay.<br/>4. Identification of the date by which you propose to conduct the performance test.</TD>
++<TD class="right">§ 62.16030(f).</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Notification of intent to start or stop use of a CMS</TD>
++<TD class="left border-right-single">1 month before starting or stopping use of a CMS</TD>
++<TD class="left border-right-single">1. Intent to start or stop use of a CMS</TD>
++<TD class="right">§ 62.16030(g)</TD>
++</TR>
++<TR>
++<TD class="left border-right-single">Notification of intent to conduct a performance test</TD>
++<TD class="left border-right-single">At least 30 days prior to the performance test</TD>
++<TD class="left border-right-single">1. Intent to conduct a performance test to comply with this subpart</TD>
++<TD class="right"/>
++</TR>
++<TR>
++<TD class="left border-bottom-single border-right-single">Notification of intent to conduct a rescheduled performance test</TD>
++<TD class="left border-bottom-single border-right-single">At least 7 days prior to the date of a rescheduled performance test</TD>
++<TD class="left border-bottom-single border-right-single">1. Intent to conduct a rescheduled performance test to comply with this subpart
++</TD>
++<TD class="right border-bottom-single"/>
++</TR>
++</TBODY>
++<TFOOT><TR><TD colspan="4"><sup>1</sup> This table is only a summary, see the referenced sections of the rule for the complete requirements.
++</TD></TR><TR><TD colspan="4"><sup>2</sup> CMS means continuous monitoring system.</TD></TR></TFOOT></TABLE>
++</DIV></DIV>
++</DIV9>
++
++
+ </DIV6>
+ 
+ </DIV5>
