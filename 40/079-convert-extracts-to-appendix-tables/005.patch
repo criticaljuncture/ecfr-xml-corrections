@@ -1,0 +1,123 @@
+--- data/titles/preprocessed/xml/40/2024/06/2024-06-03_2709f04a.xml	2024-10-30 13:47:14.317928711 -0400
++++ tmp/title_version_40_2024-06-03_2709f04a_preprocessed.xml	2024-10-30 13:49:34.039126034 -0400
+@@ -567283,9 +567283,16 @@
+ </P>
+ <P>(g) Performance test and data reduction waivers under § 60.8(b) of this chapter.
+ </P>
++</DIV8>
++
++</DIV7>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 1 to Subpart LLL of Part 62—Compliance Schedule for Existing Sewage Sludge Incineration Units
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<CAPTION><P class="title">Table 1 to Subpart LLL of Part 62—Compliance Schedule for Existing Sewage Sludge Incineration Units</P></CAPTION>
+ <THEAD>
+ <TR>
+ <TH class="center border-top-single border-bottom-single border-right-single">Comply with these<br/>requirements</TH>
+@@ -567304,9 +567311,16 @@
+ </TBODY>
+ </TABLE>
+ </DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 2 to Subpart LLL of Part 62—Emission Limits and Standards for Existing Fluidized Bed Sewage Sludge Incineration Units
++
++
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<CAPTION><P class="title">Table 2 to Subpart LLL of Part 62—Emission Limits and Standards for Existing Fluidized Bed Sewage Sludge Incineration Units</P></CAPTION>
+ <THEAD>
+ <TR>
+ <TH class="center border-top-single border-bottom-single border-right-single">For the air pollutant</TH>
+@@ -567390,9 +567404,16 @@
+ </TD></TR><TR><TD colspan="4"><sup>4</sup> ANSI/ASME PTC 19.10-1981, Flue and Exhaust Gas Analyses [Part 10, Instruments and Apparatus]. American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016-5990 (Phone: 1-800-843-2763; Web site: <E T="03">https://www.asme.org/</E>).
+ </TD></TR><TR><TD colspan="4"><sup>5</sup> ASTM D6784-02 (Reapproved 2008) Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method), [approved April 1, 2008]. ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959; ProQuest, 300 North Zeeb Road, Ann Arbor, MI 48106 (Phone: 1-877-909-2786; Web site: <E T="03">http://www.astm.org/</E>).</TD></TR></TFOOT></TABLE>
+ </DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 3 to Subpart LLL of Part 62—Emission Limits and Standards for Existing Multiple Hearth Sewage Sludge Incineration Units
++
++
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<CAPTION><P class="title">Table 3 to Subpart LLL of Part 62—Emission Limits and Standards for Existing Multiple Hearth Sewage Sludge Incineration Units</P></CAPTION>
+ <THEAD>
+ <TR>
+ <TH class="center border-top-single border-bottom-single border-right-single">For the air pollutant</TH>
+@@ -567476,9 +567497,17 @@
+ </TD></TR><TR><TD colspan="4"><sup>4</sup> ANSI/ASME PTC 19.10-1981, Flue and Exhaust Gas Analyses [Part 10, Instruments and Apparatus]. American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016-5990 (Phone: 1-800-843-2763; Web site: <E T="03">https://www.asme.org/</E>).
+ </TD></TR><TR><TD colspan="4"><sup>5</sup> ASTM D6784-02 (Reapproved 2008) Standard Test Method for Elemental, Oxidized, Particle-Bound and Total Mercury in Flue Gas Generated from Coal-Fired Stationary Sources (Ontario Hydro Method), [approved April 1, 2008]. ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959; ProQuest, 300 North Zeeb Road, Ann Arbor, MI 48106 (Phone: 1-877-909-2786; Web site: <E T="03">http://www.astm.org/</E>).</TD></TR></TFOOT></TABLE>
+ </DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 4 to Subpart LLL of Part 62—Operating Parameters for Existing Sewage Sludge Incineration Units 
++<SU>1</SU>
++
++
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<CAPTION><P class="title">Table 4 to Subpart LLL of Part 62—Operating Parameters for Existing Sewage Sludge Incineration Units <sup>1</sup></P></CAPTION>
+ <THEAD>
+ <TR>
+ <TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">For these operating parameters</TH>
+@@ -567603,9 +567632,16 @@
+ <TFOOT><TR><TD colspan="5"><sup>1</sup> As specified in § 62.15985, you may use a continuous emissions monitoring system or continuous automated sampling system in lieu of establishing certain operating limits.
+ </TD></TR><TR><TD colspan="5"><sup>2</sup> This recording time refers to the minimum frequency that the continuous monitor or other measuring device initially records data. For all data recorded every 15 minutes, you must calculate hourly arithmetic averages. For all parameters, you use hourly averages to calculate the 12-hour or 3-hour block average specified in this table for demonstrating compliance. You maintain records of 1-hour averages.</TD></TR></TFOOT></TABLE>
+ </DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 5 to Subpart LLL of Part 62—Toxic Equivalency Factors
++
++
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<CAPTION><P class="title">Table 5 to Subpart LLL of Part 62—Toxic Equivalency Factors</P></CAPTION>
+ <THEAD>
+ <TR>
+ <TH class="center border-top-single border-bottom-single border-right-single">Dioxin/furan isomer</TH>
+@@ -567684,9 +567720,17 @@
+ </TBODY>
+ </TABLE>
+ </DIV></DIV>
++</DIV9>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 6 to Subpart LLL of Part 62—Summary of Reporting Requirements for Existing Sewage Sludge Incineration Units
++<SU>1</SU>
++
++
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<CAPTION><P class="title">Table 6 to Subpart LLL of Part 62—Summary of Reporting Requirements for Existing Sewage Sludge Incineration Units<sup>1</sup></P></CAPTION>
+ <THEAD>
+ <TR>
+ <TH class="center border-top-single border-bottom-single border-right-single">Report</TH>
+@@ -567935,9 +567979,7 @@
+ <TFOOT><TR><TD colspan="4"><sup>1</sup> This table is only a summary, see the referenced sections of the rule for the complete requirements.
+ </TD></TR><TR><TD colspan="4"><sup>2</sup> CMS means continuous monitoring system.</TD></TR></TFOOT></TABLE>
+ </DIV></DIV>
+-</DIV8>
+-
+-</DIV7>
++</DIV9>
+ 
+ </DIV6>
+ 
