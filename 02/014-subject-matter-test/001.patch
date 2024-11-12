@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/02/2024/10/2024-10-31_a8a67ea0.xml	2024-11-12 00:00:44.311118928 -0600
++++ tmp/title_version_2_2024-10-31_a8a67ea0_preprocessed.xml	2024-11-12 00:03:03.374167884 -0600
+@@ -4,7 +4,7 @@
+ <FILEDESC>
+ <TITLESTMT>
+ <TITLE>
+-Title 2: Grants and Agreements</TITLE>
++Title 2: Federal Financial Assistance</TITLE>
+ <AUTHOR TYPE="nameinv">
+ </AUTHOR>
+ </TITLESTMT>
+@@ -39,7 +39,7 @@
+ 
+ <DIV1 N="1" TYPE="TITLE">
+ 
+-<HEAD>Title 2—Grants and Agreements--Volume 1</HEAD>
++<HEAD>Title 2—Federal Financial Assistance--Volume 1</HEAD>
+ <CFRTOC>
+ <SUBTI>
+ <HED>SUBTITLE A—<E T="04">Office of Management and Budget Guidance for Federal Financial Assistance</E>

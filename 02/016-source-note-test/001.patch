@@ -1,0 +1,12 @@
+--- data/titles/preprocessed/xml/02/2024/10/2024-10-31_a8a67ea0.xml	2024-11-19 23:43:24.336425441 -0600
++++ tmp/title_version_2_2024-10-31_a8a67ea0_preprocessed.xml	2024-11-19 23:51:58.475040883 -0600
+@@ -292,7 +292,7 @@
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—Introduction to Title 2 of the CFR</HEAD>
+-
++<EDNOTE><HED>Editorial Note:</HED><PSPACE>00 FR 00000, Oct. 31, 2024, updated the subject matter for Title 2 to "Federal Financial Assistance" (previously "Grants and Agreements").</PSPACE></EDNOTE>
+ 
+ <DIV8 N="§ 1.100" TYPE="SECTION">
+ <HEAD>§ 1.100   Content of this title.</HEAD>
+

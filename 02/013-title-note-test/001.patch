@@ -1,0 +1,10 @@
+--- data/titles/preprocessed/xml/02/2024/10/2024-10-31_a8a67ea0.xml	2024-11-12 08:59:29.163603988 -0600
++++ tmp/title_version_2_2024-10-31_a8a67ea0_preprocessed.xml	2024-11-12 09:03:34.074428492 -0600
+@@ -40,6 +40,7 @@
+ <DIV1 N="1" TYPE="TITLE">
+ 
+ <HEAD>Title 2—Grants and Agreements--Volume 1</HEAD>
++<XREF ID="20241031" REFID="9999">Link to an amendment published at 00 FR 00000, Oct. 1, 2024.<br></br>Announcing an upcoming subject matter change for Title 2 to "Federal Financial Assistance"</XREF>
+ <CFRTOC>
+ <SUBTI>
+ <HED>SUBTITLE A—<E T="04">Office of Management and Budget Guidance for Federal Financial Assistance</E>
