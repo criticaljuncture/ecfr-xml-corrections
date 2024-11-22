@@ -1,0 +1,24 @@
+--- data/titles/preprocessed/xml/15/2024/10/2024-10-23_42576d73.xml	2024-11-21 18:53:22.994825340 -0600
++++ tmp/title_version_15_2024-10-23_42576d73_preprocessed.xml	2024-11-21 19:02:03.786640630 -0600
+@@ -57706,14 +57706,16 @@
+ <TD class="left">81 FR 40178, 6/21/16.
+ 
+ </TD>
+-<TD class=""> </TD>
+-<TD class="">Zaheer &amp; Sons, a.k.a., the following one alias:
++</TR>
++<TR>
++<TD class="left border-right-single"> </TD>
++<TD class="left border-right-single">Zaheer &amp; Sons, a.k.a., the following one alias:
+ <br/>—Zaheer Sons.
+ <br/> 
+ <br/> Suite 2, 3rd Floor, Nadir House, I.I. Chundrigar Road, Karachi, Pakistan.</TD>
+-<TD class="">For all items subject to the EAR. (See § 744.11 of the EAR)</TD>
+-<TD class="">Presumption of denial</TD>
+-<TD class="">89 FR 84462, 10/23/24.
++<TD class="left border-right-single">For all items subject to the EAR. (See § 744.11 of the EAR)</TD>
++<TD class="left border-right-single">Presumption of denial</TD>
++<TD class="left">89 FR 84462, 10/23/24.
+ 
+ </TD>
+ </TR>
