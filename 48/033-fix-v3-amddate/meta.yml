@@ -1,0 +1,11 @@
+description: Volume 3 AMDDATE was not updated with new content
+tags: AMDDATE
+status: approved
+issue_number: 2024-11-25
+fr_doc: 89 FR 82187
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116229584/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-11-25'
+    last_issue_date: '2024-11-25'
