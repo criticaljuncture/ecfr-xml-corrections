@@ -1,0 +1,11 @@
+description: Fix 42/429
+tags: structural
+status: approved
+issue_number: 2024-12-09
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116257357/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-12-09'
+    last_issue_date: '2024-12-09'
