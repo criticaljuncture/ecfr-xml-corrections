@@ -1,0 +1,124 @@
+--- data/titles/preprocessed/xml/10/2023/07/2023-07-31_bb9e6aae.xml	2024-12-15 19:29:45.221218139 -0600
++++ tmp/title_version_10_2023-07-31_bb9e6aae_preprocessed.xml	2024-12-15 19:36:09.961200971 -0600
+@@ -127139,10 +127139,8 @@
+ <NOTE>
+ <HED>Note:</HED>
+ <P>On and after November 27, 2023, any representations made with respect to the energy use or efficiency of all pool heaters must be made in accordance with the results of testing pursuant to this appendix. Until November 27, 2023, manufacturers must test gas-fired pool heaters in accordance with this appendix, or appendix P as it appeared at 10 CFR part 430, subpart B revised as of January 1, 2021. Prior to November 27, 2023, if a manufacturer makes representations of standby mode and off mode energy consumption, then testing must also include the provisions of this appendix, or appendix P as it appeared at 10 CFR part 430, subpart B revised as of January 1, 2021, related to standby mode and off mode energy consumption.</P></NOTE>
+-</DIV9>
+-
+-<P-2>1. <I>Definitions:</I>
+-</P-2>
++<P>1. <I>Definitions:</I>
++</P>
+ <P><I>Active electrical power</I> means the maximum electrical power consumption in active mode for an electric pool heater.
+ </P>
+ <P><I>Active mode</I> means the condition during the pool heating season in which the pool heater is connected to the power source, and the main burner, electric resistance element, or heat pump is activated to heat pool water.
+@@ -127253,7 +127251,6 @@
+ </P>
+ <P>For fossil fuel-fired pool heaters, the average annual fuel energy for pool heaters, E<E T="52">F</E>, is defined as:
+ </P>
+-<EXTRACT>
+ <FP-2>E<E T="52">F</E> = BOH Q<E T="52">IN</E> + (POH−BOH) Q<E T="52">PR</E> + (8760 − POH) Q<E T="52">off,R</E>
+ </FP-2>
+ <FP-2>Where:
+@@ -127273,10 +127270,9 @@
+ <FP-2>Q<E T="52">off,R</E> = average off mode fossil fuel energy consumption rate = Q<E T="52">off</E>/(1 h), and
+ </FP-2>
+ <FP-2>Q<E T="52">off</E> = off mode energy consumption as defined in section 4.3 of this appendix.
+-</FP-2></EXTRACT>
++</FP-2>
+ <P>5.3 <I>Average annual electrical energy consumption for pool heaters.</I> The average annual electrical energy consumption for pool heaters, E<E T="52">AE</E>, is expressed in Btu and defined as:
+ </P>
+-<EXTRACT>
+ <FP-2>(1) E<E T="52">AE</E> = E<E T="52">AE,active</E> + E<E T="52">AE,standby,off</E>
+ </FP-2>
+ <FP-2>(2) E<E T="52">AE,active</E> = BOH * PE
+@@ -127316,14 +127312,15 @@
+ <FP-2>P<E T="52">W,OFF</E> (Btu/h) = electrical energy consumption rate during off mode expressed in Btu/h = 3.412 P<E T="52">W,OFF</E>, Btu/h, and
+ </FP-2>
+ <FP-2>P<E T="52">W,OFF</E> = as defined in section 4.3 of this appendix.
+-</FP-2></EXTRACT>
++
++
++
++
++</FP-2>
+ <P>5.4 <I>Integrated thermal efficiency.</I>
+ </P>
+ <P>5.4.1 Calculate the seasonal useful output of the pool heater as:
+-
+-
+ </P>
+-<EXTRACT>
+ <FP-2>E<E T="52">OUT</E> = BOH[(E<E T="52">t</E>/100)(Q<E T="52">IN</E> + PE)]
+ </FP-2>
+ <FP>where:
+@@ -127337,10 +127334,11 @@
+ <FP-2>PE = as defined in section 5.3 of this appendix, and
+ </FP-2>
+ <FP-2>100 = conversion factor, from percent to fraction.
+-</FP-2></EXTRACT>
++
++
++</FP-2>
+ <P>5.4.2 Calculate the annual input to the pool heater as:
+ </P>
+-<EXTRACT>
+ <FP-2>E<E T="52">IN</E> = E<E T="52">F</E> + E<E T="52">AE</E>
+ </FP-2>
+ <FP>where:
+@@ -127348,12 +127346,13 @@
+ <FP-2>E<E T="52">F</E> = as defined in section 5.2 of this appendix, and
+ </FP-2>
+ <FP-2>E<E T="52">AE</E> = as defined in section 5.3 of this appendix.
+-</FP-2></EXTRACT>
+-<P>5.4.3 Calculate the pool heater integrated thermal efficiency (TE<E T="52">I</E>) (in percent).
+ 
+ 
++
++
++</FP-2>
++<P>5.4.3 Calculate the pool heater integrated thermal efficiency (TE<E T="52">I</E>) (in percent).
+ </P>
+-<EXTRACT>
+ <FP-2>TE<E T="52">I</E> = 100(E<E T="52">OUT</E>/E<E T="52">IN</E>)
+ </FP-2>
+ <FP>where:
+@@ -127363,27 +127362,32 @@
+ <FP-2>E<E T="52">IN</E> = as defined in section 5.4.2 of this appendix, and
+ </FP-2>
+ <FP-2>100 = conversion factor, from fraction to percent.
+-</FP-2></EXTRACT>
++
++
++</FP-2>
+ <P>5.5 <I>Output capacity for electric pool heaters.</I>
+ </P>
+ <P>5.5.1 Calculate the output capacity of an electric heat pump pool heater as:
+ </P>
+-<EXTRACT>
+ <FP-2>Q<E T="52">OUT,HP</E> = k * W * (T<E T="52">ohp</E>−T<E T="52">ihp</E>) * (60/t<E T="52">HP</E>)
+ </FP-2>
+ <FP-2>where k is the specific heat of water, W is the mass of water collected during the test, T<E T="52">ohp</E> is the average outlet water temperature during the standard rating test, T<E T="52">ihp</E> is the average inlet water temperature during the standard rating test, all as defined in section 11.2 of ASHRAE 146, and t<E T="52">HP</E> is the elapsed time in minutes of data recording during the thermal efficiency test on electric heat pump pool heater, as defined in section 9.1 of ASHRAE 146.
+-</FP-2></EXTRACT>
++
++
++</FP-2>
+ <P>5.5.2 Calculate the output capacity of an electric resistance pool heater as:
+ </P>
+-<EXTRACT>
+ <FP-2>Q<E T="52">OUT,ER</E> = k * W * (T<E T="52">mo</E>−T<E T="52">mi</E>) * (60/30)
+ </FP-2>
+ <FP-2>where k is the specific heat of water, W is the mass of water collected during the test, T<E T="52">mo</E> is the average outlet water temperature recorded during the primary test, and T<E T="52">mi</E> is the average inlet water temperature record during the primary test, all as defined in section 11.1 of ASHRAE 146, and 60/30 is the conversion factor to convert unit from per 30 minutes to per hour.
+-</FP-2></EXTRACT>
++
++
++</FP-2>
+ <CITA TYPE="N">[80 FR 813, Jan. 6, 2015, as amended at 88 FR 34703, May 30, 2023]
+ 
+ 
+ </CITA>
++</DIV9>
+ 
+ <DIV9 N="Appendix Q" TYPE="APPENDIX">
+ <HEAD>Appendix Q to Subpart B of Part 430—Uniform Test Method for Measuring the Energy Consumption of Fluorescent Lamp Ballasts
