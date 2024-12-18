@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/02/2024/12/2024-12-16_b16846d1.xml	2024-12-17 18:00:32.894667811 -0600
++++ tmp/title_version_2_2024-12-16_b16846d1_preprocessed.xml	2024-12-17 18:04:15.794570983 -0600
+@@ -4,7 +4,7 @@
+ <FILEDESC>
+ <TITLESTMT>
+ <TITLE>
+-Title 2: Grants and Agreements</TITLE>
++Title 2: Federal Financial Assistance</TITLE>
+ <AUTHOR TYPE="nameinv">
+ </AUTHOR>
+ </TITLESTMT>
