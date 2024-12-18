@@ -1,0 +1,14 @@
+description: Fix 40/Appendix A to Part 211 early close
+tags: structural
+status: approved
+issue_number: 2024-12-16
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116256499/comments
+
+patches:
+  '001':
+    first_issue_date: '2017-01-01'
+    last_issue_date: '2019-04-19'
+  '002':
+    first_issue_date: '2019-04-25'
+    last_issue_date: '2024-12-12'

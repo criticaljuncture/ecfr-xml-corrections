@@ -1,0 +1,32 @@
+--- data/titles/preprocessed/xml/40/2017/01/2017-01-01_146ee12c.xml	2024-12-18 08:32:14.692933150 -0600
++++ tmp/title_version_40_2017-01-01_146ee12c_preprocessed.xml	2024-12-18 09:24:45.293256088 -0600
+@@ -880876,11 +880876,6 @@
+ </FP-DASH>
+ <FP-DASH>Noise Reduction Rating: 
+ </FP-DASH>
+-</DIV9>
+-
+-</DIV6>
+-
+-<EXTRACT>
+ <P>If replacement hearing protector was necessary to conduct test, reason for replacement: 
+ </P>
+ <P>This report is submitted under sections 8 and 13 of the Noise Control Act of 1972. All testing, for which data are reported here, was conducted in strict conformance with applicable regulations under 40 CFR Part 211, <I>et seq.</I> All the data reported here are true and accurate representations of this testing. All other information reported here is, to the best of (company name) and (test laboratory name) knowledge, true and accurate. I am aware of the penalties associated with violation of the Noise Control Act of 1972 and the regulations published under it.
+@@ -880891,11 +880886,16 @@
+ </HD3>
+ <FP-DASH>
+ </FP-DASH>
+-<HD3>(Authorized representative of test laboratory)</HD3></EXTRACT>
++<HD3>(Authorized representative of test laboratory)
++</HD3>
+ <CITA TYPE="N">[44 FR 56139, Sept. 28, 1979. Redesignated at 47 FR 57717, Dec. 28, 1982]
+ 
+ 
+ </CITA>
++</DIV9>
++
++</DIV6>
++
+ </DIV5>
+ 
+ </DIV4>
