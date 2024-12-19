@@ -1,0 +1,11 @@
+description: Fix for missing SECTION in SGML
+tags: structural
+status: approved
+issue_number: 2023-01-30
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116276245/comments#439912699
+
+patches:
+  '001':
+    first_issue_date: '2023-01-30'
+    last_issue_date: '2100-01-01'

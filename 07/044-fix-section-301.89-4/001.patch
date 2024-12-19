@@ -1,0 +1,22 @@
+--- data/titles/preprocessed/xml/07/2023/01/2023-01-30_0ddc409b.xml	2024-12-19 13:24:42.701115203 -0800
++++ tmp/title_version_7_2023-01-30_0ddc409b_preprocessed.xml	2024-12-19 13:26:45.867006863 -0800
+@@ -139150,16 +139150,15 @@
+ </CITA>
+ </DIV8>
+ 
+-<SECTNO>§ 301.89-4
+-</SECTNO>
+-<SUBJECT>Planting.
+-</SUBJECT>
++<DIV8 N="§ 301.89-4" TYPE="SECTION">
++<HEAD>§ 301.89-4   Planting.</HEAD>
+ <P>Any wheat, durum wheat, or triticale that originates within a regulated area must be tested and found free from bunted wheat kernels and spores before it may be used as seed within or outside a regulated area.
+ </P>
+ <CITA TYPE="N">[69 FR 8096, Feb. 23, 2004]
+ 
+ 
+ </CITA>
++</DIV8>
+ 
+ <DIV8 N="§ 301.89-5" TYPE="SECTION">
+ <HEAD>§ 301.89-5   Movement of regulated articles from regulated areas.</HEAD>
