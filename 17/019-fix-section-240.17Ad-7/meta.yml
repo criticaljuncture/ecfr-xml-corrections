@@ -1,0 +1,11 @@
+description: Fix broken markup in section 240.17Ad-7
+tags: structural
+status: approved
+issue_number: 2024-08-02
+fr_doc: 89 FR 47785
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116276245/comments#439910230
+
+patches:
+  '001':
+    first_issue_date: '2024-08-02'
+    last_issue_date: '2024-12-17'

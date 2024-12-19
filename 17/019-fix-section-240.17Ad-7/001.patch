@@ -1,0 +1,42 @@
+--- data/titles/preprocessed/xml/17/2024/08/2024-08-02_3a943d8b.xml	2024-12-19 08:15:43.307924504 -0800
++++ tmp/title_version_17_2024-08-02_3a943d8b_preprocessed.xml	2024-12-19 08:23:06.864751464 -0800
+@@ -133664,10 +133664,9 @@
+ </CITA>
+ </DIV8>
+ 
+-<SECTNO>§ 240.17ad-7
+-</SECTNO>
+-<SUBJECT>(Rule 17Ad-7) Record retention.
+-</SUBJECT>
++<DIV8 N="§ 240.17Ad-7" TYPE="SECTION">
++<HEAD>§ 240.17Ad-7   Record retention.</HEAD>
++
+ <P>(a) The records required by § 240.17Ad-6(a)(1), (3)(i), (6) or (11) shall be maintained for a period of not less than two years, the first six months in an easily accessible place.
+ </P>
+ <P>(b) The records required by § 240.17Ad-6(a) (2), (3)(ii), (4), (5) or (7) shall be maintained for a period of not less than two years, the first year in an easily accessible place.
+@@ -133724,7 +133723,7 @@
+ </P>
+ <P>(ii) Place, or have a third party place on your behalf, in escrow with an independent third party and keep current a copy of the physical and logical format of the electronic storage or micrographic media, the field format of all different information types written on the electronic storage media and source code, and the appropriate documentation and information necessary to access records and indexes. The independent escrow agent must file an undertaking signed by a duly authorized person with the Commission and your ARA stating that:
+ </P>
+-</DIV7><EXTRACT>
++<EXTRACT>
+ <P>“[Name of Third Party] hereby undertakes to furnish promptly upon request to the U.S. Securities and Exchange Commission, its designees, or representatives, upon reasonable request, a current copy of the physical and logical format of the electronic storage or micrographic media, the field format of all different information types written on the electronic storage media and source code, and the appropriate documentation and information necessary to access the records and indexes of [Name of Transfer Agent]'s electronic records management system.</P></EXTRACT>
+ <P>(6) (i) If you use a third party to maintain or preserve some or all of the required records using electronic storage media or micrographic media, such third party shall file a written undertaking signed by a duly authorized person with the Commission and your ARA stating that:
+ </P>
+@@ -133766,6 +133765,7 @@
+ 
+ 
+ </CITA>
++</DIV8>
+ 
+ <DIV8 N="§ 240.17Ad-8" TYPE="SECTION">
+ <HEAD>§ 240.17Ad-8   Securities position listings.</HEAD>
+@@ -135067,7 +135067,7 @@
+ 
+ </CITA>
+ </DIV8>
+-
++</DIV7>
+ 
+ <DIV7 N="113" TYPE="SUBJGRP">
+ <HEAD>Capital, Margin and Segregation Requirements for Security-Based Swap Dealers and Major Security-Based Swap Participants</HEAD>
