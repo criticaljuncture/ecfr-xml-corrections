@@ -1,0 +1,16 @@
+--- data/titles/preprocessed/xml/12/2024/08/2024-08-07_2e26c5ae.xml	2024-12-19 15:30:50.383869432 -0800
++++ tmp/title_version_12_2024-08-07_2e26c5ae_preprocessed.xml	2024-12-19 15:37:27.780359304 -0800
+@@ -264696,10 +264696,9 @@
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—XXX</HEAD>
+ 
+-<SECTNO>722.101-722.107
+-</SECTNO>
+-<SUBJECT>xxx
+-</SUBJECT>
++<DIV8 N="§§ 722.101-722.1071" TYPE="SECTION">
++  <HEAD>xxx</HEAD>
++</DIV8>
+ </DIV6>
+ 
+ 
