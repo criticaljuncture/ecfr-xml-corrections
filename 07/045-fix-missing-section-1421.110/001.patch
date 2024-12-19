@@ -1,0 +1,23 @@
+--- data/titles/preprocessed/xml/07/2021/12/2021-12-13_463aa6c9.xml	2024-12-19 13:33:05.007401858 -0800
++++ tmp/title_version_7_2021-12-13_463aa6c9_preprocessed.xml	2024-12-19 13:36:18.364353163 -0800
+@@ -324614,10 +324614,8 @@
+ </CITA>
+ </DIV8>
+ 
+-<SECTNO>§ 1421.110
+-</SECTNO>
+-<SUBJECT>Commodity certificate exchanges.
+-</SUBJECT>
++<DIV8 N="§ 1421.110" TYPE="SECTION">
++<HEAD>§ 1421.110   Commodity certificate exchanges.</HEAD>
+ <P>(a) For any outstanding marketing assistance loan, a producer may purchase a commodity certificate and exchange that commodity certificate for the marketing assistance loan collateral.
+ </P>
+ <P>(b) The exchange rate is the lessor of:
+@@ -324644,6 +324642,7 @@
+ 
+ 
+ </CITA>
++</DIV8>
+ 
+ <DIV8 N="§ 1421.111" TYPE="SECTION">
+ <HEAD>§ 1421.111   MAL settlement.</HEAD>
