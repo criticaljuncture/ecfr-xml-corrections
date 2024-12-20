@@ -1,0 +1,16 @@
+--- data/titles/preprocessed/xml/48/2024/06/2024-06-03_646ccdf1.xml	2024-12-19 16:35:26.638525843 -0800
++++ tmp/title_version_48_2024-06-03_646ccdf1_preprocessed.xml	2024-12-19 16:37:53.303605288 -0800
+@@ -282590,10 +282590,9 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-<SECTNO>3004.470
+-</SECTNO>
+-<SUBJECT>Security requirements for access to unclassified facilities, information resources, and controlled unclassified information.
+-</SUBJECT>
++<DIV8 N="3004.470" TYPE="SECTION">
++<HEAD>3004.470-1 Security requirements for access to unclassified facilities, information resources, and controlled unclassified information.</HEAD>
++</DIV8>
+ 
+ <DIV8 N="3004.470-1" TYPE="SECTION">
+ <HEAD>3004.470-1   Scope.</HEAD>
