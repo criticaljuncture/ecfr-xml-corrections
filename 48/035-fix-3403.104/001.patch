@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/48/2023/10/2023-10-02_82830ab5.xml	2024-12-19 16:11:04.433488183 -0800
++++ tmp/title_version_48_2023-10-02_82830ab5_preprocessed.xml	2024-12-19 16:13:00.706877722 -0800
+@@ -272464,14 +272464,11 @@
+ <DIV6 N="3403.1" TYPE="SUBPART">
+ <HEAD>Subpart 3403.1—Safeguards</HEAD>
+ 
+-<SECTNO>3403.104</SECTNO>
+-<SUBJECT>Procurement integrity.
++<DIV8 N="3403.104" TYPE="SECTION">
++<HEAD>Procurement integrity.</HEAD>
++</DIV8>
+ 
+ 
+-
+-
+-</SUBJECT>
+-
+ <DIV8 N="3403.104-7" TYPE="SECTION">
+ <HEAD>3403.104-7   Violations or possible violations.</HEAD>
+ <P>(d)(2)(ii)(B) The Senior Procurement Executive (SPE) is the agency head for the purposes of FAR 3.104-7(d)(2)(ii)(B).
