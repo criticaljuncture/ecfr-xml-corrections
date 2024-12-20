@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/48/2023/07/2023-07-21_4099af0e.xml	2024-12-19 15:55:57.774752514 -0800
++++ tmp/title_version_48_2023-07-21_4099af0e_preprocessed.xml	2024-12-19 16:01:38.108871293 -0800
+@@ -266034,14 +266034,12 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-<SECTNO>3004.470</SECTNO>
+-<SUBJECT>Security requirements for access to unclassified facilities, information resources, and controlled unclassified information.
+ 
++<DIV8 N="3004.470" TYPE="SECTION">
++<HEAD>3004.470   Security requirements for access to unclassified facilities, Information Technology resources, and sensitive information.</HEAD>
++</DIV8>
+ 
+ 
+-
+-</SUBJECT>
+-
+ <DIV8 N="3004.470-1" TYPE="SECTION">
+ <HEAD>3004.470-1   Scope.</HEAD>
+ <P>This section implements DHS policies for assuring adequate security of unclassified facilities, information resources, and controlled unclassified information (CUI) during the acquisition lifecycle.
