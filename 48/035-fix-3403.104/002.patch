@@ -1,0 +1,17 @@
+--- data/titles/preprocessed/xml/48/2024/06/2024-06-03_646ccdf1.xml	2024-12-19 16:39:01.035589677 -0800
++++ tmp/title_version_48_2024-06-03_646ccdf1_preprocessed.xml	2024-12-19 16:41:21.583644960 -0800
+@@ -288495,10 +288495,10 @@
+ <DIV6 N="3403.1" TYPE="SUBPART">
+ <HEAD>Subpart 3403.1—Safeguards</HEAD>
+ 
+-<SECTNO>3403.104
+-</SECTNO>
+-<SUBJECT>Procurement integrity.
+-</SUBJECT>
++<DIV8 N="3403.104" TYPE="SECTION">
++<HEAD>3403.104 Procurement integrity.
++</HEAD>
++</DIV8>
+ 
+ <DIV8 N="3403.104-7" TYPE="SECTION">
+ <HEAD>3403.104-7   Violations or possible violations.</HEAD>
