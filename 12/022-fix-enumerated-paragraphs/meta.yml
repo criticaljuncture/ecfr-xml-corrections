@@ -1,11 +1,11 @@
-description: Disable splitting of 5 CFR 335.102(d) to avoid changing meaning
+description: Disable splitting of 12 CFR Appendix A to Subpart C of Part 5(VI.)(B.)(1.)
 tags: enhancement
 status: approved
 issue_number:
 fr_doc:
-reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/112287565/comments#comment_420597098
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116309874/comments
 
 patches:
   '001':
-    start_date: '2017-01-01'
+    start_date: '2025-01-01'
     end_date: '2100-01-01' # before closing consider https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116309874/comments and renderer #109

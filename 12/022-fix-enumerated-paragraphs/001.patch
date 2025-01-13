@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/12/2025/01/2025-01-01_72833800.xml	2025-01-13 17:00:38.092850873 -0600
++++ tmp/title_version_12_2025-01-01_72833800_preprocessed.xml	2025-01-13 17:06:37.930724661 -0600
+@@ -14482,7 +14482,7 @@
+ </P>
+ <HD2>B. Public Meetings
+ </HD2>
+-<P>1. While the BMA does not require the OCC to hold meetings or hearings, the OCC has three methods for seeking oral input: (1) public hearing, (2) public meeting, and (3) private meeting. Public meetings are the most-employed public option.
++<P ecfr-split-paragraph="never">1. While the BMA does not require the OCC to hold meetings or hearings, the OCC has three methods for seeking oral input: (1) public hearing, (2) public meeting, and (3) private meeting. Public meetings are the most-employed public option.
+ </P>
+ <P>2. The OCC will balance the public's interest in the transaction with the value or harm of a public meeting to the decision-making process (<I>e.g.,</I> although there may be increased public interest in a transaction, a public meeting will not be held if it would not inform the OCC's decision on an application or would otherwise harm the decision-making process).
+ </P>
