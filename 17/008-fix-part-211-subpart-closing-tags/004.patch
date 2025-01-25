@@ -1,0 +1,51 @@
+--- data/titles/preprocessed/xml/17/2025/01/2025-01-23_64e990ac.xml	2025-01-24 16:32:14.423041524 -0800
++++ tmp/title_version_17_2025-01-23_64e990ac_preprocessed.xml	2025-01-24 16:36:47.302719009 -0800
+@@ -79835,8 +79835,6 @@
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—Financial Reporting Releases</HEAD>
+ 
+-</DIV6>
+-
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+ <THEAD>
+@@ -80001,12 +79999,12 @@
+ </TBODY>
+ </TABLE>
+ </DIV></DIV>
++</DIV6>
++
+ 
+ <DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B—Staff Accounting Bulletins</HEAD>
+ 
+-</DIV6>
+-
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+ <THEAD>
+@@ -80531,12 +80529,12 @@
+ </TBODY>
+ </TABLE>
+ </DIV></DIV>
++</DIV6>
++
+ 
+ <DIV6 N="C" TYPE="SUBPART">
+ <HEAD>Subpart C—Accounting and Auditing Enforcement Releases</HEAD>
+ 
+-</DIV6>
+-
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+ <THEAD>
+@@ -80557,6 +80555,9 @@
+ </TBODY>
+ </TABLE>
+ </DIV></DIV>
++
++</DIV6>
++
+ </DIV5>
+ 
+ 
