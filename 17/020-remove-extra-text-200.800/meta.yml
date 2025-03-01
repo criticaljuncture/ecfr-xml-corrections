@@ -1,0 +1,11 @@
+description: There was extra text after the section number for 17 CFR 200.800
+tags: structural
+status: approved
+issue_number: 2024-11-18
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116411581/comments
+
+patches:
+  '001':
+    first_issue_date: '2024-11-18'
+    last_issue_date: '2025-02-26'
