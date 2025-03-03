@@ -1,0 +1,11 @@
+description: Restore incorrectly removed chapter
+tags: editoriak
+status: approved
+issue_number: 2024-12-26
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116414411/comments#440595446
+
+patches:
+  '001':
+    first_issue_date: '2024-12-26'
+    last_issue_date: '2025-02-12'
