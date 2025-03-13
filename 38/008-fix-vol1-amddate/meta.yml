@@ -1,2 +1,11 @@
-description:
+description: The AMDDATE for volume 1 was not updated
+tags: amddate
+status: approved
+issue_number: 2017-12-09
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116438778/comments
+
+patches:
+  '001':
+    first_issue_date: '2017-12-09'
     last_issue_date: '2017-12-20'
