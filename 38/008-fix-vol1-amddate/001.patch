@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/38/2017/12/2017-12-09_9c495808.xml	2025-03-13 14:09:50.319835589 -0700
++++ tmp/title_version_38_2017-12-09_9c495808_preprocessed.xml	2025-03-13 14:10:22.698857082 -0700
+@@ -34,7 +34,7 @@
+ <TEXT>
+ <BODY>
+ <ECFRBRWS>
+-<AMDDATE>Dec. 8, 2017
++<AMDDATE>2017-12-09
+ </AMDDATE>
+ 
+ <DIV1 N="1" TYPE="TITLE">
