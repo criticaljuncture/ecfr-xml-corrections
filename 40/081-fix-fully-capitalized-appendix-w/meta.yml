@@ -1,0 +1,12 @@
+description: Appendix W of Part 51 was fully capitalized. This is a structural issue.
+  The appendix should be titled "Appendix W" instead of "APPENDIX W".
+tags: structural
+status: approved
+issue_number: 2025-03-21
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116462638/comments#440837040
+
+patches:
+  '001':
+    first_issue_date: '2025-03-21'
+    last_issue_date: '2025-03-21'
