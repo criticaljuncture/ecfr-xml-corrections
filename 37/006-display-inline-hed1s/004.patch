@@ -1,17 +1,15 @@
---- data/titles/preprocessed/xml/37/2025/03/2025-03-31_a99e446e.xml	2025-04-01 21:56:51.297625000 -0700
-+++ tmp/title_version_37_2025-03-31_a99e446e_preprocessed.xml	2025-04-01 21:57:22.004795112 -0700
+--- data/titles/preprocessed/xml/37/2025/03/2025-03-31_a99e446e.xml	2025-04-21 13:17:21.382032732 -0700
++++ tmp/title_version_37_2025-03-31_a99e446e_preprocessed.xml	2025-04-21 13:33:18.684530170 -0700
 @@ -75,11 +75,12 @@
  
  <DIV4 N="A" TYPE="SUBCHAP">
  <HEAD>SUBCHAPTER A—GENERAL
 +</HEAD>
  
--
-+<HED1><I>
- PATENTS
--
--</HEAD>
-+</I>
+ <HED1><I>PATENTS</I>
+ 
+ 
+-</HED1></HEAD>
 +</HED1>
  
  <DIV5 N="1" TYPE="PART">
@@ -40,8 +38,14 @@
  
  <DIV5 N="3" TYPE="PART">
  <HEAD>PART 3—ASSIGNMENT, RECORDING AND RIGHTS OF ASSIGNEE
-@@ -14735,17 +14738,24 @@
- <HEAD>§§ 5.31-5.33   [Reserved]</HEAD>
+@@ -14732,20 +14735,26 @@
+ 
+ 
+ <DIV8 N="§§ 5.31-5.33" TYPE="SECTION">
+-<HEAD>§§ 5.31-5.33   [Reserved]
++<HEAD>§§ 5.31-5.33   [Reserved]</HEAD>
+ 
+-<HED1>PART 6—CLASSIFICATION OF GOODS AND SERVICES UNDER THE TRADEMARK ACT</HED1></HEAD>
  </DIV8>
  
 +</DIV7>
@@ -49,44 +53,40 @@
 +</DIV5>
 +
 +<TEXT>
- <HED1>PART 6—CLASSIFICATION OF GOODS AND SERVICES UNDER THE TRADEMARK ACT
- </HED1>
++<HED1>PART 6—CLASSIFICATION OF GOODS AND SERVICES UNDER THE TRADEMARK ACT</HED1>
++
  <EDNOTE>
  <HED>Editorial Note:</HED><PSPACE>Part 6 is placed in the separate grouping of parts pertaining to trademarks regulations.</PSPACE></EDNOTE>
 +</TEXT>
 +<TEXT>
-+
  <HED1>PART 7—RULES OF PRACTICE IN FILINGS PURSUANT TO THE PROTOCOL RELATING TO THE MADRID AGREEMENT CONCERNING THE INTERNATIONAL REGISTRATION OF MARKS
  </HED1>
  <EDNOTE>
  <HED>Editorial Note:</HED><PSPACE>Part 7 is placed in the separate grouping of parts pertaining to trademarks regulations.</PSPACE></EDNOTE>
 -</DIV7>
- 
+-
 -</DIV5>
 +</TEXT>
  
  <SUBCHIND>
  <HED>INDEX I—RULES RELATING TO PATENTS
-@@ -18820,11 +18830,14 @@
- 
+@@ -18821,10 +18830,11 @@
  
  </PT></SUBCHIND>
-+
+ 
+-
 +<TEXT>
- <HED1> 
- PART 1—RULES OF PRACTICE IN PATENT CASES
- </HED1>
+ <HED1>PART 1—RULES OF PRACTICE IN PATENT CASES</HED1>
  <EDNOTE>
  <HED>Editorial Note:</HED><PSPACE>Part 1 is placed in the separate grouping of parts pertaining to patents regulations.</PSPACE></EDNOTE>
 +</TEXT>
  <HED1><I>TRADEMARKS</I>
  
  
-@@ -23327,23 +23340,32 @@
+@@ -23327,24 +23337,31 @@
  
  
  </P>
-+
 +</DIV8>
 +
 +</DIV7>
@@ -100,7 +100,6 @@
  <HED>Editorial Note:</HED><PSPACE>Part 3 pertaining to both patents and trademarks is placed in the grouping pertaining to patents regulations.</PSPACE></EDNOTE>
 +</TEXT>
 +<TEXT>
-+
  <HED1>PART 4—COMPLAINTS REGARDING INVENTION PROMOTERS
  </HED1>
  <EDNOTE>
@@ -116,7 +115,8 @@
 -</DIV7>
 -
 -</DIV5>
+ 
 +</TEXT>
  
- 
  <DIV5 N="6" TYPE="PART">
+ <HEAD>PART 6—CLASSIFICATION OF GOODS AND SERVICES UNDER THE TRADEMARK ACT
