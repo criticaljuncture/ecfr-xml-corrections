@@ -1,38 +1,34 @@
---- data/titles/preprocessed/xml/37/2025/03/2025-03-31_a99e446e.xml	2025-04-01 21:34:04.530641522 -0700
-+++ tmp/title_version_37_2025-03-31_a99e446e_preprocessed.xml	2025-04-01 21:44:22.774981960 -0700
-@@ -18820,15 +18820,9 @@
+--- data/titles/preprocessed/xml/37/2025/03/2025-03-31_a99e446e.xml	2025-04-21 08:58:19.140252428 -0700
++++ tmp/title_version_37_2025-03-31_a99e446e_preprocessed.xml	2025-04-21 09:01:57.747171127 -0700
+@@ -18820,13 +18820,9 @@
  
  
  </PT></SUBCHIND>
 -</DIV4>
--
--
+ 
+ 
 -<DIV4 N="" TYPE="SUBCHAP">
 -<HEAD> 
 -
--
-+<HED1> 
- PART 1—RULES OF PRACTICE IN PATENT CASES
--</HEAD>
-+</HED1>
+-<HED1>PART 1—RULES OF PRACTICE IN PATENT CASES</HED1></HEAD>
++<HED1>PART 1—RULES OF PRACTICE IN PATENT CASES</HED1>
  <EDNOTE>
  <HED>Editorial Note:</HED><PSPACE>Part 1 is placed in the separate grouping of parts pertaining to patents regulations.</PSPACE></EDNOTE>
  <HED1><I>TRADEMARKS</I>
-@@ -27895,16 +27889,12 @@
+@@ -27893,16 +27889,12 @@
  
  
  </PT></SUBCHIND>
 -</DIV4>
 -
--
+ 
 -<DIV4 N="" TYPE="SUBCHAP">
 -<HEAD> 
  
+ <HED1><I>PRACTICE BEFORE THE PATENT AND TRADEMARK OFFICE</I>
  
-+<HED1> 
- PRACTICE BEFORE THE PATENT AND TRADEMARK OFFICE
  
--</HEAD>
+-</HED1></HEAD>
 +</HED1>
  
  <DIV5 N="10" TYPE="PART">
