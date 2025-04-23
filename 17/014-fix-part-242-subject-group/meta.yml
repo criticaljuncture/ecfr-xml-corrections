@@ -11,4 +11,4 @@ patches:
     last_issue_date: '2019-10-20'
   '002':
     first_issue_date: '2019-10-21'
-    last_issue_date: '2100-01-01'
+    last_issue_date: '2025-04-18' # (expect '2024-05-31' after a full SGML reprocess)
