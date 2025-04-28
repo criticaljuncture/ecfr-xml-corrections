@@ -1,0 +1,11 @@
+description: Section 117.723 was modified prematurely. Force a timeline change.
+tags: structural
+status: needs-review
+issue_number: 2025-04-25
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116529679/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-04-15'
+    last_issue_date: '2025-04-24'
