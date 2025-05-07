@@ -1,0 +1,12 @@
+description: Title 40, Volume 4 Amendment Date went backwards
+
+tags: amendment-date
+status: approved
+issue_number: 2025-05-05
+fr_doc: 83993
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116547518/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-05-05'
+    last_issue_date: '2025-05-05'
