@@ -1,0 +1,11 @@
+description: Stray REGTEXT and EFFDNOT appears in the XML
+tags: structural
+status: approved
+issue_number: 2025-05-12
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116560902/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-05-12'
+    last_issue_date: '2025-05-12'
