@@ -1,0 +1,23 @@
+--- data/titles/preprocessed/xml/20/2025/05/2025-05-12_ba46211b.xml	2025-05-14 10:40:09.626870800 -0700
++++ tmp/title_version_20_2025-05-12_ba46211b_preprocessed.xml	2025-05-14 10:40:39.513096872 -0700
+@@ -84558,9 +84558,8 @@
+ </P>
+ <REVTXT>
+ 
+-<DIV9 N="Appendix 1" TYPE="APPENDIX">
+-<HEAD>Appendix 1 to Subpart P of Part 404—Listing of Impairments
+-</HEAD><STARS/>
++<HD1>Appendix 1 to Subpart P of Part 404—Listing of Impairments
++</HD1><STARS/>
+ <HD1>Part A
+ </HD1><STARS/>
+ <FP-1>1.00 Musculoskeletal Disorders
+@@ -84585,7 +84584,7 @@
+ </P><STARS/>
+ <P>c. For 101.15, 101.16, 101.17, 101.18, 101.20C, 101.20D, 101.22, and 101.23, all of the required criteria must be present simultaneously, or within a close proximity of time, to satisfy the level of severity needed to meet the listing. The phrase “within a close proximity of time” means that all of the relevant criteria must appear in the medical record within a consecutive 4-month period, except for claims determined or decided during the pandemic period or post-pandemic evaluation period. For claims determined or decided during the pandemic period or post-pandemic evaluation period, all of the relevant criteria must appear in the medical record within a consecutive 12-month period. When the criterion is imaging, we mean that we could reasonably expect the findings on imaging to have been present at the date of impairment or date of onset. For listings that use the word “and” to link the elements of the required criteria, the medical record must establish the simultaneous presence, or presence within a close proximity of time, of all the required medical criteria. Once this level of severity is established, the medical record must also show that this level of severity has continued, or is expected to continue, for a continuous period of at least 12 months.
+ </P><STARS/>
+-</DIV9></REVTXT></EFFDNOT>
++</REVTXT></EFFDNOT>
+ </DIV9>
+ 
+ 
