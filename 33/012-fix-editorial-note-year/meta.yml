@@ -1,0 +1,11 @@
+description: Fix editorial note year in 33 CFR 117
+tags: editorial
+status: editorial
+issue_number: 2025-03-17
+fr_doc: 90 FR 12238
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116599654/comments#441549798
+
+patches:
+  '001':
+    first_issue_date: '2025-03-17'
+    last_issue_date: '2025-06-03'

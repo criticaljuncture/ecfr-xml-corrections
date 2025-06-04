@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/33/2025/03/2025-03-26_8214f1c5.xml	2025-06-04 08:59:17.067785782 -0700
++++ tmp/title_version_33_2025-03-26_8214f1c5_preprocessed.xml	2025-06-04 08:59:51.828083505 -0700
+@@ -41290,7 +41290,7 @@
+ <HED>Source:</HED><PSPACE>CGD 82-025, 49 FR 17452, Apr. 24, 1984, unless otherwise noted.
+ </PSPACE></SOURCE>
+ <EDNOTE>
+-<HED>Editorial Note:</HED><PSPACE>Nomenclature changes to part 117 appear by USCG-1998-3799, 63 FR 35529, June 30, 1998, and by USCG-2025-0186, 90 FR 12238, Mar. 17, 20.</PSPACE></EDNOTE>
++<HED>Editorial Note:</HED><PSPACE>Nomenclature changes to part 117 appear by USCG-1998-3799, 63 FR 35529, June 30, 1998, and by USCG-2025-0186, 90 FR 12238, Mar. 17, 2025.</PSPACE></EDNOTE>
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—General Requirements</HEAD>
