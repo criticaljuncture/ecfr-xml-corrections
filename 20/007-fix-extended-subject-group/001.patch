@@ -1,0 +1,19 @@
+--- data/titles/preprocessed/xml/20/2025/05/2025-05-12_ba46211b.xml	2025-06-11 10:34:48.777060154 -0700
++++ tmp/title_version_20_2025-05-12_ba46211b_preprocessed.xml	2025-06-11 10:36:13.375285192 -0700
+@@ -73656,7 +73656,7 @@
+ 
+ </CITA>
+ </DIV8>
+-
++</DIV7>
+ 
+ <DIV9 N="Appendix 1" TYPE="APPENDIX">
+ <HEAD>Appendix 1 to Subpart P of Part 404—Listing of Impairments
+@@ -85306,7 +85306,6 @@
+ 
+ </CITA>
+ </DIV9>
+-</DIV7>
+ 
+ </DIV6>
+ 
