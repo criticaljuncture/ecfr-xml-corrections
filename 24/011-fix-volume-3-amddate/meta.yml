@@ -1,0 +1,11 @@
+description: AMDDATE for v3 was incremented without to a date 1 week before issue date. As tehre were no content, reverting to previous date
+tags: amddate
+status: needs-review
+issue_number: 2025-06-12
+fr_doc: 83993
+reference: https://classic.basecamp.com/dhh/inbox/messages/1
+
+patches:
+  '001':
+    first_issue_date: '2025-06-12'
+    last_issue_date: '2025-06-12'
