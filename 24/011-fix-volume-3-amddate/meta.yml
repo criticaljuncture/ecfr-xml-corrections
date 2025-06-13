@@ -2,10 +2,10 @@ description: AMDDATE for v3 was incremented without to a date 1 week before issu
 tags: amddate
 status: needs-review
 issue_number: 2025-06-12
-fr_doc: 83993
-reference: https://classic.basecamp.com/dhh/inbox/messages/1
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116621512/comments
 
 patches:
   '001':
     first_issue_date: '2025-06-12'
-    last_issue_date: '2025-06-12'
+    last_issue_date: '2100-01-01'
