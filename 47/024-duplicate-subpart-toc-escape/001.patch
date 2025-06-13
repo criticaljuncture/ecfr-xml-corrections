@@ -1,0 +1,28 @@
+--- data/titles/preprocessed/xml/47/2025/06/2025-06-12_168072f6.xml	2025-06-13 17:44:06.347660801 -0500
++++ tmp/title_version_47_2025-06-12_168072f6_preprocessed.xml	2025-06-13 18:21:23.512235517 -0500
+@@ -100022,16 +100022,6 @@
+ <DIV5 N="30" TYPE="PART">
+ <HEAD>PART 30—UPPER MICROWAVE FLEXIBLE USE SERVICE
+ </HEAD>
+-
+-<DIV6 N="F" TYPE="SUBPART">
+-<HEAD>Subpart F—XXX</HEAD>
+-
+-<SECTNO>30.501</SECTNO>
+-<SUBJECT>xxx
+-</SUBJECT>
+-<SECTNO>30.503</SECTNO>
+-<SUBJECT>xxx
+-</SUBJECT>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>47 U.S.C. 151, 152, 153, 154, 301, 303, 304, 307, 309, 310, 316, 332, 1302, unless otherwise noted.
+ 
+@@ -100042,8 +100032,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+-
+ 
+ <DIV6 N="A" TYPE="SUBPART">
+ <HEAD>Subpart A—General</HEAD>
