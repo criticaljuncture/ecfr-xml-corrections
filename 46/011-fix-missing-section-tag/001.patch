@@ -1,0 +1,25 @@
+--- data/titles/preprocessed/xml/46/2025/06/2025-06-20_c24ec2b5.xml	2025-06-24 08:50:50.929441554 -0500
++++ tmp/title_version_46_2025-06-20_c24ec2b5_preprocessed.xml	2025-06-24 08:53:18.878545054 -0500
+@@ -256422,10 +256422,9 @@
+ </P>
+ </DIV8>
+ 
+-<SECTNO>§ 501.17
+-</SECTNO>
+-<SUBJECT>Delegation to and redelegation by the Director, Bureau of Trade Analysis.
+-</SUBJECT>
++
++<DIV8 N="§ 501.17" TYPE="SECTION">
++<HEAD>§ 501.17   Delegation to and redelegation by the Director, Bureau of Trade Analysis.</HEAD>
+ <P>(a) Authority to recommend to the Commission the initiation of formal proceedings or other actions with respect to suspected violations of the Shipping Act of 1984, as amended, and rules and regulations of the Commission.
+ </P>
+ <P>(b) The authority to accept, deny, or deactivate a Form FMC-1 submitted by ocean common carriers, non-vessel-operating common carriers, conferences, and marine terminal operators under parts 520 and 525 of this chapter.
+@@ -256444,6 +256443,8 @@
+ 
+ 
+ </CITA>
++</DIV8>
++
+ 
+ <DIV8 N="§ 501.18" TYPE="SECTION">
+ <HEAD>§ 501.18   Delegation to the Director, Bureau of Enforcement, Investigations, and Compliance.</HEAD>

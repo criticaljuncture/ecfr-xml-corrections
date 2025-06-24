@@ -1,0 +1,11 @@
+description: Fix missing SECTION tag for 46/501.17
+tags: structural
+status: approved
+issue_number: 2025-06-20
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116638315/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-06-20'
+    last_issue_date: '2025-06-20'
