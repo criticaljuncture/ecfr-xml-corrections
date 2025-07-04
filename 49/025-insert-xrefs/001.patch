@@ -1,0 +1,31 @@
+--- data/titles/preprocessed/xml/49/2025/07/2025-07-01_b995e6cc.xml	2025-07-03 16:46:01.259947825 -0700
++++ tmp/title_version_49_2025-07-01_b995e6cc_preprocessed.xml	2025-07-03 16:59:42.530532896 -0700
+@@ -413894,6 +413894,9 @@
+ 
+ <DIV8 N="§ 701.5" TYPE="SECTION">
+ <HEAD>§ 701.5   Requirements for making requests.</HEAD>
++<XREF ID="20250630" REFID="4">Link to an amendment published at 90 FR 27816, June 30, 2025</XREF>
++
++
+ <P>(a) <I>General requirements.</I> (1) A FOIA request can be made by “any person” as defined in 5 U.S.C. 551(2), which encompasses individuals (including foreign citizens; partnerships; corporations; associations; and local, state, tribal, and foreign governments). A FOIA request may not be made by a Federal agency.
+ </P>
+ <P>(2) A request must be in writing, indicate that it is being made under the FOIA, and provide an adequate description of the records sought. The request should also include applicable information regarding fees as specified in paragraphs (d) and (e) of this section.
+@@ -414109,6 +414112,8 @@
+ 
+ <DIV8 N="§ 701.10" TYPE="SECTION">
+ <HEAD>§ 701.10   Appeals.</HEAD>
++<XREF ID="20250630" REFID="5">Link to an amendment published at 90 FR 27816, June 30, 2025</XREF>
++
+ <P>(a) <I>Appeals of adverse determinations.</I> (1) The requesting party may appeal:
+ </P>
+ <P>(i) A decision to withhold any requested record in whole or in part;
+@@ -414144,6 +414149,9 @@
+ 
+ <DIV8 N="§ 701.11" TYPE="SECTION">
+ <HEAD>§ 701.11   Fees.</HEAD>
++<XREF ID="20250630" REFID="6">Link to an amendment published at 90 FR 27816, June 30, 2025</XREF>
++
++
+ <P>(a) <I>General.</I> Amtrak shall charge for processing requests under the FOIA in accordance with this section. A fee of $38 per hour shall be charged for search and review. For information concerning other processing fees, refer to paragraph (e) of this section. Amtrak shall collect all applicable fees before releasing copies of requested records to the requesting party. Payment of fees shall be made by check or money order payable to the National Railroad Passenger Corporation.
+ </P>
+ <P>(b) <I>Definitions.</I> For purposes of this section:
