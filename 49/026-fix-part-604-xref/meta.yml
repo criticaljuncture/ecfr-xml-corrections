@@ -1,0 +1,11 @@
+description: Fix FR reference
+tags: editorial
+status: approved
+issue_number: 2025-07-01
+fr_doc: 90 FR 28213
+reference: https://classic.basecamp.com/dhh/inbox/messages/1
+
+patches:
+  '001':
+    first_issue_date: '2025-07-01'
+    last_issue_date: '2025-07-07'
