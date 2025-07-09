@@ -1,0 +1,11 @@
+description: 10v3 205.321 reserved XREF
+tags: content
+status: pending
+issue_number: 2025-07-07
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2025-07-07'
+    last_issue_date: '2025-07-07'

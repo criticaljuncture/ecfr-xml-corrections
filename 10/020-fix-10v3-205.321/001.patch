@@ -1,0 +1,14 @@
+--- data/titles/preprocessed/xml/10/2025/07/2025-07-07_78149b9e.xml	2025-07-08 23:45:03.727485456 -0500
++++ tmp/title_version_10_2025-07-07_78149b9e_preprocessed.xml	2025-07-08 23:45:27.650029964 -0500
+@@ -112462,9 +112462,8 @@
+ 
+ 
+ <DIV8 N="§ 205.321" TYPE="SECTION">
+-<HEAD>§ 205.321   [Reserved] 
+-
+-<XREF ID="20250516" REFID="2">Link to an amendment published at 90 FR 20758, May 16, 2025.</XREF></HEAD></DIV8>
++<HEAD>§ 205.321   [Reserved]</HEAD>
++</DIV8>
+ 
+ 
+ 
