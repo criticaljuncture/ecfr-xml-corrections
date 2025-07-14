@@ -1,0 +1,14 @@
+--- data/titles/preprocessed/xml/33/2025/07/2025-07-10_4caa5ab0.xml	2025-07-14 08:37:35.657648977 -0700
++++ tmp/title_version_33_2025-07-10_4caa5ab0_preprocessed.xml	2025-07-14 09:00:17.880914589 -0700
+@@ -111191,11 +111191,6 @@
+ 
+ <DIV8 N="§ 165.T09-0135" TYPE="SECTION">
+ <HEAD>§ 165.T09-0135   Safety Zones; Tall Ships Challenge Great Lakes 2025; Erie, PA, Detroit, MI, and Duluth, MN.</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 165.T09-0135" TYPE="SECTION">
+-<HEAD>§ 165.T09-0135   Safety Zones; Tall Ships Challenge Great Lakes 2025; Erie, PA, Detroit, MI, and Duluth, MN.</HEAD>
+ <P>(a) <I>Definitions.</I> As used in this section:
+ </P>
+ <P><I>Navigation rules</I> means the Navigation Rules, International and Inland (see, 1972 COLREGS and 33 U.S.C. 2001 <I>et seq.</I>).
