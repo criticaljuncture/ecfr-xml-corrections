@@ -1,0 +1,11 @@
+description: Two removed parts, 1424 and 1425, have no identifiers
+tags: approved
+status: needs-review
+issue_number: 2025-07-15
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116682133/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-07-15'
+    last_issue_date: '2025-07-15'
