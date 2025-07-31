@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/29/2020/09/2020-09-14_c4b1df32.xml	2025-07-31 11:22:13.351629772 -0700
++++ tmp/title_version_29_2020-09-14_c4b1df32_preprocessed.xml	2025-07-31 11:25:07.642248488 -0700
+@@ -145006,8 +145006,6 @@
+ </CITA>
+ </DIV9>
+ 
+-</DIV6>
+-
+ 
+ <DIV8 N="§ 1910.1025" TYPE="SECTION">
+ <HEAD>§ 1910.1025   Lead.</HEAD>
+@@ -164624,7 +164622,7 @@
+ 
+ </CITA>
+ </DIV8>
+-
++</DIV6>
+ 
+ <DIV8 N="§§ 1910.1451-1910.1499" TYPE="SECTION">
+ <HEAD>§§ 1910.1451-1910.1499   [Reserved]</HEAD>
