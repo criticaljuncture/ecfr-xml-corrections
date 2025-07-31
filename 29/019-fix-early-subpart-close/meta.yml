@@ -1,9 +1,9 @@
 description: Fix premature close of subpart Z of part 1910
 tags: structural
-status: needs-review
-issue_number: 100
-fr_doc: 83993
-reference: https://classic.basecamp.com/dhh/inbox/messages/1
+status: approved
+issue_number: 2020-09-14
+fr_doc:
+reference: bin/reprocess title_issue_date 29 2020-09-10
 
 patches:
   '001':
