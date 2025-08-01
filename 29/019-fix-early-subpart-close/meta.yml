@@ -9,3 +9,6 @@ patches:
   '001':
     first_issue_date: '2020-09-14'
     last_issue_date: '2021-10-04'
+  '002':
+    first_issue_date: '2021-10-05'
+    last_issue_date: '2025-07-30'
