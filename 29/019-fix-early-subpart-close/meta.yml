@@ -11,4 +11,7 @@ patches:
     last_issue_date: '2021-10-04'
   '002':
     first_issue_date: '2021-10-05'
+    last_issue_date: '2023-04-01'
+  '003':
+    first_issue_date: '2023-04-03'
     last_issue_date: '2025-07-30'

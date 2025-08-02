@@ -1,0 +1,23 @@
+--- data/titles/preprocessed/xml/29/2023/04/2023-04-03_4a53facc.xml	2025-08-01 17:20:17.347142545 -0700
++++ tmp/title_version_29_2023-04-03_4a53facc_preprocessed.xml	2025-08-01 17:21:11.651645756 -0700
+@@ -145105,10 +145105,10 @@
+ </P>
+ <P>(p) <I>Appendix.</I> Table A.1 in this appendix sets forth the operations that, where performed under the circumstances described in the column heading above the particular operations, trigger the requirement for a beryllium work area.
+ </P>
++<EXTRACT>
+ <HD1>Appendix A to § 1910.1024—Operations for Establishing Beryllium Work Areas
+ </HD1>
+-<EXTRACT>
+-<P>Paragraph (b) of this standard defines a <I>beryllium work area</I> as any work area where materials that contain at least 0.1 percent beryllium by weight are processed (1) during any of the operations listed in Appendix A of this standard, or (2) where employees are, or can reasonably be expected to be, exposed to airborne beryllium at or above the action level. Table A.1 in this appendix sets forth the operations that, where performed under the circumstances described in the column heading above the particular operations, trigger the requirement for a beryllium work area.</P></EXTRACT>
++<P>Paragraph (b) of this standard defines a <I>beryllium work area</I> as any work area where materials that contain at least 0.1 percent beryllium by weight are processed (1) during any of the operations listed in Appendix A of this standard, or (2) where employees are, or can reasonably be expected to be, exposed to airborne beryllium at or above the action level. Table A.1 in this appendix sets forth the operations that, where performed under the circumstances described in the column heading above the particular operations, trigger the requirement for a beryllium work area.</P>
+ <DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Table A.1—Operations for Establishing Beryllium Work Areas Where Processing Materials Containing at Least 0.1 Percent Beryllium by Weight
+ </P></DIV><DIV class="gpotbl_div"><TABLE border="1" cellpadding="1" cellspacing="1" class="gpotbl_table" frame="void" width="100%"><TR><TH class="gpotbl_colhed" scope="col">Beryllium metal alloy operations
+ <br/>(generally &lt;10% beryllium by weight)
+@@ -145196,6 +145196,7 @@
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Vapor Deposition.
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Water-Jet Cutting.
+ </TD><TD align="left" class="gpotbl_cell"/></TR><TR><TD align="left" class="gpotbl_cell" scope="row"> </TD><TD align="left" class="gpotbl_cell">Welding.</TD><TD align="left" class="gpotbl_cell"/></TR></TABLE></DIV></DIV>
++</EXTRACT>
+ <CITA TYPE="N">[82 FR 2736, Jan. 9, 2017, as amended at 83 FR 19948, May 7, 2018; 83 FR 39360, Aug. 9, 2018; 85 FR 42625, July 14, 2020]
+ 
+ 
