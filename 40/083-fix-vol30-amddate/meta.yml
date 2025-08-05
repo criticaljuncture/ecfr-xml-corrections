@@ -1,0 +1,11 @@
+description: Title 40 had an unchanged v30, except for the amddate
+tags: amddate
+status: needs-review
+issue_number: 2025-08-04
+fr_doc: 90 FR 29497
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116720388/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-08-04'
+    last_issue_date: '2025-08-04'
