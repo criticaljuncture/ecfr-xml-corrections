@@ -1,0 +1,11 @@
+description: A typo in an mdash wrought havoc on part 460
+tags: structural
+status: approved
+issue_number: 2025-08-11
+fr_doc: 90 FR 38609
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116733797/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-08-11'
+    last_issue_date: '2025-08-11'
