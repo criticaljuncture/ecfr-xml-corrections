@@ -8,4 +8,7 @@ patches:
     end_date: '2023-03-31'
   '002':
     first_issue_date: '2023-03-31'
+    last_issue_date: '2025-08-11'
+  '003':
+    first_issue_date: '2025-08-12'
     last_issue_date:  '2100-01-01'
