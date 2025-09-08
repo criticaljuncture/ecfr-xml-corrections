@@ -1,9 +1,9 @@
-description: Title 50 contains editorial notes directing the reader to the next or previous volume for other parts of the section. These are not needed once volumes are collapsed.
-tags: structural
-status: needs-review
-issue_number: 2025-08-11
-fr_doc: 90 FR 99999
-reference: https://classic.basecamp.com/dhh/inbox/messages/1
+description: Title 34, Volume 4 had substantial changes made on July 1, 2020, but AMDDATE was not updated.
+tags: amddate
+status: approved
+issue_number: 2020-07-01
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116782882/comments
 
 patches:
   '001':
