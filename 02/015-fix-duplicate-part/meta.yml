@@ -1,11 +1,11 @@
 description: Duplicate 2/300 w/ EXT-XREFs
 tags: content
-status: pending
+status: approved
 issue_number: 2025-10-01
 fr_doc:
-reference: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116922020/comments
 
 patches:
   '001':
     first_issue_date: '2025-10-01'
-    last_issue_date: '2025-10-02'
+    last_issue_date: '2025-10-01'
