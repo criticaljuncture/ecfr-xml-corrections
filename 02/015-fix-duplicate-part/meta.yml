@@ -1,0 +1,11 @@
+description: Duplicate 2/300 w/ EXT-XREFs
+tags: content
+status: pending
+issue_number: 2025-10-01
+fr_doc:
+reference: 
+
+patches:
+  '001':
+    first_issue_date: '2025-10-01'
+    last_issue_date: '2025-10-02'

@@ -1,0 +1,29 @@
+--- data/titles/preprocessed/xml/02/2025/10/2025-10-01_d11e7527.xml	2025-11-17 20:59:13.308596592 -0600
++++ tmp/title_version_2_2025-10-01_d11e7527_preprocessed.xml	2025-11-17 21:03:23.373442755 -0600
+@@ -13792,26 +13792,6 @@
+ <HED>Authority:</HED><PSPACE>5 U.S.C. 301, 2 CFR part 200.
+ </PSPACE></AUTH>
+ <SOURCE>
+-<HED>Source:</HED><PSPACE>79 FR 75889, Dec. 19, 2014, unless otherwise noted.
+-
+-
+-
+-
+-
+-
+-
+-
+-</PSPACE></SOURCE>
+-</DIV5>
+-
+-
+-<DIV5 N="300" TYPE="PART">
+-<HEAD>PART 300—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS
+-</HEAD>
+-<AUTH>
+-<HED>Authority:</HED><PSPACE>5 U.S.C. 301, 2 CFR part 200.
+-</PSPACE></AUTH>
+-<SOURCE>
+ <HED>Source:</HED><PSPACE>89 FR 80061, Oct. 2, 2024, unless otherwise noted.
+ 
+ 
