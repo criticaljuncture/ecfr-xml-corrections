@@ -1,0 +1,11 @@
+description: Volume 7 of Title 7 was missing a SECTION tag
+tags: structural
+status: approved
+issue_number: 2025-11-21
+fr_doc: 90 FR 99999
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116958822/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-11-21'
+    last_issue_date: '2025-11-21'
