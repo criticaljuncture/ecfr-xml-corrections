@@ -1,0 +1,28 @@
+--- data/titles/preprocessed/xml/37/2025/12/2025-12-19_ed2145d4.xml	2025-12-22 19:07:49.775115168 -0500
++++ tmp/title_version_37_2025-12-19_ed2145d4_preprocessed.xml	2025-12-22 19:09:33.309618497 -0500
+@@ -37901,6 +37901,7 @@
+ 
+ <DIV8 N="§ 201.3" TYPE="SECTION">
+ <HEAD>§ 201.3   Fees for registration, recordation, and related services, special services, and services performed by the Licensing Section and the Copyright Claims Board.</HEAD>
++<XREF ID="20251219" REFID="12">>Link to an amendment published at 90 FR 59388, Dec. 19, 2025.</XREF>
+ <P>(a) <I>General.</I> This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Section.
+ </P>
+ <P>(b) <I>Definitions.</I> For purposes of this section, the following definitions apply:
+@@ -41907,6 +41908,8 @@
+ 
+ <DIV8 N="§ 202.4" TYPE="SECTION">
+ <HEAD>§ 202.4   Group registration.</HEAD>
++<XREF ID="20251219" REFID="13">>Link to an amendment published at 90 FR 59389, Dec. 19, 2025.</XREF>
++
+ <P>(a) <I>General.</I> This section prescribes conditions for issuing a registration for a group of related works under section 408(c) of title 17 of the United States Code.
+ </P>
+ <P>(b) <I>Definitions.</I> (1) For purposes of this section, unless otherwise specified, the terms used have the meanings set forth in §§ 202.3, 202.13, and 202.20.
+@@ -42203,6 +42206,8 @@
+ 
+ <DIV8 N="§ 202.6" TYPE="SECTION">
+ <HEAD>§ 202.6   Supplementary registration.</HEAD>
++<XREF ID="20251219" REFID="14">Link to an amendment published at 90 FR 59389, Dec. 19, 2025.</XREF>
++
+ <P>(a) <I>General.</I> This section prescribes conditions relating to the filing of an application for supplementary registration under section 408(d) of title 17 of the United States Code to correct an error in a copyright registration or to amplify the information given in a registration. No correction or amplification of the information in a basic registration will be made except pursuant to the provisions of this section. As an exception, where it is discovered that a basic registration contains an error caused by the Copyright Office's own action, the Office will take appropriate measures to rectify its mistake.
+ </P>
+ <P>(b) <I>Definitions.</I> (1) A <I>basic registration</I> means any of the following:
