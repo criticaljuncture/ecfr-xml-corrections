@@ -1,0 +1,11 @@
+description: Sections of subparts VV to ZZ of part 98 were not correctly nested.
+tags: structural
+status: needs-review
+issue_number: 2025-01-01
+fr_doc: 89 89 FR 31948
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116991532/comments
+
+patches:
+  '001':
+    first_issue_date: '2025-01-01'
+    last_issue_date: '2025-12-22'

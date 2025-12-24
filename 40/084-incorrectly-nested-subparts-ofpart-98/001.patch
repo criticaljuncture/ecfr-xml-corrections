@@ -1,0 +1,83 @@
+--- data/titles/preprocessed/xml/40/2025/01/2025-01-01_74b266a2.xml	2025-12-24 15:52:13.485110426 -0500
++++ tmp/title_version_40_2025-01-01_74b266a2_preprocessed.xml	2025-12-24 15:56:25.534430322 -0500
+@@ -1417530,7 +1417530,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+ 
+ 
+ 
+@@ -1417793,6 +1417792,7 @@
+ 
+ </P>
+ </DIV8>
++</DIV6>
+ 
+ 
+ <DIV6 N="WW" TYPE="SUBPART">
+@@ -1417803,7 +1417803,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+ 
+ 
+ 
+@@ -1418019,6 +1418018,7 @@
+ 
+ </P>
+ </DIV8>
++</DIV6>
+ 
+ 
+ <DIV6 N="XX" TYPE="SUBPART">
+@@ -1418029,7 +1418029,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+ 
+ 
+ 
+@@ -1418273,6 +1418272,7 @@
+ 
+ </P>
+ </DIV8>
++</DIV6>
+ 
+ 
+ <DIV6 N="YY" TYPE="SUBPART">
+@@ -1418283,8 +1418283,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+-
+ 
+ 
+ <DIV8 N="§ 98.510" TYPE="SECTION">
+@@ -1418539,6 +1418537,7 @@
+ <TFOOT><TR><TD colspan="2"><sup>a</sup> Generation factors in units of kilograms of N<sub>2</sub> O emitted per metric ton of product produced.</TD></TR></TFOOT></TABLE>
+ </DIV></DIV>
+ </DIV8>
++</DIV6>
+ 
+ 
+ <DIV6 N="ZZ" TYPE="SUBPART">
+@@ -1418549,7 +1418548,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+ 
+ 
+ 
+@@ -1418863,6 +1418861,7 @@
+ </TD></TR><TR><TD colspan="3"><sup>b</sup> Ankerite emission factors are based on a formula weight range that assumes Fe, Mg, and Mn are present in amounts of at least 1.0 percent.</TD></TR></TFOOT></TABLE>
+ </DIV></DIV>
+ </DIV8>
++</DIV6>
+ 
+ </DIV5>
+ 
