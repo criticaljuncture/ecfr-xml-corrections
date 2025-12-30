@@ -1,5 +1,5 @@
---- data/titles/preprocessed/xml/40/2025/01/2025-01-01_74b266a2.xml	2025-12-24 15:52:13.485110426 -0500
-+++ tmp/title_version_40_2025-01-01_74b266a2_preprocessed.xml	2025-12-24 15:56:25.534430322 -0500
+--- data/titles/preprocessed/xml/40/2025/01/2025-01-01_74b266a2.xml	2025-12-30 07:38:54.659731684 -0500
++++ tmp/title_version_40_2025-01-01_74b266a2_preprocessed.xml	2025-12-30 07:43:37.851063918 -0500
 @@ -1417530,7 +1417530,6 @@
  
  
@@ -48,24 +48,41 @@
  
  
  <DIV6 N="YY" TYPE="SUBPART">
-@@ -1418283,8 +1418283,6 @@
+@@ -1418283,7 +1418283,6 @@
  
  
  </PSPACE></SOURCE>
 -</DIV6>
--
  
  
- <DIV8 N="§ 98.510" TYPE="SECTION">
-@@ -1418539,6 +1418537,7 @@
+ 
+@@ -1418510,6 +1418509,15 @@
+ <HEAD>§ 98.518   Definitions.</HEAD>
+ <P>All terms used in this subpart have the same meaning given in the Clean Air Act and subpart A of this part.
+ </P>
++</DIV8>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 1 to Subpart YY of Part 98—N<E T="52">2</E>O Generation Factors
++
++
++
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+ <CAPTION><P class="title">Table 1 to Subpart YY of Part 98—N<sub>2</sub> O Generation Factors</P></CAPTION>
+@@ -1418538,7 +1418546,8 @@
+ </TBODY>
  <TFOOT><TR><TD colspan="2"><sup>a</sup> Generation factors in units of kilograms of N<sub>2</sub> O emitted per metric ton of product produced.</TD></TR></TFOOT></TABLE>
  </DIV></DIV>
- </DIV8>
+-</DIV8>
++</DIV9>
 +</DIV6>
  
  
  <DIV6 N="ZZ" TYPE="SUBPART">
-@@ -1418549,7 +1418548,6 @@
+@@ -1418549,7 +1418558,6 @@
  
  
  </PSPACE></SOURCE>
@@ -73,10 +90,29 @@
  
  
  
-@@ -1418863,6 +1418861,7 @@
+@@ -1418790,6 +1418798,15 @@
+ <HEAD>§ 98.528   Definitions.</HEAD>
+ <P>All terms used of this subpart have the same meaning given in the Clean Air Act and subpart A of this part.
+ </P>
++</DIV8>
++
++
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 1 to Subpart ZZ of Part 98—CO<E T="52">2</E> Emission Factors for Carbonate-Based Raw Materials
++
++
++
++</HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+ <CAPTION><P class="title">Table 1 to Subpart ZZ of Part 98—CO<sub>2</sub> Emission Factors for Carbonate-Based Raw Materials</P></CAPTION>
+@@ -1418862,7 +1418879,9 @@
+ <TFOOT><TR><TD colspan="3"><sup>a</sup> Emission factors are in units of metric tons of CO<sub>2</sub> emitted per metric ton of carbonate-based material.
  </TD></TR><TR><TD colspan="3"><sup>b</sup> Ankerite emission factors are based on a formula weight range that assumes Fe, Mg, and Mn are present in amounts of at least 1.0 percent.</TD></TR></TFOOT></TABLE>
  </DIV></DIV>
- </DIV8>
+-</DIV8>
++</DIV9>
++
 +</DIV6>
  
  </DIV5>
