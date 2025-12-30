@@ -1,0 +1,11 @@
+description: Fix 47v2 XREF in SUBJECT content
+tags: content
+status: approved
+issue_number: 2025-12-12
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/116995559/comments#443481892
+
+patches:
+  '001':
+    first_issue_date: '2025-12-12'
+    last_issue_date: '2025-12-23'

@@ -1,0 +1,13 @@
+--- data/titles/preprocessed/xml/47/2025/12/2025-12-12_31fd7503.xml	2025-12-30 12:39:14.832861693 -0600
++++ tmp/title_version_47_2025-12-12_31fd7503_preprocessed.xml	2025-12-30 12:39:58.325179270 -0600
+@@ -67576,8 +67576,8 @@
+ 
+ 
+ <DIV8 N="§ 24.321" TYPE="SECTION">
+-<HEAD>§ 24.321   Designated entities</HEAD>
+-<XREF ID="20251212" REFID="55">Link to an amendment published at 90 FR 57705, Dec. 12, 2025.</XREF>.
++<HEAD>§ 24.321   Designated entities.</HEAD>
++<XREF ID="20251212" REFID="55">Link to an amendment published at 90 FR 57705, Dec. 12, 2025.</XREF>
+ <P>(a) <I>Eligibility for small business provisions.</I> (1) A small business is an entity that, together with its controlling interests and affiliates, has average gross revenues not exceeding $ 40 million for the preceding three years.
+ </P>
+ <P>(2) A very small business is an entity that, together with its controlling interests and affiliates, has average gross revenues not exceeding $ 15 million for the preceding three years.
