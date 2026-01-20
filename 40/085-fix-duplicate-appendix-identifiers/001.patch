@@ -1,0 +1,22 @@
+--- data/titles/preprocessed/xml/40/2026/01/2026-01-15_9906704f.xml	2026-01-20 07:10:15.398243440 -0800
++++ tmp/title_version_40_2026-01-15_9906704f_preprocessed.xml	2026-01-20 08:24:40.371211990 -0800
+@@ -484605,7 +484605,7 @@
+ 
+ 
+ <DIV9 N="" TYPE="APPENDIX">
+-<HEAD>Table 1 to Subpart KKKK<E T="01">a</E> of Part 60—Alternative Mass-Based NO<E T="0732">X</E> Emission Standards for Stationary Combustion Turbines
++<HEAD>Table 2 to Subpart KKKK<E T="01">a</E> of Part 60—Alternative Mass-Based NO<E T="0732">X</E> Emission Standards for Stationary Combustion Turbines
+ 
+ 
+ </HEAD>
+@@ -484637,8 +484637,8 @@
+ </DIV9>
+ 
+ 
+-<DIV9 N="Applicability of Subpart A of This Part" TYPE="APPENDIX">
+-<HEAD>Applicability of Subpart A of This Part to This Subpart
++<DIV9 N="" TYPE="APPENDIX">
++<HEAD>Table 3 to Subpart KKKK<E T='01'>a</E> of Part 60—Applicability of Subpart A of This Part to This Subpart
+ </HEAD>
+ <DIV width="100%"><DIV class="gpotbl_div">
+ <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">

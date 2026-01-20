@@ -1,0 +1,10 @@
+description: Multiple tables were specified as Table 1
+tags: structural
+status: approved
+issue_number: 2026-01-15
+fr_doc: 90 FR 99999
+reference:
+patches:
+  '001':
+    first_issue_date: '2026-01-15'
+    last_issue_date: '2026-01-15'
