@@ -1,0 +1,11 @@
+description: The amddate for v3 was changed absent any other changes
+tags: amddate
+status: needs-review
+issue_number: 2026-02-10
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117069811/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-02-10'
+    last_issue_date: '2026-02-10'
