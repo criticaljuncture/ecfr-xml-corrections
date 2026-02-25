@@ -1,0 +1,33 @@
+--- data/titles/preprocessed/xml/07/2026/02/2026-02-23_ea5fb7b0.xml	2026-02-24 15:19:54.843771370 -0800
++++ tmp/title_version_7_2026-02-23_ea5fb7b0_preprocessed.xml	2026-02-24 15:48:22.266378505 -0800
+@@ -388948,30 +388948,6 @@
+ 
+ <DIV5 N="1414" TYPE="PART">
+ <HEAD>PART 1414—BRIDGE ASSISTANCE
+-</HEAD>
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B—[Reserved]</HEAD>
+-
+-<AUTH>
+-<HED>Authority:</HED><PSPACE>15 U.S.C. 714, <I>et seq.</I>
+-
+-
+-</PSPACE></AUTH>
+-<SOURCE>
+-<HED>Source:</HED><PSPACE>91 FR 8365, Feb. 23, 2026, unless otherwise noted.
+-
+-
+-
+-
+-</PSPACE></SOURCE>
+-</DIV6>
+-
+-</DIV5>
+-
+-
+-<DIV5 N="1414" TYPE="PART">
+-<HEAD>PART 1414—BRIDGE ASSISTANCE
+ 
+ 
+ 
