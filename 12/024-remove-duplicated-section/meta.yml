@@ -1,0 +1,11 @@
+description: A removed and replaced section was mishandled and ended up duplicated.
+tags: structural
+status: approved
+issue_number: 2026-02-27
+fr_doc: 90 FR 60557
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117103504/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-02-27'
+    last_issue_date: '2026-02-27'
