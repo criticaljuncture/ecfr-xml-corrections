@@ -1,0 +1,54 @@
+--- data/titles/preprocessed/xml/17/2026/03/2026-03-03_3cca45e2.xml	2026-03-04 16:36:20.611489516 -0800
++++ tmp/title_version_17_2026-03-03_3cca45e2_preprocessed.xml	2026-03-04 16:36:50.650302961 -0800
+@@ -113137,8 +113137,6 @@
+ <HD1>ATTENTION ELECTRONIC FILERS 
+ </HD1>
+ <FP>THIS REGULATION SHOULD BE READ IN CONJUNCTION WITH REGULATION S-T (PART 232 OF THIS CHAPTER), WHICH GOVERNS THE PREPARATION AND SUBMISSION OF DOCUMENTS IN ELECTRONIC FORMAT. MANY PROVISIONS RELATING TO THE PREPARATION AND SUBMISSION OF DOCUMENTS IN PAPER FORMAT CONTAINED IN THIS REGULATION ARE SUPERSEDED BY THE PROVISIONS OF REGULATION S-T FOR DOCUMENTS REQUIRED TO BE FILED IN ELECTRONIC FORMAT.</FP></EXTRACT>
+-</DIV7>
+-
+ 
+ <DIV7 N="77" TYPE="SUBJGRP">
+ <HEAD>General</HEAD>
+@@ -113795,6 +113793,7 @@
+ 
+ </DIV7>
+ 
++</DIV7>
+ 
+ <DIV7 N="82" TYPE="SUBJGRP">
+ <HEAD>Certification by Exchanges and Effectiveness of Registration</HEAD>
+@@ -114707,8 +114706,6 @@
+ <DIV7 N="86" TYPE="SUBJGRP">
+ <HEAD>Regulation 13A: Reports of Issuers of Securities Registered Pursuant to Section 12</HEAD>
+ 
+-</DIV7>
+-
+ 
+ <DIV7 N="87" TYPE="SUBJGRP">
+ <HEAD>Annual Reports</HEAD>
+@@ -118379,6 +118376,8 @@
+ 
+ </DIV7>
+ 
++</DIV7>
++
+ 
+ <DIV7 N="91" TYPE="SUBJGRP">
+ <HEAD>Regulation 14A: Solicitation of Proxies</HEAD>
+@@ -128651,8 +128650,6 @@
+ <DIV7 N="100" TYPE="SUBJGRP">
+ <HEAD>Regulation 15D: Reports of Registrants Under the Securities Act of 1933</HEAD>
+ 
+-</DIV7>
+-
+ 
+ <DIV7 N="101" TYPE="SUBJGRP">
+ <HEAD>Annual Reports</HEAD>
+@@ -129119,6 +129116,7 @@
+ </CITA>
+ </DIV8>
+ 
++</DIV7>
+ 
+ <DIV8 N="§ 240.15g-1" TYPE="SECTION">
+ <HEAD>§ 240.15g-1   Exemptions for certain transactions.</HEAD>

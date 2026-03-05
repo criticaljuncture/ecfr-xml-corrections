@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/17/2026/03/2026-03-03_3cca45e2.xml	2026-03-04 16:12:59.888747749 -0800
++++ tmp/title_version_17_2026-03-03_3cca45e2_preprocessed.xml	2026-03-04 16:20:12.078089786 -0800
+@@ -123586,8 +123586,6 @@
+ <DIV7 N="94" TYPE="SUBJGRP">
+ <HEAD>Regulation 14E</HEAD>
+ 
+-</DIV7>
+-
+ <NOTE>
+ <HED>Note:</HED>
+ <P>For the scope of and definitions applicable to Regulation 14E, refer to § 240.14d-1.</P></NOTE>
+@@ -123974,6 +123972,8 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
++
+ 
+ 
+ <DIV8 N="§ 240.14f-1" TYPE="SECTION">
