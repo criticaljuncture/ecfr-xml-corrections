@@ -1,0 +1,30 @@
+--- data/titles/preprocessed/xml/31/2022/12/2022-12-21_a36b4bfc.xml	2026-03-09 17:07:14.700567397 -0700
++++ tmp/title_version_31_2022-12-21_a36b4bfc_preprocessed.xml	2026-03-09 17:09:32.809470495 -0700
+@@ -97857,6 +97857,7 @@
+ 
+ </P>
+ </DIV8>
++</DIV6>
+ 
+ 
+ <DIV9 N="Appendix A" TYPE="APPENDIX">
+@@ -97998,6 +97999,8 @@
+ </FP>
+ </DIV9>
+ 
++</DIV5>
++
+ 
+ <DIV9 N="Appendix A" TYPE="APPENDIX">
+ <HEAD>Appendix A to Chapter V - Information Pertaining to the Specially Designated Nationals and Blocked Persons List 
+@@ -98032,10 +98035,6 @@
+ </CITA>
+ </DIV9>
+ 
+-</DIV6>
+-
+-</DIV5>
+-
+ </DIV3>
+ 
+ 
