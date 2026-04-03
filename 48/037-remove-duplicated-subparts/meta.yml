@@ -1,0 +1,11 @@
+description: Remove stray subparts 1326.2 and 1326.5 from part 1326 .
+tags: structural
+status: approved
+issue_number: 2026-04-02
+fr_doc: 91FR16580
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117166570/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-04-02'
+    last_issue_date: '2026-04-02'

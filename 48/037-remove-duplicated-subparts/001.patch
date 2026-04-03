@@ -1,0 +1,34 @@
+--- data/titles/preprocessed/xml/48/2026/04/2026-04-02_527f0d99.xml	2026-04-03 14:47:26.276852694 -0700
++++ tmp/title_version_48_2026-04-02_527f0d99_preprocessed.xml	2026-04-03 15:00:36.505604495 -0700
+@@ -231072,23 +231072,6 @@
+ 
+ </HEAD>
+ 
+-<DIV6 N="1326.2" TYPE="SUBPART">
+-<HEAD>Subpart 1326.2—Disaster or Emergency Assistance Activities</HEAD>
+-
+-<SECHD>Sec.
+-</SECHD>
+-<SECTNO>1326.203</SECTNO>
+-<SUBJECT>Transition of work.
+-</SUBJECT>
+-</DIV6>
+-
+-
+-<DIV6 N="1326.5" TYPE="SUBPART">
+-<HEAD>Subpart 1326.5—Drug-Free Workplace</HEAD>
+-
+-<SECTNO>1326.5</SECTNO>
+-<SUBJECT>Suspension of payments, termination of contract and debarment and suspension actions.
+-</SUBJECT>
+ <AUTH>
+ <HED>Authority:</HED><PSPACE>41 U.S.C. 414; 48 CFR 1.301-1.304.
+ </PSPACE></AUTH>
+@@ -231097,7 +231080,6 @@
+ 
+ 
+ </PSPACE></SOURCE>
+-</DIV6>
+ 
+ 
+ <DIV6 N="1326.2" TYPE="SUBPART">
