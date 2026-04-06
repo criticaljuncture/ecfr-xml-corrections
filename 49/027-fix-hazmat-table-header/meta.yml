@@ -1,0 +1,11 @@
+description: Fix table header for t49 hazmat table
+tags: structural
+status: approved
+issue_number: 2017-01-01
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/C444328103
+
+patches:
+  '001':
+    first_issue_date: ' 2017-01-01'
+    last_issue_date: '2100-01-01'
