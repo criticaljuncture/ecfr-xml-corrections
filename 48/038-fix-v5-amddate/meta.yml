@@ -1,0 +1,11 @@
+description: Ammdate of v5 was incorrectly incremented
+tags: structural
+status: needs-review
+issue_number: 2026-04-06
+fr_doc: 90 FR 99999
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117166570/comments#444328930
+
+patches:
+  '001':
+    first_issue_date: '2026-04-06'
+    last_issue_date: '2026-04-06'
