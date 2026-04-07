@@ -1,0 +1,45 @@
+--- data/titles/preprocessed/xml/49/2024/06/2024-06-03_52fa4b9e.xml	2026-04-06 18:10:27.986725484 -0700
++++ tmp/title_version_49_2024-06-03_52fa4b9e_preprocessed.xml	2026-04-06 18:17:46.446002041 -0700
+@@ -44345,25 +44345,25 @@
+ <TH class="center border-bottom-single border-right-single">Passenger aircraft/rail</TH>
+ <TH class="center border-bottom-single border-right-single">Cargo aircraft only</TH>
+ </TR>
+-</THEAD>
+-<TBODY>
+ <TR>
+-<TD class="center border-bottom-single border-right-single">(1)</TD>
+-<TD class="left border-bottom-single border-right-single">(2)</TD>
+-<TD class="right border-bottom-single border-right-single">(3)</TD>
+-<TD class="left border-bottom-single border-right-single">(4)</TD>
+-<TD class="center border-bottom-single border-right-single">(5)</TD>
+-<TD class="left border-bottom-single border-right-single">(6)</TD>
+-<TD class="right border-bottom-single border-right-single">(7)</TD>
+-<TD class="left border-bottom-single border-right-single">(8A)</TD>
+-<TD class="left border-bottom-single border-right-single">(8B)</TD>
+-<TD class="left border-bottom-single border-right-single">(8C)</TD>
+-<TD class="right border-bottom-single border-right-single">(9A)</TD>
+-<TD class="right border-bottom-single border-right-single">(9B)</TD>
+-<TD class="left border-bottom-single border-right-single">(10A)</TD>
+-<TD class="right border-bottom-single">(10B)
+-</TD>
++<TH class="center border-bottom-single border-right-single">(1)</TH>
++<TH class="left border-bottom-single border-right-single">(2)</TH>
++<TH class="right border-bottom-single border-right-single">(3)</TH>
++<TH class="left border-bottom-single border-right-single">(4)</TH>
++<TH class="center border-bottom-single border-right-single">(5)</TH>
++<TH class="left border-bottom-single border-right-single">(6)</TH>
++<TH class="right border-bottom-single border-right-single">(7)</TH>
++<TH class="left border-bottom-single border-right-single">(8A)</TH>
++<TH class="left border-bottom-single border-right-single">(8B)</TH>
++<TH class="left border-bottom-single border-right-single">(8C)</TH>
++<TH class="right border-bottom-single border-right-single">(9A)</TH>
++<TH class="right border-bottom-single border-right-single">(9B)</TH>
++<TH class="left border-bottom-single border-right-single">(10A)</TH>
++<TH class="right border-bottom-single">(10B)
++</TH>
+ </TR>
++</THEAD>
++<TBODY>
+ <TR>
+ <TD class="center border-right-single"> </TD>
+ <TD class="left border-right-single"><E T="03">Accellerene, see</E> p-Nitrosodimethylaniline</TD>
