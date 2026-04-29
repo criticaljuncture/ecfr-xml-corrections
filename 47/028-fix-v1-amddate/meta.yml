@@ -1,0 +1,11 @@
+description: Fix typo in V1 amddate
+tags: amddate
+status: approved
+issue_number: 2026-04-27
+fr_doc: 91FR22437 and 91FR22453
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117209208/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-04-27'
+    last_issue_date: '2026-04-27'
