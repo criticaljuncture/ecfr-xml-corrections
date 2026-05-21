@@ -1,0 +1,11 @@
+description: AMDDATE for v5 was typoed Mar. for May
+tags: amddate
+status: approved
+issue_number: 2026-05-20
+fr_doc: 20260520-15 91FR29864
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117251626/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-05-20'
+    last_issue_date: '2026-05-20'
