@@ -21,3 +21,6 @@ patches:
   '006':
     start_date: '2024-07-01'
     end_date: '2026-05-26'
+  '007':
+    start_date: '2026-05-27'
+    end_date: '2100-01-01'
