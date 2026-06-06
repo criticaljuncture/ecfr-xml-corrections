@@ -1,0 +1,20 @@
+--- data/titles/preprocessed/xml/45/2026/06/2026-06-04_4bf2704f.xml	2026-06-05 17:46:49.263933381 -0700
++++ tmp/title_version_45_2026-06-04_4bf2704f_preprocessed.xml	2026-06-05 17:50:39.854130369 -0700
+@@ -40488,11 +40488,13 @@
+ </CITA>
+ </DIV8>
+ 
+-<SECTNO>§ 149.530
+-</SECTNO>
+-<SUBJECT>xxx
+-</SUBJECT>
++<DIV8 N="§ 149.530" TYPE="SECTION">
++<HEAD>§ 149.530  xxx</HEAD>
++
+ <XREF ID="20260604" REFID="58">Link to an amendment published at 91 FR 34080, June 4, 2026.</XREF>
++
++</DIV8>
++
+ </DIV6>
+ 
+ 

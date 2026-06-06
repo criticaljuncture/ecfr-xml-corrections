@@ -1,0 +1,11 @@
+description: Section 149.530 was marked up as toc
+tags: structural
+status: approved
+issue_number: 2026-06-04
+fr_doc: 91 FR 34080
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117276777/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-06-04'
+    last_issue_date: '2026-06-04'
