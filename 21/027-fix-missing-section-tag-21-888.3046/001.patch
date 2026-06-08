@@ -1,0 +1,23 @@
+--- data/titles/preprocessed/xml/21/2026/06/2026-06-05_7b552173.xml	2026-06-08 16:20:16.382583723 -0500
++++ tmp/title_version_21_2026-06-05_7b552173_preprocessed.xml	2026-06-08 16:37:43.918885203 -0500
+@@ -241178,10 +241178,8 @@
+ </CITA>
+ </DIV8>
+ 
+-<SECTNO>§ 888.3046
+-</SECTNO>
+-<SUBJECT>Resorbable calcium salt bone void filler containing a single approved aminoglycoside antibacterial.
+-</SUBJECT>
++<DIV8 N="§ 888.3046" TYPE="SECTION">
++<HEAD>§ 888.3046   Resorbable calcium salt bone void filler containing a single approved aminoglycoside antibacterial.</HEAD>
+ <P>(a) <I>Identification.</I> A resorbable calcium salt bone void filler containing a single approved aminoglycoside antibacterial is a resorbable implant intended to fill bony defects of the extremities where there is an increased risk of infection. It is intended to resorb over time and be replaced by new bone. The product is intended for reduction of recurrence of chronic osteomyelitis of long bones. It is not intended to treat infection.
+ </P>
+ <P>(b) <I>Classification.</I> Class II (special controls). The special controls for this product are:
+@@ -241290,6 +241288,7 @@
+ 
+ 
+ </CITA>
++</DIV8>
+ 
+ <DIV8 N="§ 888.3050" TYPE="SECTION">
+ <HEAD>§ 888.3050   Spinal interlaminal fixation orthosis.</HEAD>

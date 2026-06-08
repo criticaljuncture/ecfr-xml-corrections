@@ -1,0 +1,11 @@
+description: 21/888.3046 missing section tag
+tags: structural
+status: pending
+issue_number: 2026-06-05
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2026-06-05'
+    last_issue_date: '2026-06-05'
