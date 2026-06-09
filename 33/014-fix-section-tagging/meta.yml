@@ -1,0 +1,11 @@
+description: Section § 165.793 tagging was wrong
+tags: structural
+status: approved
+issue_number: 2026-06-08
+fr_doc: 90 FR 99999
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117282133/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-06-08'
+    last_issue_date: '2026-06-08'

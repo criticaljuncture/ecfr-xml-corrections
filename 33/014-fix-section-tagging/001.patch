@@ -1,0 +1,35 @@
+--- data/titles/preprocessed/xml/33/2026/06/2026-06-08_1f936fba.xml	2026-06-09 15:19:40.502644687 -0700
++++ tmp/title_version_33_2026-06-08_1f936fba_preprocessed.xml	2026-06-09 15:31:12.468885986 -0700
+@@ -107352,10 +107352,9 @@
+ </CITA>
+ </DIV8>
+ 
+-<SECTNO>§ 165.793
+-</SECTNO>
+-<SUBJECT>Safety Zone; West of Cyril E. King Airport, St. Thomas, VI.
+-</SUBJECT>
++<DIV8 N="§ 165.793" TYPE="SECTION">
++<HEAD>§ 165.793   Safety Zone; West of Cyril E. King Airport, St. Thomas, VI.
++</HEAD>
+ <P>(a) <I>Location.</I> The following area is a safety zone: All navigable waters directly west of the end of the airport's runway from the following coordinates located at 18° 20.286′ N, −64° 59.0214′ W; and 18° 20.1156′ N, −64° 59.0238′ W through the two private port authority managed yellow buoys located at 18°20.288′ N −64°59.343′ W; 18°20.116′ N −64°59.343′ W.
+ </P>
+ <P>(b) <I>Definitions.</I> As used in this section, <I>designated representative</I> means a Coast Guard Patrol Commander, including a Coast Guard coxswain, petty officer, or other officer operating a Coast Guard vessel and a Federal, State, and local officer designated by or assisting the Captain of the Port San Juan (COTP) in the enforcement of the safety zone.
+@@ -107372,7 +107371,6 @@
+ 
+ 
+ </P>
+-</DIV7>
+ 
+ <CITA TYPE="N">[USCG-2025-1105, 91 FR 24727, May 7, 2026]
+ 
+@@ -107381,6 +107379,10 @@
+ 
+ </CITA>
+ 
++</DIV8>
++
++</DIV7>
++
+ <DIV7 N="214" TYPE="SUBJGRP">
+ <HEAD>USCG Heartland District</HEAD>
+ 
