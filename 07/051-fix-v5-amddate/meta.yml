@@ -1,0 +1,11 @@
+description: Title 7 volume 5 had non-substantive changes and an incorrect date
+tags: structural
+status: needs-review
+issue_number: 2026-06-15
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117294686/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-06-15'
+    last_issue_date: '2026-06-15'
