@@ -1,0 +1,11 @@
+description: 47v3 reserved part 53
+tags: structural
+status: pending
+issue_number: 2026-06-18
+fr_doc:
+reference: 
+
+patches:
+  '001':
+    first_issue_date: '2026-06-15'
+    last_issue_date: '2026-06-18'
