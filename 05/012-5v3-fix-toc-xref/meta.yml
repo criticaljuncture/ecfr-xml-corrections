@@ -1,0 +1,11 @@
+description: Fix 5v3 Appendix A to Subpart C of Part 843 XREF placed in ToC 
+tags: structural
+status: pending
+issue_number: 2026-06-23
+fr_doc:
+reference: 
+
+patches:
+  '001':
+    first_issue_date: '2026-06-23'
+    last_issue_date: '2026-06-23'

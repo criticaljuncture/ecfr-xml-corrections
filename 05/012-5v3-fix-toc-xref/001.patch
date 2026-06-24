@@ -1,0 +1,11 @@
+--- data/titles/preprocessed/xml/05/2026/06/2026-06-23_45abfba5.xml	2026-06-24 18:45:21.619331699 -0500
++++ tmp/title_version_5_2026-06-23_45abfba5_preprocessed.xml	2026-06-24 18:52:02.273824694 -0500
+@@ -85091,6 +85091,8 @@
+ 
+ 
+ </HEAD>
++<XREF ID="20260623" REFID="1">Link to an amendment published at 91 FR 37309, June 23, 2026.</XREF>
++
+ <P>With at least 10 but less than 20 years of creditable service—
+ </P>
+ <DIV width="100%"><DIV class="gpotbl_div">
