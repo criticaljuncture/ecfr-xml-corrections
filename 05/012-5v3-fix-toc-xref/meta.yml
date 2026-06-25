@@ -1,9 +1,9 @@
 description: Fix 5v3 Appendix A to Subpart C of Part 843 XREF placed in ToC 
 tags: structural
-status: pending
+status: approved
 issue_number: 2026-06-23
 fr_doc:
-reference: 
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117308572/comments
 
 patches:
   '001':
