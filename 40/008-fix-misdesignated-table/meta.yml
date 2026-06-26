@@ -20,7 +20,7 @@ patches:
     end_date: '2024-06-30'
   '006':
     start_date: '2024-07-01'
-    end_date: '2026-05-26'
+    end_date: '2026-05-27'
   '007':
-    start_date: '2026-05-27'
+    start_date: '2026-05-28'
     end_date: '2100-01-01'
