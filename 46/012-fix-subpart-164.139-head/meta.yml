@@ -1,0 +1,11 @@
+description: Subpart 164.139 is improperly laid out
+tags: structural
+status: needs-review
+issue_number: 2016-12-22
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117331457/comments
+
+patches:
+  '001':
+    first_issue_date: '2016-12-22'
+    last_issue_date: '2100-01-01'
