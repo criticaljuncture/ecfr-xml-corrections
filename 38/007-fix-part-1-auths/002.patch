@@ -1,0 +1,38 @@
+--- data/titles/preprocessed/xml/38/2026/07/2026-07-13_9019ff89.xml	2026-07-29 17:02:25
++++ tmp/title_version_38_2026-07-13_9019ff89_preprocessed.xml	2026-07-29 17:03:41
+@@ -1147,8 +1147,6 @@
+ 
+ <DIV7 N="8" TYPE="SUBJGRP">
+ <HEAD>Release of Information From Department of Veterans Affairs (VA) Records Relating to Drug Abuse, Alcoholism or Alcohol Abuse, Infection With the Human Immunodeficiency Virus (HIV), or Sickle Cell Anemia</HEAD>
+-
+-</DIV7>
+ 
+ <NOTE>
+ <HED>Note:</HED>
+@@ -1413,7 +1411,7 @@
+ <DIV8 N="§§ 1.470-1.474" TYPE="SECTION">
+ <HEAD>§§ 1.470-1.474   [Reserved]</HEAD>
+ </DIV8>
+-
++</DIV7>
+ 
+ <DIV7 N="9" TYPE="SUBJGRP">
+ <HEAD>Disclosures With Patient's Consent</HEAD>
+@@ -1939,8 +1937,6 @@
+ 
+ <DIV7 N="12" TYPE="SUBJGRP">
+ <HEAD>Release of Information From Department of Veterans Affairs Claimant Records</HEAD>
+-
+-</DIV7>
+ 
+ <NOTE>
+ <HED>Note:</HED>
+@@ -2560,7 +2556,7 @@
+ 
+ </CITA>
+ </DIV8>
+-
++</DIV7>
+ 
+ <DIV7 N="13" TYPE="SUBJGRP">
+ <HEAD>Procedures for Disclosure of Records Under the Freedom of Information Act</HEAD>
