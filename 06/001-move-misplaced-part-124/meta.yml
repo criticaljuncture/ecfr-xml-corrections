@@ -1,0 +1,11 @@
+description: Part 124 was improperly placed
+tags: structural
+status: approved
+issue_number: 2026-07-06
+fr_doc: 91 FR 41481
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117368172/comments#445384226
+
+patches:
+  '001':
+    first_issue_date: '2026-07-06'
+    last_issue_date: '2026-07-06'
