@@ -1,12 +1,12 @@
---- data/titles/preprocessed/xml/41/2026/07/2026-07-30_467fbad4.xml	2026-08-04 09:56:01
-+++ tmp/title_version_41_2026-07-30_467fbad4_preprocessed.xml	2026-08-04 09:56:33
+--- data/titles/preprocessed/xml/41/2026/07/2026-07-30_467fbad4.xml	2026-08-04 10:14:53
++++ tmp/title_version_41_2026-07-30_467fbad4_preprocessed.xml	2026-08-04 10:15:13
 @@ -32698,8 +32698,8 @@
  </DIV8>
  
  
 -<DIV8 N="§ 105.9-126" TYPE="SECTION">
 -<HEAD>§ 105.9-126   Alternate funds disbursal.</HEAD>
-+<DIV8 N="§ 105-91.26" TYPE="SECTION">
++<DIV8 N="§ 105-9.126" TYPE="SECTION">
 +<HEAD>§ 105-9.126   Alternate funds disbursal.</HEAD>
  <P>If GSA withholds Federal financial assistance from a recipient under this part, the Administrator may disburse the assistance to an alternate recipient; any public or nonprofit private organization; or agency or State or political subdivision of the State. The Administrator requires any alternate recipient to demonstrate:
  </P>
