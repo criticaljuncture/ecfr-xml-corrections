@@ -1,0 +1,11 @@
+description: Subpart is duplicated
+tags: structural
+status: approved
+issue_number: 2026-08-17
+fr_doc: 91 FR 36760
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117401823/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-08-17'
+    last_issue_date: '2026-08-17'
