@@ -1,0 +1,256 @@
+--- data/titles/preprocessed/xml/16/2026/08/2026-08-17_63286592(2).xml	2026-08-19 12:21:22.583166337 -0500
++++ tmp/title_version_16_2026-08-17_63286592_preprocessed.xml	2026-08-19 12:31:43.791765575 -0500
+@@ -27743,253 +27743,9 @@
+ 
+ 
+ 
+-</P>
+-</DIV8>
+ 
+-</DIV5>
+ 
+ 
+-<DIV5 N="463" TYPE="PART">
+-<HEAD>PART 463—COMBATING AUTO RETAIL SCAMS TRADE REGULATION RULE
+-</HEAD>
+-<AUTH>
+-<HED>Authority:</HED><PSPACE>15 U.S.C. 41 <I>et seq.;</I> 12 U.S.C. 5519.
+-
+-
+-</PSPACE></AUTH>
+-
+-<DIV8 N="§ 463.1" TYPE="SECTION">
+-<HEAD>§ 463.1   Authority.</HEAD>
+-<P>This part is promulgated pursuant to section 1029 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, 12 U.S.C. 5519(d). It is an unfair or deceptive act or practice within the meaning of section 5(a)(1) of the Federal Trade Commission Act (15 U.S.C. 45(a)(1)) to violate any applicable provision of this part, directly or indirectly, including the recordkeeping requirements which are necessary to prevent such unfair or deceptive acts or practices and to enforce this part.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.2" TYPE="SECTION">
+-<HEAD>§ 463.2   Definitions.</HEAD>
+-<P>(a) “Add-on” or “Add-on product(s) or Service(s)” means any product(s) or service(s) not provided to the consumer or installed on the Vehicle by the Vehicle manufacturer and for which the Dealer, directly or indirectly, charges a consumer in connection with a Vehicle sale, lease, or financing transaction.
+-</P>
+-<P>(b)-(c) [Reserved]
+-</P>
+-<P>(d) “Clear(ly) and Conspicuous(ly)” means in a manner that is difficult to miss (<I>i.e.,</I> easily noticeable) and easily understandable, including in all of the following ways:
+-</P>
+-<P>(1) In any communication that is solely visual or solely audible, the disclosure must be made through the same means through which the communication is presented. In any communication made through both visual and audible means, such as a television advertisement, the disclosure must be presented simultaneously in both the visual and audible portions of the communication even if the representation requiring the disclosure is made in only one means.
+-</P>
+-<P>(2) A visual disclosure, by its size, contrast, location, the length of time it appears, and other characteristics, must stand out from any accompanying text or other visual elements so that it is easily noticed, read, and understood.
+-</P>
+-<P>(3) An audible disclosure, including by telephone or streaming video, must be delivered in a volume, speed, and cadence sufficient for ordinary consumers to easily hear and understand it.
+-</P>
+-<P>(4) In any communication using an interactive electronic medium, such as the internet or software, the disclosure must be unavoidable.
+-</P>
+-<P>(5) The disclosure must use diction and syntax understandable to ordinary consumers and must appear in each language in which the representation that requires the disclosure appears.
+-</P>
+-<P>(6) The disclosure must comply with these requirements in each medium through which it is received.
+-</P>
+-<P>(7) The disclosure must not be contradicted or mitigated by, or inconsistent with, anything else in the communication.
+-</P>
+-<P>(e) “Covered Motor Vehicle” or “Vehicle” means any self-propelled vehicle designed for transporting persons or property on a public street, highway, or road. For purposes of this part, the term Covered Motor Vehicle does not include the following:
+-</P>
+-<P>(1) Recreational boats and marine equipment;
+-</P>
+-<P>(2) Motorcycles, scooters, and electric bicycles;
+-</P>
+-<P>(3) Motor homes, recreational vehicle trailers, and slide-in campers; or
+-</P>
+-<P>(4) Golf carts.
+-</P>
+-<P>(f) “Covered Motor Vehicle Dealer” or “Dealer” means any person, including any individual or entity, or resident in the United States, or any territory of the United States, that:
+-</P>
+-<P>(1) Is licensed by a State, a territory of the United States, or the District of Columbia to engage in the sale of Covered Motor Vehicles;
+-</P>
+-<P>(2) Takes title to, holds an ownership interest in, or takes physical custody of Covered Motor Vehicles; and
+-</P>
+-<P>(3) Is predominantly engaged in the sale and servicing of Covered Motor Vehicles, the leasing and servicing of Covered Motor Vehicles, or both.
+-</P>
+-<P>(g) “Express, Informed Consent” means an affirmative act communicating unambiguous assent to be charged, made after receiving and in close proximity to a Clear and Conspicuous disclosure, in writing, and also orally for in-person transactions, of the following:
+-</P>
+-<P>(1) What the charge is for; and
+-</P>
+-<P>(2) The amount of the charge, including, if the charge is for a product or service, all fees and costs to be charged to the consumer over the period of repayment with and without the product or service. The following are examples of what does not constitute Express, Informed Consent:
+-</P>
+-<P>(i) A signed or initialed document, by itself;
+-</P>
+-<P>(ii) Prechecked boxes; or
+-</P>
+-<P>(iii) An agreement obtained through any practice designed or manipulated with the substantial effect of subverting or impairing user autonomy, decision-making, or choice.
+-</P>
+-<P>(h) “GAP Agreement” means an agreement to indemnify a Vehicle purchaser or lessee for any of the difference between the actual cash value of the Vehicle in the event of an unrecovered theft or total loss and the amount owed on the Vehicle pursuant to the terms of a loan, lease agreement, or installment sales contract used to purchase or lease the Vehicle, or to waive the unpaid difference between money received from the purchaser's or lessee's Vehicle insurer and some or all of the amount owed on the Vehicle at the time of the unrecovered theft or total loss, including products or services otherwise titled “Guaranteed Automobile Protection Agreement,” “Guaranteed Asset Protection Agreement,” “GAP insurance,” or “GAP Waiver.”
+-</P>
+-<P>(i) “Government Charges” means all fees or charges imposed by a Federal, State, or local government agency, unit, or department, including taxes, license and registration costs, inspection or certification costs, and any other such fees or charges.
+-</P>
+-<P>(j) “Material” or “Materially” means likely to affect a person's choice of, or conduct regarding, goods or services.
+-</P>
+-<P>(k) “Offering Price” means the full cash price for which a Dealer will sell or finance the Vehicle to any consumer, provided that the Dealer may exclude only required Government Charges.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.3" TYPE="SECTION">
+-<HEAD>§ 463.3   Prohibited misrepresentations.</HEAD>
+-<P>It is a violation of this part and an unfair or deceptive act or practice in violation of section 5 of the Federal Trade Commission Act for any Covered Motor Vehicle Dealer to make any misrepresentation, expressly or by implication, regarding Material information about the following:
+-</P>
+-<P>(a) The costs or terms of purchasing, financing, or leasing a Vehicle.
+-</P>
+-<P>(b) Any costs, limitation, benefit, or any other aspect of an Add-on Product or Service.
+-</P>
+-<P>(c) Whether the terms are, or transaction is, for financing or a lease.
+-</P>
+-<P>(d) The availability of any rebates or discounts that are factored into the advertised price but not available to all consumers.
+-</P>
+-<P>(e) The availability of Vehicles at an advertised price.
+-</P>
+-<P>(f) Whether any consumer has been or will be preapproved or guaranteed for any product, service, or term.
+-</P>
+-<P>(g) Any information on or about a consumer's application for financing.
+-</P>
+-<P>(h) When the transaction is final or binding on all parties.
+-</P>
+-<P>(i) Keeping cash down payments or trade-in Vehicles, charging fees, or initiating legal process or any action if a transaction is not finalized or if the consumer does not wish to engage in a transaction.
+-</P>
+-<P>(j) Whether or when a Dealer will pay off some or all of the financing or lease on a consumer's trade-in Vehicle.
+-</P>
+-<P>(k) Whether consumer reviews or ratings are unbiased, independent, or ordinary consumer reviews or ratings of the Dealer or the Dealer's products or services.
+-</P>
+-<P>(l) Whether the Dealer or any of the Dealer's personnel or products or services is or was affiliated with, endorsed or approved by, or otherwise associated with the United States government or any Federal, State, or local government agency, unit, or department, including the United States Department of Defense or its Military Departments.
+-</P>
+-<P>(m) Whether consumers have won a prize or sweepstakes.
+-</P>
+-<P>(n) Whether, or under what circumstances, a Vehicle may be moved, including across State lines or out of the country.
+-</P>
+-<P>(o) Whether, or under what circumstances, a Vehicle may be repossessed.
+-</P>
+-<P>(p) Any of the required disclosures identified in this part.
+-</P>
+-<P>(q) The requirements in this section also are prescribed for the purpose of preventing the unfair or deceptive acts or practices defined in this part, including those in §§ 463.4 and 463.5.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.4" TYPE="SECTION">
+-<HEAD>§ 463.4   Disclosure requirements.</HEAD>
+-<P>It is a violation of this part and an unfair or deceptive act or practice in violation of section 5 of the Federal Trade Commission Act for any Covered Motor Vehicle Dealer to fail to make any disclosure required by this section, Clearly and Conspicuously.
+-</P>
+-<P>(a) <I>Offering Price.</I> In connection with the sale or financing of Vehicles, a Vehicle's Offering Price must be disclosed:
+-</P>
+-<P>(1) In any advertisement that references, expressly or by implication, a specific Vehicle;
+-</P>
+-<P>(2) In any advertisement that represents, expressly or by implication, any monetary amount or financing term for any Vehicle; and
+-</P>
+-<P>(3) In any communication with a consumer that includes a reference, expressly or by implication, regarding a specific Vehicle, or any monetary amount or financing term for any Vehicle. With respect to such communications:
+-</P>
+-<P>(i) The Offering Price for the Vehicle must be disclosed in the Dealer's first response regarding that specific Vehicle to the consumer; and
+-</P>
+-<P>(ii) If the communication or response is in writing, the Offering Price must be disclosed in writing. The requirements in this paragraph (a) also are prescribed for the purpose of preventing the unfair or deceptive acts or practices defined in this part, including those in §§ 463.3(a) and (b) and 463.5(c).
+-</P>
+-<P>(b) [Reserved]
+-</P>
+-<P>(c) <I>Add-ons not required.</I> When making any representation, expressly or by implication, directly or indirectly, about an Add-on Product or Service, the Dealer must disclose that the Add-on is not required and the consumer can purchase or lease the Vehicle without the Add-on, if true. If the representation is in writing, the disclosure must be in writing. The requirements in this paragraph (c) also are prescribed for the purpose of preventing the unfair or deceptive acts or practices defined in this part, including those in §§ 463.3(a) and (b) and 463.5(c).
+-</P>
+-<P>(d) <I>Total of payments and consideration for a financed or lease transaction.</I> (1) When making any representation, expressly or by implication, directly or indirectly, about a monthly payment for any Vehicle, the Dealer must disclose the total amount the consumer will pay to purchase or lease the Vehicle at that monthly payment after making all payments as scheduled. If the representation is in writing, the disclosure must be in writing.
+-</P>
+-<P>(2) If the total amount disclosed assumes the consumer will provide consideration (for example, in the form of a cash down payment or trade-in valuation), the Dealer must disclose the amount of consideration to be provided by the consumer. If the representation is in writing, the disclosure must be in writing.
+-</P>
+-<P>(3) The requirements in this paragraph (d) also are prescribed for the purpose of preventing the unfair or deceptive acts or practices defined in this part, including those in §§ 463.3(a) and 463.5(c).
+-</P>
+-<P>(e) <I>Monthly payments comparison.</I> When making any comparison between payment options, expressly or by implication, directly or indirectly, that includes discussion of a lower monthly payment, the Dealer must disclose that the lower monthly payment will increase the total amount the consumer will pay to purchase or lease the Vehicle, if true. If the representation is in writing, the disclosure must be in writing. The requirements in this paragraph (e) also are prescribed for the purpose of preventing the unfair or deceptive acts or practices defined in this part, including those in §§ 463.3(a) and 463.5(c).
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.5" TYPE="SECTION">
+-<HEAD>§ 463.5   Dealer charges for Add-ons and other items.</HEAD>
+-<P>It is a violation of this part and an unfair or deceptive act or practice in violation of section 5 of the Federal Trade Commission Act for any Covered Motor Vehicle Dealer, in connection with the sale or financing of Vehicles, to charge for any of the following.
+-</P>
+-<P>(a) <I>Add-ons that provide no benefit.</I> A Dealer may not charge for an Add-on Product or Service if the consumer would not benefit from such an Add-on Product or Service, including:
+-</P>
+-<P>(1) Nitrogen-filled tire-related products or services that contain no more nitrogen than naturally exists in the air; or
+-</P>
+-<P>(2) Products or services that do not provide coverage for the Vehicle, the consumer, or the transaction or that are duplicative of warranty coverage for the Vehicle, including a GAP Agreement if the consumer's Vehicle or neighborhood is excluded from coverage or the loan-to-value ratio would result in the consumer not benefiting financially from the product or service.
+-</P>
+-<P>(3) The requirements in this paragraph (a) also are prescribed for the purpose of preventing the unfair or deceptive acts or practices defined in this part, including those in § 463.3(a) and (b) and paragraph (c) of this section.
+-</P>
+-<P>(b) [Reserved]
+-</P>
+-<P>(c) <I>Any item without Express, Informed Consent.</I> A Dealer may not charge a consumer for any item unless the Dealer obtains the Express, Informed Consent of the consumer for the charge. The requirements in this paragraph (c) also are prescribed for the purpose of preventing the unfair or deceptive acts or practices defined in this part, including those in §§ 463.3(a) and (b), 463.4, and paragraph (a) of this section.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.6" TYPE="SECTION">
+-<HEAD>§ 463.6   Recordkeeping.</HEAD>
+-<P>(a) Any Covered Motor Vehicle Dealer subject to this part must create and retain, for a period of twenty-four months from the date the record is created, all records necessary to demonstrate compliance with this part, including the following records:
+-</P>
+-<P>(1) Copies of all Materially different advertisements, sales scripts, training materials, and marketing materials regarding the price, financing, or lease of a Vehicle, that the Dealer disseminated during the relevant time period; <I>Provided that</I> a typical example of a credit or lease advertisement may be retained for advertisements that include different Vehicles, or different amounts for the same credit or lease terms, where the advertisements are otherwise not Materially different;
+-</P>
+-<P>(2) [Reserved]
+-</P>
+-<P>(3) Copies of all purchase orders; financing and lease documents with the Dealer signed by the consumer, whether or not final approval is received for a financing or lease transaction; and all written communications relating to sales, financing, or leasing between the Dealer and any consumer who signs a purchase order or financing or lease contract with the Dealer;
+-</P>
+-<P>(4) Records demonstrating that Add-ons in consumers' contracts meet the requirements of § 463.5, including copies of all service contracts, GAP Agreements and calculations of loan-to-value ratios in contracts including GAP Agreements; and
+-</P>
+-<P>(5) Copies of all written consumer complaints relating to sales, financing, or leasing, inquiries related to Add-ons, and inquiries and responses about Vehicles referenced in § 463.4.
+-</P>
+-<P>(b) Any Dealer subject to this part may keep the records required by paragraph (a) of this section in any legible form, and in the same manner, format, or place as they may already keep such records in the ordinary course of business. Failure to keep all records required under paragraph (a) of this section will be a violation of this part.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.7" TYPE="SECTION">
+-<HEAD>§ 463.7   Waiver not permitted.</HEAD>
+-<P>It is a violation of this part for any person to obtain, or attempt to obtain, a waiver from any consumer of any protection provided by or any right of the consumer under this part.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.8" TYPE="SECTION">
+-<HEAD>§ 463.8   Severability.</HEAD>
+-<P>The provisions of this part are separate and severable from one another. If any provision is stayed or determined to be invalid, it is the Commission's intention that the remaining provisions will continue in effect.
+-
+-
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 463.9" TYPE="SECTION">
+-<HEAD>§ 463.9   Relation to State laws.</HEAD>
+-<P>(a) <I>In general.</I> This part will not be construed as superseding, altering, or affecting any other State statute, regulation, order, or interpretation relating to Covered Motor Vehicle Dealer requirements, except to the extent that such statute, regulation, order, or interpretation is inconsistent with the provisions of this part, and then only to the extent of the inconsistency.
+-</P>
+-<P>(b) <I>Greater protection under State law.</I> For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this part if the protection such statute, regulation, order, or interpretation affords any consumer is greater than the protection provided under this part.
+-
+ 
+ 
+ 
