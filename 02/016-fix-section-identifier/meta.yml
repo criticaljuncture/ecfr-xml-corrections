@@ -1,0 +1,11 @@
+description: Fix section identifier typo/transcription error
+tags: structural
+status: approved
+issue_number: 2026-08-17
+fr_doc:
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117401922/
+
+patches:
+  '001':
+    first_issue_date: '2026-08-17'
+    last_issue_date: '2026-08-17'

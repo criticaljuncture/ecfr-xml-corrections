@@ -1,0 +1,13 @@
+--- data/titles/preprocessed/xml/02/2026/08/2026-08-17_4a98dc28.xml	2026-08-19 10:06:36.820041604 -0500
++++ tmp/title_version_2_2026-08-17_4a98dc28_preprocessed.xml	2026-08-19 10:07:26.754559345 -0500
+@@ -20676,8 +20676,8 @@
+ </DIV8>
+ 
+ 
+-<DIV8 N="§ 920.270" TYPE="SECTION">
+-<HEAD>§ 920.270   Remedies, penalties, and enforcement.</HEAD>
++<DIV8 N="§ 910.270" TYPE="SECTION">
++<HEAD>§ 910.270   Remedies, penalties, and enforcement.</HEAD>
+ <P>(a)(1) If a non-Federal entity fails to disclose a conflict of interest (COI) or conflict of commitment (COC) as required under this subpart, or fails to sufficiently manage or mitigate a COI or COC to ensure the integrity of the DOE-supported project or to protect the Government's interests, DOE may:
+ </P>
+ <P>(i) Require the non-Federal entity take action to eliminate or mitigate the conflict to a risk level acceptable to DOE. In the event the non-Federal entity does not eliminate or mitigate the conflict to a risk level acceptable to DOE, DOE may determine the Federal financial assistance award no longer effectuates the program goals or agency priorities and terminate the Federal financial assistance award;
