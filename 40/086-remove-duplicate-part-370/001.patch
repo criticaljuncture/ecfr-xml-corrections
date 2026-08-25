@@ -1,0 +1,726 @@
+--- data/titles/preprocessed/xml/40/2026/08/2026-08-21_200c1ec0.xml	2026-08-24 19:25:25.493416802 -0500
++++ tmp/title_version_40_2026-08-21_200c1ec0_preprocessed.xml	2026-08-24 19:29:18.622862544 -0500
+@@ -1936505,723 +1936505,6 @@
+ </PSPACE></SOURCE>
+ </DIV6>
+ 
+-
+-<DIV6 N="A" TYPE="SUBPART">
+-<HEAD>Subpart A—General Information</HEAD>
+-
+-
+-<DIV8 N="§ 370.1" TYPE="SECTION">
+-<HEAD>§ 370.1   What is the purpose of this part?</HEAD>
+-<P>(a) This part (40 CFR part 370) establishes reporting requirements for providing the public with important information on the hazardous chemicals in their communities. Reporting raises community awareness of chemical hazards and aids in the development of State and local emergency response plans. The reporting requirements established under this part consist of Material Safety Data Sheet (MSDS) or Safety Data Sheet (SDS) reporting and inventory reporting.
+-</P>
+-<P>(b) This part is written in a special format to make it easier to understand the regulatory requirements. Like other Environmental Protection Agency (EPA) regulations, this part establishes enforceable legal requirements. Information considered non-binding guidance under EPCRA is indicated in this regulation by the word “note” and a smaller typeface. Such notes are provided for information purposes only and are not considered legally binding under this part. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.2" TYPE="SECTION">
+-<HEAD>§ 370.2   Who do “you,” “I,” and “your” refer to in this part?</HEAD>
+-<P>Throughout this part, “you,” “I,” and “your” refer to the owner or operator of a facility. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.3" TYPE="SECTION">
+-<HEAD>§ 370.3   Which section contains the definitions of the key words used in this part?</HEAD>
+-<P>The definitions of key words used in this part are in § 370.66. It is important to read the definitions for key words because the definition explains the word's specific meaning in the regulations in this part. 
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="B" TYPE="SUBPART">
+-<HEAD>Subpart B—Who Must Comply</HEAD>
+-
+-
+-<DIV8 N="§ 370.10" TYPE="SECTION">
+-<HEAD>§ 370.10   Who must comply with the hazardous chemical reporting requirements of this part?</HEAD>
+-<P>(a) You must comply with the reporting requirements of this part if the Occupational Safety and Health Administration's (OSHA) Hazard Communication Standard (HCS) require your facility to prepare or have available a Material Safety Data Sheet (MSDS) (or Safety Data Sheet (SDS)) for a hazardous chemical and if either of the following conditions is met:
+-</P>
+-<P>(1) A hazardous chemical that is an Extremely Hazardous Substance (EHS) is present at your facility at any one time in an amount equal to or greater than 500 pounds (227 kg—approximately 55 gallons) or the Threshold Planning Quantity (TPQ), whichever is lower. EHSs and their TPQs are listed in Appendices A and B of 40 CFR part 355.
+-</P>
+-<P>(2) A hazardous chemical that is not an EHS is present at your facility at any one time in an amount equal to or greater than the threshold level for that hazardous chemical. Threshold levels for such hazardous chemicals are:
+-</P>
+-<P>(i) For any hazardous chemical that does not meet the criteria in paragraph (a)(2)(ii) or (iii) of this section, the threshold level is 10,000 pounds (or 4,540 kg).
+-</P>
+-<P>(ii) For gasoline at a retail gas station (For purposes of this part, retail gas station means a retail facility engaged in selling gasoline and/or diesel fuel principally to the public, for motor vehicle use on land.), the threshold level is 75,000 gallons (approximately 283,900 liters) (all grades combined). This threshold is only applicable for gasoline that was in tank(s) entirely underground and was in compliance at all times during the preceding calendar year with all applicable Underground Storage Tank (UST) requirements at 40 CFR part 280 or requirements of the state UST program approved by the Agency under 40 CFR part 281.
+-</P>
+-<P>(iii) For diesel fuel at a retail gas station (For purposes of this part, retail gas station means a retail facility engaged in selling gasoline and/or diesel fuel principally to the public, for motor vehicle use on land.), the threshold level is 100,000 gallons (approximately 378,500 liters) (all grades combined). This threshold is only applicable for diesel fuel that was in tank(s) entirely underground and was in compliance at all times during the preceding calendar year with all applicable Underground Storage Tank (UST) requirements at 40 CFR part 280 or requirements of the state UST program approved by the Agency under 40 CFR part 281.
+-</P>
+-<P>(b) The threshold level for responding to the following requests is zero.
+-</P>
+-<P>(1) If your LEPC requests that you submit an MSDS (or SDS) for a hazardous chemical for which you have not submitted an MSDS (or SDS) to your LEPC; or
+-</P>
+-<P>(2) If your LEPC, SERC, or the fire department with jurisdiction over your facility requests that you submit Tier II information. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.11" TYPE="SECTION">
+-<HEAD>§ 370.11   [Reserved]</HEAD>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.12" TYPE="SECTION">
+-<HEAD>§ 370.12   What hazardous chemicals must I report under this part?</HEAD>
+-<P>(a) You must report any hazardous chemical for which you are required to prepare or have available an MSDS (or SDS) under OSHA HCS that is present at your facility equal to or above the applicable threshold specified in § 370.10. (Specific exemptions from reporting are in § 370.13.)
+-</P>
+-<P>(b) The EPA has not issued a list of hazardous chemicals subject to reporting under this part. A substance is a hazardous chemical if it is required to have an MSDS (or SDS) and meets the definition of hazardous chemical under the OSHA regulations found at 29 CFR 1910.1200(c). 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.13" TYPE="SECTION">
+-<HEAD>§ 370.13   What substances are exempt from these reporting requirements?</HEAD>
+-<P>You do not have to report substances for which you are not required to have an MSDS (or SDS) under the OSHA regulations, or that are excluded from the definition of hazardous chemical under EPCRA section 311(e). Each of the following substances are excluded under EPCRA section 311(e):
+-</P>
+-<P>(a) Any food, food additive, color additive, drug, or cosmetic regulated by the Food and Drug Administration.
+-</P>
+-<P>(b) Any substance present as a solid in any manufactured item to the extent exposure to the substance does not occur under normal conditions of use.
+-</P>
+-<P>(c) Any substance to the extent it is used:
+-</P>
+-<P>(1) For personal, family, or household purposes, or is present in the same form and concentration as a product packaged for distribution and use by the general public. Present in the same form and concentration as a product packaged for distribution and use by the general public means a substance packaged in a similar manner and present in the same concentration as the substance when packaged for use by the general public, whether or not it is intended for distribution to the general public or used for the same purpose as when it is packaged for use by the general public;
+-</P>
+-<P>(2) In a research laboratory or hospital or other medical facility under the direct supervision of a technically qualified individual; or
+-</P>
+-<P>(3) In routine agricultural operations or is a fertilizer held for sale by a retailer to the ultimate customer. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.14" TYPE="SECTION">
+-<HEAD>§ 370.14   How do I report mixtures containing hazardous chemicals?</HEAD>
+-<P>(a) For a mixture containing a hazardous chemical, use the following table to determine if a reporting threshold is equaled or exceeded, and to determine how to report:
+-</P>
+-<DIV width="100%"><DIV class="gpotbl_div">
+-<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<THEAD>
+-<TR>
+-<TH class="center border-top-single border-bottom-single border-right-single">If your mixture contains a hazardous chemical</TH>
+-<TH class="center border-top-single border-bottom-single border-right-single">To determine if the threshold level for that hazardous chemical is equaled or exceeded you must</TH>
+-<TH class="center border-top-single border-bottom-single">If the threshold level for that hazardous chemical is exceeded then you must</TH>
+-</TR>
+-</THEAD>
+-<TBODY>
+-<TR>
+-<TD class="left border-right-single">(1) That is an EHS</TD>
+-<TD class="left border-right-single">Determine the total quantity of the EHS present throughout your facility at any one time, by adding together the quantity present as a component in all mixtures and all other quantities of the EHS (you must include the quantity present in a mixture even if you are also counting the quantity of that particular mixture toward the threshold level for that mixture).</TD>
+-<TD class="left">Report the EHS component—submit an MSDS (or SDS) for the EHS (or include the EHS on the list of chemicals submitted in lieu of the MSDSs) (or SDSs), as provided under § 370.30, and submit Tier I (or Tier II) information for the EHS, as provided under § 370.40 or report the mixture itself—submit an MSDS (or SDS) for the mixture (or include the mixture on the list of chemicals submitted in lieu of the MSDSs) (or SDSs), as provided under § 370.30, and submit Tier I (or Tier II) information for the mixture, as provided under § 370.40.</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single"> </TD>
+-<TD class="left border-right-single"/>
+-<TD class="left">If you report the mixture itself, then provide the total quantity of that mixture.</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">(2) That is not an EHS</TD>
+-<TD class="left border-right-single">Determine either: The total quantity of the hazardous chemical present throughout your facility at any one time by adding together the quantity present as a component in all mixtures and all other quantities of the hazardous chemical (you must include the quantity present in a mixture even if you are also applying that particular mixture as a whole toward the threshold level for that mixture) or the total quantity of that mixture present throughout your facility at any one time.</TD>
+-<TD class="left">Report the non-EHS hazardous chemical component—submit an MSDS (or SDS) for the non-EHS hazardous chemical (or include the non-EHS on the list of chemicals submitted in lieu of the MSDSs) (or SDSs), as provided under § 370.30, and submit Tier I (or Tier II) information for the non-EHS hazardous chemical as provided under § 370.40 or report the mixture itself—submit an MSDS (or SDS) for the mixture (or include the mixture on the list of chemicals submitted in lieu of MSDSs) (or SDSs), as provided under § 370.30, and submit Tier I (or Tier II) information for the mixture, as provided under § 370.40.</TD>
+-</TR>
+-<TR>
+-<TD class="left border-bottom-single border-right-single"> </TD>
+-<TD class="left border-bottom-single border-right-single"/>
+-<TD class="left border-bottom-single">If you report the mixture itself, then provide the total quantity of that mixture.</TD>
+-</TR>
+-</TBODY>
+-</TABLE>
+-</DIV></DIV>
+-<P>(b) For each specific mixture, the reporting option used must be consistent for both MSDS (or SDS) and inventory reporting, unless it is not possible to do so. This means that if you report on a specific mixture as a whole for MSDS (or SDS) reporting, you must report on that mixture as a whole for inventory reporting too (unless it is not possible). MSDS (or SDS) reporting and inventory reporting are discussed in detail in subpart C of this part.
+-</P>
+-<P>(c) To determine the quantity of an EHS or a non-EHS hazardous chemical component present in a mixture, multiply the concentration of the hazardous chemical component (in weight percent) by the weight of the mixture (in pounds). You do not have to count a hazardous chemical present in a mixture if the concentration is less than or equal to 1%, or less than or equal to 0.1% for a carcinogenic chemical. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="C" TYPE="SUBPART">
+-<HEAD>Subpart C—Reporting Requirements</HEAD>
+-
+-
+-<DIV8 N="§ 370.20" TYPE="SECTION">
+-<HEAD>§ 370.20   What are the reporting requirements of this part?</HEAD>
+-<P>The reporting requirements of this part consist of MSDS (or SDS) reporting and inventory reporting. If you are the owner or operator of a facility subject to the reporting requirements of this part then you must comply with both types of reporting requirements. MSDS (or SDS) reporting requirements are addressed in §§ 370.30 through 370.33. Inventory reporting requirements are addressed in §§ 370.40 through 370.45. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV7 N="21" TYPE="SUBJGRP">
+-<HEAD>How to Comply With MSDS (or SDS) Reporting</HEAD>
+-
+-
+-<DIV8 N="§ 370.30" TYPE="SECTION">
+-<HEAD>§ 370.30   What information must I provide and what format must I use?</HEAD>
+-<P>(a) You must report the hazardous chemicals present at your facility that meet or exceed the applicable threshold levels (threshold levels are in § 370.10) by either:
+-</P>
+-<P>(1) Submitting an MSDS (or SDS) for each hazardous chemical present at your facility that meet or exceed its applicable threshold level; or
+-</P>
+-<P>(2) Submitting a list of all hazardous chemicals present at your facility at or above the applicable threshold levels. The hazardous chemicals on your list must be grouped by the specific health and physical hazards as defined in § 370.66. The list must contain the chemical or common name of each hazardous chemical as provided on the MSDS (or SDS).
+-</P>
+-<P>(b) Within 30 days of a request by the LEPC (as provided in § 370.10(b)), you must also submit an MSDS (or SDS) for any hazardous chemical present at your facility for which you have not submitted an MSDS (or SDS). 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38109, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.31" TYPE="SECTION">
+-<HEAD>§ 370.31   Do I have to update the information?</HEAD>
+-<P>MSDS (or SDS) reporting stated in § 370.30 is a one-time requirement. However, you must update the information in all of the following ways:
+-</P>
+-<P>(a) Submit a revised MSDS (or SDS) after you discover significant new information concerning a hazardous chemical for which an MSDS (or SDS) was submitted.
+-</P>
+-<P>(b) Submit an MSDS (or SDS), or a list as described in § 370.30(a), for any new hazardous chemical for which you become subject to these reporting requirements.
+-</P>
+-<P>(c) Submit, as requested by the LEPC, an MSDS (or SDS) for any hazardous chemical present at your facility which you have not already submitted, as provided in § 370.30(b). 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.32" TYPE="SECTION">
+-<HEAD>§ 370.32   To whom must I submit the information?</HEAD>
+-<P>(a) You must submit an MSDS (or SDS) or list, as provided in § 370.30(a), to the LEPC, the SERC, and the fire department with jurisdiction over your facility.
+-</P>
+-<P>(b) You must submit an MSDS (or SDS) requested by the LEPC, as provided in § 370.30(b), to the LEPC. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.33" TYPE="SECTION">
+-<HEAD>§ 370.33   When must I submit the information?</HEAD>
+-<P>(a) You must submit an MSDS (or SDS) or a list, as provided in § 370.30(a), for a hazardous chemical subject to the reporting requirements of this part by October 17, 1987, or within 3 months after you first become subject to the reporting requirements of this part (as provided in §§ 370.30 and 370.31(b)).
+-</P>
+-<P>(b) You must submit a revised MSDS (or SDS), as provided in § 370.31(a), within 3 months after discovering significant new information about a hazardous chemical for which an MSDS 
+-
+-(or SDS) was submitted.
+-</P>
+-<P>(c) You must submit an MSDS (or SDS) requested by the LEPC, as provided in §§ 370.30(b) and 370.31(c), within 30 days of receiving the request. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-</DIV7>
+-
+-
+-<DIV7 N="22" TYPE="SUBJGRP">
+-<HEAD>How to Comply With Inventory Reporting</HEAD>
+-
+-
+-<DIV8 N="§ 370.40" TYPE="SECTION">
+-<HEAD>§ 370.40   What information must I provide and what format must I use?</HEAD>
+-<P>(a) If you are required to comply with the hazardous chemical reporting requirements of this part, then by March 1 every year you must submit inventory information regarding any hazardous chemical present at your facility at any time during the previous calendar year in an amount equal to or in excess of its threshold level. Threshold levels are provided in § 370.10.
+-</P>
+-<P>(b) Tier I information is the minimum information that you must report to be in compliance with the inventory reporting requirements of this part as described in § 370.41. You may choose to report the Tier II information described in § 370.42 for any hazardous chemical at your facility. You must submit Tier II information to the SERC, LEPC, or fire department having jurisdiction over your facility if they request it. EPA publishes Tier I and Tier II Inventory Forms that provide uniform formats for reporting the Tier I and Tier II information. You may use a State or local format for reporting inventory information if the State or local format contains at least the Tier I information described in § 370.41. EPA's Tier I and Tier II forms are available at <I>http://www.epa.gov/epcra</I>.
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">b</E>):</HED>
+-<P>Some States require Tier II information annually under State law.</P></NOTE>
+-<P>(c) You should contact the SERC to determine that State's requirements for inventory reporting formats, procedures, and to obtain inventory forms. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108 38109, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.41" TYPE="SECTION">
+-<HEAD>§ 370.41   What is Tier I inventory information?</HEAD>
+-<P>Tier I information provides State and local officials and the public with information on the general types and locations of hazardous chemicals present at your facility during the previous calendar year. The Tier I information is the minimum information that you must provide to be in compliance with the inventory reporting requirements of this part. If you are reporting Tier I information, you must report aggregate information on hazardous chemicals by hazard categories. The hazard categories (physical and health hazards) are defined in § 370.66. Tier I inventory form includes the following data elements:
+-</P>
+-<P>(a) Certification. The owner or operator or the officially designated representative of the owner or operator must certify that all information included in the Tier I submission is true, accurate, and complete as follows: “I certify under penalty of law that I have personally examined and am familiar with the information and that based on my inquiry of those individuals responsible for obtaining the information, I believe that the submitted information is true, accurate, and complete.” This certification shall be accompanied by your full name, official title, signature, date signed, and total number of pages in the submission including all attachments. All other pages must also contain your signature or signature stamp, the date you signed the certification, and the total number of pages in the submission.
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">a</E>):</HED>
+-<P>Some states require electronic reporting (on-line or via diskettes) and electronic certification. Contact your state for the specific requirements in that state.</P></NOTE>
+-<P>(b) The calendar year for the reporting period.
+-</P>
+-<P>(c) An indication whether the information being reported on page one of the form is identical to that submitted last year.
+-</P>
+-<P>(d) The complete name and address of the location of your facility (include the full street address or state road, city, county, State and zip code), latitude and longitude.
+-</P>
+-<P>(e) An indication if the location of your facility is manned or unmanned.
+-</P>
+-<P>(f) An estimate of the maximum number of occupants present at any one time. If the location of your facility is unmanned, check the box marked N/A, not applicable.
+-</P>
+-<P>(g) The phone number of your facility (optional).
+-</P>
+-<P>(h) The North American Industry Classification System (NAICS) code for your facility.
+-</P>
+-<P>(i) The Dun &amp; Bradstreet number of your facility.
+-</P>
+-<P>(j) Facility identification numbers assigned under the Toxic Release Inventory (TRI) and Risk Management Program. If your facility has not been assigned an identification number under these programs or if your facility is not subject to reporting under these programs, check the box marked N/A, not applicable.
+-</P>
+-<P>(k) An indication whether your facility is subject to the emergency planning notification requirement under EPCRA section 302, codified in 40 CFR part 355.
+-</P>
+-<P>(l) An indication whether your facility is subject to the chemical accident prevention requirements under Section 112(r) of the Clean Air Act, codified in 40 CFR part 68, also known as the Risk Management Program.
+-</P>
+-<P>(m) The name, mailing address, phone number and email address of the owner or operator of the facility.
+-</P>
+-<P>(n) The name, mailing address, phone number, Dun &amp; Bradstreet number and email address of the facility's parent company. These are optional data elements.
+-</P>
+-<P>(o) The name, title, phone number, 24-hour phone number, and email address of the facility emergency coordinator, if applicable.
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">o</E>):</HED>
+-<P>EPCRA Section 303(d)(1) requires facilities subject to the emergency planning notification requirement under EPCRA section 302 (including additional facilities designated by the Governor or the SERC under EPCRA section 302(b)(2)) to designate a facility representative who will participate in the local emergency planning process as a facility emergency coordinator. EPA encourages facilities not subject to the emergency planning notification requirement also to provide this information, if available, for effective emergency planning in your community.</P></NOTE>
+-<P>(p) The name, title, phone number, and email address of the person to contact for the information contained in the Tier I form.
+-</P>
+-<P>(q) The name, title, phone number and email address of at least one local individual that can act as a referral if emergency responders need assistance in responding to a chemical accident at your facility. You must also provide an emergency phone number which will be available 24 hours a day, every day.
+-</P>
+-<P>(r) An indication whether the information being reported on page two of the form is identical to that submitted last year.
+-</P>
+-<P>(s) An estimate (in ranges) of the maximum amount of hazardous chemicals in each hazard category present at your facility at any time during the preceding calendar year. You must use codes that correspond to different ranges. The range codes are provided in § 370.43.
+-</P>
+-<P>(t) An estimate (in ranges) of the average daily amount of hazardous chemicals in each hazard category present at your facility during the preceding calendar year. You must use codes that correspond to different ranges. The range codes are provided in § 370.43.
+-</P>
+-<P>(u) The maximum number of days that any single hazardous chemical within each hazard category was present at your facility during the reporting period.
+-</P>
+-<P>(v) The general location of hazardous chemicals in each hazard category within your facility. General locations should include the names or identification of buildings, tank fields, lots, sheds or other such areas. You may also attach one or more of the following with your Tier I inventory form:
+-</P>
+-<P>(1) A <I>site plan</I> with site indicated for buildings, lots, areas, etc. throughout your facility.
+-</P>
+-<P>(2) A <I>list of site coordinate abbreviations</I> that correspond to buildings, lots, areas, etc., throughout your facility.
+-</P>
+-<P>(3) A <I>description of dikes and other safeguard measures</I> for storage locations throughout your facility.
+-</P>
+-<P>(w) An indication whether you are including any attachments (optional).
+-</P>
+-<CITA TYPE="N">[77 FR 41313, July 13, 2012, as amended at 81 FR 38109, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.42" TYPE="SECTION">
+-<HEAD>§ 370.42   What is Tier II inventory information?</HEAD>
+-<P>Tier II information provides State and local officials and the public with specific information on the amounts and locations of hazardous chemicals present at your facility during the previous calendar year. Some states may require you to use a state reporting format including electronic reporting and certification for submitting your hazardous chemical inventory. Contact your state for the specific requirements in that state. Tier II inventory form includes the following data elements:
+-</P>
+-<P>(a) Certification. The owner or operator or the officially designated representative of the owner or operator must certify that all information included in the Tier II submission is true, accurate, and complete as follows: “I certify under penalty of law that I have personally examined and am familiar with the information and that based on my inquiry of those individuals responsible for obtaining the information, I believe that the submitted information is true, accurate, and complete.” This certification must be accompanied by your full name, official title, signature, date signed, and total number of pages in the submission including all Confidential and Non-Confidential Information Sheets and all attachments. All other pages must also contain your signature or signature stamp, the date you signed the certification, and the total number of pages in the submission.
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">a</E>):</HED>
+-<P>Some states require electronic reporting (on-line or via diskettes) and electronic certification. Contact your state for the specific requirements in that state.</P></NOTE>
+-<P>(b) The calendar year of the reporting period.
+-</P>
+-<P>(c) An indication whether the information being reported on page one of the form is identical to that submitted last year.
+-</P>
+-<P>(d) The complete name and address of the location of your facility (include the full street address or state road, city, county, State and zip code), latitude and longitude.
+-</P>
+-<P>(e) An indication if the location of your facility is manned or unmanned.
+-</P>
+-<P>(f) An estimate of the maximum number of occupants present at any one time. If the location of your facility is unmanned, check the box marked N/A, not applicable.
+-</P>
+-<P>(g) The phone number of your facility (optional).
+-</P>
+-<P>(h) The North American Industry Classification System (NAICS) code for your facility.
+-</P>
+-<P>(i) The Dun &amp; Bradstreet number of your facility.
+-</P>
+-<P>(j) Facility identification numbers assigned under the Toxic Release Inventory (TRI) and Risk Management Program. If your facility has not been assigned an identification number under these programs or if your facility is not subject to reporting under these programs, check the box marked N/A, not applicable.
+-</P>
+-<P>(k) An indication if your facility is subject to the emergency planning notification requirement under section 302 of EPCRA, codified in 40 CFR part 355.
+-</P>
+-<P>(l) An indication whether your facility is subject to the chemical accident prevention requirements under section 112(r) of the Clean Air Act (CAA), codified in 40 CFR part 68, Chemical Accident Prevention Provisions, also known as the Risk Management Program.
+-</P>
+-<P>(m) The name, mailing address, phone number and email address of the owner or operator of the facility.
+-</P>
+-<P>(n) The name, mailing address, phone number, Dun &amp; Bradstreet number and email address of the facility's parent company. These are optional data elements.
+-</P>
+-<P>(o) The name, title, phone number, 24-hour phone number and email address of the facility emergency coordinator, if applicable.
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">o</E>):</HED>
+-<P>Section 303(d)(1) of EPCRA requires facilities subject to the emergency planning notification requirement (including additional facilities designated by the Governor or the SERC under EPCRA section 302(b)(2)) to designate a facility representative who will participate in the local emergency planning process as a facility emergency coordinator. EPA encourages facilities not subject to the emergency planning notification requirement also to provide <I>this information, if available, for effective emergency planning in your community.</I></P></NOTE>
+-<P>(p) The name, title, phone number and email address of the person to contact regarding information contained in the Tier II form.
+-</P>
+-<P>(q) The name, title, phone number and email address of at least one local individual that can act as a referral if emergency responders need assistance in responding to a chemical accident at your facility. You must also provide an emergency phone number which will be available 24 hours a day, every day.
+-</P>
+-<P>(r) An indication whether the information being reported on page two of the form is identical to that submitted last year.
+-</P>
+-<P>(s) For each hazardous chemical that you are required to report, you must:
+-</P>
+-<P>(1) <I>Pure Chemical:</I> Provide the chemical name (or the common name of the chemical) as provided on the Material Safety Data Sheet (MSDS) (or Safety Data Sheet (SDS)) and provide the Chemical Abstract Service (CAS) registry number of the chemical provided on the MSDS (or SDS).
+-</P>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">s</E>)(1):</HED>
+-<P>If you are withholding the name in accordance with trade secret criteria, you must provide the generic class or category that is structurally descriptive of the chemical and indicate that the name is withheld because of trade secrecy. Trade secret criteria are addressed in § 370.64(a).</P></NOTE>
+-<P>(2) Indicate whether the chemical is a solid, liquid, or gas; and whether the chemical is an EHS.
+-</P>
+-<P>(3) <I>Mixture.</I> If you are reporting a mixture, enter the mixture name, product name or trade name as provided on the Material Safety Data Sheet (MSDS) (or Safety Data Sheet (SDS)) and provide the Chemical Abstract Service (CAS) registry number of the mixture provided on the MSDS (or SDS). If there is no CAS number provided or it is not known, check the box “Not Available.”
+-</P>
+-<P>(4) If the mixture you are reporting contains EHS(s), provide the name(s) of each EHS in the mixture. As provided in § 370.14(a), you also have an option to report the non-EHS hazardous components in the mixture.
+-</P>
+-<P>(5) <I>Pure Chemical or Mixture:</I> Indicate which hazard categories (or hazard classes) apply to the chemical or the mixture. The hazard categories (or physical and health hazards) are defined in § 370.66.
+-</P>
+-<P>(6) Provide an estimate (in ranges) of the maximum amount of the hazardous chemical present at your facility on any single day during the preceding calendar year. If you are reporting a mixture, provide an estimate of the total amount of the mixture present at your facility on any single day during the preceding calendar year. If the mixture contains any EHS, provide the total amount of each EHS in that mixture. You must use the codes that correspond to different ranges. The amounts and associated range codes are in § 370.43.
+-</P>
+-<P>(7) Provide an estimate (in ranges) of the average daily amount of the hazardous chemical present at your facility during the preceding calendar year. If you are reporting a mixture, provide an estimate of the average daily amount of the mixture. You must use the codes that correspond to different ranges. The amounts and associated range codes are in § 370.43.
+-</P>
+-<P>(8) Provide the maximum number of days that the hazardous chemical or mixture was present at your facility during the preceding calendar year.
+-</P>
+-<P>(9) Provide the type of storage for the hazardous chemical or the mixture containing the hazardous chemical at your facility. Examples for types of storage: Above-ground tank, plastic or non-metallic drum, steel drum, cylinder, rail car, etc.
+-</P>
+-<P>(10) Provide the storage conditions for the hazardous chemical or the mixture containing the hazardous chemical at your facility. Examples for types of storage conditions: Ambient pressure, ambient temperature, less than ambient temperature/pressure, cryogenic conditions, etc.
+-</P>
+-<NOTE>
+-<HED>Note to paragraphs (<E T="01">s</E>)(9) and (10):</HED>
+-<P>Your SERC or LEPC may have specific instructions for reporting types of storage and/or storage conditions.</P></NOTE>
+-<P>(11) Provide a brief description of the precise location(s) of the hazardous chemical(s) or the mixture(s) at your facility. You may also attach one of the following with your Tier II inventory form:
+-</P>
+-<P>(i) A <I>site plan</I> with site coordinates indicated for buildings, lots, areas, etc. throughout your facility.
+-</P>
+-<P>(ii) A <I>list of site coordinate abbreviations</I> that correspond to buildings, lots, areas, etc., throughout your facility.
+-</P>
+-<P>(iii) A <I>description of dikes and other safeguard measures</I> for storage locations throughout your facility.
+-</P>
+-<P>(12) Under EPCRA section 324, you may choose to withhold from disclosure to the public the location information for a specific chemical. If you choose to withhold the location information from disclosure to the public, you must clearly indicate that the information is “confidential.” You must provide the confidential location information on a separate sheet from the other Tier II information (which will be disclosed to the public), and attach the Confidential Location Information Sheet to the other Tier II information. Indicate any attachments you are including.
+-</P>
+-<P>(13) You may provide additional reporting. For example, if your State or local agencies require you to provide inventory information on additional chemicals or if you wish to report any hazardous chemical below the reporting thresholds specified in § 370.10, check the appropriate box.
+-</P>
+-<P>(t) An indication whether you are including any attachments (optional).
+-</P>
+-<CITA TYPE="N">[77 FR 41314, July 13, 2012, as amended at 81 FR 38109, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.43" TYPE="SECTION">
+-<HEAD>§ 370.43   What codes are used to report Tier I and Tier II inventory information?</HEAD>
+-<P>(a) <I>Weight range codes.</I> Except as provided in paragraph (b) of this section, you must use the following codes to report the maximum amount and average daily amount when reporting Tier I or Tier II inventory information:
+-</P>
+-<DIV width="100%"><DIV class="gpotbl_div">
+-<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+-<THEAD>
+-<TR>
+-<TH rowspan="2" class="center border-top-single border-bottom-single border-right-single">Range codes</TH>
+-<TH colspan="2" class="center border-top-single border-bottom-single">Weight range in pounds</TH>
+-</TR>
+-<TR>
+-<TH class="center border-bottom-single border-right-single">From</TH>
+-<TH class="center border-bottom-single">To</TH>
+-</TR>
+-</THEAD>
+-<TBODY>
+-<TR>
+-<TD class="left border-right-single">01</TD>
+-<TD class="right border-right-single">0</TD>
+-<TD class="right">99</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">02</TD>
+-<TD class="right border-right-single">100</TD>
+-<TD class="right">499</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">03</TD>
+-<TD class="right border-right-single">500</TD>
+-<TD class="right">999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">04</TD>
+-<TD class="right border-right-single">1,000</TD>
+-<TD class="right">4,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">05</TD>
+-<TD class="right border-right-single">5,000</TD>
+-<TD class="right">9,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">06</TD>
+-<TD class="right border-right-single">10,000</TD>
+-<TD class="right">24,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">07</TD>
+-<TD class="right border-right-single">25,000</TD>
+-<TD class="right">49,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">08</TD>
+-<TD class="right border-right-single">50,000</TD>
+-<TD class="right">74,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">09</TD>
+-<TD class="right border-right-single">75,000</TD>
+-<TD class="right">99,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">10</TD>
+-<TD class="right border-right-single">100,000</TD>
+-<TD class="right">499,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">11</TD>
+-<TD class="right border-right-single">500,000</TD>
+-<TD class="right">999,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-right-single">12</TD>
+-<TD class="right border-right-single">1,000,000</TD>
+-<TD class="right">9,999,999</TD>
+-</TR>
+-<TR>
+-<TD class="left border-bottom-single border-right-single">13</TD>
+-<TD class="right border-bottom-single border-right-single">10,000,000</TD>
+-<TD class="right border-bottom-single">(*)
+-</TD>
+-</TR>
+-</TBODY>
+-<TFOOT><TR><TD colspan="3">* Greater than 10 million</TD></TR></TFOOT></TABLE>
+-</DIV></DIV>
+-<NOTE>
+-<HED>Note to paragraph (<E T="01">a</E>):</HED>
+-<P>To convert gas or liquid volume to weight in pounds, multiply by an appropriate density factor.</P></NOTE>
+-<P>(b) Your SERC or LEPC may provide other range codes for reporting maximum amount and average daily amount, or may require reporting of specific amounts. You may use your SERC's or LEPC's range codes (or specific amounts) provided the ranges are not broader than the ranges in paragraph (a) of this section.
+-</P>
+-<CITA TYPE="N">[77 FR 41315, July 13, 2012]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.44" TYPE="SECTION">
+-<HEAD>§ 370.44   To whom must I submit the inventory information?</HEAD>
+-<P>You must submit the required inventory information to your SERC, LEPC, and fire department with jurisdiction over your facility. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.45" TYPE="SECTION">
+-<HEAD>§ 370.45   When must I submit the inventory information?</HEAD>
+-<P>(a) You must submit the required inventory information on or before March 1 (beginning in 1988 or beginning after your facility first becomes subject to this part), and on or before by March 1 of each year afterwards. Your submission must contain the required inventory information on hazardous chemicals present at your facility during the preceding calendar year at or above the threshold levels. Threshold levels are in § 370.10. The minimum required inventory information under EPCRA section 312 is Tier I information. Tier I information requirements are described in § 370.41.
+-</P>
+-<P>(b) You must submit Tier II information within 30 days of the receipt of a request from the SERC, LEPC, or the fire department having jurisdiction over your facility, as provided in § 370.10(b). Tier II information requirements are described in § 370.42. 
+-
+-
+-</P>
+-</DIV8>
+-
+-</DIV7>
+-
+-</DIV6>
+-
+-
+-<DIV6 N="D" TYPE="SUBPART">
+-<HEAD>Subpart D—Community Access to Information</HEAD>
+-
+-
+-<DIV8 N="§ 370.60" TYPE="SECTION">
+-<HEAD>§ 370.60   How does a person obtain MSDS (or SDS) information about a specific facility?</HEAD>
+-<P>Any person may obtain an MSDS (or SDS) for a specific facility by writing to the LEPC and asking for it.
+-</P>
+-<P>(a) If the LEPC has the MSDS, (or SDS) it must provide it to the person making the request.
+-</P>
+-<P>(b) If the LEPC does not have the MSDS (or SDS), (or (SDS) it must request the MSDS (or SDS) from the facility's owner or operator. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.61" TYPE="SECTION">
+-<HEAD>§ 370.61   How does a person obtain inventory information about a specific facility?</HEAD>
+-<P>(a) Any person may request Tier II information for a specific facility by writing to the SERC or the LEPC and asking for such information.
+-</P>
+-<P>(1) If the SERC or LEPC has the Tier II information, the SERC or LEPC must provide it to the person making the request.
+-</P>
+-<P>(2) If the SERC or LEPC does not have the Tier II information, it must request it from the facility owner or operator in either of the following cases:
+-</P>
+-<P>(i) The person making the request is a State or local official acting in his or her official capacity.
+-</P>
+-<P>(ii) The request is for hazardous chemicals in amounts greater than 10,000 pounds stored at the facility at any time during the previous calendar year.
+-</P>
+-<P>(3) If the SERC or LEPC does not have the Tier II information, it may request it from the facility owner or operator when neither condition in paragraph (a)(2) of this section is met, but the person's request includes a general statement of need.
+-</P>
+-<P>(b) A SERC or LEPC must respond to a request for Tier II information under this section within 45 days of receiving such a request. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.62" TYPE="SECTION">
+-<HEAD>§ 370.62   What information may a State or local official request from a facility?</HEAD>
+-<P>The LEPC may ask a facility owner or operator to submit an MSDS (or SDS) for a hazardous chemical present at the facility. The SERC, LEPC, or fire department having jurisdiction over a facility may ask a facility owner or operator to submit Tier II information. The owner or operator must provide the MSDS (or SDS) (unless the owner or operator has already submitted an MSDS (or SDS) to the LEPC for that hazardous chemical) or Tier II information within 30 days of receipt of such request. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.63" TYPE="SECTION">
+-<HEAD>§ 370.63   What responsibilities do the SERC and the LEPC have to make request information available?</HEAD>
+-<P>Under this subpart, the SERC or LEPC must make the following information (except for confidential location information discussed in § 370.64(b)) available if a person requests it:
+-</P>
+-<P>(a) All information obtained from an owner or operator in response to a request under this subpart.
+-</P>
+-<P>(b) Any requested Tier II information or MSDS (or SDS) otherwise in possession of the SERC or the LEPC. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.64" TYPE="SECTION">
+-<HEAD>§ 370.64   What information can I claim as trade secret or confidential?</HEAD>
+-<P>(a) <I>Trade secrets.</I> You may be able to withhold the name of a specific chemical when submitting MSDS (or SDS) reporting or inventory reporting information if that chemical name is claimed as a trade secret. The requirements for withholding trade secret information are set forth in EPCRA section 322 and implemented in 40 CFR part 350. If you are withholding the name of a specific chemical as a trade secret in accordance with trade secrecy requirements, you must report the generic class or category that is structurally descriptive of the chemical along with all other required information. You must also submit the withheld information to EPA and must adequately substantiate your claim. A Form for substantiating trade secret claims is available at the Agency Web site at <I>http://www.epa.gov/epcra</I>.
+-</P>
+-<P>(b) <I>Confidential location information.</I> You may request that the SERC or the LEPC not disclose to the public the location of any specific chemical required to be submitted in Tier II information. If you make such a request, the SERC or LEPC must not disclose the location of the specific chemical. If you use the Tier II Form to report your inventory information, you can choose to report confidential location information for a specific chemical on the Confidential Location Information Sheet, which must be attached to the other Tier II information you are reporting. Although you may request that location information with respect to a specific chemical be withheld from the public, you may not withhold this information from the SERC, the LEPC, or the local fire department. The Confidential Location Information Sheet is available on the Agency Web site at <I>http://www.epa.gov/epcra</I>. 
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, 38109, June 13, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.65" TYPE="SECTION">
+-<HEAD>§ 370.65   Must I allow the local fire department to inspect my facility and must I provide specific location information about hazardous chemicals at my facility?</HEAD>
+-<P>If you are the owner or operator of a facility that has submitted inventory information under this part, you must comply with the following two requirements upon request by the fire department with jurisdiction over your facility:
+-</P>
+-<P>(a) You must allow the fire department to conduct an on-site inspection of your facility; and
+-</P>
+-<P>(b) You must provide the fire department with information about the specific locations of hazardous chemicals at your facility. 
+-
+-
+-</P>
+-</DIV8>
+-
+-
+-<DIV8 N="§ 370.66" TYPE="SECTION">
+-<HEAD>§ 370.66   How are key words in this part defined?</HEAD>
+-<P><I>Chief Executive Officer of the Tribe</I> means the person who is recognized by the Bureau of Indian Affairs as the chief elected administrative officer of the Tribe.
+-</P>
+-<P><I>Environment</I> includes water, air, and land and the interrelationship that exists among and between water, air, and land and all living things.
+-</P>
+-<P><I>EPCRA</I> means the Emergency Planning and Community Right-To-Know Act of 1986.
+-</P>
+-<P><I>Extremely hazardous substance (EHS)</I> means a substance listed in appendices A and B of 40 CFR part 355.
+-</P>
+-<P><I>Facility</I> means all buildings, equipment, structures, and other stationary items that are located on a single site or on contiguous or adjacent sites and that are owned or operated by the same person (or by any person that controls, is controlled by, or under common control with, such person).
+-</P>
+-<P><I>Facility</I> includes manmade structures, as well as all natural structures in which chemicals are purposefully placed or removed through human means such that it functions as a containment structure for human use.
+-</P>
+-<P><I>Hazard category</I> is divided into two categories, health and physical hazards.
+-</P>
+-<P>(1) Health hazard means a chemical which poses one of the following hazardous effects: Carcinogenicity; acute toxicity (any route of exposure); aspiration hazard; reproductive toxicity; germ cell mutagenicity; skin corrosion or irritation; respiratory or skin sensitization; serious eye damage or eye irritation; specific target organ toxicity (single or repeated exposure); simple asphyxiant; and hazard not otherwise classified (HNOC).
+-</P>
+-<P>(2) Physical hazard means a chemical which poses one of the following hazardous effects: Flammable (gases, aerosols, liquids or solids); gas under pressure; explosive; self-heating; pyrophoric (liquid or solid); pyrophoric gas; oxidizer (liquid, solid or gas); organic peroxide; self-reactive; in contact with water emits flammable gas; combustible dust; corrosive to metal; and hazard not otherwise classified (HNOC).
+-</P>
+-<P><I>Hazardous chemical</I> means any hazardous chemical as defined under 29 CFR 1910.1200(c), except that such term does not include:
+-</P>
+-<P>(1) Any food, food additive, color additive, drug, or cosmetic regulated by the Food and Drug Administration.
+-</P>
+-<P>(2) Any substance present as a solid in any manufactured item to the extent exposure to the substance does not occur under normal conditions of use.
+-</P>
+-<P>(3) Any substance to the extent it is used:
+-</P>
+-<P>(i) For personal, family, or household purposes, or is present in the same form and concentration as a product packaged for distribution and use by the general public. Present in the same form and concentration as a product packaged for distribution and use by the general public means a substance packaged in a similar manner and present in the same concentration as the substance when packaged for use by the general public, whether or not it is intended for distribution to the general public or used for the same purpose as when it is packaged for use by the general public;
+-</P>
+-<P>(ii) In a research laboratory or a hospital or other medical facility under the direct supervision of a technically qualified individual; or
+-</P>
+-<P>(iii) In routine agricultural operations or is a fertilizer held for sale by a retailer to the ultimate customer.
+-</P>
+-<P><I>Indian Country</I> means Indian country as defined in 18 U.S.C. 1151 as:
+-</P>
+-<P>(1) All land within the limits of any Indian reservation under the jurisdiction of the United States government, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation;
+-</P>
+-<P>(2) All dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a State; and
+-</P>
+-<P>(3) All Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through the same.
+-</P>
+-<P><I>Indian Tribe or Tribe</I> means those Tribes federally recognized by the Secretary of the Interior.
+-</P>
+-<P><I>Inventory form</I> means the uniform Tier I and Tier II emergency and hazardous chemical inventory forms published by EPA. These forms can be used for reporting inventory information, as described in 40 CFR 370.40 through 370.45.
+-</P>
+-<P><I>LEPC</I> means the Local Emergency Planning Committee appointed by the State Emergency Response Commission.
+-</P>
+-<P><I>Material Safety Data Sheet or MSDS (or SDS)</I> means the sheet required to be developed under 29 CFR 1910.1200(g).
+-</P>
+-<P><I>Mixture</I> means mixture as defined under the Occupational Safety and Health Administration's Hazard Communication Standard in 29 CFR 1910.1200(c).
+-</P>
+-<P><I>OSHA</I> means the U.S. Occupational Safety and Health Administration.
+-</P>
+-<P><I>Person</I> means any individual, trust, firm, joint stock company, corporation (including a government corporation), partnership, association, State, municipality, commission, political subdivision of a State, or interstate body.
+-</P>
+-<P><I>Safety Data Sheet or SDS</I> means the sheet required to be developed under 29 CFR 1910.1200(g). This term means the same as the term “material safety data sheet or MSDS” defined in this section.
+-</P>
+-<P><I>SERC</I> means the State Emergency Response Commission for the State in which the facility is located except when the facility is located in Indian Country, in which case, SERC means the Emergency Response Commission for the Tribe under whose jurisdiction the facility is located. In the absence of a SERC for a State or an Indian Tribe, the Governor or the chief executive officer of the tribe, respectively, shall be the SERC. Where there is a cooperative agreement between a State and a Tribe, the SERC shall be the entity identified in the agreement.
+-</P>
+-<P><I>State</I> means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Northern Mariana Islands, any other territory or possession over which the United States has jurisdiction and Indian Country.
+-</P>
+-<P><I>Threshold planning quantity (TPQ)</I> means, for a substance listed in Appendices A and B of 40 CFR part 355, the quantity listed in the column “threshold planning quantity” for that substance.
+-</P>
+-<CITA TYPE="N">[73 FR 65478, Nov. 3, 2008, as amended at 81 FR 38108, 38109, June 13, 2016; 81 FR 47312, July 21, 2016]
+-
+-
+-</CITA>
+-</DIV8>
+-
+-</DIV6>
+-
+ </DIV5>
+ 
+ 

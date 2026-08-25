@@ -1,0 +1,10 @@
+description: 40v30 remove duplicate 40/370
+tags: structural
+status: pending
+issue_number: 2026-08-21
+fr_doc: 91 FR 37022
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117411331/comments
+patches:
+  '001':
+    first_issue_date: "2026-08-21"
+    last_issue_date: "2026-08-21"
