@@ -391,11 +391,18 @@
  <FP-1>Operating Expense Accounts.
  </FP-1>
  <FP-1>Transportation Operating Revenue Accounts.
-@@ -315026,3 +315103,3 @@
- 
-
+@@ -315023,8 +315100,8 @@
+ <FP-1>Retained Income Accounts.
+ </FP-1>
+ <FP-1>General Balance Sheet Accounts.
+-
+-
 -</FP-1></HED1></CITA>
++
++
 +</FP-1>
+ <DIV width="100%"><DIV class="table_head"><P class="gpotbl_title">Operating Expense Accounts—Conversion Table
+ </P><P class="gpotbl_description">[See footnotes at end of table]
 @@ -317058,13 +317135,13 @@
  
  
