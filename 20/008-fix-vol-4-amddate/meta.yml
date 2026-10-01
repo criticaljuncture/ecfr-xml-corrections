@@ -1,0 +1,11 @@
+description: With no content changes in v4, the amddate was rolled backwards
+tags: structural
+status: needs-review
+issue_number: 2026-09-30
+fr_doc:
+reference:
+
+patches:
+  '001':
+    first_issue_date: '2026-09-30'
+    last_issue_date: '2026-09-30'
