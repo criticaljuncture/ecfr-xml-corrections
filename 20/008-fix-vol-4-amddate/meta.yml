@@ -1,8 +1,7 @@
 description: With no content changes in v4, the amddate was rolled backwards
 tags: structural
 status: needs-review
-issue_number:
-fr_doc:
+issue_number: 00 FR 0000
 reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117477367/comments
 
 patches:
