@@ -1,0 +1,12 @@
+--- data/titles/preprocessed/xml/20/2018/01/2018-01-02_ae078f7e.xml	2026-10-08 10:31:25
++++ tmp/title_version_20_2018-01-02_ae078f7e_preprocessed.xml	2026-10-08 10:32:42
+@@ -137685,8 +137685,7 @@
+ 
+ 
+ <DIV9 N="Appendix A" TYPE="APPENDIX">
+-<HEAD>Appendix A to Part 718
+-sh;Standards for Administration and Interpretation of Chest Radiographs (X-rays)
++<HEAD>Appendix A to Part 718 - Standards for Administration and Interpretation of Chest Radiographs (X-rays)
+ </HEAD>
+ <P>The following standards are established in accordance with sections 402(f)(1)(D) and 413(b) of the Act. They were developed in consultation with the National Institute for Occupational Safety and Health (NIOSH) of the Centers for Disease Control and Prevention in the Department of Health and Human Services. These standards are promulgated for the guidance of physicians and medical technicians to ensure that uniform procedures are used in administering and interpreting X-rays and that the best available medical evidence will be submitted in connection with a claim for black lung benefits. If it is established that one or more standards have not been met, the claims adjudicator may consider such fact in determining the evidentiary weight to be assigned to the physician's report of an X-ray.
+ </P>

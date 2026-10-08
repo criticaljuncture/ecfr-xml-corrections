@@ -1,0 +1,11 @@
+description: The head for Appendix A to Part 718 contained a newline and stray chars
+tags: structural
+status: needs-review
+issue_number: 2018-01-02
+fr_doc: 90 FR 99999
+reference: https://classic.basecamp.com/dhh/inbox/messages/1
+
+patches:
+  '001':
+    first_issue_date: '2018-01-02'
+    last_issue_date: '2018-01-11'
