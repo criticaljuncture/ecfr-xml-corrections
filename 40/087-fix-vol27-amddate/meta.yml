@@ -1,0 +1,11 @@
+description: T40 V27 went backwards to previous year
+tags: amddate
+status: approved
+issue_number: 2026-10-13
+fr_doc: 91 FR 64774
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117498889/comments
+
+patches:
+  '001':
+    first_issue_date: '2026-10-13'
+    last_issue_date: '2026-10-13'
