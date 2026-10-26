@@ -1,5 +1,6 @@
 ---
 name: Bad Amendment Date
+type: Support
 about: Use for reverse or unparsable amendment dates
 title: "[Reverse | Unparsable | Incorrect] Amendment Date for Title XXXX Volume XXXX Year XXX"
 labels: support
