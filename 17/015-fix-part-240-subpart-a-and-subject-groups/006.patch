@@ -1,0 +1,38 @@
+--- tmp/title_version_17_2024-06-03_d0ddc9c4_prepatch.xml
++++ tmp/title_version_17_2024-06-03_d0ddc9c4_patched.xml
+@@ -111091,8 +111091,6 @@
+ </PSPACE></SOURCE>
+ </DIV7>
+ 
+-</DIV6>
+-
+ <EXTRACT>
+ <HD1>ATTENTION ELECTRONIC FILERS 
+ </HD1>
+@@ -121501,8 +121499,6 @@
+ <DIV7 N="94" TYPE="SUBJGRP">
+ <HEAD>Regulation 14E</HEAD>
+ 
+-</DIV7>
+-
+ <NOTE>
+ <HED>Note:</HED>
+ <P>For the scope of and definitions applicable to Regulation 14E, refer to § 240.14d-1.</P></NOTE>
+@@ -121889,6 +121885,8 @@
+ 
+ </CITA>
+ </DIV8>
++</DIV7>
++
+ 
+ 
+ <DIV8 N="§ 240.14f-1" TYPE="SECTION">
+@@ -138285,7 +138283,7 @@
+ </DIV8>
+ 
+ </DIV7>
+-
++</DIV6>
+ 
+ <DIV6 N="B" TYPE="SUBPART">
+ <HEAD>Subpart B—Rules and Regulations Under the Securities Investor Protection Act of 1970 [Reserved]</HEAD>
