@@ -1,6 +1,7 @@
 --- data/titles/preprocessed/xml/40/2025/01/2025-01-01_74b266a2.xml	2025-12-30 07:38:54.659731684 -0500
 +++ tmp/title_version_40_2025-01-01_74b266a2_preprocessed.xml	2025-12-30 07:43:37.851063918 -0500
-@@ -1417530,7 +1417530,6 @@
+@@ -1417342,9 +1417342,8 @@
+ 
  
  
  </PSPACE></SOURCE>
@@ -8,7 +9,8 @@
  
  
  
-@@ -1417793,6 +1417792,7 @@
+ <DIV8 N="§ 98.480" TYPE="SECTION">
+@@ -1417606,6 +1417605,7 @@
  
  </P>
  </DIV8>
@@ -16,7 +18,8 @@
  
  
  <DIV6 N="WW" TYPE="SUBPART">
-@@ -1417803,7 +1417803,6 @@
+@@ -1417615,9 +1417615,8 @@
+ <HED>Source:</HED><PSPACE>89 FR 31948, Apr. 25, 2024, unless otherwise noted.
  
  
  </PSPACE></SOURCE>
@@ -24,7 +27,8 @@
  
  
  
-@@ -1418019,6 +1418018,7 @@
+ <DIV8 N="§ 98.490" TYPE="SECTION">
+@@ -1417832,6 +1417831,7 @@
  
  </P>
  </DIV8>
@@ -32,7 +36,8 @@
  
  
  <DIV6 N="XX" TYPE="SUBPART">
-@@ -1418029,7 +1418029,6 @@
+@@ -1417841,9 +1417841,8 @@
+ <HED>Source:</HED><PSPACE>89 FR 31948, Apr. 25, 2024, unless otherwise noted.
  
  
  </PSPACE></SOURCE>
@@ -40,7 +45,8 @@
  
  
  
-@@ -1418273,6 +1418272,7 @@
+ <DIV8 N="§ 98.500" TYPE="SECTION">
+@@ -1418086,6 +1418085,7 @@
  
  </P>
  </DIV8>
@@ -48,7 +54,8 @@
  
  
  <DIV6 N="YY" TYPE="SUBPART">
-@@ -1418283,7 +1418283,6 @@
+@@ -1418095,9 +1418095,8 @@
+ <HED>Source:</HED><PSPACE>89 FR 31948, Apr. 25, 2024, unless otherwise noted.
  
  
  </PSPACE></SOURCE>
@@ -56,7 +63,8 @@
  
  
  
-@@ -1418510,6 +1418509,15 @@
+ <DIV8 N="§ 98.510" TYPE="SECTION">
+@@ -1418323,6 +1418322,15 @@
  <HEAD>§ 98.518   Definitions.</HEAD>
  <P>All terms used in this subpart have the same meaning given in the Clean Air Act and subpart A of this part.
  </P>
@@ -72,7 +80,7 @@
  <DIV width="100%"><DIV class="gpotbl_div">
  <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="100">
  <CAPTION><P class="title">Table 1 to Subpart YY of Part 98—N<sub>2</sub> O Generation Factors</P></CAPTION>
-@@ -1418538,7 +1418546,8 @@
+@@ -1418351,7 +1418359,8 @@
  </TBODY>
  <TFOOT><TR><TD colspan="2"><sup>a</sup> Generation factors in units of kilograms of N<sub>2</sub> O emitted per metric ton of product produced.</TD></TR></TFOOT></TABLE>
  </DIV></DIV>
@@ -82,7 +90,8 @@
  
  
  <DIV6 N="ZZ" TYPE="SUBPART">
-@@ -1418549,7 +1418558,6 @@
+@@ -1418361,9 +1418370,8 @@
+ <HED>Source:</HED><PSPACE>89 FR 31948, Apr. 25, 2024, unless otherwise noted.
  
  
  </PSPACE></SOURCE>
@@ -90,7 +99,8 @@
  
  
  
-@@ -1418790,6 +1418798,15 @@
+ <DIV8 N="§ 98.520" TYPE="SECTION">
+@@ -1418603,6 +1418611,15 @@
  <HEAD>§ 98.528   Definitions.</HEAD>
  <P>All terms used of this subpart have the same meaning given in the Clean Air Act and subpart A of this part.
  </P>
@@ -106,7 +116,7 @@
  <DIV width="100%"><DIV class="gpotbl_div">
  <TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%" data-point-width="210">
  <CAPTION><P class="title">Table 1 to Subpart ZZ of Part 98—CO<sub>2</sub> Emission Factors for Carbonate-Based Raw Materials</P></CAPTION>
-@@ -1418862,7 +1418879,9 @@
+@@ -1418675,7 +1418692,9 @@
  <TFOOT><TR><TD colspan="3"><sup>a</sup> Emission factors are in units of metric tons of CO<sub>2</sub> emitted per metric ton of carbonate-based material.
  </TD></TR><TR><TD colspan="3"><sup>b</sup> Ankerite emission factors are based on a formula weight range that assumes Fe, Mg, and Mn are present in amounts of at least 1.0 percent.</TD></TR></TFOOT></TABLE>
  </DIV></DIV>
