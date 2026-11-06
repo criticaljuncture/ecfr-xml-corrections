@@ -1,0 +1,11 @@
+description: Title 50 had two incorrect image tags
+tags: structural
+status: approved
+issue_number: 2024-03-27
+fr_doc: 88 FR 77036
+reference: https://criticaljuncture.basecamphq.com/projects/4648449-federal-register-2-0/posts/117540343/comments#446205439
+
+patches:
+  '001':
+    first_issue_date: '2024-03-27'
+    last_issue_date: '2025-03-19'
