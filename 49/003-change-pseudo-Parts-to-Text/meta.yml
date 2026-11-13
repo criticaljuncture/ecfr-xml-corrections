@@ -20,4 +20,7 @@ patches:
     last_issue_date: '2026-05-07'
   '006':
     first_issue_date: '2026-05-08'
+    last_issue_date: '2026-11-10'
+  '007':
+    first_issue_date: '2026-11-11'
     last_issue_date: '2100-01-01'
